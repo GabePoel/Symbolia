@@ -17,3 +17,4 @@ Symbolia can be used with any theme, but [Materia](https://github.com/nana-4/mat
 
 ![Icons in Setzer](images/preview-setzer.png)
 
+![Icons in Setzer](images/preview-inkscape.png)
