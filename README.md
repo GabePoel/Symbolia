@@ -17,4 +17,32 @@ Symbolia can be used with any theme, but [Materia](https://github.com/nana-4/mat
 
 ![Icons in Setzer](images/preview-setzer.png)
 
-![Icons in Setzer](images/preview-inkscape.png)
+![Icons in Inkscape](images/preview-inkscape.png)
+
+![Icons in Gnumeric](images/preview-gnumeric.png)
+
+## Supported Programs
+
+Officially, Symbolia is only guaranteed to be maintained for GNOME and the standard freedesktop icons. However, symbolic UI icons have also been added for the following programs. Note that application icons for many more programs are also included.
+
+- Epiphany
+- Tilix
+- Evince
+- Fractal
+- Inkscape
+- Setzer
+- GNOME Maps
+- Geary
+- Kalzium
+- GNOME Weather
+- Xournal++
+- Icon Library
+- Transmission (partial)
+- Pitivi
+- Gnumeric
+
+There are also several programs that are not yet supported but have support planned.
+
+- GIMP
+
+Eventually, it'd be nice to be able to support Breeze and KDE programs as well.
