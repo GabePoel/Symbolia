@@ -5,10 +5,10 @@ All icons included are in the symbolic style. But, there are both symbolic and n
 
 ## Installation
 
-If you _just_ want to use Symbolia icons, you can run the `scripts/basic-install` and `scripts/basic-uninstall` scripts to install and uninstall respectively.
+If you _just_ want to use Symbolia icons, you can run the `scripts/basic-install` and `scripts/basic-uninstall` scripts to install and uninstall respectively. Or just copy/paste the following line into your terminal.
 
 ```
-cd ~/Downloads && git clone https://github.com/GabePoel/Symbolia.git && cd Symbolia/scripts && sh ./install
+cd ~/Downloads && git clone https://github.com/GabePoel/Symbolia.git && cd Symbolia/scripts && sh ./basic-install
 ```
 
 Then just delete the Symbolia folder.
