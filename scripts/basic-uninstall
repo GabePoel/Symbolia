@@ -1,0 +1,8 @@
+#!/bin/bash
+#Run this to remove stuff installed by basic-install.
+sudo rm /usr/share/icons/symbolia -r
+sudo rm /usr/share/icons/symbolia-scalable -r
+sudo rm /usr/share/icons/symbolia-symbolic -r
+sudo rm /usr/share/icons/symbolia-dark -r
+sudo rm /usr/share/icons/symbolia-scalable-dark -r
+sudo rm /usr/share/icons/symbolia-symbolic-dark -r

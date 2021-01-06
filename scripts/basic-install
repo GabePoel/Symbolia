@@ -1,0 +1,16 @@
+#!/bin/bash
+#Only run this if you don't want to combine with some other icon theme.
+sudo cp ../symbolia /usr/share/icons/ -r
+sudo mkdir /usr/share/icons/symbolia-scalable
+sudo ln -s /usr/share/icons/symbolia/scalable /usr/share/icons/symbolia-scalable/scalable
+sudo ln -s /usr/share/icons/symbolia/index-scalable.theme /usr/share/icons/symbolia-scalable/index.theme
+sudo mkdir /usr/share/icons/symbolia-symbolic
+sudo ln -s /usr/share/icons/symbolia/symbolic /usr/share/icons/symbolia-symbolic/symbolic
+sudo ln -s /usr/share/icons/symbolia/index-symbolic.theme /usr/share/icons/symbolia-symbolic/index.theme
+sudo cp ../symbolia-dark /usr/share/icons/ -r
+sudo mkdir /usr/share/icons/symbolia-scalable-dark
+sudo ln -s /usr/share/icons/symbolia-dark/scalable /usr/share/icons/symbolia-scalable-dark/scalable
+sudo ln -s /usr/share/icons/symbolia-dark/index-scalable.theme /usr/share/icons/symbolia-scalable-dark/index.theme
+sudo mkdir /usr/share/icons/symbolia-symbolic-dark
+sudo ln -s /usr/share/icons/symbolia-dark/symbolic /usr/share/icons/symbolia-symbolic-dark/scalable
+sudo ln -s /usr/share/icons/symbolia-dark/index-symbolic.theme /usr/share/icons/symbolia-symbolic-dark/index.theme

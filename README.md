@@ -1,7 +1,17 @@
 # Symbolia
 Symbolia is a set of clean, consistent, and non-distracting symbolic icons for GNOME and other desktop environments. It is modeled after Google's Material Design and includes original icons as well as [ones provided by Google itself](https://material.io/resources/icons/?style=baseline) and [ones made by the community](https://materialdesignicons.com/). Symbolia supports all the standard icons defined in the [freedesktop naming specifications](https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html) as well as numerous other apps.
 
-This includes _only_ symbolic icons. It is best used on top of or in conjunction with another non-symbolic icon theme for maximum aesthetic.
+All icons included are in the symbolic style. But, there are both symbolic and non-symbolic versions of the icons included. That being said, it is best used on top of or in conjunction with another non-symbolic icon theme for maximum aesthetic.
+
+## Installation
+
+If you _just_ want to use Symbolia icons, you can run the `scripts/basic-install` and `scripts/basic-uninstall` scripts to install and uninstall respectively.
+
+```
+cd ~/Downloads && git clone https://github.com/GabePoel/Symbolia.git && cd Symbolia/scripts && sh ./install
+```
+
+Then just delete the Symbolia folder.
 
 ## Symbolia in Action
 
@@ -12,6 +22,8 @@ Symbolia can be used with any theme, but [Materia](https://github.com/nana-4/mat
 ![Icons in Settings](images/preview-settings.png)
 
 ![Icons in Maps](images/preview-maps.png)
+
+![Icons in Maps](images/preview-okular.png)
 
 ![Icons in Weather](images/preview-weather.png)
 
@@ -40,6 +52,7 @@ Officially, Symbolia is only guaranteed to be maintained for GNOME and the stand
 - Transmission (partial)
 - Pitivi
 - Gnumeric
+- Okular
 
 There are also several programs that are not yet supported but have support planned.
 

@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Generating symbolic and scalable themes."
+./icon-propogate
+echo "Creating dark themes."
+./create-dark-theme
+echo "Done."

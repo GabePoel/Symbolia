@@ -1,0 +1,22 @@
+#!/bin/bash
+SCRIPTS=$PWD
+rm ../symbolia-dark/scalable -r
+rm ../symbolia-dark/symbolic -r
+cp ../symbolia/scalable ../symbolia-dark/scalable -r
+cp ../symbolia/symbolic ../symbolia-dark/symbolic -r
+cd ../symbolia-dark/scalable/actions && $SCRIPTS/recolor
+cd ../apps && $SCRIPTS/recolor
+cd ../categories && $SCRIPTS/recolor
+cd ../devices && $SCRIPTS/recolor
+cd ../emblems && $SCRIPTS/recolor
+cd ../mimetypes && $SCRIPTS/recolor
+cd ../places && $SCRIPTS/recolor
+cd ../status && $SCRIPTS/recolor
+cd ../../symbolic/actions && $SCRIPTS/recolor
+cd ../apps && $SCRIPTS/recolor
+cd ../categories && $SCRIPTS/recolor
+cd ../devices && $SCRIPTS/recolor
+cd ../emblems && $SCRIPTS/recolor
+cd ../mimetypes && $SCRIPTS/recolor
+cd ../places && $SCRIPTS/recolor
+cd ../status && $SCRIPTS/recolor

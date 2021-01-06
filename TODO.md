@@ -2,7 +2,7 @@
 
 ## Maintenance
 
-- [ ] Check all Google icons to make sure there's no invisible boxes on them
+- [x] Check all Google icons to make sure there's no invisible boxes on them
 
 ## Icons to Set Up
 
@@ -464,3 +464,7 @@
 - [ ] zoom-out-symbolic.svg
 - [ ] zoom-previous-symbolic.svg
 - [ ] zoom-symbolic.svg
+
+### Breeze
+
+- [ ] Almost all of them
