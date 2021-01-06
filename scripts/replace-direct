@@ -1,0 +1,17 @@
+#!/bin/bash
+find ../symbolia/scalable/actions -type l -exec ./replace-links {} +
+find ../symbolia/scalable/apps -type l -exec ./replace-links {} +
+find ../symbolia/scalable/categories -type l -exec ./replace-links {} +
+find ../symbolia/scalable/devices -type l -exec ./replace-links {} +
+find ../symbolia/scalable/emblems -type l -exec ./replace-links {} +
+find ../symbolia/scalable/mimetypes -type l -exec ./replace-links {} +
+find ../symbolia/scalable/places -type l -exec ./replace-links {} +
+find ../symbolia/scalable/status -type l -exec ./replace-links {} +
+find ../symbolia/symbolic/actions -type l -exec ./replace-links {} +
+find ../symbolia/symbolic/apps -type l -exec ./replace-links {} +
+find ../symbolia/symbolic/categories -type l -exec ./replace-links {} +
+find ../symbolia/symbolic/devices -type l -exec ./replace-links {} +
+find ../symbolia/symbolic/emblems -type l -exec ./replace-links {} +
+find ../symbolia/symbolic/mimetypes -type l -exec ./replace-links {} +
+find ../symbolia/symbolic/places -type l -exec ./replace-links {} +
+find ../symbolia/symbolic/status -type l -exec ./replace-links {} +
