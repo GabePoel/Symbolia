@@ -1,0 +1,27 @@
+[Icon Theme]
+Name=Symbolia Color
+Comment=Symbolic material icons.
+Inherits=hicolor
+Example=folder
+
+# Directory list
+
+scalable/emblems,scalable/emblems@2x
+
+
+# Emblems
+
+[scalable/emblems]
+Context=Emblems
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+[scalable/emblems]
+Context=Emblems
+Scale=2
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
