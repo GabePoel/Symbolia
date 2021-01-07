@@ -3,4 +3,6 @@ echo "Generating symbolic and scalable themes."
 ./icon-propogate
 echo "Creating dark themes."
 ./create-dark-theme
+echo "Creating neutral themes."
+./create-neutral-theme
 echo "Done."

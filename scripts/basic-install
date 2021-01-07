@@ -14,3 +14,10 @@ sudo ln -s /usr/share/icons/symbolia-dark/index-scalable.theme /usr/share/icons/
 sudo mkdir /usr/share/icons/symbolia-symbolic-dark
 sudo ln -s /usr/share/icons/symbolia-dark/symbolic /usr/share/icons/symbolia-symbolic-dark/scalable
 sudo ln -s /usr/share/icons/symbolia-dark/index-symbolic.theme /usr/share/icons/symbolia-symbolic-dark/index.theme
+sudo cp ../symbolia-neutral /usr/share/icons/ -r
+sudo mkdir /usr/share/icons/symbolia-scalable-neutral
+sudo ln -s /usr/share/icons/symbolia-neutral/scalable /usr/share/icons/symbolia-scalable-neutral/scalable
+sudo ln -s /usr/share/icons/symbolia-neutral/index-scalable.theme /usr/share/icons/symbolia-scalable-neutral/index.theme
+sudo mkdir /usr/share/icons/symbolia-symbolic-neutral
+sudo ln -s /usr/share/icons/symbolia-neutral/symbolic /usr/share/icons/symbolia-symbolic-neutral/scalable
+sudo ln -s /usr/share/icons/symbolia-neutral/index-symbolic.theme /usr/share/icons/symbolia-symbolic-neutral/index.theme

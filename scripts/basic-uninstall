@@ -6,3 +6,6 @@ sudo rm /usr/share/icons/symbolia-symbolic -r
 sudo rm /usr/share/icons/symbolia-dark -r
 sudo rm /usr/share/icons/symbolia-scalable-dark -r
 sudo rm /usr/share/icons/symbolia-symbolic-dark -r
+sudo rm /usr/share/icons/symbolia-neutral -r
+sudo rm /usr/share/icons/symbolia-scalable-neutral -r
+sudo rm /usr/share/icons/symbolia-symbolic-neutral -r

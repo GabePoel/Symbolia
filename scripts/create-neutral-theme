@@ -1,0 +1,22 @@
+#!/bin/bash
+SCRIPTS=$PWD
+rm ../symbolia-neutral/scalable -r
+rm ../symbolia-neutral/symbolic -r
+cp ../symbolia/scalable ../symbolia-neutral/scalable -r
+cp ../symbolia/symbolic ../symbolia-neutral/symbolic -r
+cd ../symbolia-neutral/scalable/actions && $SCRIPTS/recolor-neutral
+cd ../apps && $SCRIPTS/recolor-neutral
+cd ../categories && $SCRIPTS/recolor-neutral
+cd ../devices && $SCRIPTS/recolor-neutral
+cd ../emblems && $SCRIPTS/recolor-neutral
+cd ../mimetypes && $SCRIPTS/recolor-neutral
+cd ../places && $SCRIPTS/recolor-neutral
+cd ../status && $SCRIPTS/recolor-neutral
+cd ../../symbolic/actions && $SCRIPTS/recolor-neutral
+cd ../apps && $SCRIPTS/recolor-neutral
+cd ../categories && $SCRIPTS/recolor-neutral
+cd ../devices && $SCRIPTS/recolor-neutral
+cd ../emblems && $SCRIPTS/recolor-neutral
+cd ../mimetypes && $SCRIPTS/recolor-neutral
+cd ../places && $SCRIPTS/recolor-neutral
+cd ../status && $SCRIPTS/recolor-neutral
