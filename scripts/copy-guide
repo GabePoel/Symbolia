@@ -528,3 +528,18 @@ apps
         android-studio-symbolic
         android-symbolic
         androidstudio-symbolic
+actions
+    archive
+        add-files-to-archive
+    arrow-expand-vertical
+        ca.desrt.dconf-editor.big-rows
+    arrow-collapse-vertical
+        ca.desrt.dconf-editor.small-rows
+    text-box-search-outline
+        category-search
+    unarchive
+        extract-archive
+    extension
+        libpeas-plugin
+    subdirectory_arrow_left
+        location
