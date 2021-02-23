@@ -1,0 +1,55 @@
+#!/usr/bin/python3
+
+import os
+from os import path
+from shutil import copy
+
+home = path.expanduser('~')
+
+diff_dir = path.join(home, '.local', 'share', 'icons', 'Difference-icons')
+symb_dir = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'symbolia', 'scalable')
+apps_dir = path.join(diff_dir, 'scalable', 'apps')
+mime_dir = path.join(diff_dir, 'scalable', 'mimetypes')
+plac_dir = path.join(diff_dir, '256x256', 'places')
+
+apps_ref = path.join(symb_dir, 'apps', 'app.svg')
+mime_ref = path.join(symb_dir, 'mimetypes', 'text-plain.svg')
+plac_ref = path.join(symb_dir, 'places', 'folder.svg')
+
+dif_apps = os.listdir(apps_dir)
+dif_apps = [s[:-4] for s in dif_apps if '.svg' in s or '.png' in s]
+dif_mime = os.listdir(mime_dir)
+dif_mime = [s[:-4] for s in dif_mime if '.svg' in s or '.png' in s]
+dif_plac = os.listdir(plac_dir)
+dif_plac = [s[:-4] for s in dif_plac if '.svg' in s or '.png' in s]
+
+sym_apps = os.listdir(path.join(symb_dir, 'apps'))
+sym_apps = [s[:-4] for s in sym_apps if '.svg' in s or '.png' in s]
+sym_mime = os.listdir(path.join(symb_dir, 'mimetypes'))
+sym_mime = [s[:-4] for s in sym_mime if '.svg' in s or '.png' in s]
+sym_plac = os.listdir(path.join(symb_dir, 'places'))
+sym_plac = [s[:-4] for s in sym_plac if '.svg' in s or '.png' in s]
+
+new_apps = []
+new_mime = []
+new_plac = []
+
+for a in dif_apps:
+    if not a in sym_apps:
+        new_apps.append(a)
+for m in dif_mime:
+    if not m in sym_mime:
+        new_mime.append(m)
+for p in dif_plac:
+    if not p in sym_plac:
+        new_plac.append(p)
+
+for a in new_apps:
+    fp = path.join(symb_dir, 'apps', a + '.svg')
+    copy(apps_ref, fp)
+for m in new_mime:
+    fp = path.join(symb_dir, 'mimetypes', m + '.svg')
+    copy(mime_ref, fp)
+for p in new_plac:
+    fp = path.join(symb_dir, 'places', p + '.svg')
+    copy(plac_ref, fp)
