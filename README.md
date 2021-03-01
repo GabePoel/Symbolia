@@ -1,4 +1,5 @@
-# Symbolia
+Symbolia
+
 Symbolia is a set of clean, consistent, and non-distracting symbolic icons for GNOME and other desktop environments. It is modeled after Google's Material Design and includes original icons as well as [ones provided by Google itself](https://material.io/resources/icons/?style=baseline) and [ones made by the community](https://materialdesignicons.com/). Symbolia supports all the standard icons defined in the [freedesktop naming specifications](https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html) as well as numerous other apps.
 
 All icons included are in the symbolic style. But, there are both symbolic and non-symbolic versions of the icons included. That being said, it is best used on top of or in conjunction with another non-symbolic icon theme for maximum aesthetic.
@@ -37,6 +38,7 @@ Symbolia can be used with any theme, but [Materia](https://github.com/nana-4/mat
 
 Officially, Symbolia is only guaranteed to be maintained for GNOME and the standard freedesktop icons. However, symbolic UI icons have also been added for the following programs. Note that application icons for many more programs are also included.
 
+- All common/standard GNOME programs
 - Epiphany
 - Tilix
 - Evince
@@ -53,9 +55,22 @@ Officially, Symbolia is only guaranteed to be maintained for GNOME and the stand
 - Pitivi
 - Gnumeric
 - Okular
+- Alacarte
+- Nemo
 
-There are also several programs that are not yet supported but have support planned.
+Many other programs also have symbolic application icons but no custom UI. There's also an extensive library of supported mimetypes. Eventually, it'd be nice to be able to support Breeze and KDE programs as well.
 
-- GIMP
+## Supported Extensions
 
-Eventually, it'd be nice to be able to support Breeze and KDE programs as well.
+Extensions generally have their icons hard coded. However, support for many extensions is still included along with a script to automatically theme them accordingly.
+
+- Caffeine
+- Draw On Screen
+- Extensions Sync
+- Freon
+- GSConnect
+- Night Theme Switcher
+- Time++
+- Pop! Shell
+
+Note that most extensions don't have any custom icons at all. So, no tweaking is needed.
