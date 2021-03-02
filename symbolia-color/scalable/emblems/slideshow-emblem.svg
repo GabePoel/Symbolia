@@ -41,12 +41,20 @@
      id="namedview5"
      showgrid="false"
      inkscape:zoom="39.833333"
-     inkscape:cx="12.050209"
+     inkscape:cx="5.6987445"
      inkscape:cy="12"
-     inkscape:window-x="8"
+     inkscape:window-x="1924"
      inkscape:window-y="8"
      inkscape:window-maximized="0"
-     inkscape:current-layer="mdi-clock" />
+     inkscape:current-layer="mdi-clock"
+     inkscape:document-rotation="0" />
+  <ellipse
+     style="fill:#ffffff;stroke:none;stroke-width:1.00157;stroke-linecap:round;fill-opacity:1"
+     id="path830"
+     cx="12.623046"
+     cy="12.316402"
+     rx="6.368721"
+     ry="6.9838519" />
   <path
      d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M16.2,16.2L11,13V7H12.5V12.2L17,14.9L16.2,16.2Z"
      id="path2"
