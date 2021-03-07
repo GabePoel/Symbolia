@@ -1,0 +1,27 @@
+#!/usr/bin/python3
+
+import os
+from os import path
+from shutil import copy
+
+here = os.getcwd()
+symbolia = path.join(path.dirname(here), 'symbolia', 'scalable')
+apps = path.join(symbolia, 'apps')
+actions = path.join(symbolia, 'actions')
+categories = path.join(symbolia, 'categories')
+devices = path.join(symbolia, 'devices')
+mimetypes = path.join(symbolia, 'mimetypes')
+emblems = path.join(symbolia, 'emblems')
+places = path.join(symbolia, 'places')
+status = path.join(symbolia, 'status')
+
+not_apps = [actions, categories, devices, mimetypes, emblems, places, status]
+app_icons = os.listdir(apps)
+for src in not_apps:
+    other_icons = os.listdir(src)
+    for i in other_icons:
+        if i in app_icons:
+            src_path = path.join(src, i)
+            dst_path = path.join(apps, i)
+            print(i + ' ~ ' + path.basename(src))
+            copy(src_path, dst_path)

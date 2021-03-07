@@ -6,10 +6,10 @@ from shutil import copy
 
 home = path.expanduser('~')
 
-diff_dir = path.join(home, '.local', 'share', 'icons', 'Difference-icons')
+diff_dir = path.join(home, '.local', 'share', 'icons', 'Difference-neutral')
 symb_dir = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'symbolia', 'scalable')
-apps_dir = path.join(diff_dir, 'scalable', 'apps')
-mime_dir = path.join(diff_dir, 'scalable', 'mimetypes')
+apps_dir = path.join(diff_dir, '256x256', 'apps')
+mime_dir = path.join(diff_dir, '256x256', 'mimetypes')
 plac_dir = path.join(diff_dir, '256x256', 'places')
 
 apps_ref = path.join(symb_dir, 'apps', 'app.svg')
@@ -46,10 +46,13 @@ for p in dif_plac:
 
 for a in new_apps:
     fp = path.join(symb_dir, 'apps', a + '.svg')
+    print(a)
     copy(apps_ref, fp)
 for m in new_mime:
     fp = path.join(symb_dir, 'mimetypes', m + '.svg')
+    print(m)
     copy(mime_ref, fp)
 for p in new_plac:
     fp = path.join(symb_dir, 'places', p + '.svg')
+    print(p)
     copy(plac_ref, fp)
