@@ -1,0 +1,27 @@
+#!/usr/bin/python3
+
+import os
+import shutil
+from os import path
+
+home = path.expanduser('~')
+breeze_src = path.join('/usr', 'share', 'icons', 'breeze', 'actions')
+breeze_dst = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'breeze actions')
+a16 = path.join(breeze_src, '16')
+a12 = path.join(breeze_src, '12')
+a22 = path.join(breeze_src, '22')
+a32 = path.join(breeze_src, '32')
+action_srcs = [a16, a12, a22, a32]
+if not path.exists(breeze_dst):
+    os.mkdir(breeze_dst)
+for src in action_srcs:
+    for n in os.listdir(src):
+        try:
+            fp = path.join(src, n)
+            if not path.islink(fp):
+                shutil.copy(fp, path.join(breeze_dst, n))
+            else:
+                org = path.basename(os.readlink(fp))
+                os.symlink(src=n, dst=path.join(breeze_dst, org))
+        except:
+            pass
