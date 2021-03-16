@@ -1,0 +1,3 @@
+#!/bin/bash
+./basic-uninstall
+./basic-install
