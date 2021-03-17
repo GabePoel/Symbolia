@@ -24,10 +24,10 @@
 {
 	list-style-image: url(refresh.svg) !important;
 }
-:-moz-any(#reload-button, #stop-button):not([displaystop]) > .toolbarbutton-animatable-box > .toolbarbutton-animatable-image {
+/* :-moz-any(#reload-button, #stop-button):not([displaystop]) > .toolbarbutton-animatable-box > .toolbarbutton-animatable-image {
 	animation-timing-function: steps(0) !important;
 	animation-duration: 0ms !important;
-}
+} */
 
 #stop-button
 {
