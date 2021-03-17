@@ -1,0 +1,4 @@
+#!/bin/bash
+# Quick and dirty command to install firefox theme.
+# Manual installation is recommended.
+cp ../firefox/* ~/.mozilla/*default-release/
