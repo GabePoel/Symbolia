@@ -1,4 +1,4 @@
-Symbolia
+# Symbolia
 
 Symbolia is a set of clean, consistent, and non-distracting symbolic icons for GNOME and other desktop environments. It is modeled after Google's Material Design and includes original icons as well as [ones provided by Google itself](https://material.io/resources/icons/?style=baseline) and [ones made by the community](https://materialdesignicons.com/). Symbolia supports all the standard icons defined in the [freedesktop naming specifications](https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html) as well as numerous other apps.
 
@@ -8,15 +8,25 @@ All icons included are in the symbolic style. But, there are both symbolic and n
 
 If you _just_ want to use Symbolia icons, you can run the `scripts/basic-install` and `scripts/basic-uninstall` scripts to install and uninstall respectively. Or just copy/paste the following line into your terminal.
 
-```
+```shell
 cd ~/Downloads && git clone https://github.com/GabePoel/Symbolia.git && cd Symbolia/scripts && sh ./basic-install
 ```
 
 Then just delete the Symbolia folder.
 
+### Firefox Installation
+
+Firefox requires custom CSS to overwrite the default icons. Luckily, that's provided. There's a basic installation script for Firefox as well. But, manual installation is recommended.
+
+```shell
+cd ~/Downloads && git clone https://github.com/GabePoel/Symbolia.git && cd Symbolia/scripts && sh ./firefox-install
+```
+
 ## Symbolia in Action
 
 Symbolia can be used with any theme, but [Materia](https://github.com/nana-4/materia-theme) is recommended. The non-symbolic icons in the following screenshots are from [Yaru](https://github.com/ubuntu/yaru).
+
+![Icons in Firefox](images/preview-firefox.png)
 
 ![Icons in Nautilus](images/preview-nautilus.png)
 
@@ -64,11 +74,8 @@ Officially, Symbolia is only guaranteed to be maintained for GNOME and the stand
 - PDF Slicer
 - PDF Arranger
 - Komikku
-<<<<<<< Updated upstream
 - Meteo
-=======
 - Firefox
->>>>>>> Stashed changes
 - _and others_
 
 Many other programs also have symbolic application icons but no custom UI. There's also an extensive library of supported mimetypes. Eventually, it'd be nice to be able to support Breeze and KDE programs as well.
