@@ -320,28 +320,29 @@ richlistitem[originaltype="loginsFooter"] .ac-site-icon,
     list-style-image: url(globe.svg) !important;
 }
 
-.tab-icon-image:-moz-any([src="chrome://global/skin/icons/settings.svg"], [src="chrome://branding/content/icon32.png"], [src="chrome://browser/skin/privatebrowsing/favicon.svg"])
+/* .tab-icon-image:-moz-any([src="chrome://global/skin/icons/settings.svg"], [src="chrome://branding/content/icon32.png"], [src="chrome://browser/skin/privatebrowsing/favicon.svg"])
 {
 	display: none !important;
-}
-
+} */
+/* 
 .tab-icon-image[src="chrome://global/skin/icons/settings.svg"] ~ .tab-icon-overlay
 {
 	display: -moz-box !important;
 	margin: 0 !important;
+	padding: 5 i !important;
 	list-style-image: url(settings.svg) !important;
 	-moz-context-properties: fill, fill-opacity !important;
 	fill: currentColor !important;
-}
+} */
 
-.tab-icon-image:-moz-any([src="chrome://branding/content/icon32.png"], [src="chrome://browser/skin/privatebrowsing/favicon.svg"]):not([busy]) ~ .tab-icon-overlay
+/* .tab-icon-image:-moz-any([src="chrome://branding/content/icon32.png"], [src="chrome://browser/skin/privatebrowsing/favicon.svg"]):not([busy]) ~ .tab-icon-overlay
 {
 	display: -moz-box !important;
 	margin: 0 !important;
 	list-style-image: url(new-tab-image.svg) !important;
 	-moz-context-properties: fill, fill-opacity !important;
 	fill: currentColor !important;
-}
+} */
 .tab-icon-pending[pinned], .tab-icon-image:not([src], [pinned], [crashed], [pictureinpicture])[selected], .tab-icon-image:not([src], [pinned], [crashed], [sharing], [pictureinpicture]), .tab-icon-image[busy], .tab-throbber:not([busy]), .tab-icon-sound:not([soundplaying], [muted], [activemedia-blocked], [pictureinpicture]), .tab-icon-sound[pinned], .tab-sharing-icon-overlay, .tab-icon-overlay
 
 .tab-icon-overlay[soundplaying],
