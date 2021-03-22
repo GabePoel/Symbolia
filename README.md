@@ -61,7 +61,7 @@ Officially, Symbolia is only guaranteed to be maintained for GNOME and the stand
 - GNOME Weather
 - Xournal++
 - Icon Library
-- Transmission (partial)
+- Transmission
 - Pitivi
 - Gnumeric
 - Okular
@@ -76,6 +76,8 @@ Officially, Symbolia is only guaranteed to be maintained for GNOME and the stand
 - Komikku
 - Meteo
 - Firefox
+- Teleport
+- Fragments
 - _and others_
 
 Many other programs also have symbolic application icons but no custom UI. There's also an extensive library of supported mimetypes. Eventually, it'd be nice to be able to support Breeze and KDE programs as well.
