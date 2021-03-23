@@ -43,3 +43,7 @@ Symbolia can be used with any theme, but [Materia](https://github.com/nana-4/mat
 ![Icons in Inkscape](images/preview-inkscape.png)
 
 ![Icons in Gnumeric](images/preview-gnumeric.png)
+
+## Supported Applications
+
+For a list of supported applications please see [this page on the wiki](https://github.com/GabePoel/Symbolia/wiki/Supported-Application-UI).
