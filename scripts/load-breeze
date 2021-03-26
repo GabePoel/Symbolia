@@ -117,16 +117,17 @@ for src in action_srcs:
     for n in os.listdir(src):
         if not n in already_made:
             check = False
-            if n in already_made2 and not path.islink(path.join(symbol_src2, n)):
-                img = open(path.join(symbol_src2, n), 'r')
-                content = img.read()
-                check = ('width="24"' in content)
+            # if n in already_made2 and not path.islink(path.join(symbol_src2, n)):
+            #     img = open(path.join(symbol_src2, n), 'r')
+            #     content = img.read()
+            #     check = ('width="24"' in content)
             if check:
                 shutil.copy(path.join(symbol_src2, n), path.join(symbol_dst, n))
             else:
                 try:
                     fp = path.join(src, n)
                     if not path.islink(fp):
+                        # print(path.join(breeze_dst, n))
                         shutil.copy(fp, path.join(breeze_dst, n))
                     else:
                         pass
@@ -135,10 +136,10 @@ for src in action_srcs:
                 except:
                     pass
 
-paths = find_files(breeze_dst, '*.svg')
-for fp in paths:
-    sp = match_icon(fp)
-    np = path.join(symbol_gen, path.basename(fp))
-    print(path.basename(sp) + ' -> ' + path.basename(np))
-    copy(sp, np)
-    copy(fp, np[:-4] + '-COMP-.svg')
+# paths = find_files(breeze_dst, '*.svg')
+# for fp in paths:
+#     sp = match_icon(fp)
+#     np = path.join(symbol_gen, path.basename(fp))
+#     print(path.basename(sp) + ' -> ' + path.basename(np))
+#     copy(sp, np)
+#     copy(fp, np[:-4] + '-COMP-.svg')
