@@ -1,27 +1,144 @@
 #!/usr/bin/python3
 
-import os
 import shutil
 from os import path
+from Levenshtein import distance
+from shutil import copy
+import fnmatch
+import os
+
+def find_files(directory, pattern):
+    for root, dirs, files in os.walk(directory):
+        for basename in files:
+            if fnmatch.fnmatch(basename, pattern):
+                filename = os.path.join(root, basename)
+                yield filename
+
+home = path.expanduser('~')
+here = os.getcwd()
+scalable = path.join(path.dirname(here), 'symbolia', 'scalable')
+actions = path.join(scalable, 'actions')
+apps = path.join(scalable, 'apps')
+categories = path.join(scalable, 'categories')
+devices = path.join(scalable, 'devices')
+emblems = path.join(scalable, 'emblems')
+mimetypes = path.join(scalable, 'mimetypes')
+places = path.join(scalable, 'places')
+status = path.join(scalable, 'status')
+
+action_icons = os.listdir(actions)
+app_icons = os.listdir(apps)
+category_icons = os.listdir(categories)
+device_icons = os.listdir(devices)
+emblem_icons = os.listdir(emblems)
+mimetype_icons = os.listdir(mimetypes)
+place_icons = os.listdir(places)
+status_icons = os.listdir(status)
+
+all_icons = action_icons + app_icons + category_icons + device_icons + emblem_icons + mimetype_icons + place_icons + status_icons
+all_icons = [s[:-4] for s in all_icons]
+
+def match_icon(fp):
+    parent = path.dirname(fp)
+    basename = path.basename(fp)
+    symbolic = '-symbolic.svg' in basename
+    if 'action' in parent:
+        src = actions
+    elif 'app' in parent:
+        src = apps
+    elif 'categor' in parent:
+        src = categories
+    elif 'device' in parent:
+        src = devices
+    elif 'emblem' in parent:
+        src = emblems
+    elif 'mime' in parent:
+        src = mimetypes
+    elif 'place' in parent:
+        src = places
+    elif 'status' in parent:
+        src = status
+    elif 'panel' in parent:
+        src = status
+    elif 'bar' in parent:
+        src = status
+    elif 'tray' in parent:
+        src = status
+    else:
+        src = 'any'
+    if not src == 'any':
+        available = os.listdir(src)
+        if symbolic:
+            available = [s[:-4] + '-symbolic.svg' for s in available]
+        if basename in available:
+            if symbolic:
+                basename = basename[:-13] + '.svg'
+            src_path = path.join(src, basename)
+            return src_path
+    if symbolic:
+        corename = basename[:-13]
+    else:
+        corename = basename[:-4]
+    process_list = corename.replace('_', '-').split('-')
+    if len(process_list) > 2:
+        process_list = process_list[1:]
+    process = process_list[-1]
+    # process = ''
+    # for p in process_list:
+    #     process += p
+    #     process += '-'
+    # process = process[:-1]
+    # print(process)
+    all_icons.sort(key=lambda s: distance(s.replace('_', '-').split('-')[-1], process))
+    best_icon = all_icons[0]
+    src_paths = []
+    srcs = find_files(scalable, best_icon + '.svg')
+    for s in srcs:
+        src_paths.append(s)
+    return src_paths[0]
 
 home = path.expanduser('~')
 breeze_src = path.join('/usr', 'share', 'icons', 'breeze', 'actions')
-breeze_dst = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'breeze actions')
+breeze_dst = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze redux', 'breeze-actions')
+symbol_dst = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze redux', 'breeze-made')
+symbol_gen = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze redux', 'breeze-auto')
+symbol_src = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'symbolia', 'scalable', 'actions')
+symbol_src2 = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze', 'actions-old')
 a16 = path.join(breeze_src, '16')
 a12 = path.join(breeze_src, '12')
 a22 = path.join(breeze_src, '22')
 a32 = path.join(breeze_src, '32')
 action_srcs = [a16, a12, a22, a32]
+already_made = os.listdir(symbol_src)
+already_made2 = os.listdir(symbol_src2)
 if not path.exists(breeze_dst):
     os.mkdir(breeze_dst)
 for src in action_srcs:
     for n in os.listdir(src):
-        try:
-            fp = path.join(src, n)
-            if not path.islink(fp):
-                shutil.copy(fp, path.join(breeze_dst, n))
+        if not n in already_made:
+            check = False
+            if n in already_made2 and not path.islink(path.join(symbol_src2, n)):
+                img = open(path.join(symbol_src2, n), 'r')
+                content = img.read()
+                check = ('width="24"' in content)
+            if check:
+                shutil.copy(path.join(symbol_src2, n), path.join(symbol_dst, n))
             else:
-                org = path.basename(os.readlink(fp))
-                os.symlink(src=n, dst=path.join(breeze_dst, org))
-        except:
-            pass
+                try:
+                    fp = path.join(src, n)
+                    if not path.islink(fp):
+                        shutil.copy(fp, path.join(breeze_dst, n))
+                    else:
+                        pass
+                        # org = path.basename(os.readlink(fp))
+                        # os.symlink(src=n, dst=path.join(breeze_dst, org))
+                except:
+                    pass
+
+paths = find_files(breeze_dst, '*.svg')
+for fp in paths:
+    sp = match_icon(fp)
+    np = path.join(symbol_gen, path.basename(fp))
+    print(path.basename(sp) + ' -> ' + path.basename(np))
+    copy(sp, np)
+    copy(fp, np[:-4] + '-COMP-.svg')
