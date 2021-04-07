@@ -104,6 +104,9 @@ symbol_dst = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progres
 symbol_gen = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze redux', 'breeze-auto')
 symbol_src = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'symbolia', 'scalable', 'actions')
 symbol_src2 = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze', 'actions-old')
+os.makedirs(symbol_src, exist_ok=True)
+os.makedirs(symbol_src2, exist_ok=True)
+os.makedirs(breeze_dst, exist_ok=True)
 a16 = path.join(breeze_src, '16')
 a12 = path.join(breeze_src, '12')
 a22 = path.join(breeze_src, '22')
@@ -111,8 +114,6 @@ a32 = path.join(breeze_src, '32')
 action_srcs = [a16, a12, a22, a32]
 already_made = os.listdir(symbol_src)
 already_made2 = os.listdir(symbol_src2)
-if not path.exists(breeze_dst):
-    os.mkdir(breeze_dst)
 for src in action_srcs:
     for n in os.listdir(src):
         if not n in already_made:
