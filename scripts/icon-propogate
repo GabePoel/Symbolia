@@ -3,14 +3,17 @@
 from os import path, system, getcwd, listdir, rename
 from shutil import copy
 
+
 def up(fp):
     return path.abspath(path.join(fp, '..'))
+
 
 def path_list(parent_dirs):
     all_paths = []
     for d in parent_dirs:
         all_paths += [path.join(d, f) for f in listdir(d)]
     return all_paths
+
 
 def extract_name(basename):
     if basename[-len('-symbolic.svg'):] == '-symbolic.svg':
@@ -19,8 +22,10 @@ def extract_name(basename):
         name = basename[:-len('.svg')]
     return name
 
+
 def fix_links(parent_dir):
     system('find ' + str(parent_dir) + ' -type l -exec ./replace-links {} +')
+
 
 def find_missing(symbolics, scalables):
     dirs_1 = []
@@ -42,7 +47,7 @@ def find_missing(symbolics, scalables):
                 if not path.islink(fp_1):
                     new_fp = path.join(symb_dir, dir_1, svg_1)
                     rename(fp_1, new_fp)
-        except:
+        except BaseException:
             pass
         dirs_1.append(dir_1)
         svgs_1.append(svgs_1)
@@ -57,7 +62,7 @@ def find_missing(symbolics, scalables):
                 if not path.islink(fp_2):
                     new_fp = path.join(scal_dir, dir_2, svg_2)
                     rename(fp_2, new_fp)
-        except:
+        except BaseException:
             pass
         dirs_2.append(dir_2)
         svgs_2.append(svgs_2)
@@ -74,15 +79,17 @@ def find_missing(symbolics, scalables):
         combos_2.append(str(d2) + '/' + str(n2))
     for c1 in combos_1:
         skips.append(c1)
-        if not c1 in combos_2:
+        if c1 not in combos_2:
             missing_scalables.append(c1)
     for c2 in combos_2:
-        if not c2 in skips:
+        if c2 not in skips:
             skips.append(c2)
-            if not c2 in combos_1:
+            if c2 not in combos_1:
                 missing_symbolics.append(c2)
-    blob = ((combos_1, dirs_1, svgs_1, names_1), (combos_2, dir_2, svgs_2, names_2))
+    blob = ((combos_1, dirs_1, svgs_1, names_1),
+            (combos_2, dir_2, svgs_2, names_2))
     return missing_symbolics, missing_scalables, blob
+
 
 here = getcwd()
 main_dir = path.join(up(here), 'symbolia')
@@ -111,7 +118,8 @@ for s in missing_symbs:
     dst_svg = pieces[1] + '-symbolic.svg'
     src_fp = path.join(scal_dir, src_dir, src_svg)
     dst_fp = path.join(symb_dir, dst_dir, dst_svg)
-    print('copying ' + str(path.join(src_dir, src_svg)) + ' to ' + str(path.join(dst_dir, dst_svg)))
+    print('copying ' + str(path.join(src_dir, src_svg)) +
+          ' to ' + str(path.join(dst_dir, dst_svg)))
     print(src_fp)
     print(dst_fp)
     copy(src_fp, dst_fp)
@@ -124,5 +132,6 @@ for s in missing_scals:
     dst_svg = pieces[1] + '.svg'
     src_fp = path.join(symb_dir, src_dir, src_svg)
     dst_fp = path.join(scal_dir, dst_dir, dst_svg)
-    print('copying ' + str(path.join(src_dir, src_svg)) + ' to ' + str(path.join(dst_dir, dst_svg)))
+    print('copying ' + str(path.join(src_dir, src_svg)) +
+          ' to ' + str(path.join(dst_dir, dst_svg)))
     copy(src_fp, dst_fp)

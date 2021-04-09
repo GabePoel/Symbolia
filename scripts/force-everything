@@ -7,7 +7,13 @@ from shutil import copy
 home = path.expanduser('~')
 
 diff_dir = path.join(home, '.local', 'share', 'icons', 'Difference-neutral')
-symb_dir = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'symbolia', 'scalable')
+symb_dir = path.join(
+    home,
+    'Documents',
+    'GitHub',
+    'Symbolia',
+    'symbolia',
+    'scalable')
 apps_dir = path.join(diff_dir, '256x256', 'apps')
 mime_dir = path.join(diff_dir, '256x256', 'mimetypes')
 plac_dir = path.join(diff_dir, '256x256', 'places')
@@ -35,13 +41,13 @@ new_mime = []
 new_plac = []
 
 for a in dif_apps:
-    if not a in sym_apps:
+    if a not in sym_apps:
         new_apps.append(a)
 for m in dif_mime:
-    if not m in sym_mime:
+    if m not in sym_mime:
         new_mime.append(m)
 for p in dif_plac:
-    if not p in sym_plac:
+    if p not in sym_plac:
         new_plac.append(p)
 
 for a in new_apps:

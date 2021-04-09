@@ -6,8 +6,20 @@ from shutil import copy
 here = getcwd()
 home = path.expanduser('~')
 guide = path.join(here, 'copy-guide')
-src = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'available icons')
-target = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'symbolia', 'scalable')
+src = path.join(
+    home,
+    'Documents',
+    'GitHub',
+    'Symbolia',
+    'work in progress',
+    'available icons')
+target = path.join(
+    home,
+    'Documents',
+    'GitHub',
+    'Symbolia',
+    'symbolia',
+    'scalable')
 
 
 guide_file = open(guide, 'r')
@@ -22,12 +34,13 @@ for line in guide_lines:
         line = line[:-1]
     if '-symbolic' in line:
         line = line[:-9]
-    if not '    ' in line:
+    if '    ' not in line:
         current_dir = path.join(target, line)
-    elif not '        ' in line:
+    elif '        ' not in line:
         current_src = path.join(src, line[4:] + '.svg')
     else:
-        copy_structure.append((current_src, path.join(current_dir, line[8:] + '.svg')))
+        copy_structure.append(
+            (current_src, path.join(current_dir, line[8:] + '.svg')))
 
 for s in copy_structure:
     if not path.exists(s[1]) and path.exists(s[0]):

@@ -8,12 +8,14 @@ import fnmatch
 import os
 import sys
 
+
 def find_files(directory, pattern):
     for root, dirs, files in os.walk(directory):
         for basename in files:
             if fnmatch.fnmatch(basename, pattern):
                 filename = os.path.join(root, basename)
                 yield filename
+
 
 home = path.expanduser('~')
 here = os.getcwd()
@@ -36,8 +38,10 @@ mimetype_icons = os.listdir(mimetypes)
 place_icons = os.listdir(places)
 status_icons = os.listdir(status)
 
-all_icons = action_icons + app_icons + category_icons + device_icons + emblem_icons + mimetype_icons + place_icons + status_icons
+all_icons = action_icons + app_icons + category_icons + device_icons + \
+    emblem_icons + mimetype_icons + place_icons + status_icons
 all_icons = [s[:-4] for s in all_icons]
+
 
 def match_icon(fp):
     parent = path.dirname(fp)
@@ -90,7 +94,8 @@ def match_icon(fp):
     #     process += '-'
     # process = process[:-1]
     # print(process)
-    all_icons.sort(key=lambda s: distance(s.replace('_', '-').split('-')[-1], process))
+    all_icons.sort(key=lambda s: distance(
+        s.replace('_', '-').split('-')[-1], process))
     best_icon = all_icons[0]
     src_paths = []
     srcs = find_files(scalable, best_icon + '.svg')
@@ -98,14 +103,62 @@ def match_icon(fp):
         src_paths.append(s)
     return src_paths[0]
 
+
 home = path.expanduser('~')
 breeze_src = path.join('/usr', 'share', 'icons', 'breeze', 'actions')
-breeze_dst = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze redux', 'breeze-actions')
-symbol_dst = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze redux', 'breeze-made')
-symbol_gen = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze redux', 'breeze-auto')
-symbol_src = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'symbolia', 'scalable', 'actions')
-symbol_src2 = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze', 'actions-old')
-new_dir = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze redux', 'new-actions')
+breeze_dst = path.join(
+    home,
+    'Documents',
+    'GitHub',
+    'Symbolia',
+    'work in progress',
+    'incomplete',
+    'breeze redux',
+    'breeze-actions')
+symbol_dst = path.join(
+    home,
+    'Documents',
+    'GitHub',
+    'Symbolia',
+    'work in progress',
+    'incomplete',
+    'breeze redux',
+    'breeze-made')
+symbol_gen = path.join(
+    home,
+    'Documents',
+    'GitHub',
+    'Symbolia',
+    'work in progress',
+    'incomplete',
+    'breeze redux',
+    'breeze-auto')
+symbol_src = path.join(
+    home,
+    'Documents',
+    'GitHub',
+    'Symbolia',
+    'symbolia',
+    'scalable',
+    'actions')
+symbol_src2 = path.join(
+    home,
+    'Documents',
+    'GitHub',
+    'Symbolia',
+    'work in progress',
+    'incomplete',
+    'breeze',
+    'actions-old')
+new_dir = path.join(
+    home,
+    'Documents',
+    'GitHub',
+    'Symbolia',
+    'work in progress',
+    'incomplete',
+    'breeze redux',
+    'new-actions')
 shutil.rmtree(breeze_dst)
 os.makedirs(symbol_src, exist_ok=True)
 # os.makedirs(symbol_src2, exist_ok=True)
@@ -119,7 +172,7 @@ already_made = os.listdir(symbol_src)
 # already_made2 = os.listdir(symbol_src2)
 for src in action_srcs:
     for n in os.listdir(src):
-        if not n in already_made:
+        if n not in already_made:
             check = False
             # if n in already_made2 and not path.islink(path.join(symbol_src2, n)):
             #     img = open(path.join(symbol_src2, n), 'r')
@@ -138,7 +191,7 @@ for src in action_srcs:
                         pass
                         # org = path.basename(os.readlink(fp))
                         # os.symlink(src=n, dst=path.join(breeze_dst, org))
-                except:
+                except BaseException:
                     pass
 
 # paths = find_files(breeze_dst, '*.svg')
@@ -151,5 +204,23 @@ for src in action_srcs:
 if 'open' in sys.argv:
     os.system('nautilus "' + new_dir + '"')
     os.system('nautilus "' + breeze_dst + '"')
-    os.system('nautilus "' + path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'available icons') + '"')
-    os.system('nautilus "' + path.join(home, 'Documents', 'GitHub', 'Symbolia', 'symbolia', 'scalable') + '"')
+    os.system(
+        'nautilus "' +
+        path.join(
+            home,
+            'Documents',
+            'GitHub',
+            'Symbolia',
+            'work in progress',
+            'available icons') +
+        '"')
+    os.system(
+        'nautilus "' +
+        path.join(
+            home,
+            'Documents',
+            'GitHub',
+            'Symbolia',
+            'symbolia',
+            'scalable') +
+        '"')
