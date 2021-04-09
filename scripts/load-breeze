@@ -6,6 +6,7 @@ from Levenshtein import distance
 from shutil import copy
 import fnmatch
 import os
+import sys
 
 def find_files(directory, pattern):
     for root, dirs, files in os.walk(directory):
@@ -104,10 +105,10 @@ symbol_dst = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progres
 symbol_gen = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze redux', 'breeze-auto')
 symbol_src = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'symbolia', 'scalable', 'actions')
 symbol_src2 = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze', 'actions-old')
-work_dir = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze redux', 'new-actions')
-os.makedirs(work_dir, exist_ok=True)
+new_dir = path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'incomplete', 'breeze redux', 'new-actions')
+shutil.rmtree(breeze_dst)
 os.makedirs(symbol_src, exist_ok=True)
-os.makedirs(symbol_src2, exist_ok=True)
+# os.makedirs(symbol_src2, exist_ok=True)
 os.makedirs(breeze_dst, exist_ok=True)
 a16 = path.join(breeze_src, '16')
 a12 = path.join(breeze_src, '12')
@@ -115,7 +116,7 @@ a22 = path.join(breeze_src, '22')
 a32 = path.join(breeze_src, '32')
 action_srcs = [a16, a12, a22, a32]
 already_made = os.listdir(symbol_src)
-already_made2 = os.listdir(symbol_src2)
+# already_made2 = os.listdir(symbol_src2)
 for src in action_srcs:
     for n in os.listdir(src):
         if not n in already_made:
@@ -125,7 +126,8 @@ for src in action_srcs:
             #     content = img.read()
             #     check = ('width="24"' in content)
             if check:
-                shutil.copy(path.join(symbol_src2, n), path.join(symbol_dst, n))
+                pass
+#                shutil.copy(path.join(symbol_src2, n), path.join(symbol_dst, n))
             else:
                 try:
                     fp = path.join(src, n)
@@ -146,3 +148,8 @@ for src in action_srcs:
 #     print(path.basename(sp) + ' -> ' + path.basename(np))
 #     copy(sp, np)
 #     copy(fp, np[:-4] + '-COMP-.svg')
+if 'open' in sys.argv:
+    os.system('nautilus "' + new_dir + '"')
+    os.system('nautilus "' + breeze_dst + '"')
+    os.system('nautilus "' + path.join(home, 'Documents', 'GitHub', 'Symbolia', 'work in progress', 'available icons') + '"')
+    os.system('nautilus "' + path.join(home, 'Documents', 'GitHub', 'Symbolia', 'symbolia', 'scalable') + '"')
