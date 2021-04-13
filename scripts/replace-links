@@ -6,8 +6,8 @@ for link; do
     dir=$(dirname "$link")
     reltarget=$(readlink "$link")
     case $reltarget in
-        /*) abstarget=$reltarget;;
-        *)  abstarget=$dir/$reltarget;;
+    /*) abstarget=$reltarget ;;
+    *) abstarget=$dir/$reltarget ;;
     esac
 
     rm -fv "$link"
