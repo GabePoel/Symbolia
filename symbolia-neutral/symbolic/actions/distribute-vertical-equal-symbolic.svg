@@ -12,7 +12,7 @@
    width="24"
    height="24"
    viewBox="0 0 24 24"
-   sodipodi:docname="distribute-horizontal-center.svg"
+   sodipodi:docname="distribute-horizontal-equal (copy).svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata9">
@@ -36,19 +36,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3824"
-     inkscape:window-height="2107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      id="namedview5"
      showgrid="false"
-     inkscape:zoom="42"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="8"
-     inkscape:window-y="33"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="mdi-arrow-collapse-horizontal" />
+     inkscape:zoom="33.208333"
+     inkscape:cx="11.47781"
+     inkscape:cy="13.371785"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="mdi-arrow-collapse-horizontal"
+     inkscape:document-rotation="0" />
   <path fill="#afafaf"
-     d="m 4.5,12.5 h 16 v 2.03 H 4.5 V 12.5 m 0,-3 h 16 v 2.03 H 4.5 V 9.5 m 12,-3.97 -4,-4.03 -4,4.03 h 3 v 3 h 2 v -3 h 3 m -8,12.97 4,4 4,-4 h -3 v -3 h -2 v 3 z"
-     id="path2"
-     sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+     id="path2-3"
+     d="m 20.5,10.5 c 0,-0.5499998 -0.45,-0.9999998 -1,-0.9999998 H 5.4999998 c -0.55,0 -1,0.45 -1,0.9999998 0,0.55 0.45,1 1,1 H 19.5 c 0.55,0 1,-0.45 1,-1 z m 0,3 c 0,-0.55 -0.45,-1 -1,-1 H 5.4999998 c -0.55,0 -1,0.45 -1,1 0,0.55 0.45,1 1,1 H 19.5 c 0.55,0 1,-0.45 1,-1 z M 15.787109,4.7031252 C 15.771172,4.6089065 15.72789,4.5169533 15.65039,4.4394533 L 12.859375,1.6503908 c -0.200001,-0.2 -0.508985,-0.2 -0.708984,0 L 9.3593748,4.4394533 c -0.32,0.31 -0.098437,0.8496094 0.351563,0.8496094 H 11.5 v 2 c 0,0.55 0.45,1 1,1 0.55,0 1,-0.45 1,-1 v -2 h 1.789062 c 0.3375,0 0.54586,-0.3032812 0.498047,-0.5859375 z m 0,14.5937498 c 0.04781,-0.282656 -0.160547,-0.585938 -0.498047,-0.585937 H 13.5 v -2 c 0,-0.550001 -0.45,-1 -1,-1 -0.55,0 -1,0.449999 -1,1 v 2 H 9.7109378 c -0.45,0 -0.671563,0.539609 -0.351563,0.849609 l 2.7910162,2.789062 c 0.199999,0.2 0.508983,0.2 0.708984,0 l 2.791015,-2.789062 c 0.0775,-0.0775 0.120782,-0.169453 0.136719,-0.263672 z" />
 </svg>
