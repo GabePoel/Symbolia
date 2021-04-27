@@ -1,0 +1,65 @@
+#!/bin/bash
+SCRIPTS=$PWD
+cd ../symbolia-dark/scalable/places
+$SCRIPTS/recolor-folders green 4CAF50
+$SCRIPTS/recolor-folders red f44336
+$SCRIPTS/recolor-folders blue 2196F3
+$SCRIPTS/recolor-folders grey 9E9E9E
+$SCRIPTS/recolor-folders cyan 00BCD4
+$SCRIPTS/recolor-folders mint b7e58a
+$SCRIPTS/recolor-folders yaru FF5722
+$SCRIPTS/recolor-folders black 000000
+$SCRIPTS/recolor-folders brown 795548
+$SCRIPTS/recolor-folders purple 9C27B0
+$SCRIPTS/recolor-folders yellow FFEB3B
+$SCRIPTS/recolor-folders adwaita ded4ca
+$SCRIPTS/recolor-folders pink E91E63
+$SCRIPTS/recolor-folders bordeaux 550a21
+$SCRIPTS/recolor-folders manjaro 35bf5c
+$SCRIPTS/recolor-folders darkblue 3F51B5
+$SCRIPTS/recolor-folders aubergine 673AB7
+$SCRIPTS/recolor-folders canonical 8b005a
+$SCRIPTS/recolor-folders synthwave FCE4EC
+$SCRIPTS/recolor-folders vermillion d9371e
+cd ../../../symbolia-neutral/scalable/places
+$SCRIPTS/recolor-folders green 4CAF50
+$SCRIPTS/recolor-folders red f44336
+$SCRIPTS/recolor-folders blue 2196F3
+$SCRIPTS/recolor-folders grey 9E9E9E
+$SCRIPTS/recolor-folders cyan 00BCD4
+$SCRIPTS/recolor-folders mint b7e58a
+$SCRIPTS/recolor-folders yaru FF5722
+$SCRIPTS/recolor-folders black 000000
+$SCRIPTS/recolor-folders brown 795548
+$SCRIPTS/recolor-folders purple 9C27B0
+$SCRIPTS/recolor-folders yellow FFEB3B
+$SCRIPTS/recolor-folders adwaita ded4ca
+$SCRIPTS/recolor-folders pink E91E63
+$SCRIPTS/recolor-folders bordeaux 550a21
+$SCRIPTS/recolor-folders manjaro 35bf5c
+$SCRIPTS/recolor-folders darkblue 3F51B5
+$SCRIPTS/recolor-folders aubergine 673AB7
+$SCRIPTS/recolor-folders canonical 8b005a
+$SCRIPTS/recolor-folders synthwave FCE4EC
+$SCRIPTS/recolor-folders vermillion d9371e
+cd ../../../symbolia/scalable/places
+$SCRIPTS/recolor-folders green 4CAF50
+$SCRIPTS/recolor-folders red f44336
+$SCRIPTS/recolor-folders blue 2196F3
+$SCRIPTS/recolor-folders grey 9E9E9E
+$SCRIPTS/recolor-folders cyan 00BCD4
+$SCRIPTS/recolor-folders mint b7e58a
+$SCRIPTS/recolor-folders yaru FF5722
+$SCRIPTS/recolor-folders black 000000
+$SCRIPTS/recolor-folders brown 795548
+$SCRIPTS/recolor-folders purple 9C27B0
+$SCRIPTS/recolor-folders yellow FFEB3B
+$SCRIPTS/recolor-folders adwaita ded4ca
+$SCRIPTS/recolor-folders pink E91E63
+$SCRIPTS/recolor-folders bordeaux 550a21
+$SCRIPTS/recolor-folders manjaro 35bf5c
+$SCRIPTS/recolor-folders darkblue 3F51B5
+$SCRIPTS/recolor-folders aubergine 673AB7
+$SCRIPTS/recolor-folders canonical 8b005a
+$SCRIPTS/recolor-folders synthwave FCE4EC
+$SCRIPTS/recolor-folders vermillion d9371e

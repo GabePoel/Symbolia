@@ -1,8 +1,20 @@
 #!/bin/bash
 SCRIPTS=$PWD
-rm ../symbolia-dark/scalable -r
+rm ../symbolia-dark/scalable/actions -r
+rm ../symbolia-dark/scalable/apps -r
+rm ../symbolia-dark/scalable/categories -r
+rm ../symbolia-dark/scalable/devices -r
+rm ../symbolia-dark/scalable/emblems -r
+rm ../symbolia-dark/scalable/mimetypes -r
+rm ../symbolia-dark/scalable/status -r
 rm ../symbolia-dark/symbolic -r
-cp ../symbolia/scalable ../symbolia-dark/scalable -r
+cp ../symbolia/scalable/actions ../symbolia-dark/scalable/actions -r
+cp ../symbolia/scalable/apps ../symbolia-dark/scalable/apps -r
+cp ../symbolia/scalable/categories ../symbolia-dark/scalable/categories -r
+cp ../symbolia/scalable/devices ../symbolia-dark/scalable/devices -r
+cp ../symbolia/scalable/emblems ../symbolia-dark/scalable/emblems -r
+cp ../symbolia/scalable/mimetypes ../symbolia-dark/scalable/mimetypes -r
+cp ../symbolia/scalable/status ../symbolia-dark/scalable/status -r
 cp ../symbolia/symbolic ../symbolia-dark/symbolic -r
 cd ../symbolia-dark/scalable/actions && $SCRIPTS/recolor-dark
 cd ../apps && $SCRIPTS/recolor-dark
@@ -10,7 +22,6 @@ cd ../categories && $SCRIPTS/recolor-dark
 cd ../devices && $SCRIPTS/recolor-dark
 cd ../emblems && $SCRIPTS/recolor-dark
 cd ../mimetypes && $SCRIPTS/recolor-dark
-cd ../places && $SCRIPTS/recolor-dark
 cd ../status && $SCRIPTS/recolor-dark
 cd ../../symbolic/actions && $SCRIPTS/recolor-dark
 cd ../apps && $SCRIPTS/recolor-dark

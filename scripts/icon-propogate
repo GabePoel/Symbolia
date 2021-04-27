@@ -95,9 +95,11 @@ here = getcwd()
 main_dir = path.join(up(here), 'symbolia')
 scal_dir = path.join(main_dir, 'scalable')
 symb_dir = path.join(main_dir, 'symbolic')
-scal_dirs = [path.join(scal_dir, b) for b in listdir(scal_dir)]
+scal_dirs = [path.join(scal_dir, b)
+             for b in listdir(scal_dir) if 'places' not in b]
 scal_dirs = [b for b in scal_dirs if not path.islink(b)]
-symb_dirs = [path.join(symb_dir, b) for b in listdir(symb_dir)]
+symb_dirs = [path.join(symb_dir, b)
+             for b in listdir(symb_dir) if 'places' not in b]
 symb_dirs = [b for b in symb_dirs if not path.islink(b)]
 
 for d in symb_dirs:

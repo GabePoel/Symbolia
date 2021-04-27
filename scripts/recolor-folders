@@ -1,0 +1,13 @@
+#!/bin/bash
+
+COLOR="#"$2
+FILTER="-"$1
+sed -i -E 's/fill\="[^"]+"//g' *$FILTER*
+sed -i "s/<path/<path fill=\"$COLOR\"/g" *$FILTER*
+sed -i "s/<rect/<rect fill=\"$COLOR\"/g" *$FILTER*
+sed -i "s/<polygon/<polygon fill=\"$COLOR\"/g" *$FILTER*
+sed -i "s/<circle/<circle fill=\"$COLOR\"/g" *$FILTER*
+sed -i "s/<ellipse/<ellipse fill=\"$COLOR\"/g" *$FILTER*
+sed -i "s/<polyline/<polyline fill=\"$COLOR\"/g" *$FILTER*
+#sed -i -E "s/stroke\:[^\;]+/stroke\:$COLOR/g" *$FILTER*
+sed -i -E "s/fill\:\#[0-9]+/fill\:$COLOR/g" *$FILTER*

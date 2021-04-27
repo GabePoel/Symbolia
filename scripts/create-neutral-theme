@@ -1,8 +1,20 @@
 #!/bin/bash
 SCRIPTS=$PWD
-rm ../symbolia-neutral/scalable -r
+rm ../symbolia-neutral/scalable/actions -r
+rm ../symbolia-neutral/scalable/apps -r
+rm ../symbolia-neutral/scalable/categories -r
+rm ../symbolia-neutral/scalable/devices -r
+rm ../symbolia-neutral/scalable/emblems -r
+rm ../symbolia-neutral/scalable/mimetypes -r
+rm ../symbolia-neutral/scalable/status -r
 rm ../symbolia-neutral/symbolic -r
-cp ../symbolia/scalable ../symbolia-neutral/scalable -r
+cp ../symbolia/scalable/actions ../symbolia-neutral/scalable/actions -r
+cp ../symbolia/scalable/apps ../symbolia-neutral/scalable/apps -r
+cp ../symbolia/scalable/categories ../symbolia-neutral/scalable/categories -r
+cp ../symbolia/scalable/devices ../symbolia-neutral/scalable/devices -r
+cp ../symbolia/scalable/emblems ../symbolia-neutral/scalable/emblems -r
+cp ../symbolia/scalable/mimetypes ../symbolia-neutral/scalable/mimetypes -r
+cp ../symbolia/scalable/status ../symbolia-neutral/scalable/status -r
 cp ../symbolia/symbolic ../symbolia-neutral/symbolic -r
 cd ../symbolia-neutral/scalable/actions && $SCRIPTS/recolor-neutral
 cd ../apps && $SCRIPTS/recolor-neutral
@@ -10,7 +22,6 @@ cd ../categories && $SCRIPTS/recolor-neutral
 cd ../devices && $SCRIPTS/recolor-neutral
 cd ../emblems && $SCRIPTS/recolor-neutral
 cd ../mimetypes && $SCRIPTS/recolor-neutral
-cd ../places && $SCRIPTS/recolor-neutral
 cd ../status && $SCRIPTS/recolor-neutral
 cd ../../symbolic/actions && $SCRIPTS/recolor-neutral
 cd ../apps && $SCRIPTS/recolor-neutral
