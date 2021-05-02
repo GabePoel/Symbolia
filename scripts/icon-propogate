@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from os import path, system, getcwd, listdir, rename
+from os import path, system, getcwd, listdir, rename, makedirs
 from shutil import copy
 
 
@@ -96,10 +96,10 @@ main_dir = path.join(up(here), 'symbolia')
 scal_dir = path.join(main_dir, 'scalable')
 symb_dir = path.join(main_dir, 'symbolic')
 scal_dirs = [path.join(scal_dir, b)
-             for b in listdir(scal_dir) if 'places' not in b]
+             for b in listdir(scal_dir)]
 scal_dirs = [b for b in scal_dirs if not path.islink(b)]
 symb_dirs = [path.join(symb_dir, b)
-             for b in listdir(symb_dir) if 'places' not in b]
+             for b in listdir(symb_dir)]
 symb_dirs = [b for b in symb_dirs if not path.islink(b)]
 
 for d in symb_dirs:
@@ -137,3 +137,39 @@ for s in missing_scals:
     print('copying ' + str(path.join(src_dir, src_svg)) +
           ' to ' + str(path.join(dst_dir, dst_svg)))
     copy(src_fp, dst_fp)
+
+places_src = path.join(scal_dir, 'places')
+places_dst = path.join(
+    up(up(scal_dir)), 'symbolia-color', 'scalable', 'places')
+makedirs(places_dst, exist_ok=True)
+colors = [
+    'green',
+    'red',
+    'blue',
+    'grey',
+    'cyan',
+    'mint',
+    'yaru',
+    'black',
+    'brown',
+    'purple',
+    'yellow',
+    'adwaita',
+    'pink',
+    'bordeaux',
+    'manjaro',
+    'darkblue',
+    'aubergine',
+    'canonical',
+    'synthwave',
+    'vermillion',
+    'orange']
+for name in listdir(places_src):
+    options = []
+    for color in colors:
+        options.append(color in name)
+    if any(options):
+        src = path.join(places_src, name)
+        dst = path.join(places_dst, name)
+        copy(src, dst)
+# continue correction

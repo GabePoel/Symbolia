@@ -47,7 +47,7 @@
      inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-cosine-wave" />
-  <path fill="white"
+  <path fill="#ffffff"
      d="M 22,22 V 20 C 20.26,20 19,15.42 17.96,11.73 16.57,6.73 15.26,2 12,2 8.74,2 7.43,6.73 6.04,11.73 5,15.42 3.74,20 2,20 v 2 C 5.26,22 6.57,17.27 7.96,12.27 9,8.58 10.26,4 12,4 c 1.74,0 3,4.58 4.04,8.27 1.39,5 2.7,9.73 5.96,9.73 z"
      id="path2" />
 </svg>

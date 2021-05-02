@@ -47,10 +47,10 @@
      inkscape:window-y="1109"
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-crop-square" />
-  <path fill="white"
+  <path fill="#ffffff"
      d="M18,18H6V6H18M18,4H6A2,2 0 0,0 4,6V18A2,2 0 0,0 6,20H18A2,2 0 0,0 20,18V6C20,4.89 19.1,4 18,4Z"
      id="path2" />
-  <path fill="white"
+  <path fill="#ffffff"
      d="M 14,8 H 10 C 8.8954308,8 8.0000003,8.8954305 8.0000003,10 v 4 c 0,1.104569 0.8954305,2 1.9999997,2 h 4 c 1.104569,0 2,-0.895431 2,-2 V 10 C 16,8.89 15.1,8 14,8 Z"
      id="path2-3"
      sodipodi:nodetypes="sssssssss" />

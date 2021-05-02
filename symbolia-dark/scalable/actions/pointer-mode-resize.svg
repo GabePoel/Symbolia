@@ -47,7 +47,7 @@
      inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-vector-radius" />
-  <path fill="white"
+  <path fill="#ffffff"
      d="M 22,4 H 20 V 2 H 14 V 4 A -10,10 0 0 0 4,14 H 2 v 6 h 2 v 2 H 6 V 20 H 8 V 14 H 6 a -8,8 0 0 1 8,-8 v 2 h 6 V 6 h 2 V 4 M 6,16 v 2 H 4 V 16 H 6 M 18,4 V 6 H 16 V 4 Z"
      id="path2" />
 </svg>

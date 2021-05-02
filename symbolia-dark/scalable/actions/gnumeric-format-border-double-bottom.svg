@@ -47,11 +47,11 @@
      inkscape:window-y="35"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
-  <path fill="white"
+  <path fill="#ffffff"
      d="M 9,11 H 7 v 2 H 9 Z M 9,3 H 7 v 2 h 2 z m 4,8 h -2 v 2 h 2 z M 5,3 H 3 v 2 h 2 z m 8,4 h -2 v 2 h 2 z m 4,4 h -2 v 2 h 2 z M 13,3 h -2 v 2 h 2 z m 4,0 h -2 v 2 h 2 z m 2,10 h 2 V 11 H 19 Z M 5,7 H 3 V 9 H 5 Z M 19,3 v 2 h 2 V 3 Z m 0,6 h 2 V 7 H 19 Z M 5,11 H 3 v 2 H 5 Z M 4,21 h 16 c 0.55,0 1,-0.45 1,-1 0,-0.55 -0.45,-1 -1,-1 H 4 c -0.55,0 -1,0.45 -1,1 0,0.55 0.45,1 1,1 z"
      id="path2"
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsssssss" />
-  <path fill="white"
+  <path fill="#ffffff"
      d="m 4,17 h 16 c 0.55,0 1,-0.45 1,-1 0,-0.55 -0.45,-1 -1,-1 H 4 c -0.55,0 -1,0.45 -1,1 0,0.55 0.45,1 1,1 z"
      id="path2-3"
      sodipodi:nodetypes="sssssss" />

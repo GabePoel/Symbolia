@@ -47,15 +47,15 @@
      inkscape:window-y="50"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
-  <path fill="white"
+  <path fill="#ffffff"
      d="M 23.64,7 C 23.19,6.66 18.71,3 12,3 5.2799995,3 0.8099995,6.66 0.3599995,7 L 10.44,19.56 c 0.8,1 2.32,1 3.12,0 z"
      id="path2-6"
      style="opacity:0.3" />
-  <path fill="white"
+  <path fill="#ffffff"
      id="path4"
      d="M 12 8 C 7.19 8 3.9592969 10.619219 3.5292969 10.949219 L 10.457031 19.576172 C 11.255855 20.551174 12.744145 20.551174 13.542969 19.576172 L 20.470703 10.949219 C 20.040703 10.619219 16.81 8 12 8 z " />
-  <path fill="white"
-     style="fill:white;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0"
+  <path fill="#ffffff"
+     style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0"
      d="M 18,21.5 29.64,7 29.164063,17.184728 Z"
      id="path874" />
 </svg>

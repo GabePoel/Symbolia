@@ -6,3 +6,4 @@ echo "Creating dark themes."
 echo "Creating neutral themes."
 ./create-neutral-theme
 echo "Done."
+./all-folder-colors

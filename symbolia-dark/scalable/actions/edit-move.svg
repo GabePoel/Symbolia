@@ -47,7 +47,7 @@
      inkscape:window-y="1109"
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-file-multiple" />
-  <path fill="white"
+  <path fill="#ffffff"
      d="m 15,11 h 5.5 L 15,5.5 V 11 M 8,4 h 8 l 6,6 v 12 c 0,1.104569 -0.895431,2 -2,2 H 8 C 6.89,24 6,22 6,22 V 6 C 6,6 6.8954305,4 8,4 M 4,20 V 2 H 20 V 0 H 4 C 2.8954305,0 2,0.8954305 2,2 v 18 z"
      id="path2"
      sodipodi:nodetypes="cccccccssssscccccsscc" />

@@ -47,7 +47,7 @@
      inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-circle-small" />
-  <path fill="white"
+  <path fill="#ffffff"
      d="M 12,2 A 10,10 0 0 0 2,12 c 0,5.55 4.5,10 10,10 5.55,0 10,-4.45 10,-10 A 10,10 0 0 0 12,2 Z"
      id="path2"
      style="stroke-width:4.99998" />
