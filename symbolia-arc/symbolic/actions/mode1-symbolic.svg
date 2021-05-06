@@ -48,11 +48,11 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-format-columns"
      inkscape:document-rotation="0" />
-  <path fill="#5294e2"
+  <path fill="#B9D4F0"
      d="m 3,3 h 8 V 5 H 3 V 3 m 10,0 h 8 V 5 H 13 V 3 M 3,7 h 8 V 9 H 3 V 7 m 10,0 h 8 V 9 H 13 V 7 M 3,13 h 8 v 2 H 3 v -2 m 8,0 h 10 v 2 H 11 v -2 m -8,6 h 8 v 2 H 3 v -2 m 8,0 h 10 v 2 H 11 Z"
      id="path2"
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
-  <path fill="#5294e2"
+  <path fill="#B9D4F0"
      d="m 21.64,19.64893 -2.78,-2.79 c -0.31,-0.32 -0.85,-0.09 -0.85,0.35 v 1.79 l -0.01,2 v 1.79 c 0,0.45 0.54,0.67 0.85,0.35 l 2.78,-2.79 c 0.2,-0.19 0.2,-0.51 0.01,-0.7 z"
      id="path2-3"
      sodipodi:nodetypes="ccsccsccc" />

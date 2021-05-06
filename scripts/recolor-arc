@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COLOR=#5294e2
+COLOR=#B9D4F0
 find . -name "*.svg" -exec sed -i -E 's/fill\="[^"]+"//g' {} \;
 find . -name "*.svg" -exec sed -i "s/<path/<path fill=\"$COLOR\"/g" {} \;
 find . -name "*.svg" -exec sed -i "s/<rect/<rect fill=\"$COLOR\"/g" {} \;
