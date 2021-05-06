@@ -1,0 +1,36 @@
+#!/bin/bash
+SCRIPTS=$PWD
+rm ../symbolia-arc/scalable/actions -r
+rm ../symbolia-arc/scalable/apps -r
+rm ../symbolia-arc/scalable/categories -r
+rm ../symbolia-arc/scalable/devices -r
+rm ../symbolia-arc/scalable/emblems -r
+rm ../symbolia-arc/scalable/mimetypes -r
+rm ../symbolia-arc/scalable/status -r
+rm ../symbolia-arc/scalable/places -r
+rm ../symbolia-arc/symbolic -r
+cp ../symbolia/scalable/actions ../symbolia-arc/scalable/actions -r
+cp ../symbolia/scalable/apps ../symbolia-arc/scalable/apps -r
+cp ../symbolia/scalable/categories ../symbolia-arc/scalable/categories -r
+cp ../symbolia/scalable/devices ../symbolia-arc/scalable/devices -r
+cp ../symbolia/scalable/emblems ../symbolia-arc/scalable/emblems -r
+cp ../symbolia/scalable/mimetypes ../symbolia-arc/scalable/mimetypes -r
+cp ../symbolia/scalable/status ../symbolia-arc/scalable/status -r
+cp ../symbolia/scalable/places ../symbolia-arc/scalable/places -r
+cp ../symbolia/symbolic ../symbolia-arc/symbolic -r
+cd ../symbolia-arc/scalable/actions && $SCRIPTS/recolor-arc
+cd ../apps && $SCRIPTS/recolor-arc
+cd ../categories && $SCRIPTS/recolor-arc
+cd ../devices && $SCRIPTS/recolor-arc
+cd ../emblems && $SCRIPTS/recolor-arc
+cd ../mimetypes && $SCRIPTS/recolor-arc
+cd ../places && $SCRIPTS/recolor-arc
+cd ../status && $SCRIPTS/recolor-arc
+cd ../../symbolic/actions && $SCRIPTS/recolor-arc
+cd ../apps && $SCRIPTS/recolor-arc
+cd ../categories && $SCRIPTS/recolor-arc
+cd ../devices && $SCRIPTS/recolor-arc
+cd ../emblems && $SCRIPTS/recolor-arc
+cd ../mimetypes && $SCRIPTS/recolor-arc
+cd ../places && $SCRIPTS/recolor-arc
+cd ../status && $SCRIPTS/recolor-arc

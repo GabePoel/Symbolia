@@ -21,3 +21,10 @@ sudo ln -s /usr/share/icons/symbolia-neutral/index-scalable.theme /usr/share/ico
 sudo mkdir /usr/share/icons/symbolia-symbolic-neutral
 sudo ln -s /usr/share/icons/symbolia-neutral/symbolic /usr/share/icons/symbolia-symbolic-neutral/scalable
 sudo ln -s /usr/share/icons/symbolia-neutral/index-symbolic.theme /usr/share/icons/symbolia-symbolic-neutral/index.theme
+sudo cp ../symbolia-arc /usr/share/icons/ -r
+sudo mkdir /usr/share/icons/symbolia-scalable-arc
+sudo ln -s /usr/share/icons/symbolia-arc/scalable /usr/share/icons/symbolia-scalable-arc/scalable
+sudo ln -s /usr/share/icons/symbolia-arc/index-scalable.theme /usr/share/icons/symbolia-scalable-arc/index.theme
+sudo mkdir /usr/share/icons/symbolia-symbolic-arc
+sudo ln -s /usr/share/icons/symbolia-arc/symbolic /usr/share/icons/symbolia-symbolic-arc/scalable
+sudo ln -s /usr/share/icons/symbolia-arc/index-symbolic.theme /usr/share/icons/symbolia-symbolic-arc/index.theme

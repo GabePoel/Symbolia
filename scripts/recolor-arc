@@ -1,0 +1,12 @@
+#!/bin/bash
+
+COLOR=#5294e2
+find . -name "*.svg" -exec sed -i -E 's/fill\="[^"]+"//g' {} \;
+find . -name "*.svg" -exec sed -i "s/<path/<path fill=\"$COLOR\"/g" {} \;
+find . -name "*.svg" -exec sed -i "s/<rect/<rect fill=\"$COLOR\"/g" {} \;
+find . -name "*.svg" -exec sed -i "s/<polygon/<polygon fill=\"$COLOR\"/g" {} \;
+find . -name "*.svg" -exec sed -i "s/<circle/<circle fill=\"$COLOR\"/g" {} \;
+find . -name "*.svg" -exec sed -i "s/<ellipse/<ellipse fill=\"$COLOR\"/g" {} \;
+find . -name "*.svg" -exec sed -i "s/<polyline/<polyline fill=\"$COLOR\"/g" {} \;
+find . -name "*.svg" -exec sed -i -E "s/stroke\:[^\;]+/stroke\:$COLOR/g" {} \;
+find . -name "*.svg" -exec sed -i -E "s/fill\:\#[0-9]+/fill\:$COLOR/g" {} \;

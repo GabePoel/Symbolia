@@ -5,5 +5,7 @@ echo "Creating dark themes."
 ./create-dark-theme
 echo "Creating neutral themes."
 ./create-neutral-theme
+echo "Creating arc/nord themes."
+./create-arc-theme
 echo "Done."
 ./all-folder-colors
