@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COLOR=#afafaf
+COLOR=#909090
 sed -i -E 's/fill\="[^"]+"//g' *.svg
 sed -i "s/<path/<path fill=\"$COLOR\"/g" *.svg
 sed -i "s/<rect/<rect fill=\"$COLOR\"/g" *.svg

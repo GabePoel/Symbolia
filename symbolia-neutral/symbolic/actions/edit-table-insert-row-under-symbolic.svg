@@ -48,11 +48,11 @@
      inkscape:window-y="35"
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-table-row-plus-after" />
-  <path fill="#afafaf"
+  <path fill="#909090"
      d="m 11,14 h 2 v 3 h 3 v 2 h -3 v 3 H 11 V 19 H 8 v -2 h 3 z"
      id="path2"
      sodipodi:nodetypes="ccccccccccccc" />
-  <path fill="#afafaf"
+  <path fill="#909090"
      d="m 22,10 c 0,1.104569 -0.895431,2 -2,2 H 4 C 2.8954304,12 1.9999997,11.10457 1.9999997,10 V 6.9999999 c 0,-1.1045696 0.8954307,-2.0000002 2.0000003,-2 h 16 c 1.104569,0 2,0.8954305 2,2 V 10 M 4,10 H 8 V 6.9999999 H 4 V 10 m 6,0 h 4 V 6.9999999 H 10 V 10 m 6,0 h 4 V 6.9999999 h -4 z"
      id="path2-3"
      sodipodi:nodetypes="csssscsscccccccccccccccc" />

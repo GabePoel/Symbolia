@@ -60,17 +60,17 @@
        transform="matrix(1.8864635,0,0,1.8864635,-106.46308,-108.03828)">
       <g
          id="use18"
-         style="fill:#afafaf;fill-opacity:1"
+         style="fill:#909090;fill-opacity:1"
          transform="matrix(0.54171543,0,0,0.54171543,56.727459,64.328965)">
         <g
            transform="matrix(1.3047254,0,0,1.3047254,-254.95547,-200.31587)"
-           style="fill:#afafaf;fill-opacity:1;stroke:none"
+           style="fill:#909090;fill-opacity:1;stroke:none"
            id="g273">
           <g
              id="use271"
              transform="matrix(0.97854407,0,0,0.97854407,196.51162,153.61475)"
              style="stroke:none">
-            <path fill="#afafaf"
+            <path fill="#909090"
                inkscape:connector-curvature="0"
                id="path607"
                d="M 5.265625,-9.953125 H 4 L 0.390625,0 h 1.0625 L 2.5,-2.90625 H 6.546875 L 7.609375,0 H 8.875 Z m -0.75,1.03125 1.71875,5.203125 H 2.8125 Z m 0,0"

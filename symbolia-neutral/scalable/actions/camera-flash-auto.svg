@@ -47,11 +47,11 @@
      inkscape:window-y="8"
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-flash-auto" />
-  <path fill="#afafaf"
+  <path fill="#909090"
      d="M 16.85,7.65 18,4 19.15,7.65 M 19,2 h -2 l -3.2,9 h 1.9 l 0.7,-2 h 3.2 l 0.7,2 h 1.9"
      id="path2"
      sodipodi:nodetypes="ccccccccccc" />
-  <path fill="#afafaf"
+  <path fill="#909090"
      d="m 3,4 v 9 c 0,0.55 0.45,1 1,1 h 2 v 7.15 c 0,0.51 0.67,0.69 0.93,0.25 l 5.19,-8.9 C 12.51,11.83 12.03,11 11.26,11 H 9 L 11.49,4.35 C 11.74,3.7 11.26,3 10.56,3 H 4 C 3.45,3 3,3.45 3,4 Z"
      id="path2-3" />
 </svg>
