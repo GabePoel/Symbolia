@@ -7,5 +7,8 @@ echo "Creating neutral themes."
 ./create-neutral-theme
 echo "Creating arc/nord themes."
 ./create-arc-theme
-echo "Done."
+echo "Creating yaru themes."
+./create-yaru-theme
+echo "Coloring folder colors."
 ./all-folder-colors
+echo "Done!"

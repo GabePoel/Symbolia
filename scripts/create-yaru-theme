@@ -1,0 +1,36 @@
+#!/bin/bash
+SCRIPTS=$PWD
+rm ../symbolia-yaru/scalable/actions -r
+rm ../symbolia-yaru/scalable/apps -r
+rm ../symbolia-yaru/scalable/categories -r
+rm ../symbolia-yaru/scalable/devices -r
+rm ../symbolia-yaru/scalable/emblems -r
+rm ../symbolia-yaru/scalable/mimetypes -r
+rm ../symbolia-yaru/scalable/status -r
+rm ../symbolia-yaru/scalable/places -r
+rm ../symbolia-yaru/symbolic -r
+cp ../symbolia/scalable/actions ../symbolia-yaru/scalable/actions -r
+cp ../symbolia/scalable/apps ../symbolia-yaru/scalable/apps -r
+cp ../symbolia/scalable/categories ../symbolia-yaru/scalable/categories -r
+cp ../symbolia/scalable/devices ../symbolia-yaru/scalable/devices -r
+cp ../symbolia/scalable/emblems ../symbolia-yaru/scalable/emblems -r
+cp ../symbolia/scalable/mimetypes ../symbolia-yaru/scalable/mimetypes -r
+cp ../symbolia/scalable/status ../symbolia-yaru/scalable/status -r
+cp ../symbolia/scalable/places ../symbolia-yaru/scalable/places -r
+cp ../symbolia/symbolic ../symbolia-yaru/symbolic -r
+cd ../symbolia-yaru/scalable/actions && $SCRIPTS/recolor-yaru
+cd ../apps && $SCRIPTS/recolor-yaru
+cd ../categories && $SCRIPTS/recolor-yaru
+cd ../devices && $SCRIPTS/recolor-yaru
+cd ../emblems && $SCRIPTS/recolor-yaru
+cd ../mimetypes && $SCRIPTS/recolor-yaru
+cd ../places && $SCRIPTS/recolor-yaru
+cd ../status && $SCRIPTS/recolor-yaru
+cd ../../symbolic/actions && $SCRIPTS/recolor-yaru
+cd ../apps && $SCRIPTS/recolor-yaru
+cd ../categories && $SCRIPTS/recolor-yaru
+cd ../devices && $SCRIPTS/recolor-yaru
+cd ../emblems && $SCRIPTS/recolor-yaru
+cd ../mimetypes && $SCRIPTS/recolor-yaru
+cd ../places && $SCRIPTS/recolor-yaru
+cd ../status && $SCRIPTS/recolor-yaru

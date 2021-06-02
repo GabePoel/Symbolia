@@ -2,6 +2,7 @@
 
 COLOR="#"$2
 FILTER="-"$1
+echo "Making $1 folders."
 find . -name "*.svg" -exec sed -i -E 's/fill\="[^"]+"//g' {} \;
 find . -name "*.svg" -exec sed -i "s/<path/<path fill=\"$COLOR\"/g" {} \;
 find . -name "*.svg" -exec sed -i "s/<rect/<rect fill=\"$COLOR\"/g" {} \;
