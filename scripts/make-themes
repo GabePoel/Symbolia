@@ -10,5 +10,7 @@ echo "Creating arc/nord themes."
 echo "Creating yaru themes."
 ./create-yaru-theme
 echo "Coloring folder colors."
+rm ../symbolia-color/scalable/places -r
+cp ../symbolia/scalable/places ../symbolia-color/scalable/places -r
 ./all-folder-colors
 echo "Done!"

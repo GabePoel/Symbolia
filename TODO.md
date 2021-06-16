@@ -2,469 +2,471 @@
 
 ## Maintenance
 
-- [x] Check all Google icons to make sure there's no invisible boxes on them
+-   [ ] Finish/update link inheritance tree
+-   [ ] Correct install script to account for places in link color inheritance
+-   [ ] Bug test Firefox icons for proton
+-   [ ] Remove duplicate icons from across directories
+-   [ ] Improve automated distribution of symbolic and small icons to other themes
+-   [ ] PNG generation
 
-## Icons to Set Up
+## GIMP
 
-### GIMP
-
-- [ ] align-horizontal-baseline-symbolic.svg
-- [ ] align-horizontal-center-symbolic.svg
-- [ ] align-horizontal-left-symbolic.svg
-- [ ] align-horizontal-left-to-anchor-symbolic.svg
-- [ ] align-horizontal-node-symbolic.svg
-- [ ] align-horizontal-right-symbolic.svg
-- [ ] align-horizontal-right-to-anchor-symbolic.svg
-- [ ] align-on-canvas-symbolic.svg
-- [ ] align-sel-as-group-symbolic.svg
-- [ ] align-vertical-baseline-symbolic.svg
-- [ ] align-vertical-bottom-symbolic.svg
-- [ ] align-vertical-bottom-to-anchor-symbolic.svg
-- [ ] align-vertical-center-symbolic.svg
-- [ ] align-vertical-node-symbolic.svg
-- [ ] align-vertical-top-symbolic.svg
-- [ ] align-vertical-top-to-anchor-symbolic.svg
-- [ ] attach-path-symbolic.svg
-- [ ] bend-path-symbolic.svg
-- [ ] bitmap-trace-symbolic.svg
-- [ ] bool-op-symbolic.svg
-- [ ] boundingbox_bottom_left-symbolic.svg
-- [ ] boundingbox_bottom_right-symbolic.svg
-- [ ] boundingbox_bottom-symbolic.svg
-- [ ] boundingbox_center-symbolic.svg
-- [ ] boundingbox_left-symbolic.svg
-- [ ] boundingbox_right-symbolic.svg
-- [ ] bounding-box-symbolic.svg
-- [ ] boundingbox_top_left-symbolic.svg
-- [ ] boundingbox_top_right-symbolic.svg
-- [ ] boundingbox_top-symbolic.svg
-- [ ] bspline-symbolic.svg
-- [ ] clone-original-symbolic.svg
-- [ ] color-fill-symbolic.svg
-- [ ] color-gradient-symbolic.svg
-- [ ] color-management-symbolic.svg
-- [ ] color-picker-symbolic.svg
-- [ ] connector-avoid-symbolic.svg
-- [ ] connector-ignore-symbolic.svg
-- [ ] connector-orthogonal-symbolic.svg
-- [ ] construct-grid-symbolic.svg
-- [ ] copy-rotate-symbolic.svg
-- [ ] curvestitching-symbolic.svg
-- [ ] dashed-stroke-symbolic.svg
-- [ ] dialog-align-and-distribute-symbolic.svg
-- [ ] dialog-fill-and-stroke-symbolic.svg
-- [ ] dialog-filters-symbolic.svg
-- [ ] dialog-geometry-symbolic.svg
-- [ ] dialog-icon-preview-symbolic.svg
-- [ ] dialog-input-devices-symbolic.svg
-- [ ] dialog-layers-symbolic.svg
-- [ ] dialog-memory-symbolic.svg
-- [ ] dialog-messages-symbolic.svg
-- [ ] dialog-object-properties-symbolic.svg
-- [ ] dialog-objects.svg
-- [ ] dialog-path-effects-symbolic.svg
-- [ ] dialog-rows-and-columns-symbolic.svg
-- [ ] dialog-scripts-symbolic.svg
-- [ ] dialog-selectors-symbolic.svg
-- [ ] dialog-templates-symbolic.svg
-- [ ] dialog-text-and-font-symbolic.svg
-- [ ] dialog-tile-clones-symbolic.svg
-- [ ] dialog-transform-symbolic.svg
-- [ ] dialog-xml-editor-symbolic.svg
-- [ ] distribute-graph-directed-symbolic.svg
-- [ ] distribute-graph-symbolic.svg
-- [ ] distribute-horizontal-baseline-symbolic.svg
-- [ ] distribute-horizontal-center-symbolic.svg
-- [ ] distribute-horizontal-gaps-symbolic.svg
-- [ ] distribute-horizontal-left-symbolic.svg
-- [ ] distribute-horizontal-node-symbolic.svg
-- [ ] distribute-horizontal-right-symbolic.svg
-- [ ] distribute-randomize-symbolic.svg
-- [ ] distribute-remove-overlaps-symbolic.svg
-- [ ] distribute-unclump-symbolic.svg
-- [ ] distribute-vertical-baseline-symbolic.svg
-- [ ] distribute-vertical-bottom-symbolic.svg
-- [ ] distribute-vertical-center-symbolic.svg
-- [ ] distribute-vertical-gaps-symbolic.svg
-- [ ] distribute-vertical-node-symbolic.svg
-- [ ] distribute-vertical-top-symbolic.svg
-- [ ] document-cleanup-symbolic.svg
-- [ ] document-export-ocal-symbolic.svg
-- [ ] document-export-symbolic.svg
-- [ ] document-import-ocal-symbolic.svg
-- [ ] document-import-symbolic.svg
-- [ ] document-metadata-symbolic.svg
-- [ ] document-new-symbolic.svg
-- [ ] document-open-symbolic.svg
-- [ ] document-print-symbolic.svg
-- [ ] document-revert-symbolic.svg
-- [ ] document-save-symbolic.svg
-- [ ] draw-calligraphic-symbolic.svg
-- [ ] draw-connector-symbolic.svg
-- [ ] draw-cuboid-symbolic.svg
-- [ ] draw-ellipse-arc-symbolic.svg
-- [ ] draw-ellipse-chord-symbolic.svg
-- [ ] draw-ellipse-segment-symbolic.svg
-- [ ] draw-ellipse-symbolic.svg
-- [ ] draw-ellipse-whole-symbolic.svg
-- [ ] draw-eraser-delete-objects-symbolic.svg
-- [ ] draw-eraser-symbolic.svg
-- [ ] draw-freehand-symbolic.svg
-- [ ] draw-geometry-angle-bisector-symbolic.svg
-- [ ] draw-geometry-circle-from-radius-symbolic.svg
-- [ ] draw-geometry-circle-from-three-points-symbolic.svg
-- [ ] draw-geometry-inactive-symbolic.svg
-- [ ] draw-geometry-line-parallel-symbolic.svg
-- [ ] draw-geometry-line-perpendicular-symbolic.svg
-- [ ] draw-geometry-line-segment-symbolic.svg
-- [ ] draw-geometry-mirror-symbolic.svg
-- [ ] draw-geometry-set-bounding-box-symbolic.svg
-- [ ] draw-geometry-show-measuring-info-symbolic.svg
-- [ ] draw-geometry-symbolic.svg
-- [ ] draw-path-symbolic.svg
-- [ ] draw-polygon-star-symbolic.svg
-- [ ] draw-polygon-symbolic.svg
-- [ ] draw-rectangle-symbolic.svg
-- [ ] draw-spiral-symbolic.svg
-- [ ] draw-star-outline-symbolic.svg
-- [ ] draw-star-symbolic.svg
-- [ ] draw-text-symbolic.svg
-- [ ] draw-trace-background-symbolic.svg
-- [ ] draw-use-pressure-symbolic.svg
-- [ ] draw-use-tilt-symbolic.svg
-- [ ] edit-clone-link.svg
-- [ ] edit-clone-link-lpe.svg
-- [ ] edit-clone-symbolic.svg
-- [ ] edit-clone-unlink-symbolic.svg
-- [ ] edit-copy-symbolic.svg
-- [ ] edit-cut-symbolic.svg
-- [ ] edit-delete-symbolic.svg
-- [ ] edit-duplicate-symbolic.svg
-- [ ] edit-paste-height.svg
-- [ ] edit-paste-height-separately.svg
-- [ ] edit-paste-in-place-symbolic.svg
-- [ ] edit-paste-size.svg
-- [ ] edit-paste-size-separately.svg
-- [ ] edit-paste-style.svg
-- [ ] edit-paste-style-symbolic.svg
-- [ ] edit-paste-symbolic.svg
-- [ ] edit-paste-width.svg
-- [ ] edit-paste-width-seperately.svg
-- [ ] edit-redo-symbolic.svg
-- [ ] edit-select-all-layers-symbolic.svg
-- [ ] edit-select-all-symbolic.svg
-- [ ] edit-select-invert-symbolic.svg
-- [ ] edit-select-none-symbolic.svg
-- [ ] edit-select-original-symbolic.svg
-- [ ] edit-select-same-fill.svg
-- [ ] edit-select-same-fill-and-stroke.svg
-- [ ] edit-select-same-object-type.svg
-- [ ] edit-select-same-stroke-color.svg
-- [ ] edit-select-same-stroke-style.svg
-- [ ] edit-symbolic.svg
-- [ ] edit-undo-history-symbolic.svg
-- [ ] edit-undo-symbolic.svg
-- [ ] ellipse-5pts-symbolic.svg
-- [ ] embrodery-stitch-symbolic.svg
-- [ ] empty-icon-symbolic.svg
-- [ ] envelope-symbolic.svg
-- [ ] exchange-positions-clockwise-symbolic.svg
-- [ ] exchange-positions-symbolic.svg
-- [ ] exchange-positions-zorder-symbolic.svg
-- [ ] experimental-symbolic.svg
-- [ ] feBlend-icon-symbolic.svg
-- [ ] feColorMatrix-icon-symbolic.svg
-- [ ] feComponentTransfer-icon-symbolic.svg
-- [ ] feComposite-icon-symbolic.svg
-- [ ] feConvolveMatrix-icon-symbolic.svg
-- [ ] feDiffuseLighting-icon-symbolic.svg
-- [ ] feDisplacementMap-icon-symbolic.svg
-- [ ] feFlood-icon-symbolic.svg
-- [ ] feGaussianBlur-icon-symbolic.svg
-- [ ] feImage-icon-symbolic.svg
-- [ ] feMerge-icon-symbolic.svg
-- [ ] feMorphology-icon-symbolic.svg
-- [ ] feOffset-icon-symbolic.svg
-- [ ] feSpecularLighting-icon-symbolic.svg
-- [ ] feTile-icon-symbolic.svg
-- [ ] feTurbulence-icon-symbolic.svg
-- [ ] fill-between-many-symbolic.svg
-- [ ] fill-between-strokes-symbolic.svg
-- [ ] fillet-chamfer-symbolic.svg
-- [ ] fill-rule-even-odd-symbolic.svg
-- [ ] fill-rule-nonzero-symbolic.svg
-- [ ] flatten-symbolic.svg
-- [ ] format-indent-less-symbolic.svg
-- [ ] format-indent-more-symbolic.svg
-- [ ] frmt-text-direction-horizontal-symbolic.svg
-- [ ] frmt-text-direction-r2l-symbolic.svg
-- [ ] frmt-text-direction-vertical-lr-symbolic.svg
-- [ ] frmt-text-direction-vertical-symbolic.svg
-- [ ] gears-symbolic.svg
-- [ ] go-down-symbolic.svg
-- [ ] go-up-symbolic.svg
-- [ ] grid-axonometric-symbolic.svg
-- [ ] grid-rectangular-symbolic.svg
-- [ ] guides-symbolic.svg
-- [ ] hamburger-menu-symbolic.svg
-- [ ] hatches-symbolic.svg
-- [ ] help-contents-symbolic.svg
-- [ ] help-keyboard-shortcuts-symbolic.svg
-- [ ] horizontal-symbolic.svg
-- [ ] image-missing-symbolic.svg
-- [ ] info-outline-symbolic.svg
-- [ ] info-symbolic.svg
-- [ ] inkscape-logo-symbolic.svg
-- [ ] interactive_simplify-symbolic.svg
-- [ ] interpolate-points-symbolic.svg
-- [ ] interpolate-symbolic.svg
-- [ ] join-type-symbolic.svg
-- [ ] knot-symbolic.svg
-- [ ] lattice2-symbolic.svg
-- [ ] layer-bottom-symbolic.svg
-- [ ] layer-delete-symbolic.svg
-- [ ] layer-duplicate-symbolic.svg
-- [ ] layer-lower-symbolic.svg
-- [ ] layer-new-symbolic.svg
-- [ ] layer-next-symbolic.svg
-- [ ] layer-previous-symbolic.svg
-- [ ] layer-raise-symbolic.svg
-- [ ] layer-rename-symbolic.svg
-- [ ] layer-top-symbolic.svg
-- [ ] measure-segments-symbolic.svg
-- [ ] mesh-gradient-fit-symbolic.svg
-- [ ] mesh-gradient-symbolic.svg
-- [ ] mirror-symmetry-symbolic.svg
-- [ ] node-add-symbolic.svg
-- [ ] node-break-symbolic.svg
-- [ ] node-delete-segment-symbolic.svg
-- [ ] node-delete-symbolic.svg
-- [ ] node_insert_max_x-symbolic.svg
-- [ ] node_insert_max_y-symbolic.svg
-- [ ] node_insert_min_x-symbolic.svg
-- [ ] node_insert_min_y-symbolic.svg
-- [ ] node-join-segment-symbolic.svg
-- [ ] node-join-symbolic.svg
-- [ ] node-segment-curve-symbolic.svg
-- [ ] node-segment-line-symbolic.svg
-- [ ] node-transform-symbolic.svg
-- [ ] node-type-auto-smooth-symbolic.svg
-- [ ] node-type-cusp-symbolic.svg
-- [ ] node-type-smooth-symbolic.svg
-- [ ] node-type-symmetric-symbolic.svg
-- [ ] no-marker-symbolic.svg
-- [ ] none-symbolic.svg
-- [ ] object-columns-symbolic.svg
-- [ ] object-fill-symbolic.svg
-- [ ] object-flip-horizontal-symbolic.svg
-- [ ] object-flip-hor-symbolic.svg
-- [ ] object-flip-ver-symbolic.svg
-- [ ] object-flip-vertical-symbolic.svg
-- [ ] object-group-symbolic.svg
-- [ ] object-hidden-symbolic.svg
-- [ ] object-locked-symbolic.svg
-- [ ] object-rotate-left-symbolic.svg
-- [ ] object-rotate-right-symbolic.svg
-- [ ] object-rows-symbolic.svg
-- [ ] object-stroke-style-symbolic.svg
-- [ ] object-stroke-symbolic.svg
-- [ ] object-to-path-symbolic.svg
-- [ ] object-tweak-attract-symbolic.svg
-- [ ] object-tweak-blur-symbolic.svg
-- [ ] object-tweak-duplicate-symbolic.svg
-- [ ] object-tweak-jitter-color-symbolic.svg
-- [ ] object-tweak-paint-symbolic.svg
-- [ ] object-tweak-push-symbolic.svg
-- [ ] object-tweak-randomize-symbolic.svg
-- [ ] object-tweak-rotate-symbolic.svg
-- [ ] object-tweak-shrink-symbolic.svg
-- [ ] object-ungroup-pop-selection-symbolic.svg
-- [ ] object-ungroup-symbolic.svg
-- [ ] object-unlocked-symbolic.svg
-- [ ] object-visible-symbolic.svg
-- [ ] off-outline-symbolic.svg
-- [ ] offset-symbolic.svg
-- [ ] off-symbolic.svg
-- [ ] on-outline-symbolic.svg
-- [ ] on-symbolic.svg
-- [ ] out-of-gamut-icon-symbolic.svg
-- [ ] pack-less-symbolic.svg
-- [ ] pack-more-symbolic.svg
-- [ ] paint-gradient-conical-symbolic.svg
-- [ ] paint-gradient-linear-symbolic.svg
-- [ ] paint-gradient-mesh-symbolic.svg
-- [ ] paint-gradient-radial-symbolic.svg
-- [ ] paint-none-symbolic.svg
-- [ ] paint-order-fms-symbolic.svg
-- [ ] paint-order-fsm-symbolic.svg
-- [ ] paint-order-mfs-symbolic.svg
-- [ ] paint-order-msf-symbolic.svg
-- [ ] paint-order-sfm-symbolic.svg
-- [ ] paint-order-smf-symbolic.svg
-- [ ] paint-pattern-symbolic.svg
-- [ ] paint-solid-symbolic.svg
-- [ ] paint-swatch-symbolic.svg
-- [ ] paint-unknown-symbolic.svg
-- [ ] path-break-apart-symbolic.svg
-- [ ] path-clip-edit-symbolic.svg
-- [ ] path-combine-symbolic.svg
-- [ ] path-cut-symbolic.svg
-- [ ] path-difference-symbolic.svg
-- [ ] path-division-symbolic.svg
-- [ ] path-effect-parameter-next-symbolic.svg
-- [ ] path-exclusion-symbolic.svg
-- [ ] path-inset-symbolic.svg
-- [ ] path-intersection-symbolic.svg
-- [ ] path-mask-edit-symbolic.svg
-- [ ] path-mode-bezier-symbolic.svg
-- [ ] path-mode-bspline-symbolic.svg
-- [ ] path-mode-polyline-paraxial-symbolic.svg
-- [ ] path-mode-polyline-symbolic.svg
-- [ ] path-mode-spiro-symbolic.svg
-- [ ] path-offset-dynamic-symbolic.svg
-- [ ] path-offset-linked-symbolic.svg
-- [ ] path-outset-symbolic.svg
-- [ ] path-reverse-symbolic.svg
-- [ ] path-simplify-symbolic.svg
-- [ ] path-tweak-attract-symbolic.svg
-- [ ] path-tweak-push-symbolic.svg
-- [ ] path-tweak-roughen-symbolic.svg
-- [ ] path-tweak-shrink-symbolic.svg
-- [ ] path-union-symbolic.svg
-- [ ] perspective-envelope-symbolic.svg
-- [ ] perspective-parallel-symbolic.svg
-- [ ] pixelart-trace-symbolic.svg
-- [ ] powerclip-symbolic.svg
-- [ ] powermask-symbolic.svg
-- [ ] powerstroke-symbolic.svg
-- [ ] preferences-system-symbolic.svg
-- [ ] pts2ellipse-symbolic.svg
-- [ ] randomize-symbolic.svg
-- [ ] rectangle-make-corners-sharp-symbolic.svg
-- [ ] remove-color-symbolic.svg
-- [ ] roughen-symbolic.svg
-- [ ] rough-hatches-symbolic.svg
-- [ ] ruler-symbolic.svg
-- [ ] searching-symbolic.svg
-- [ ] selection-bottom-symbolic.svg
-- [ ] selection-lower-symbolic.svg
-- [ ] selection-make-bitmap-copy-symbolic.svg
-- [ ] selection-move-to-layer-above-symbolic.svg
-- [ ] selection-move-to-layer-below-symbolic.svg
-- [ ] selection-move-to-layer-symbolic.svg
-- [ ] selection-raise-symbolic.svg
-- [ ] selection-top-symbolic.svg
-- [ ] show-bounding-box-symbolic.svg
-- [ ] show-dialogs-symbolic.svg
-- [ ] show-grid-symbolic.svg
-- [ ] show-guides-symbolic.svg
-- [ ] show-handles-symbolic.svg
-- [ ] show-node-handles-symbolic.svg
-- [ ] show-path-outline-symbolic.svg
-- [ ] simplify-symbolic.svg
-- [ ] skeletal-symbolic.svg
-- [ ] sketch-symbolic.svg
-- [ ] snap-bounding-box-center-symbolic.svg
-- [ ] snap-bounding-box-corners-symbolic.svg
-- [ ] snap-bounding-box-edges-symbolic.svg
-- [ ] snap-bounding-box-midpoints-symbolic.svg
-- [ ] snap-bounding-box-symbolic.svg
-- [ ] snap-grid-guide-intersections-symbolic.svg
-- [ ] snap-nodes-center-symbolic.svg
-- [ ] snap-nodes-cusp-symbolic.svg
-- [ ] snap-nodes-intersection-symbolic.svg
-- [ ] snap-nodes-midpoint-symbolic.svg
-- [ ] snap-nodes-path-symbolic.svg
-- [ ] snap-nodes-rotation-center-symbolic.svg
-- [ ] snap-nodes-smooth-symbolic.svg
-- [ ] snap-nodes-symbolic.svg
-- [ ] snap-others-symbolic.svg
-- [ ] snap-page-symbolic.svg
-- [ ] snap-symbolic.svg
-- [ ] snap-text-baseline-symbolic.svg
-- [ ] spiro-symbolic.svg
-- [ ] spray-mode-clone-symbolic.svg
-- [ ] spray-mode-copy-symbolic.svg
-- [ ] spray-mode-union-symbolic.svg
-- [ ] sticky_zoom-symbolic.svg
-- [ ] stroke-cap-butt-symbolic.svg
-- [ ] stroke-cap-round-symbolic.svg
-- [ ] stroke-cap-square-symbolic.svg
-- [ ] stroke-join-bevel-symbolic.svg
-- [ ] stroke-join-miter-symbolic.svg
-- [ ] stroke-join-round-symbolic.svg
-- [ ] stroke-to-path-symbolic.svg
-- [ ] swatches-symbolic.svg
-- [ ] switch-off-symbolic.svg
-- [ ] switch-on-symbolic.svg
-- [ ] symbol-add-symbolic.svg
-- [ ] symbol-bigger-symbolic.svg
-- [ ] symbol-fit-symbolic.svg
-- [ ] symbol-remove-symbolic.svg
-- [ ] symbol-smaller-symbolic.svg
-- [ ] symbols-symbolic.svg
-- [ ] taper-stroke-symbolic.svg
-- [ ] text-convert-to-regular-symbolic.svg
-- [ ] text-flow-into-frame-symbolic.svg
-- [ ] text_horz_kern-symbolic.svg
-- [ ] text_letter_spacing-symbolic.svg
-- [ ] text_line_spacing-symbolic.svg
-- [ ] text-orientation-auto-symbolic.svg
-- [ ] text-orientation-sideways-symbolic.svg
-- [ ] text-orientation-upright-symbolic.svg
-- [ ] text_outer_style-symbolic.svg
-- [ ] text-put-on-path-symbolic.svg
-- [ ] text-remove-from-path-symbolic.svg
-- [ ] text_rotation-symbolic.svg
-- [ ] text_subscript-symbolic.svg
-- [ ] text_superscript-symbolic.svg
-- [ ] text-unflow-symbolic.svg
-- [ ] text-unkern-symbolic.svg
-- [ ] text_vert_kern-symbolic.svg
-- [ ] text_word_spacing-symbolic.svg
-- [ ] tool-measure-symbolic.svg
-- [ ] tool-node-editor-symbolic.svg
-- [ ] tool-pointer-symbolic.svg
-- [ ] tool-spray-symbolic.svg
-- [ ] tool-tweak-symbolic.svg
-- [ ] too-much-ink-icon-symbolic.svg
-- [ ] transform-2pts-symbolic.svg
-- [ ] transform-affect-gradient-symbolic.svg
-- [ ] transform-affect-pattern-symbolic.svg
-- [ ] transform-affect-rounded-corners-symbolic.svg
-- [ ] transform-affect-stroke-symbolic.svg
-- [ ] transform-move-horizontal-symbolic.svg
-- [ ] transform-move-vertical-symbolic.svg
-- [ ] transform-rotate-symbolic.svg
-- [ ] transform-scale-horizontal-symbolic.svg
-- [ ] transform-scale-vertical-symbolic.svg
-- [ ] transform-skew-horizontal-symbolic.svg
-- [ ] transform-skew-vertical-symbolic.svg
-- [ ] vertical-symbolic.svg
-- [ ] view-fullscreen-symbolic.svg
-- [ ] vonkoch-symbolic.svg
-- [ ] window-new-symbolic.svg
-- [ ] window-next-symbolic.svg
-- [ ] window-previous-symbolic.svg
-- [ ] xml-attribute-delete-symbolic.svg
-- [ ] xml-element-new-symbolic.svg
-- [ ] xml-node-delete-symbolic.svg
-- [ ] xml-node-duplicate-symbolic.svg
-- [ ] xml-text-new-symbolic.svg
-- [ ] zoom-center-page-symbolic.svg
-- [ ] zoom-double-size-symbolic.svg
-- [ ] zoom-fit-drawing-symbolic.svg
-- [ ] zoom-fit-page-symbolic.svg
-- [ ] zoom-fit-selection-symbolic.svg
-- [ ] zoom-fit-width-symbolic.svg
-- [ ] zoom-half-size-symbolic.svg
-- [ ] zoom-in-symbolic.svg
-- [ ] zoom-next-symbolic.svg
-- [ ] zoom-original-symbolic.svg
-- [ ] zoom-out-symbolic.svg
-- [ ] zoom-previous-symbolic.svg
-- [ ] zoom-symbolic.svg
-
-### Breeze
-
-- [ ] Almost all of them
+- [ ] Look into how GIMP icon themes work
+- [ ] Make GIMP icon installation script
+- [ ] Make GIMP icons
+    - [ ] align-horizontal-baseline-symbolic.svg
+    - [ ] align-horizontal-center-symbolic.svg
+    - [ ] align-horizontal-left-symbolic.svg
+    - [ ] align-horizontal-left-to-anchor-symbolic.svg
+    - [ ] align-horizontal-node-symbolic.svg
+    - [ ] align-horizontal-right-symbolic.svg
+    - [ ] align-horizontal-right-to-anchor-symbolic.svg
+    - [ ] align-on-canvas-symbolic.svg
+    - [ ] align-sel-as-group-symbolic.svg
+    - [ ] align-vertical-baseline-symbolic.svg
+    - [ ] align-vertical-bottom-symbolic.svg
+    - [ ] align-vertical-bottom-to-anchor-symbolic.svg
+    - [ ] align-vertical-center-symbolic.svg
+    - [ ] align-vertical-node-symbolic.svg
+    - [ ] align-vertical-top-symbolic.svg
+    - [ ] align-vertical-top-to-anchor-symbolic.svg
+    - [ ] attach-path-symbolic.svg
+    - [ ] bend-path-symbolic.svg
+    - [ ] bitmap-trace-symbolic.svg
+    - [ ] bool-op-symbolic.svg
+    - [ ] boundingbox_bottom_left-symbolic.svg
+    - [ ] boundingbox_bottom_right-symbolic.svg
+    - [ ] boundingbox_bottom-symbolic.svg
+    - [ ] boundingbox_center-symbolic.svg
+    - [ ] boundingbox_left-symbolic.svg
+    - [ ] boundingbox_right-symbolic.svg
+    - [ ] bounding-box-symbolic.svg
+    - [ ] boundingbox_top_left-symbolic.svg
+    - [ ] boundingbox_top_right-symbolic.svg
+    - [ ] boundingbox_top-symbolic.svg
+    - [ ] bspline-symbolic.svg
+    - [ ] clone-original-symbolic.svg
+    - [ ] color-fill-symbolic.svg
+    - [ ] color-gradient-symbolic.svg
+    - [ ] color-management-symbolic.svg
+    - [ ] color-picker-symbolic.svg
+    - [ ] connector-avoid-symbolic.svg
+    - [ ] connector-ignore-symbolic.svg
+    - [ ] connector-orthogonal-symbolic.svg
+    - [ ] construct-grid-symbolic.svg
+    - [ ] copy-rotate-symbolic.svg
+    - [ ] curvestitching-symbolic.svg
+    - [ ] dashed-stroke-symbolic.svg
+    - [ ] dialog-align-and-distribute-symbolic.svg
+    - [ ] dialog-fill-and-stroke-symbolic.svg
+    - [ ] dialog-filters-symbolic.svg
+    - [ ] dialog-geometry-symbolic.svg
+    - [ ] dialog-icon-preview-symbolic.svg
+    - [ ] dialog-input-devices-symbolic.svg
+    - [ ] dialog-layers-symbolic.svg
+    - [ ] dialog-memory-symbolic.svg
+    - [ ] dialog-messages-symbolic.svg
+    - [ ] dialog-object-properties-symbolic.svg
+    - [ ] dialog-objects.svg
+    - [ ] dialog-path-effects-symbolic.svg
+    - [ ] dialog-rows-and-columns-symbolic.svg
+    - [ ] dialog-scripts-symbolic.svg
+    - [ ] dialog-selectors-symbolic.svg
+    - [ ] dialog-templates-symbolic.svg
+    - [ ] dialog-text-and-font-symbolic.svg
+    - [ ] dialog-tile-clones-symbolic.svg
+    - [ ] dialog-transform-symbolic.svg
+    - [ ] dialog-xml-editor-symbolic.svg
+    - [ ] distribute-graph-directed-symbolic.svg
+    - [ ] distribute-graph-symbolic.svg
+    - [ ] distribute-horizontal-baseline-symbolic.svg
+    - [ ] distribute-horizontal-center-symbolic.svg
+    - [ ] distribute-horizontal-gaps-symbolic.svg
+    - [ ] distribute-horizontal-left-symbolic.svg
+    - [ ] distribute-horizontal-node-symbolic.svg
+    - [ ] distribute-horizontal-right-symbolic.svg
+    - [ ] distribute-randomize-symbolic.svg
+    - [ ] distribute-remove-overlaps-symbolic.svg
+    - [ ] distribute-unclump-symbolic.svg
+    - [ ] distribute-vertical-baseline-symbolic.svg
+    - [ ] distribute-vertical-bottom-symbolic.svg
+    - [ ] distribute-vertical-center-symbolic.svg
+    - [ ] distribute-vertical-gaps-symbolic.svg
+    - [ ] distribute-vertical-node-symbolic.svg
+    - [ ] distribute-vertical-top-symbolic.svg
+    - [ ] document-cleanup-symbolic.svg
+    - [ ] document-export-ocal-symbolic.svg
+    - [ ] document-export-symbolic.svg
+    - [ ] document-import-ocal-symbolic.svg
+    - [ ] document-import-symbolic.svg
+    - [ ] document-metadata-symbolic.svg
+    - [ ] document-new-symbolic.svg
+    - [ ] document-open-symbolic.svg
+    - [ ] document-print-symbolic.svg
+    - [ ] document-revert-symbolic.svg
+    - [ ] document-save-symbolic.svg
+    - [ ] draw-calligraphic-symbolic.svg
+    - [ ] draw-connector-symbolic.svg
+    - [ ] draw-cuboid-symbolic.svg
+    - [ ] draw-ellipse-arc-symbolic.svg
+    - [ ] draw-ellipse-chord-symbolic.svg
+    - [ ] draw-ellipse-segment-symbolic.svg
+    - [ ] draw-ellipse-symbolic.svg
+    - [ ] draw-ellipse-whole-symbolic.svg
+    - [ ] draw-eraser-delete-objects-symbolic.svg
+    - [ ] draw-eraser-symbolic.svg
+    - [ ] draw-freehand-symbolic.svg
+    - [ ] draw-geometry-angle-bisector-symbolic.svg
+    - [ ] draw-geometry-circle-from-radius-symbolic.svg
+    - [ ] draw-geometry-circle-from-three-points-symbolic.svg
+    - [ ] draw-geometry-inactive-symbolic.svg
+    - [ ] draw-geometry-line-parallel-symbolic.svg
+    - [ ] draw-geometry-line-perpendicular-symbolic.svg
+    - [ ] draw-geometry-line-segment-symbolic.svg
+    - [ ] draw-geometry-mirror-symbolic.svg
+    - [ ] draw-geometry-set-bounding-box-symbolic.svg
+    - [ ] draw-geometry-show-measuring-info-symbolic.svg
+    - [ ] draw-geometry-symbolic.svg
+    - [ ] draw-path-symbolic.svg
+    - [ ] draw-polygon-star-symbolic.svg
+    - [ ] draw-polygon-symbolic.svg
+    - [ ] draw-rectangle-symbolic.svg
+    - [ ] draw-spiral-symbolic.svg
+    - [ ] draw-star-outline-symbolic.svg
+    - [ ] draw-star-symbolic.svg
+    - [ ] draw-text-symbolic.svg
+    - [ ] draw-trace-background-symbolic.svg
+    - [ ] draw-use-pressure-symbolic.svg
+    - [ ] draw-use-tilt-symbolic.svg
+    - [ ] edit-clone-link.svg
+    - [ ] edit-clone-link-lpe.svg
+    - [ ] edit-clone-symbolic.svg
+    - [ ] edit-clone-unlink-symbolic.svg
+    - [ ] edit-copy-symbolic.svg
+    - [ ] edit-cut-symbolic.svg
+    - [ ] edit-delete-symbolic.svg
+    - [ ] edit-duplicate-symbolic.svg
+    - [ ] edit-paste-height.svg
+    - [ ] edit-paste-height-separately.svg
+    - [ ] edit-paste-in-place-symbolic.svg
+    - [ ] edit-paste-size.svg
+    - [ ] edit-paste-size-separately.svg
+    - [ ] edit-paste-style.svg
+    - [ ] edit-paste-style-symbolic.svg
+    - [ ] edit-paste-symbolic.svg
+    - [ ] edit-paste-width.svg
+    - [ ] edit-paste-width-seperately.svg
+    - [ ] edit-redo-symbolic.svg
+    - [ ] edit-select-all-layers-symbolic.svg
+    - [ ] edit-select-all-symbolic.svg
+    - [ ] edit-select-invert-symbolic.svg
+    - [ ] edit-select-none-symbolic.svg
+    - [ ] edit-select-original-symbolic.svg
+    - [ ] edit-select-same-fill.svg
+    - [ ] edit-select-same-fill-and-stroke.svg
+    - [ ] edit-select-same-object-type.svg
+    - [ ] edit-select-same-stroke-color.svg
+    - [ ] edit-select-same-stroke-style.svg
+    - [ ] edit-symbolic.svg
+    - [ ] edit-undo-history-symbolic.svg
+    - [ ] edit-undo-symbolic.svg
+    - [ ] ellipse-5pts-symbolic.svg
+    - [ ] embrodery-stitch-symbolic.svg
+    - [ ] empty-icon-symbolic.svg
+    - [ ] envelope-symbolic.svg
+    - [ ] exchange-positions-clockwise-symbolic.svg
+    - [ ] exchange-positions-symbolic.svg
+    - [ ] exchange-positions-zorder-symbolic.svg
+    - [ ] experimental-symbolic.svg
+    - [ ] feBlend-icon-symbolic.svg
+    - [ ] feColorMatrix-icon-symbolic.svg
+    - [ ] feComponentTransfer-icon-symbolic.svg
+    - [ ] feComposite-icon-symbolic.svg
+    - [ ] feConvolveMatrix-icon-symbolic.svg
+    - [ ] feDiffuseLighting-icon-symbolic.svg
+    - [ ] feDisplacementMap-icon-symbolic.svg
+    - [ ] feFlood-icon-symbolic.svg
+    - [ ] feGaussianBlur-icon-symbolic.svg
+    - [ ] feImage-icon-symbolic.svg
+    - [ ] feMerge-icon-symbolic.svg
+    - [ ] feMorphology-icon-symbolic.svg
+    - [ ] feOffset-icon-symbolic.svg
+    - [ ] feSpecularLighting-icon-symbolic.svg
+    - [ ] feTile-icon-symbolic.svg
+    - [ ] feTurbulence-icon-symbolic.svg
+    - [ ] fill-between-many-symbolic.svg
+    - [ ] fill-between-strokes-symbolic.svg
+    - [ ] fillet-chamfer-symbolic.svg
+    - [ ] fill-rule-even-odd-symbolic.svg
+    - [ ] fill-rule-nonzero-symbolic.svg
+    - [ ] flatten-symbolic.svg
+    - [ ] format-indent-less-symbolic.svg
+    - [ ] format-indent-more-symbolic.svg
+    - [ ] frmt-text-direction-horizontal-symbolic.svg
+    - [ ] frmt-text-direction-r2l-symbolic.svg
+    - [ ] frmt-text-direction-vertical-lr-symbolic.svg
+    - [ ] frmt-text-direction-vertical-symbolic.svg
+    - [ ] gears-symbolic.svg
+    - [ ] go-down-symbolic.svg
+    - [ ] go-up-symbolic.svg
+    - [ ] grid-axonometric-symbolic.svg
+    - [ ] grid-rectangular-symbolic.svg
+    - [ ] guides-symbolic.svg
+    - [ ] hamburger-menu-symbolic.svg
+    - [ ] hatches-symbolic.svg
+    - [ ] help-contents-symbolic.svg
+    - [ ] help-keyboard-shortcuts-symbolic.svg
+    - [ ] horizontal-symbolic.svg
+    - [ ] image-missing-symbolic.svg
+    - [ ] info-outline-symbolic.svg
+    - [ ] info-symbolic.svg
+    - [ ] inkscape-logo-symbolic.svg
+    - [ ] interactive_simplify-symbolic.svg
+    - [ ] interpolate-points-symbolic.svg
+    - [ ] interpolate-symbolic.svg
+    - [ ] join-type-symbolic.svg
+    - [ ] knot-symbolic.svg
+    - [ ] lattice2-symbolic.svg
+    - [ ] layer-bottom-symbolic.svg
+    - [ ] layer-delete-symbolic.svg
+    - [ ] layer-duplicate-symbolic.svg
+    - [ ] layer-lower-symbolic.svg
+    - [ ] layer-new-symbolic.svg
+    - [ ] layer-next-symbolic.svg
+    - [ ] layer-previous-symbolic.svg
+    - [ ] layer-raise-symbolic.svg
+    - [ ] layer-rename-symbolic.svg
+    - [ ] layer-top-symbolic.svg
+    - [ ] measure-segments-symbolic.svg
+    - [ ] mesh-gradient-fit-symbolic.svg
+    - [ ] mesh-gradient-symbolic.svg
+    - [ ] mirror-symmetry-symbolic.svg
+    - [ ] node-add-symbolic.svg
+    - [ ] node-break-symbolic.svg
+    - [ ] node-delete-segment-symbolic.svg
+    - [ ] node-delete-symbolic.svg
+    - [ ] node_insert_max_x-symbolic.svg
+    - [ ] node_insert_max_y-symbolic.svg
+    - [ ] node_insert_min_x-symbolic.svg
+    - [ ] node_insert_min_y-symbolic.svg
+    - [ ] node-join-segment-symbolic.svg
+    - [ ] node-join-symbolic.svg
+    - [ ] node-segment-curve-symbolic.svg
+    - [ ] node-segment-line-symbolic.svg
+    - [ ] node-transform-symbolic.svg
+    - [ ] node-type-auto-smooth-symbolic.svg
+    - [ ] node-type-cusp-symbolic.svg
+    - [ ] node-type-smooth-symbolic.svg
+    - [ ] node-type-symmetric-symbolic.svg
+    - [ ] no-marker-symbolic.svg
+    - [ ] none-symbolic.svg
+    - [ ] object-columns-symbolic.svg
+    - [ ] object-fill-symbolic.svg
+    - [ ] object-flip-horizontal-symbolic.svg
+    - [ ] object-flip-hor-symbolic.svg
+    - [ ] object-flip-ver-symbolic.svg
+    - [ ] object-flip-vertical-symbolic.svg
+    - [ ] object-group-symbolic.svg
+    - [ ] object-hidden-symbolic.svg
+    - [ ] object-locked-symbolic.svg
+    - [ ] object-rotate-left-symbolic.svg
+    - [ ] object-rotate-right-symbolic.svg
+    - [ ] object-rows-symbolic.svg
+    - [ ] object-stroke-style-symbolic.svg
+    - [ ] object-stroke-symbolic.svg
+    - [ ] object-to-path-symbolic.svg
+    - [ ] object-tweak-attract-symbolic.svg
+    - [ ] object-tweak-blur-symbolic.svg
+    - [ ] object-tweak-duplicate-symbolic.svg
+    - [ ] object-tweak-jitter-color-symbolic.svg
+    - [ ] object-tweak-paint-symbolic.svg
+    - [ ] object-tweak-push-symbolic.svg
+    - [ ] object-tweak-randomize-symbolic.svg
+    - [ ] object-tweak-rotate-symbolic.svg
+    - [ ] object-tweak-shrink-symbolic.svg
+    - [ ] object-ungroup-pop-selection-symbolic.svg
+    - [ ] object-ungroup-symbolic.svg
+    - [ ] object-unlocked-symbolic.svg
+    - [ ] object-visible-symbolic.svg
+    - [ ] off-outline-symbolic.svg
+    - [ ] offset-symbolic.svg
+    - [ ] off-symbolic.svg
+    - [ ] on-outline-symbolic.svg
+    - [ ] on-symbolic.svg
+    - [ ] out-of-gamut-icon-symbolic.svg
+    - [ ] pack-less-symbolic.svg
+    - [ ] pack-more-symbolic.svg
+    - [ ] paint-gradient-conical-symbolic.svg
+    - [ ] paint-gradient-linear-symbolic.svg
+    - [ ] paint-gradient-mesh-symbolic.svg
+    - [ ] paint-gradient-radial-symbolic.svg
+    - [ ] paint-none-symbolic.svg
+    - [ ] paint-order-fms-symbolic.svg
+    - [ ] paint-order-fsm-symbolic.svg
+    - [ ] paint-order-mfs-symbolic.svg
+    - [ ] paint-order-msf-symbolic.svg
+    - [ ] paint-order-sfm-symbolic.svg
+    - [ ] paint-order-smf-symbolic.svg
+    - [ ] paint-pattern-symbolic.svg
+    - [ ] paint-solid-symbolic.svg
+    - [ ] paint-swatch-symbolic.svg
+    - [ ] paint-unknown-symbolic.svg
+    - [ ] path-break-apart-symbolic.svg
+    - [ ] path-clip-edit-symbolic.svg
+    - [ ] path-combine-symbolic.svg
+    - [ ] path-cut-symbolic.svg
+    - [ ] path-difference-symbolic.svg
+    - [ ] path-division-symbolic.svg
+    - [ ] path-effect-parameter-next-symbolic.svg
+    - [ ] path-exclusion-symbolic.svg
+    - [ ] path-inset-symbolic.svg
+    - [ ] path-intersection-symbolic.svg
+    - [ ] path-mask-edit-symbolic.svg
+    - [ ] path-mode-bezier-symbolic.svg
+    - [ ] path-mode-bspline-symbolic.svg
+    - [ ] path-mode-polyline-paraxial-symbolic.svg
+    - [ ] path-mode-polyline-symbolic.svg
+    - [ ] path-mode-spiro-symbolic.svg
+    - [ ] path-offset-dynamic-symbolic.svg
+    - [ ] path-offset-linked-symbolic.svg
+    - [ ] path-outset-symbolic.svg
+    - [ ] path-reverse-symbolic.svg
+    - [ ] path-simplify-symbolic.svg
+    - [ ] path-tweak-attract-symbolic.svg
+    - [ ] path-tweak-push-symbolic.svg
+    - [ ] path-tweak-roughen-symbolic.svg
+    - [ ] path-tweak-shrink-symbolic.svg
+    - [ ] path-union-symbolic.svg
+    - [ ] perspective-envelope-symbolic.svg
+    - [ ] perspective-parallel-symbolic.svg
+    - [ ] pixelart-trace-symbolic.svg
+    - [ ] powerclip-symbolic.svg
+    - [ ] powermask-symbolic.svg
+    - [ ] powerstroke-symbolic.svg
+    - [ ] preferences-system-symbolic.svg
+    - [ ] pts2ellipse-symbolic.svg
+    - [ ] randomize-symbolic.svg
+    - [ ] rectangle-make-corners-sharp-symbolic.svg
+    - [ ] remove-color-symbolic.svg
+    - [ ] roughen-symbolic.svg
+    - [ ] rough-hatches-symbolic.svg
+    - [ ] ruler-symbolic.svg
+    - [ ] searching-symbolic.svg
+    - [ ] selection-bottom-symbolic.svg
+    - [ ] selection-lower-symbolic.svg
+    - [ ] selection-make-bitmap-copy-symbolic.svg
+    - [ ] selection-move-to-layer-above-symbolic.svg
+    - [ ] selection-move-to-layer-below-symbolic.svg
+    - [ ] selection-move-to-layer-symbolic.svg
+    - [ ] selection-raise-symbolic.svg
+    - [ ] selection-top-symbolic.svg
+    - [ ] show-bounding-box-symbolic.svg
+    - [ ] show-dialogs-symbolic.svg
+    - [ ] show-grid-symbolic.svg
+    - [ ] show-guides-symbolic.svg
+    - [ ] show-handles-symbolic.svg
+    - [ ] show-node-handles-symbolic.svg
+    - [ ] show-path-outline-symbolic.svg
+    - [ ] simplify-symbolic.svg
+    - [ ] skeletal-symbolic.svg
+    - [ ] sketch-symbolic.svg
+    - [ ] snap-bounding-box-center-symbolic.svg
+    - [ ] snap-bounding-box-corners-symbolic.svg
+    - [ ] snap-bounding-box-edges-symbolic.svg
+    - [ ] snap-bounding-box-midpoints-symbolic.svg
+    - [ ] snap-bounding-box-symbolic.svg
+    - [ ] snap-grid-guide-intersections-symbolic.svg
+    - [ ] snap-nodes-center-symbolic.svg
+    - [ ] snap-nodes-cusp-symbolic.svg
+    - [ ] snap-nodes-intersection-symbolic.svg
+    - [ ] snap-nodes-midpoint-symbolic.svg
+    - [ ] snap-nodes-path-symbolic.svg
+    - [ ] snap-nodes-rotation-center-symbolic.svg
+    - [ ] snap-nodes-smooth-symbolic.svg
+    - [ ] snap-nodes-symbolic.svg
+    - [ ] snap-others-symbolic.svg
+    - [ ] snap-page-symbolic.svg
+    - [ ] snap-symbolic.svg
+    - [ ] snap-text-baseline-symbolic.svg
+    - [ ] spiro-symbolic.svg
+    - [ ] spray-mode-clone-symbolic.svg
+    - [ ] spray-mode-copy-symbolic.svg
+    - [ ] spray-mode-union-symbolic.svg
+    - [ ] sticky_zoom-symbolic.svg
+    - [ ] stroke-cap-butt-symbolic.svg
+    - [ ] stroke-cap-round-symbolic.svg
+    - [ ] stroke-cap-square-symbolic.svg
+    - [ ] stroke-join-bevel-symbolic.svg
+    - [ ] stroke-join-miter-symbolic.svg
+    - [ ] stroke-join-round-symbolic.svg
+    - [ ] stroke-to-path-symbolic.svg
+    - [ ] swatches-symbolic.svg
+    - [ ] switch-off-symbolic.svg
+    - [ ] switch-on-symbolic.svg
+    - [ ] symbol-add-symbolic.svg
+    - [ ] symbol-bigger-symbolic.svg
+    - [ ] symbol-fit-symbolic.svg
+    - [ ] symbol-remove-symbolic.svg
+    - [ ] symbol-smaller-symbolic.svg
+    - [ ] symbols-symbolic.svg
+    - [ ] taper-stroke-symbolic.svg
+    - [ ] text-convert-to-regular-symbolic.svg
+    - [ ] text-flow-into-frame-symbolic.svg
+    - [ ] text_horz_kern-symbolic.svg
+    - [ ] text_letter_spacing-symbolic.svg
+    - [ ] text_line_spacing-symbolic.svg
+    - [ ] text-orientation-auto-symbolic.svg
+    - [ ] text-orientation-sideways-symbolic.svg
+    - [ ] text-orientation-upright-symbolic.svg
+    - [ ] text_outer_style-symbolic.svg
+    - [ ] text-put-on-path-symbolic.svg
+    - [ ] text-remove-from-path-symbolic.svg
+    - [ ] text_rotation-symbolic.svg
+    - [ ] text_subscript-symbolic.svg
+    - [ ] text_superscript-symbolic.svg
+    - [ ] text-unflow-symbolic.svg
+    - [ ] text-unkern-symbolic.svg
+    - [ ] text_vert_kern-symbolic.svg
+    - [ ] text_word_spacing-symbolic.svg
+    - [ ] tool-measure-symbolic.svg
+    - [ ] tool-node-editor-symbolic.svg
+    - [ ] tool-pointer-symbolic.svg
+    - [ ] tool-spray-symbolic.svg
+    - [ ] tool-tweak-symbolic.svg
+    - [ ] too-much-ink-icon-symbolic.svg
+    - [ ] transform-2pts-symbolic.svg
+    - [ ] transform-affect-gradient-symbolic.svg
+    - [ ] transform-affect-pattern-symbolic.svg
+    - [ ] transform-affect-rounded-corners-symbolic.svg
+    - [ ] transform-affect-stroke-symbolic.svg
+    - [ ] transform-move-horizontal-symbolic.svg
+    - [ ] transform-move-vertical-symbolic.svg
+    - [ ] transform-rotate-symbolic.svg
+    - [ ] transform-scale-horizontal-symbolic.svg
+    - [ ] transform-scale-vertical-symbolic.svg
+    - [ ] transform-skew-horizontal-symbolic.svg
+    - [ ] transform-skew-vertical-symbolic.svg
+    - [ ] vertical-symbolic.svg
+    - [ ] view-fullscreen-symbolic.svg
+    - [ ] vonkoch-symbolic.svg
+    - [ ] window-new-symbolic.svg
+    - [ ] window-next-symbolic.svg
+    - [ ] window-previous-symbolic.svg
+    - [ ] xml-attribute-delete-symbolic.svg
+    - [ ] xml-element-new-symbolic.svg
+    - [ ] xml-node-delete-symbolic.svg
+    - [ ] xml-node-duplicate-symbolic.svg
+    - [ ] xml-text-new-symbolic.svg
+    - [ ] zoom-center-page-symbolic.svg
+    - [ ] zoom-double-size-symbolic.svg
+    - [ ] zoom-fit-drawing-symbolic.svg
+    - [ ] zoom-fit-page-symbolic.svg
+    - [ ] zoom-fit-selection-symbolic.svg
+    - [ ] zoom-fit-width-symbolic.svg
+    - [ ] zoom-half-size-symbolic.svg
+    - [ ] zoom-in-symbolic.svg
+    - [ ] zoom-next-symbolic.svg
+    - [ ] zoom-original-symbolic.svg
+    - [ ] zoom-out-symbolic.svg
+    - [ ] zoom-previous-symbolic.svg
+    - [ ] zoom-symbolic.svg
