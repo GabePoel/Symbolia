@@ -1,0 +1,57 @@
+#!/usr/bin/python3
+import os
+from os import path
+from shutil import rmtree
+
+
+def parent(fp):
+    return path.abspath(path.dirname(fp))
+
+
+color_names = [
+    'green',
+    'red',
+    'blue',
+    'grey',
+    'cyan',
+    'mint',
+    'yaru',
+    'black',
+    'brown',
+    'purple',
+    'yellow',
+    'adwaita',
+    'pink',
+    'bordeaux',
+    'manjaro',
+    'darkblue',
+    'aubergine',
+    'canonical',
+    'synthwave',
+    'vermillion',
+    'orange']
+
+
+def has_color(name):
+    has = False
+    for color in color_names:
+        if color in name:
+            has = True
+    return has
+
+
+here = os.getcwd()
+symbolia_dir = parent(here)
+colored_places = path.join(
+    symbolia_dir,
+    'symbolia-color',
+    'scalable',
+    'places')
+
+places = os.listdir(colored_places)
+
+for place in places:
+    if not has_color(place):
+        fp = path.join(colored_places, place)
+        print(fp)
+        os.remove(fp)

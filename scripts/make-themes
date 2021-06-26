@@ -13,4 +13,5 @@ echo "Coloring folder colors."
 rm ../symbolia-color/scalable/places -r
 cp ../symbolia/scalable/places ../symbolia-color/scalable/places -r
 ./all-folder-colors
+python3 ./clean-colors
 echo "Done!"

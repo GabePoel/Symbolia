@@ -6,7 +6,12 @@ from shutil import copy
 
 home = path.expanduser('~')
 
-diff_dir = path.join(home, '.local', 'share', 'icons', 'Difference-neutral')
+diff_dir = path.join(
+    home,
+    'Documents',
+    'GitHub',
+    'Difference-Glossy',
+    'Difference-neutral')
 symb_dir = path.join(
     home,
     'Documents',
@@ -60,5 +65,5 @@ for m in new_mime:
     copy(mime_ref, fp)
 for p in new_plac:
     fp = path.join(symb_dir, 'places', p + '.svg')
-    print(p)
-    copy(plac_ref, fp)
+    # print(p)
+    # copy(plac_ref, fp)

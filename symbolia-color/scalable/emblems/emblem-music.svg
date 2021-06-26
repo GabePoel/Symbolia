@@ -1,61 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="mdi-music-circle"
-   width="24"
-   height="24"
+   enable-background="new 0 0 24 24"
+   height="24px"
    viewBox="0 0 24 24"
-   sodipodi:docname="emblem-music.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
-  <metadata
-     id="metadata9">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   width="24px"
+   fill="#000000"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="emblem-videos (copy).svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs7" />
+     id="defs14" />
   <sodipodi:namedview
+     id="namedview12"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
+     borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1908"
-     inkscape:window-height="1022"
-     id="namedview5"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="39.833333"
-     inkscape:cx="12.050209"
-     inkscape:cy="12"
-     inkscape:window-x="1924"
-     inkscape:window-y="1098"
+     inkscape:zoom="26.487041"
+     inkscape:cx="8.9288946"
+     inkscape:cy="14.66755"
+     inkscape:window-width="1908"
+     inkscape:window-height="1017"
+     inkscape:window-x="3848"
+     inkscape:window-y="1097"
      inkscape:window-maximized="0"
-     inkscape:current-layer="mdi-music-circle" />
-  <ellipse
-     style="fill:#ffffff;fill-opacity:1"
-     id="path834"
-     cx="10.616204"
-     cy="10.555344"
-     rx="7.867219"
-     ry="7.4373074" />
+     inkscape:current-layer="svg10" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.5;stroke-linecap:round"
+     id="path969"
+     cx="12"
+     cy="12"
+     r="5.7168469" />
+  <g
+     id="g8"
+     style="fill:#ff80ab;fill-opacity:1">
+    <path
+       d="M 12,2 C 6.48,2 2,6.48 2,12 2,17.52 6.48,22 12,22 17.52,22 22,17.52 22,12 22,6.48 17.52,2 12,2 Z"
+       id="path6"
+       style="fill:#ff80ab;fill-opacity:1"
+       sodipodi:nodetypes="sssss" />
+  </g>
   <path
-     d="M16,9V7H12V12.5C11.58,12.19 11.07,12 10.5,12A2.5,2.5 0 0,0 8,14.5A2.5,2.5 0 0,0 10.5,17A2.5,2.5 0 0,0 13,14.5V9H16M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2Z"
-     id="path2"
-     style="fill:#FF80AB;fill-opacity:1" />
+     d="m 11.924487,7.4320926 v 5.6551364 c -0.621734,-0.357166 -1.38898,-0.496064 -2.2025267,-0.211654 -0.8863021,0.317482 -1.5675642,1.10457 -1.7263049,2.030558 -0.304253,1.812289 1.2302403,3.36001 3.0359156,3.0756 1.296382,-0.205039 2.215755,-1.395595 2.215755,-2.71182 V 8.7549316 h 1.322839 c 0.727561,0 1.322839,-0.5952776 1.322839,-1.322839 0,-0.7275614 -0.595278,-1.322839 -1.322839,-1.322839 h -1.322839 c -0.727562,0 -1.322839,0.5952776 -1.322839,1.322839 z"
+     id="path4"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.66142" />
 </svg>
