@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   viewBox="0 0 24 24"
+   width="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="vcs-push (copy).svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="30.698777"
+     inkscape:cx="11.808288"
+     inkscape:cy="12.606365"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path fill="#909090"
+     d="M 9.79,9 H 8 V 4 C 8,3.45 7.55,3 7,3 6.45,3 6,3.45 6,4 V 9 H 4.21 C 3.76,9 3.54,9.54 3.86,9.85 l 2.79,2.79 c 0.2,0.2 0.51,0.2 0.71,0 L 10.15,9.85 C 10.46,9.54 10.090107,9.3353146 9.79,9 Z M 3,20 c 0,0.55 0.45,1 1,1 h 6 c 0.55,0 1,-0.45 1,-1 0,-0.55 -0.45,-1 -1,-1 H 4 c -0.55,0 -1,0.45 -1,1 z"
+     id="path2"
+     sodipodi:nodetypes="scssscscsssssssssss" />
+  <path fill="#909090"
+     id="path2-2"
+     d="M 7 3 C 6.8625 3 6.7308594 3.0273438 6.6113281 3.078125 C 6.5515625 3.1035156 6.4946289 3.1358398 6.4414062 3.171875 C 6.3349609 3.2439453 6.2439453 3.334961 6.171875 3.4414062 C 6.1358398 3.494629 6.1035156 3.5515625 6.078125 3.6113281 C 6.0273438 3.7308594 6 3.8625 6 4 L 6 9 L 4.2109375 9 C 3.9108275 9.3353146 3.5396094 9.5396094 3.8496094 9.8496094 L 6.640625 12.640625 C 6.840625 12.840625 7.1496094 12.840625 7.3496094 12.640625 L 10.140625 9.8496094 C 10.460625 9.5396094 10.239062 9 9.7890625 9 L 8 9 L 8 5 L 16 5 L 16 16 C 16 16.55 16.45 17 17 17 C 17.55 17 18 16.55 18 16 L 18 4 C 18 3.45 17.55 3 17 3 L 7 3 z M 4 19 C 3.45 19 3 19.45 3 20 C 3 20.55 3.45 21 4 21 L 10 21 C 10.55 21 11 20.55 11 20 C 11 19.45 10.55 19 10 19 L 4 19 z M 14 19 C 13.45 19 13 19.45 13 20 C 13 20.55 13.45 21 14 21 L 20 21 C 20.55 21 21 20.55 21 20 C 21 19.45 20.55 19 20 19 L 14 19 z " />
+  <path fill="#909090"
+     d="m 3,19.999999 c 0,0.55 0.45,1 1,1 h 6 c 0.55,0 1,-0.45 1,-1 0,-0.55 -0.45,-1 -1,-1 H 4 c -0.55,0 -1,0.45 -1,1 z"
+     id="path2-3"
+     sodipodi:nodetypes="sssssss" />
+  <path fill="#909090"
+     d="m 3,15.999999 c 0,0.55 0.45,1 1,1 h 6 c 0.55,0 1,-0.45 1,-1 0,-0.55 -0.45,-1 -1,-1 H 4 c -0.55,0 -1,0.45 -1,1 z"
+     id="path2-3-6"
+     sodipodi:nodetypes="sssssss" />
+</svg>

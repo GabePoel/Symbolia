@@ -159,7 +159,7 @@ new_dir = path.join(
     'incomplete',
     'breeze redux',
     'new-actions')
-shutil.rmtree(breeze_dst)
+shutil.rmtree(breeze_dst, ignore_errors=True)
 os.makedirs(symbol_src, exist_ok=True)
 # os.makedirs(symbol_src2, exist_ok=True)
 os.makedirs(breeze_dst, exist_ok=True)
