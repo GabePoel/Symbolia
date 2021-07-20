@@ -1,0 +1,17 @@
+formula
+actions
+    formula
+mimetypes
+    text-x-wxmathml
+    application-vnd.sun.xml.math
+    text-mathml
+    libreoffice-oasis-formula
+    libreoffice-formula
+    application-mathml+xml
+    openoffice4-formula
+    application-vnd.stardivision.math
+    application-vnd.oasis.opendocument.formula-template
+    application-vnd.geogebra.file
+    application-vnd.oasis.opendocument.formula
+    openoffice4-oasis-formula
+    application-x-kformula

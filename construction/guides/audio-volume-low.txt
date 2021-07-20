@@ -1,0 +1,8 @@
+audio-volume-low
+actions
+    audio-volume-low
+    kdenlive-show-audio-effects
+devices
+    audio-speaker-left-side
+status
+    audio-volume-low

@@ -1,0 +1,9 @@
+freerotation
+actions
+    transform-rotate
+    rotate
+    object-rotate-right
+    text_rotation
+    freerotation
+apps
+    object-rotate-right

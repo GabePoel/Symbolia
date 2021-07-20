@@ -1,0 +1,11 @@
+gsconnect
+apps
+    plasma-mobile-phone
+    smartphonetrusted
+    linphone
+    org.gottcode.Connectagram
+    gsconnect
+    org.gnome.Shell.Extensions.GSConnect
+    preferences-kde-connect
+    kdeconnect
+    smartphoneconnected

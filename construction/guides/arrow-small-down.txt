@@ -1,0 +1,5 @@
+arrow-small-down
+actions
+    selection-lower
+    arrow1-down
+    kdenlive-zindex-down

@@ -1,0 +1,6 @@
+camera
+actions
+    filter-raw
+devices
+    photo-camera
+    camera

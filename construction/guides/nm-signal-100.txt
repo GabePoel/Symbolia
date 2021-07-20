@@ -1,0 +1,6 @@
+nm-signal-100
+actions
+    nm-signal-100
+status
+    network-wireless-signal-excellent
+    network-wireless-connected

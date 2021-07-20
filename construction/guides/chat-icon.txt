@@ -1,0 +1,3 @@
+chat-icon
+actions
+    chat-icon

@@ -1,0 +1,9 @@
+quote-double
+actions
+    fcitx-punc-inactive
+    format-text-blockquote
+    xapp-search-entire-word
+    own-quotes
+    fcitx-punc-active
+apps
+    com.github.alonsoenrique.quotes

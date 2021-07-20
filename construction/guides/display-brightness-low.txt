@@ -1,0 +1,3 @@
+display-brightness-low
+status
+    display-brightness-low

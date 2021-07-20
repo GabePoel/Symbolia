@@ -1,0 +1,20 @@
+blueradio
+apps
+    rockradio
+    gnome-internet-radio-locator
+    com.github.louis77.tuner
+    de.haeckerfelix.gradio
+    library-internet-radio
+    radiotray-ng-on
+    eradio
+    gradio
+    jazzradio
+    blueradio
+    kradio
+    kradio4
+    org.tabos.roger
+    de.haeckerfelix.Shortwave
+    radiotunes
+    gnuradio-grc
+    radiotray
+    gnomeradio

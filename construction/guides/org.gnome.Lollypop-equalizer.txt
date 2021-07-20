@@ -1,0 +1,4 @@
+org.gnome.Lollypop-equalizer
+actions
+    view-media-equalizer
+    org.gnome.Lollypop-equalizer

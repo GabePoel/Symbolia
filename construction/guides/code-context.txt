@@ -1,0 +1,14 @@
+code-context
+actions
+    code-context
+    dialog-selectors
+    own-symbols-delimiters
+    debug-step-into
+mimetypes
+    text-x-vala
+    text-x-perl
+    text-x-ssa
+    text-x-cobol
+    text-x-pascal
+    text-x-objcsrc
+    text-x-source

@@ -1,0 +1,3 @@
+play-circle-filled
+actions
+    play-circle-active

@@ -1,0 +1,18 @@
+Temps
+apps
+    org.gnome.Weather.Application
+    tempo-metereologico
+    gnome-weather
+    org.gnome.Weather
+    com.github.bitseater.weather
+    gis-weather
+    com.github.danrabbit.nimbus
+    Temps
+    com.librehat.yahooweather
+    weather
+    weather-widget
+    indicator-weather
+    org.gnome.weather.application
+    weather-app
+    org.gnome.weather
+    xfce4-weather

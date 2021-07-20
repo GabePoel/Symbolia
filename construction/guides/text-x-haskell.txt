@@ -1,0 +1,3 @@
+text-x-haskell
+mimetypes
+    text-x-haskell

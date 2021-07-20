@@ -1,0 +1,5 @@
+linejoin
+actions
+    snap-intersection
+    snap-nodes-intersection
+    linejoin

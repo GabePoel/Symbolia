@@ -1,0 +1,6 @@
+Popcorn_Time_logo
+apps
+    Popcorn_Time_logo
+    popcorntime
+    popcorn-time
+    popcorntime-ce

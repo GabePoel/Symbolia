@@ -1,0 +1,18 @@
+podcast-amarok
+actions
+    podcast
+    podcast-amarok
+apps
+    pocket-casts
+    tech.feliciano.pocket-casts
+    pocket-casts-linux
+    accessories-podcast
+    org-gnome-podcasts
+    org.gnome.Podcasts
+    library-podcast
+    gpodder
+    gnome-podcast
+    gtkpod
+    org.gpodder.gpodder
+    podcast
+    podcasts-app

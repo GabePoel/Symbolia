@@ -1,0 +1,17 @@
+edit-flag
+actions
+    flag
+    edit-flag
+    prf-locale
+    flag-black
+    mail-flag
+    keyboard-layout-filled
+    flag-filled
+    wike-flag
+apps
+    bzflag
+    org.kde.klettres
+    org.gnome.design.BannerViewer
+    org.bzflag.BZFlag
+mimetypes
+    text-x-po

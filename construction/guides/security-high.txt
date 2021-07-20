@@ -1,0 +1,13 @@
+security-high
+actions
+    security-high
+apps
+    net.blockout.BlockOutII
+    com.bitwarden.desktop
+    security-high
+    bleachbit
+    blockout
+    bitwarden
+status
+    arch-uptodate
+    security-high

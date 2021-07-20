@@ -1,0 +1,3 @@
+insert-emoticon
+actions
+    insert-emoticon

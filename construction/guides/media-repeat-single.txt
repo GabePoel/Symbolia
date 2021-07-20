@@ -1,0 +1,6 @@
+media-repeat-single
+actions
+    media-repeat-single
+status
+    media-playlist-repeat-one
+    media-playlist-repeat-song

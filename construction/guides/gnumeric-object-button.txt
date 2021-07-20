@@ -1,0 +1,4 @@
+gnumeric-object-button
+actions
+    insert-button
+    gnumeric-object-button

@@ -1,0 +1,7 @@
+mail-inbox
+actions
+    mail-inbox
+apps
+    mail-inbox
+places
+    mail-inbox

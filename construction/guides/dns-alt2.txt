@@ -1,0 +1,5 @@
+dns-alt2
+places
+    drive-harddisk-alt2
+    drive-harddisk-system-alt2
+    dns-alt2

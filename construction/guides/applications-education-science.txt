@@ -1,0 +1,5 @@
+applications-education-science
+apps
+    applications-education-science
+mimetypes
+    application-x-scilab

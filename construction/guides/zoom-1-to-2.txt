@@ -1,0 +1,3 @@
+zoom-1-to-2
+actions
+    zoom-1-to-2

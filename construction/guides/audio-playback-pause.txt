@@ -1,0 +1,8 @@
+audio-playback-pause
+actions
+    media-playback-pause
+    timepp-pause
+    flt-inactive
+    kt-pause
+    audio-playback-pause
+    perspective-parallel

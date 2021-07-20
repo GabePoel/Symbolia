@@ -1,0 +1,6 @@
+auto-scale-x
+actions
+    zoom-fit-width
+    zoom-select-x
+    auto-scale-x
+    labplot-zoom-select-x

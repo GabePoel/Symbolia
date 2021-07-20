@@ -1,0 +1,5 @@
+notification-input-touchpad-disabled
+status
+    notification-input-touchpad-disabled
+    notification-touchpad-disabled
+    touchpad-disabled

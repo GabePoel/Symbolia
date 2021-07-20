@@ -1,0 +1,3 @@
+arrow-mini-up
+actions
+    pan-up

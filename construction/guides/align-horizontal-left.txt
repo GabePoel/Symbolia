@@ -1,0 +1,8 @@
+align-horizontal-left
+actions
+    kdenlive-align-left
+    align-horizontal-left
+    object-align-horizontal-left-calligra
+    align-tool
+apps
+    align-horizontal-left

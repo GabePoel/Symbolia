@@ -1,0 +1,4 @@
+kt-chunks
+actions
+    kt-chunks
+    view-barcode

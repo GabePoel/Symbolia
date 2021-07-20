@@ -1,0 +1,43 @@
+penguin-alt
+actions
+    penguin-alt
+apps
+    distributor-logo-mageia
+    Nocturn-linux
+    distributor-logo-freebsd
+    distributor-logo-zorin
+    nerolinux
+    distributor-logo-kde-neon
+    distributor-logo-opensuse
+    nerolinuxexpress
+    ts3client_linux_amd64
+    distributor-logo-lxle
+    distributor-logo-porteus
+    distributor-logo-gentoo
+    distributor-logo-trueos
+    distributor-logo-void
+    org.openmsx.openMSX
+    selinux
+    distributor-logo-korora
+    distributor-logo-openbsd
+    linuxdcpp
+    distributor-logo-endless
+    distributor-logo-steamos
+    distributor-logo-kalilinux
+    distributor-logo-deepin
+    kali-linux
+    distributor-logo-slackware
+    distributor-logo-redhat
+    natronIcon256_linux
+    distributor-logo-frugalware
+    distributor-logo-kali
+    distributor-logo-mandriva
+    org.fcitx.Fcitx5
+    distributor-logo-kali-linux
+    distributor-logo-nitrux
+    distributor-logo-solus
+    distributor-logo-pop-os
+    distributor-logo-kdeneon
+    linux-logo
+    distributor-logo-deepin-os
+    distributor-logo-pisilinux

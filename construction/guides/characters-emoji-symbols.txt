@@ -1,0 +1,5 @@
+characters-emoji-symbols
+apps
+    characters-emoji-symbols
+categories
+    emoji-symbols

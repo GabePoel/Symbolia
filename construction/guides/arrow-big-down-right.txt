@@ -1,0 +1,5 @@
+arrow-big-down-right
+actions
+    skrooge_less
+    location
+    arrow-draw

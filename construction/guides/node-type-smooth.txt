@@ -1,0 +1,3 @@
+node-type-smooth
+actions
+    node-type-smooth

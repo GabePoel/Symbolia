@@ -1,0 +1,16 @@
+amarok_playlist
+actions
+    amarok_playlist
+    view-media-playlist
+mimetypes
+    playlist-automatic
+    stock_smart-playlist
+    source-smart-playlist
+    application-music-playlist-blank
+    source-playlist
+    audio-x-smart-playlist
+    application-audio-playlist
+    audio-x-playlist
+    stock_playlist
+    playlist
+    audio-x-mp3-playlist

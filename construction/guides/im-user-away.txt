@@ -1,0 +1,6 @@
+im-user-away
+actions
+    im-user-away
+status
+    user-idle
+    user-away

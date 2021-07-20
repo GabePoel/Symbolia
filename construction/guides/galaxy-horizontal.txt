@@ -1,0 +1,6 @@
+galaxy-horizontal
+actions
+    kstars_mw
+apps
+    sgt-galaxies
+    intergalacticfm

@@ -1,0 +1,54 @@
+folder-drag-accept
+apps
+    folder-drag-accept
+    folder-visiting
+places
+    folder-canonical-visiting
+    folder-orange-open
+    folder-darkblue-visiting
+    folder-purple-open
+    folder-mint-open
+    folder-yellow-open
+    folder-vermillion-visiting
+    folder-darkblue-open
+    folder-canonical-open
+    folder-cyan-open
+    folder-green-visiting
+    folder-open
+    folder-manjaro-open
+    folder-grey-open
+    folder-purple-visiting
+    folder-brown-open
+    folder-manjaro-visiting
+    folder-yellow-visiting
+    folder-vermillion-open
+    folder-adwaita-open
+    folder-adwaita-visiting
+    folder-blue-open
+    folder-blue-visiting
+    folder-brown-visiting
+    folder-visiting
+    folder_open
+    folder-synthwave-visiting
+    folder-green-open
+    folder-orange-visiting
+    folder-synthwave-open
+    folder-bordeaux-visiting
+    folder-yaru-visiting
+    folder-mint-visiting
+    folder-red-visiting
+    folder-cyan-visiting
+    folder-bordeaux-open
+    folder-aubergine-open
+    folder-aubergine-visiting
+    folder-yaru-open
+    folder-black-visiting
+    folder-black-open
+    folder-grey-visiting
+    folder-pink-open
+    stock_open
+    folder-pink-visiting
+    folder-red-open
+status
+    folder-visiting
+    folder-open

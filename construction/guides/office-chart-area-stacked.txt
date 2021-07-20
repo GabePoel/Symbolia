@@ -1,0 +1,3 @@
+office-chart-area-stacked
+actions
+    office-chart-area-stacked

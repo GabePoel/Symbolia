@@ -1,0 +1,3 @@
+filename-dot-amarok
+actions
+    filename-dot-amarok

@@ -1,0 +1,3 @@
+list-expand-all
+actions
+    list-expand-all

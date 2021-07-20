@@ -1,0 +1,7 @@
+window-tab
+actions
+    focus-top-bar
+    window
+    ephy-tab-counter
+    combined_fragment
+    entity

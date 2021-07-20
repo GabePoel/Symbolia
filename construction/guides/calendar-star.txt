@@ -1,0 +1,3 @@
+calendar-star
+actions
+    view-calendar-special-occasion

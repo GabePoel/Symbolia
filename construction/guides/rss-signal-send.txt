@@ -1,0 +1,3 @@
+rss-signal-send
+actions
+    send_signal

@@ -1,0 +1,12 @@
+eye-filled
+actions
+    view-visible
+    stock-eye
+    timepp-eye
+    eye-open
+    gnumeric-visible
+    eye-open-negative-filled
+    view-reveal
+    gnumeric-detail-show
+categories
+    xapp-prefs-display

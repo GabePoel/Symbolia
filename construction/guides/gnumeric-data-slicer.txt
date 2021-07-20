@@ -1,0 +1,3 @@
+gnumeric-data-slicer
+actions
+    gnumeric-data-slicer

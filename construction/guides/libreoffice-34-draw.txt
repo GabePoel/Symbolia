@@ -1,0 +1,16 @@
+libreoffice-34-draw
+apps
+    libreoffice34-draw
+    libreoffice-draw
+    libreoffice3-draw
+    libreoffice4.2-draw
+    libreoffice6.0-draw
+    libreofficedev6.0-draw
+    libreoffice-34-draw
+    libreofficedev6.1-draw
+    libreoffice5.2-draw
+    libreoffice5.0-draw
+    libreoffice5.4-draw
+    libreoffice5.3-draw
+    org.libreoffice.LibreOffice-draw
+    libreoffice5.1-draw

@@ -1,0 +1,54 @@
+activities
+actions
+    activities
+    taper-stroke
+    hb-rate
+    timepp-graph
+apps
+    info.portfolio_performance.PortfolioPerformance
+    com.scoutshonour.Digital
+    org.gnome.SystemMonitor
+    visual-paradigm
+    com.github.artemanufrij.graphui
+    com.github.kmal-kenneth.monilet
+    deepin-system-monitor
+    org.openhantek.OpenHantek6022
+    monitor-di-sistema
+    labplot2
+    com.github.stsdc.monitor
+    org.kde.labplot2
+    hwmonitor
+    com.bitstower.Markets
+    org.sugarlabs.Chart
+    thermal-monitor
+    webplotdigitizer
+    aptik-battery-monitor
+    gnome-monitor
+    gnome-system-monitor
+    labplot
+    kmplot
+    LabPlot2
+    utilities-log-viewer
+    com.github.alexhuntley.Plots
+    utilities-energy-monitor
+    de.rwth_aachen.ient.RDPlot
+    system-monitor-app
+    ksysguard
+    xdiagnose
+    ksysguardd
+    org.sugarlabs.Measure
+    net.sourceforge.Lifeograph
+    utilities-system-monitor
+    optimizer
+    sonic-visualiser
+    com.github.reduz.ChibiTracker
+    monilet
+    org.kde.kmplot
+    com.github.hannesschulze.optimizer
+    com.thincast.client
+    im.bernard.Funkcio
+mimetypes
+    application-x-dwf3project
+    gnome-mime-application-x-dwf3project
+    application-x-dwf3work
+    gnome-mime-application-x-dwf3work

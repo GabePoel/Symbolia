@@ -1,0 +1,4 @@
+text-paragraph-left
+actions
+    format-text-direction-rtl
+    format-text-direction-symbolic-rtl

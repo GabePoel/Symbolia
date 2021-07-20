@@ -1,0 +1,15 @@
+arrow
+actions
+    preview_sel
+    gnumeric-format-border-none
+    edit-select
+    gnumeric-format-border-no
+    followmouse
+    kdenlive-select-tool
+    arrow
+    snap-grid-guide-intersections
+    format-border-set-none
+    cursor-arrow
+    kmousetool_on
+    boundingbox_center
+    labplot-cursor-arrow

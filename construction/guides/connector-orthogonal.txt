@@ -1,0 +1,10 @@
+connector-orthogonal
+actions
+    snap-orthogonal
+    connector-orthogonal
+    curve-connector
+    snap-nodes-cusp
+    format-convert-to-path
+apps
+    com.github.bleakgrey.transporter
+    org.gnome.Connections

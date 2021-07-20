@@ -1,0 +1,4 @@
+folder-sync
+actions
+    folder-sync
+    kr_syncbrowse_off

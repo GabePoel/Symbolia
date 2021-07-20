@@ -1,0 +1,42 @@
+view-presentation
+actions
+    view-presentation
+    xapp-diaporama
+apps
+    kpresenter_kpr
+    4kslideshowmaker
+mimetypes
+    application-x-kpresenter
+    gnome-mime-application-vnd.openxmlformats-officedocument.presentationml.slideshow
+    x-office-presentation-template
+    gnome-mime-application-vnd.oasis.opendocument.presentation
+    openoffice4-oasis-presentation
+    openoffice4-presentation
+    text-presentation
+    application-presentation
+    gnome-mime-application-x-kpresenter
+    gdslides
+    libreoffice-oasis-presentation-template
+    x-office-presentation
+    application-vnd.openxmlformats-officedocument.presentationml.template
+    openoffice4-oasis-presentation-template
+    libreoffice-presentation-template
+    application-presentation-template
+    application-vnd.insync.link.drive.slides
+    application-vnd.openxmlformats-officedocument.presentationml.slideshow
+    application-vnd.sun.xml.impress
+    application-vnd.oasis.opendocument.presentation
+    application-vnd.oasis.opendocument.presentation-template
+    libreoffice-oasis-presentation
+    application-vnd.openxmlformats-officedocument.presentationml.presentation
+    libreoffice-presentation
+    gnome-mime-application-vnd.oasis.opendocument.presentation-template
+    openoffice4-presentation-template
+    application-vnd.sun.xml.impress.template
+    gnome-mime-application-vnd.openxmlformats-officedocument.presentationml.presentation
+    gnome-mime-application-vnd.sun.xml.impress.template
+    application-vnd.google-apps.presentation
+    gnome-mime-application-vnd.sun.xml.impress
+    gnome-mime-application-vnd.stardivision.impress
+    kpresenter_kpr
+    office-presentation

@@ -1,0 +1,6 @@
+labplot-xy-fit-curve
+actions
+    office-chart-scatter
+    labplot-xy-fit-curve
+apps
+    scilabbackend

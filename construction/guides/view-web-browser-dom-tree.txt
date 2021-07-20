@@ -1,0 +1,3 @@
+view-web-browser-dom-tree
+actions
+    view-web-browser-dom-tree

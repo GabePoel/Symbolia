@@ -1,0 +1,3 @@
+pan-leftwards
+actions
+    labplot-shift-right-x

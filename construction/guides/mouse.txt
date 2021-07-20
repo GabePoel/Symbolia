@@ -1,0 +1,31 @@
+mouse
+apps
+    desktop-enviroment-xfce
+    xfce-sound
+    xfce4-panel
+    xfce4-battery-plugin
+    xfce4-mcs-manager
+    xfce4-eyes
+    xfce-system-settings
+    xfce4-splash
+    xfce_unknown
+    xfce4-mixer
+    xfce4-timer
+    xfce4-netload-plugin
+    xfce4-settings
+    xfce4-display
+    xfce4-time-out-plugin
+    xfce4-session
+    xfce4-systray
+    xfce-system-info
+    xfce4-indicator-plugin
+    xfce4-ui
+    xfce4-clipman-plugin
+    xfce4-taskbar
+    xfce4-system-lock
+    xfce-unknown
+    xfce-system-lock
+    xfce-ui
+    xfce-man
+    xfce-mount
+    xfce4-sound

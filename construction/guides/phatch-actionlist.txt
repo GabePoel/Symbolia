@@ -1,0 +1,6 @@
+phatch-actionlist
+mimetypes
+    phatch-actionlist
+    text-x-octave
+    text-x-nim
+    text-x-scala

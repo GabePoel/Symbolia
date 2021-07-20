@@ -1,0 +1,7 @@
+add-subtitle
+actions
+    media-view-subtitles
+    add-subtitle
+    kdenlive-add-subtitle
+apps
+    aegisub

@@ -1,0 +1,16 @@
+wall
+actions
+    builder-build
+    draw-use-pressure
+apps
+    preferences-system-firewall
+    cs-firewall
+    draksec-mdk
+    firestarter
+    apparmor_view_profile
+    firewall-config
+    yast-firewall
+    firewall
+    network-firewall
+mimetypes
+    text-x-meson

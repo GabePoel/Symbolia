@@ -1,0 +1,5 @@
+nm-signal-75-secure
+actions
+    nm-signal-75-secure
+status
+    network-wireless-signal-good-secure

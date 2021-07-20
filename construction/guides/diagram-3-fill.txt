@@ -1,0 +1,7 @@
+diagram-3-fill
+actions
+    diagram-3-fill
+    nm-vpn-active-lock
+apps
+    com.github.babluboy.nutty
+    nutty

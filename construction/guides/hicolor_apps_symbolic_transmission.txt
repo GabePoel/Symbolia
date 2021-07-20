@@ -1,0 +1,14 @@
+hicolor_apps_symbolic_transmission
+actions
+    hicolor_apps_symbolic_transmission
+apps
+    transfer
+    transmission-qt
+    transgui
+    transmission
+    tranquil
+    transgui-2
+    io.github.TransmissionRemoteGtk
+    com.transmissionbt.Transmission
+    transmission-gtk
+    transmission-remote-gtk

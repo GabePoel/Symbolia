@@ -1,0 +1,8 @@
+artistictext-tool
+actions
+    emph
+    text-italic
+    artistictext-tool
+    slanted
+    timepp-italic
+    format-text-italic

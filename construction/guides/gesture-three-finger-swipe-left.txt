@@ -1,0 +1,3 @@
+gesture-three-finger-swipe-left
+actions
+    gesture-three-finger-swipe-left

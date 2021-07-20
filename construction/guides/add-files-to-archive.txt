@@ -1,0 +1,5 @@
+add-files-to-archive
+actions
+    add-files-to-archive
+    image-straighten
+    object-straighten

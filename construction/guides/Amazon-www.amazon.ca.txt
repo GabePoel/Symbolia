@@ -1,0 +1,16 @@
+Amazon-www.amazon.ca
+apps
+    Amazon-www.amazon.fr
+    Amazon-www.amazon.it
+    amazonclouddrive
+    Amazon-www.amazon.co.uk
+    amazonmp3
+    Amazon-www.amazon.cn
+    audible
+    Amazon-www.amazon.es
+    amazon
+    amazon-store
+    Amazon-www.amazon.com
+    amazon-mp3-store-source
+    Amazon-www.amazon.de
+    Amazon-www.amazon.ca

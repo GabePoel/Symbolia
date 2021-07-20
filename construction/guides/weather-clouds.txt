@@ -1,0 +1,3 @@
+weather-clouds
+status
+    weather-clouds

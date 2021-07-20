@@ -1,0 +1,7 @@
+online-account-telegram
+actions
+    online-account-telegram
+apps
+    org.telegram.desktop
+    telegram
+    telegram-desktop

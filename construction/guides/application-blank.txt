@@ -1,0 +1,4 @@
+application-blank
+mimetypes
+    application-blank
+    empty

@@ -1,0 +1,6 @@
+fog
+actions
+    fog
+status
+    weather-fog
+    weather-fog-small

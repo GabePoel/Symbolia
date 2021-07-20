@@ -1,0 +1,4 @@
+microsoft-outlook
+apps
+    microsoft-outlook
+    ms-outlook

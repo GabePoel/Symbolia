@@ -1,0 +1,4 @@
+application-x-audacity-project
+mimetypes
+    gnome-mime-application-x-audacity-project
+    application-x-audacity-project

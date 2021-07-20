@@ -1,0 +1,9 @@
+info-circle-filled
+actions
+    tooltip
+    underexposure
+apps
+    preferences-system-details
+    xfce4-about
+    deepin-manual
+    gnome-about-logo

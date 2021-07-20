@@ -1,0 +1,10 @@
+zoom-center-page
+actions
+    zoom-center-page
+apps
+    zoom-center-page
+    applications-lisp
+mimetypes
+    application-x.allegorithmic.spp
+    application-x.allegorithmic.package+xml
+    application-x.allegorithmic.substance

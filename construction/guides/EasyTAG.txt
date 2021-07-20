@@ -1,0 +1,10 @@
+EasyTAG
+actions
+    multiple-tags
+    EasyTAG2
+    EasyTAG_icon
+    org.gnome.Lollypop-tag
+    EasyTAG
+apps
+    Tag-Tool
+    almanah-tags

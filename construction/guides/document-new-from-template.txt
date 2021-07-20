@@ -1,0 +1,6 @@
+document-new-from-template
+actions
+    document-new-from-template
+    project-development-new-template
+    hb-ope-new
+    hb-document-new

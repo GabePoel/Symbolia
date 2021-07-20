@@ -1,0 +1,3 @@
+filename-slash-amarok
+actions
+    filename-slash-amarok

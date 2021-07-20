@@ -1,0 +1,15 @@
+accept_time_event
+actions
+    shallow-history
+    clock
+    smallclock
+    clock-large
+    amarok_clock
+    timepp-unicon
+    accept_time_event
+    kt-bandwidth-scheduler
+    knotes_alarm
+    tag-recents
+    appointment-new
+apps
+    clock

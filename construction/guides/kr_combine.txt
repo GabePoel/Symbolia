@@ -1,0 +1,7 @@
+kr_combine
+actions
+    paint-order-smf
+    path-combine
+    kr_combine
+    layer-duplicate
+    paint-order-fms

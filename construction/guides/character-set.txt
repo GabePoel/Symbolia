@@ -1,0 +1,6 @@
+character-set
+actions
+    keyboard-layout
+    flag-outline-thin
+    flag-outline-thick
+    character-set

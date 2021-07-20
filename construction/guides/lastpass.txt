@@ -1,0 +1,3 @@
+lastpass
+apps
+    lastpass

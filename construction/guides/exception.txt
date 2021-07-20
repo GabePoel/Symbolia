@@ -1,0 +1,35 @@
+exception
+actions
+    exception
+    quickopen
+apps
+    Alva
+    as-power
+    gnome-power-preferences
+    mate-power-statistics
+    cs-power
+    org.zaproxy.ZAP
+    org.gnome.PowerStats
+    preferences-system-power-management
+    gnome-power-statistics
+    gnome-power-manager
+    in.bharatkalluri.shortcircuit
+    mate-power-manager
+    preferences-system-power
+    unity-power-panel
+    preferences-power
+    alva
+    appimagekit-Alva
+    power
+    cinnamon-power-manager
+    xfce4-power-manager-settings
+    com.gitlab.newsflash
+    power-statistics
+    yast-powertweak
+    as-powered
+    org.gnome.powerstats
+devices
+    thunderbolt
+status
+    freon-voltage
+    sensors-voltage

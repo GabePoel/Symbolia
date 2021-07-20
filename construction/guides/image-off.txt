@@ -1,0 +1,4 @@
+image-off
+actions
+    filter-photo-disabled
+    filter-photos-disabled

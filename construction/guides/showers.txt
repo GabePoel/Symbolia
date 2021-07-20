@@ -1,0 +1,6 @@
+showers
+actions
+    showers
+status
+    weather-showers
+    weather-showers-small

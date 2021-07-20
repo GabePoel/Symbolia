@@ -1,0 +1,7 @@
+caja-dropbox
+apps
+    xfce4-backdrop
+    dropbox
+    kdepim-dropbox
+    caja-dropbox
+    com.dropbox.Client

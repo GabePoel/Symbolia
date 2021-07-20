@@ -1,0 +1,3 @@
+goa-account-foursquare
+apps
+    goa-account-foursquare

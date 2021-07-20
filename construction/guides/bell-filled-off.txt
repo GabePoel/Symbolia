@@ -1,0 +1,8 @@
+bell-filled-off
+actions
+    notifications-disabled
+    do-not-disturb
+    do-not-distrub
+status
+    notification-disabled
+    notifications-disabled

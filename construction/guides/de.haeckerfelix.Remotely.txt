@@ -1,0 +1,5 @@
+de.haeckerfelix.Remotely
+apps
+    de.haeckerfelix.Remotely
+    remoto
+    remote

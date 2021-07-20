@@ -1,0 +1,3 @@
+spray-mode-copy
+actions
+    spray-mode-copy

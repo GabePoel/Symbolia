@@ -1,0 +1,4 @@
+hb-view-donut
+actions
+    hb-view-donut
+    office-chart-polar-stacked

@@ -1,0 +1,5 @@
+page-2sides
+actions
+    page-2sides
+    view-split-left-right
+    preview-layout-half-width

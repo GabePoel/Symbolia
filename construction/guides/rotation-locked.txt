@@ -1,0 +1,3 @@
+rotation-locked
+status
+    rotation-locked

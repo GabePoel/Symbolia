@@ -1,0 +1,12 @@
+kdenlive-show-audio
+actions
+    kdenlive-show-audio
+apps
+    ardour4
+    org.ardour.Ardour
+    ardour2
+    Ardour-icon_256px
+    ardour3
+    ardour
+    ardour5
+    Ardour-Ardour_4.0.0

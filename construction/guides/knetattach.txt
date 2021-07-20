@@ -1,0 +1,10 @@
+knetattach
+apps
+    preferences-system-network
+    network-workgroup
+    repository
+    knetattach
+places
+    repository
+    network-workgroup
+    knetattach

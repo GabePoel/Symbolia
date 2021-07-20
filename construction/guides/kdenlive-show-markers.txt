@@ -1,0 +1,3 @@
+kdenlive-show-markers
+actions
+    kdenlive-show-markers

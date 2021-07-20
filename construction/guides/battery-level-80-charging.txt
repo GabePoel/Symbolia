@@ -1,0 +1,3 @@
+battery-level-80-charging
+status
+    battery-level-80-charging

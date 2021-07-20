@@ -1,0 +1,7 @@
+android-package-archive
+mimetypes
+    application-apk
+    application-vnd.android.package-archive
+    vnd.android.package-archive
+    android-package-archive
+    application-x-apkg

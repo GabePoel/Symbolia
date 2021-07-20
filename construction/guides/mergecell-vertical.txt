@@ -1,0 +1,3 @@
+mergecell-vertical
+actions
+    mergecell-vertical

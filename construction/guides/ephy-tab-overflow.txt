@@ -1,0 +1,9 @@
+ephy-tab-overflow
+actions
+    ephy-tab-overflow
+apps
+    arduino-ide
+    arduino-icon-small
+    cc.arduino.arduinoide
+    arduino-arduinoide
+    arduino

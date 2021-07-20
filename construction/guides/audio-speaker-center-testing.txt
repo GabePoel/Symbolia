@@ -1,0 +1,3 @@
+audio-speaker-center-testing
+devices
+    audio-speaker-center-testing

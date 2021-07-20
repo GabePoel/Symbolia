@@ -1,0 +1,7 @@
+appimagekit-draw.io
+apps
+    com.github.masochanz.drawing
+    draw.io
+    com.jgraph.drawio.desktop
+    appimagekit-draw.io
+    deepin-draw

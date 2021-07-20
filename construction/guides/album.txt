@@ -1,0 +1,44 @@
+album
+actions
+    album
+    tools-media-optical-format
+    org.gnome.Lollypop-unplayed-albums
+    tools-rip-video-dvd
+apps
+    dvdstyler
+    com.github.lachhebo.Gabtag
+    bombono-dvd
+    com.github.taiko2k.tauonmb
+    com.poweriso.PowerISO
+    aptoncd
+    cdbaby
+    dvd9548
+    dvdisaster
+    ca.littlesvr.asunder
+    cdrom
+    media-optical-copy
+    dvdrip
+    dvdplayer
+    com.github.marinm.songrec
+    dvd95
+devices
+    gtk-cdrom
+    cdwriter-unmount
+    media-optical-cd-audio
+    media-optical-bd
+    gnome-dev-disc-cdrom
+    cd
+    gnome-dev-cdrom
+    media-optical-cd
+    media-optical
+    gnome-cd
+    cdrom-unmount
+    media-optical-dvd
+mimetypes
+    application-x-cd-image
+    nero-disc-image
+    application-x-cda
+    application-x-iso
+    application-x-cue
+    application-x-amiga-disk-format
+    application-x-raw-disk-image

@@ -1,0 +1,3 @@
+labplot-xy-fourier-filter-curve
+actions
+    labplot-xy-fourier-filter-curve

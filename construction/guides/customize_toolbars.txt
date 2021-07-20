@@ -1,0 +1,3 @@
+customize_toolbars
+actions
+    customize_toolbars

@@ -1,0 +1,4 @@
+filename-moodbar
+actions
+    filename-moodbar
+    office-chart-bar-stacked

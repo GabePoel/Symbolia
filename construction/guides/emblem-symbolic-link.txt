@@ -1,0 +1,4 @@
+emblem-symbolic-link
+emblems
+    emblem-link
+    emblem-symbolic-link

@@ -1,0 +1,3 @@
+gnumeric-format-valign-center
+actions
+    gnumeric-format-valign-center

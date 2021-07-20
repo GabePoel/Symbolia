@@ -1,0 +1,5 @@
+show-dialogs
+actions
+    show-dialogs
+apps
+    zoom-fit-drawing

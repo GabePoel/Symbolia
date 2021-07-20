@@ -1,0 +1,4 @@
+diamond-outline-thick
+actions
+    diamond-outline-thin
+    diamond-outline-thick

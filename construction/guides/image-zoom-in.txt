@@ -1,0 +1,4 @@
+image-zoom-in
+actions
+    symbol-bigger
+    image-zoom-in

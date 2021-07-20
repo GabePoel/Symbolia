@@ -1,0 +1,10 @@
+pan-all
+actions
+    nemo-desktop-scale
+    escape-direction-all
+    transform-move
+    move-tool
+    tool-move
+    pointer-mode-drag
+    handle-move
+    drag-n-drop

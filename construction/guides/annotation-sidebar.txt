@@ -1,0 +1,13 @@
+annotation-sidebar
+actions
+    annotation-sidebar
+    sidebar
+    pane-show
+    view-left-pane
+    org.gnome.Lollypop-sidebar
+    view-sidetree
+    sidebar-show
+    builder-view-left-pane
+    view-right-pane-rtl
+apps
+    view-sidebar

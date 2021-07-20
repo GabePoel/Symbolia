@@ -1,0 +1,26 @@
+XMind
+apps
+    cerebro
+    com.jetbrains.IntelliJ-IDEA-Community
+    com.github.phase1geo.minder
+    com.jetbrains.PhpStorm
+    intellij-idea-ultimate-edition
+    gbrainy
+    com.jetbrains.CLion
+    com.jetbrains.GoLand
+    org.gnome.gbrainy
+    applicatins-biology
+    braindump
+    XMind
+    intellij
+    xmind
+    intellij-idea-ultimate
+    com.jetbrains.DataGrip
+    intellij-idea-ce
+    applications-biology
+    com.jetbrains.IntelliJ-IDEA-Ultimate
+    com.jetbrains.Rider
+    intellij-idea-community
+    minder
+mimetypes
+    application-dicom

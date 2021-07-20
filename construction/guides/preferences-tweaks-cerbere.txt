@@ -1,0 +1,7 @@
+preferences-tweaks-cerbere
+actions
+    preferences-tweaks-cerbere
+apps
+    appimagekit-workflowy
+    appimagekit-trinity-desktop
+    mintsources-maintenance

@@ -1,0 +1,3 @@
+kdenlive-insert-rect
+actions
+    kdenlive-insert-rect

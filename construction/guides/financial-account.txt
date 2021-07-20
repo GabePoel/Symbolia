@@ -1,0 +1,19 @@
+financial-account
+actions
+    financial-account
+apps
+    gnucash
+    homebank
+    wxbanker
+    kwalletmanager2
+    gnucash-icon
+    fr.free.Homebank
+    etherwall
+    kwalletmanager
+    etherape
+    org.ethereum.Mist
+    ethereumwallet
+    org.gnucash.GnuCash
+mimetypes
+    application-x-kmymoney
+    application-x-kwallet

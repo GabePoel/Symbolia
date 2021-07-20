@@ -1,0 +1,4 @@
+arrow-mini-left
+actions
+    pan-start
+    pan-end-symbolic-rtl

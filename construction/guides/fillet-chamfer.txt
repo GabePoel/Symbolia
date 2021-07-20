@@ -1,0 +1,5 @@
+fillet-chamfer
+actions
+    fillet-chamfer
+    snap-bounding-box-corners
+    rectangle-make-corners-sharp

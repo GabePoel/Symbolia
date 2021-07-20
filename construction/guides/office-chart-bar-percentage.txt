@@ -1,0 +1,3 @@
+office-chart-bar-percentage
+actions
+    office-chart-bar-percentage

@@ -1,0 +1,6 @@
+pan-vertical
+actions
+    escape-direction-vertical
+    adjustrow
+    handle-sort
+    gnumeric-object-scrollbar

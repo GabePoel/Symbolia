@@ -1,0 +1,20 @@
+view-form
+actions
+    view-form
+apps
+    alacarte
+    com.github.zren.tiledmenu
+    drakmenustyle
+    alltray
+    kali-menu
+    xfce4-panel-menu
+    menulibre
+    mate-panel-drawer
+    classicmenu-indicator
+    classicmenu-indicator-light
+    cxmenu-cxoffice-0-crossover
+    xfce4-menueditor
+    menu
+    topmenu-applet
+    com.github.donadigo.appeditor
+    appeditor

@@ -1,0 +1,5 @@
+arrow-big-to-right
+actions
+    labplot-zoom-in-x
+    x-zoom-in
+    zoom-in-x

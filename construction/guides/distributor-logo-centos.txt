@@ -1,0 +1,14 @@
+distributor-logo-centos
+apps
+    edit-urpm-sources
+    redhat-tools
+    rpmdrake
+    redhat-server_settings
+    distributor-logo-centos
+    redhat-web-browser
+mimetypes
+    application-x-rpm-redhat
+    rpm
+    gnome-mime-application-x-rpm
+    text-x-rpm-spec
+    application-x-rpm

@@ -1,0 +1,3 @@
+boundingbox_bottom_right
+actions
+    boundingbox_bottom_right

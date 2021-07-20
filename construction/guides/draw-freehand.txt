@@ -1,0 +1,4 @@
+draw-freehand
+actions
+    tool_pen
+    draw-freehand

@@ -1,0 +1,30 @@
+opened_folder
+actions
+    opened_folder
+apps
+    nautilus-actions
+    dde-file-manager
+    org.gnome.Files
+    caja
+    system-file-manager
+    org.kde.dolphin
+    nemo
+    nautilus
+    org.xfce.thunar
+    org.librehunt.Organizer
+    org.gnome.nautilus
+    dde-file-manager-alt2
+    caja-actions
+    Thunar
+    xfce-filemanager
+    org.DolphinEmu.dolphin-emu
+    file-manager
+    org.gnome.files
+    filemanager-app
+    dolphin-emu
+    view-file
+    org.gnome.Nautilus
+    thunar
+    nautilus-finder
+    dde-file-manager-alt1
+    dolphin

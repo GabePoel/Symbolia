@@ -1,0 +1,7 @@
+blur
+actions
+    blur
+    blurimage
+    smooth
+    feGaussianBlur-icon
+    paint-gradient-radial

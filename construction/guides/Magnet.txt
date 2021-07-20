@@ -1,0 +1,5 @@
+Magnet
+actions
+    kt-magnet
+    Magnet
+    magnet

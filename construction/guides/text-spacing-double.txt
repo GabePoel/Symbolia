@@ -1,0 +1,3 @@
+text-spacing-double
+actions
+    format-line-spacing-double

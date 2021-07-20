@@ -1,0 +1,4 @@
+gnumeric-column-hide
+actions
+    gnumeric-row-hide
+    gnumeric-column-hide

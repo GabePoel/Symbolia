@@ -1,0 +1,3 @@
+grid_snapping
+actions
+    grid_snapping

@@ -1,0 +1,11 @@
+nm-signal-100-secure
+actions
+    nm-signal-100-secure
+apps
+    mullvad-vpn
+    vpn
+    airvpn
+    kvpnc
+status
+    network-wireless-signal-excellent-secure
+    network-wireless-encrypted-alt

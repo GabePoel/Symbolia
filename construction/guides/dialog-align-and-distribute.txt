@@ -1,0 +1,7 @@
+dialog-align-and-distribute
+actions
+    text-justify-center
+    format-justify-center
+    gnumeric-format-halign-general
+    gnumeric-format-halign-distributed
+    dialog-align-and-distribute

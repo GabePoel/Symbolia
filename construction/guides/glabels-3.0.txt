@@ -1,0 +1,4 @@
+glabels-3.0
+apps
+    org.gnome.glabels-3
+    glabels-3.0

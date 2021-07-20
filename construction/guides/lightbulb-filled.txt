@@ -1,0 +1,11 @@
+lightbulb-filled
+actions
+    feSpecularLighting-icon
+    wike-bulb
+    org.gnome.Lollypop-suggestions
+    spectrum
+    games-hint
+apps
+    io.github.lukajankovic.ambience
+mimetypes
+    application-x-chm

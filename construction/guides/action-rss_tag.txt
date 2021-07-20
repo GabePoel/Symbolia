@@ -1,0 +1,9 @@
+action-rss_tag
+actions
+    action-rss_tag
+    debug-breakpoint
+    break-point
+    lastfm-tag
+    label-amarok
+mimetypes
+    application-x-glabels

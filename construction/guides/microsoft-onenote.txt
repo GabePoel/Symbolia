@@ -1,0 +1,4 @@
+microsoft-onenote
+apps
+    ms-onenote
+    microsoft-onenote

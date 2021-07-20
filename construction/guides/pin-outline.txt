@@ -1,0 +1,6 @@
+pin-outline
+actions
+    window-unpin
+    xapp-unpin
+    pin2
+    timepp-pin

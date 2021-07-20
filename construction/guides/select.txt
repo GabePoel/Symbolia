@@ -1,0 +1,4 @@
+select
+actions
+    tool-select-rect
+    select

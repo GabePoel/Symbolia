@@ -1,0 +1,16 @@
+akonadi-phone-home
+actions
+    titter-home
+    go-home-large
+    akonadi-phone-home
+    lastfm-neighbour
+    go-home
+apps
+    SweetHome3DIcon
+    sweethome3d
+places
+    folder_home-alt
+    gnome-home-alt
+    folder-home-alt
+    gnome-fs-home-alt
+    user-home-alt

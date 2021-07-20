@@ -1,0 +1,47 @@
+awn-settings
+apps
+    beryl-settings
+    mate-brightness-applet
+    systemsettings
+    lightdm-settings
+    mixxx-icon
+    preferences-tweaks-shadows
+    org.gnome.tweak
+    preferences-tweaks-cerbere
+    preferences-desktop-tweaks
+    mixxx
+    streamtuner2
+    system-settings
+    awn-settings
+    org.gnome.tweaks.desktop
+    org.gnome.Settings
+    settings-alt1
+    settings-alt3
+    settings-alt2
+    gnome-tweak
+    wmtweaks
+    preferences-tweaks-anim
+    org.gnome.TweakTool.svg
+    gnome-tweak-tool
+    system-run
+    gnome-control-center
+    org.gnome.tweaks
+    org.gnome.settings
+    preferences-system-brightness-lock
+    display-brightness
+    streamtuner
+    settings
+    org.gnome.Tweak.svg
+    breeze-settings
+    utilities-tweak-tool
+    gnome-tweaks
+    brightnesssettings
+    preferences-gtk-config
+    settings-app
+    tweaks-app
+    gnome-system
+    kmix
+categories
+    gnome-control-center
+status
+    extensions-sync-preferences

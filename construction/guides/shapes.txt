@@ -1,0 +1,27 @@
+shapes
+actions
+    view-choose
+    shape-choose
+    shape_recognizer
+    dialog-objects
+    gnumeric-component-insert-shaped
+    shapes
+apps
+    vectr
+    im.vector
+    org.gnome.design.VectorSlicer
+    org.gtk.IconBrowser2
+    org.gtk.IconBrowser3
+    org.gtk.IconBrowser4
+mimetypes
+    image-svg+xml
+    image-x-svg+xml
+    ai
+    gnome-mime-application-vnd.oasis.opendocument.graphics
+    application-vnd.oasis.opendocument.graphics-template
+    application-vector-template
+    application-vector
+    application-vnd.oasis.opendocument.graphics
+    gnome-mime-application-vnd.oasis.opendocument.graphics-template
+    image-svg+xml-compressed
+    svg

@@ -1,0 +1,3 @@
+office-chart-ring
+actions
+    office-chart-ring

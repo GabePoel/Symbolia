@@ -1,0 +1,19 @@
+address-book-new
+actions
+    addressbook-details
+    bibtex
+    im-identi.ca
+    view-pim-contacts
+    diag_component
+    component
+    adress-book-new
+    umbrello_diagram_component
+    tag-addressbook
+    insert-table-of-contents
+    viewbib
+    documentation
+    identity
+    address-book-new
+    contents
+apps
+    documentation

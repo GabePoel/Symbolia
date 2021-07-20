@@ -1,0 +1,22 @@
+scanner
+actions
+    scan
+    document-scan
+apps
+    deepin-scanner
+    com.github.utsushi.Utsushi
+    gscan2pdf
+    wpscan
+    vuescan
+    org.scantailor.ScanTailor
+    scantailor
+    skanlite
+    scans2pdf
+    scanner
+    deepin-cloud-scan-configurator
+    kali-wpscan
+    deepin-cloud-scan-config-helper
+    org.gnome.SimpleScan
+    com.hamrick.VueScan
+devices
+    scanner

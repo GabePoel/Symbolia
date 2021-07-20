@@ -1,0 +1,7 @@
+edit-guides
+actions
+    edit-guides
+    measure
+    show-guides
+    tool-measure
+    guides

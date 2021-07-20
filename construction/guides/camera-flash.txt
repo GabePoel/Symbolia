@@ -1,0 +1,18 @@
+camera-flash
+actions
+    message-flash
+    camera-flash
+apps
+    flash-player-properties
+    flashplayerproperties
+    colorhug-flash
+    com.adobe.Flash-Player-Projector
+    AdobeFlash
+    flashplayer
+    flash
+mimetypes
+    gnome-mime-application-x-shockwave-flash
+    application-flash
+    application-x-shockwave-flash
+    application-x-flashqard
+    application-x-flash-video

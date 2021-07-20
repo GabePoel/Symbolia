@@ -1,0 +1,8 @@
+shell
+actions
+    shell
+mimetypes
+    application-x-shellscript
+    gnome-mime-application-x-shellscript
+    gnome-mime-text-x-sh
+    shellscript

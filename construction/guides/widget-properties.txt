@@ -1,0 +1,12 @@
+widget-properties
+actions
+    widget-properties
+apps
+    awf-gtk2
+    org.gtk.WidgetFactory2
+    org.gtk.WidgetFactory3
+    awf-gtk3
+    awf-gtk4
+    org.gtk.WidgetFactory4
+mimetypes
+    application-x-appliance

@@ -1,0 +1,4 @@
+labplot-xy-equation-curve
+actions
+    labplot-xy-equation-curve
+    plot

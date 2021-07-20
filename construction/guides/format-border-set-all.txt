@@ -1,0 +1,7 @@
+format-border-set-all
+actions
+    gnumeric-format-border-all
+    layout-grid-filled
+    paint-pattern
+    mesh-gradient-fit
+    format-border-set-all

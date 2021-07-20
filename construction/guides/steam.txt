@@ -1,0 +1,11 @@
+steam
+apps
+    steam
+    steampowered
+    10B4_steam.0
+    steam-launcher
+    steamvr
+    com.valvesoftware.Steam
+    distributor-logo-steam-os
+places
+    folder-steam

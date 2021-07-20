@@ -1,0 +1,19 @@
+system-lock-screen
+actions
+    system-lock-screen
+mimetypes
+    multipart-encrypted
+    application-pgp
+    encrypted
+    application-pgp-signature
+    application-pgp-keys
+    application-pgp-encrypted
+places
+    folder-decrypted
+    folder-encrypted
+    certificate-server
+status
+    channel-insecure
+    network-vpn
+    system-lock-screen
+    network-wireless-encrypted

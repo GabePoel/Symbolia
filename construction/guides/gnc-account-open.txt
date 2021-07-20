@@ -1,0 +1,4 @@
+gnc-account-open
+actions
+    gnc-account-open
+    view-institution-add

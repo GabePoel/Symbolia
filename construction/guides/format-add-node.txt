@@ -1,0 +1,7 @@
+format-add-node
+actions
+    format-add-node
+    format-insert-node
+    node-add
+    own-insert-object
+    node-insert

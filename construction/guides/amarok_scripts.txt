@@ -1,0 +1,4 @@
+amarok_scripts
+actions
+    dialog-scripts
+    amarok_scripts

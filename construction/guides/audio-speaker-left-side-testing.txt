@@ -1,0 +1,5 @@
+audio-speaker-left-side-testing
+devices
+    audio-speaker-left-side-testing
+status
+    audio-volume-high

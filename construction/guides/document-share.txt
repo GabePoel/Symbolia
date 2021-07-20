@@ -1,0 +1,3 @@
+document-share
+actions
+    document-share

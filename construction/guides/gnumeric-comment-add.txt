@@ -1,0 +1,4 @@
+gnumeric-comment-add
+actions
+    gnumeric-comment-add
+    message-new

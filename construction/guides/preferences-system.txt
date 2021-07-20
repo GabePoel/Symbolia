@@ -1,0 +1,5 @@
+preferences-system
+apps
+    preferences-system
+categories
+    preferences-system

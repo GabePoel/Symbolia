@@ -1,0 +1,5 @@
+nm-signam-00-secure
+actions
+    nm-signam-00-secure
+status
+    network-wireless-signal-none-secure

@@ -1,0 +1,3 @@
+kr_syncbrowse_on
+actions
+    kr_syncbrowse_on

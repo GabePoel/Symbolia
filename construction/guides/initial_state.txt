@@ -1,0 +1,6 @@
+initial_state
+actions
+    media-skip-forward-symbolic-rtl
+    media-skip-backward
+    media-skip-forward-rtl
+    initial_state

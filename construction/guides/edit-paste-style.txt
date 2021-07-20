@@ -1,0 +1,3 @@
+edit-paste-style
+actions
+    edit-paste-style

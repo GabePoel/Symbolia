@@ -1,0 +1,27 @@
+layout-pixels-filled
+actions
+    layout-pixels-filled
+mimetypes
+    application-x-blender
+    virtualbox-vmdk
+    virtualbox-ovf
+    application-x-virtualbox-vbox-extpack
+    virtualbox-ova
+    application-x-sln
+    application-x-virtualbox-vhd
+    application-x-virtualbox-vdi
+    virtualbox-hdd
+    application-bitwig-preset
+    application-x-virtualbox-ova
+    application-mbox
+    application-x-deepinclone-dim
+    virtualbox-vbox
+    application-x-virtualbox-vmdk
+    application-x-sharedlib
+    virtualbox-vdi
+    application-x-virtualbox-hdd
+    application-x-virtualbox-ovf
+    application-bitwig-project
+    virtualbox-vhd
+    virtualbox-vbox-extpack
+    application-x-virtualbox-vbox

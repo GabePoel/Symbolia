@@ -1,0 +1,5 @@
+recieve-filled
+actions
+    mail-sent-symbolic-rtl
+apps
+    mail-sent-symbolic-rtl

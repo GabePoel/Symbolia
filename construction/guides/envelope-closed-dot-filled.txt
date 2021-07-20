@@ -1,0 +1,9 @@
+envelope-closed-dot-filled
+actions
+    marker
+    mail-mark-unread-new
+apps
+    marker
+status
+    mailspring-tray-full-newitems
+    mail-unread

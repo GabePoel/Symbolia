@@ -1,0 +1,3 @@
+ca.desrt.dconf-editor.small-rows
+actions
+    ca.desrt.dconf-editor.small-rows

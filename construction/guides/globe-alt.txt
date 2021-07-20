@@ -1,0 +1,11 @@
+globe-alt
+actions
+    globe-alt
+apps
+    googleearth
+    google-earth
+mimetypes
+    application-vnd.google-earth.kmz
+    application-vnd-google-earth-kml
+    application-vnd.google-earth.kml+xml
+    application-vnd.google-earth.kml

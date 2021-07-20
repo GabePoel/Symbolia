@@ -1,0 +1,11 @@
+map
+actions
+    map
+apps
+    me.leucoso.Grock
+    applications-geography
+mimetypes
+    application-vnd.insync.link.drive.map
+    application-x-kgeographymap
+    application-vnd.google-apps.map
+    application-x-kgeo

@@ -1,0 +1,7 @@
+connector-ignore
+actions
+    snap-guideline
+    snap-nodes-path
+    connector-ignore
+apps
+    org.gramps_project.Gramps

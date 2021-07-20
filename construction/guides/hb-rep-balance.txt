@@ -1,0 +1,7 @@
+hb-rep-balance
+actions
+    view-financial-account-investment-security
+    whitebalance
+    office-chart-line
+    labplot-xy-plot-two-axes
+    hb-rep-balance

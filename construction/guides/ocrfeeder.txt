@@ -1,0 +1,4 @@
+ocrfeeder
+apps
+    org.gnome.OCRFeeder
+    ocrfeeder

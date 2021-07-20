@@ -1,0 +1,5 @@
+envelope-closed-outline
+apps
+    com.github.cjfloss.envelope
+    preferences-mail-accounts
+    preferences-mail

@@ -1,0 +1,6 @@
+application-x-desktop-budgie
+mimetypes
+    application-x-desktop-kde
+    application-x-desktop-budgie
+    application-x-desktop-lxde
+    application-x-desktop-xfce

@@ -1,0 +1,4 @@
+all_downcase
+actions
+    all_downcase
+    format-text-lowercase

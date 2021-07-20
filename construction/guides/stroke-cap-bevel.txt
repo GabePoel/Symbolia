@@ -1,0 +1,4 @@
+stroke-cap-bevel
+actions
+    stroke-cap-bevel
+    stroke-join-bevel

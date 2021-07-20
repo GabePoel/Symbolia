@@ -1,0 +1,9 @@
+browser-download
+actions
+    document-save-as
+    browser-download
+    hb-document-save-as
+apps
+    aptdaemon-download
+status
+    aptdaemon-download

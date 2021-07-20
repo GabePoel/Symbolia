@@ -1,0 +1,6 @@
+flashlight-off
+actions
+    flashlight-off
+apps
+    flashlight-none
+    lightsoff

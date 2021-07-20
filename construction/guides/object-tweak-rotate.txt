@@ -1,0 +1,4 @@
+object-tweak-rotate
+actions
+    object-tweak-rotate
+    perspective-envelope

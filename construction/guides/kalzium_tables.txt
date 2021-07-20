@@ -1,0 +1,42 @@
+kalzium_tables
+actions
+    kalzium_tables
+    table
+mimetypes
+    libreoffice-spreadsheet
+    text-spreadsheet
+    application-vnd.oasis.opendocument.spreadsheet
+    libreoffice-oasis-spreadsheet-template
+    libreoffice-oasis-spreadsheet
+    gnome-mime-application-vnd.oasis.opendocument.spreadsheet-template
+    gnome-mime-application-vnd.oasis.opendocument.spreadsheet
+    application-vnd.openxmlformats-officedocument.spreadsheetml.template
+    openoffice4-spreadsheet-template
+    application-vnd.openxmlformats-officedocument.spreadsheetml.sheet
+    application-table-template
+    openofficeorg3-oasis-spreadsheet
+    office-spreadsheet
+    text-csv
+    application-vnd.google-apps.spreadsheet
+    openoffice4-oasis-spreadsheet
+    openoffice4-oasis-spreadsheet-template
+    libreoffice-spreadsheet-template
+    x-office-spreadsheet-template
+    gnome-mime-application-vnd.openxmlformats-officedocument.spreadsheetml.sheet
+    application-vnd.insync.link.drive.sheet
+    text-x-iptables
+    application-vnd.google-apps.fusiontable
+    gnome-mime-application-x-kspread
+    application-x-applix-spreadsheet
+    x-office-spreadsheet
+    application-vnd.insync.link.drive.table
+    application-x-gnumeric
+    gnome-mime-application-x-gnumeric
+    gdtable
+    stock_new-spreadsheet
+    application-vnd.oasis.opendocument.spreadsheet-template
+    spreadsheet
+    application-table
+    gdsheet
+    gnome-mime-application-x-applix-spreadsheet
+    openoffice4-spreadsheet

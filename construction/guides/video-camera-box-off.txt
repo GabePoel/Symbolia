@@ -1,0 +1,4 @@
+video-camera-box-off
+actions
+    filter-videos-disabled
+    kdenlive-hide-video-effects

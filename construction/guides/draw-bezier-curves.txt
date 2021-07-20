@@ -1,0 +1,4 @@
+draw-bezier-curves
+actions
+    draw-bezier-curves
+    path-mode-bezier

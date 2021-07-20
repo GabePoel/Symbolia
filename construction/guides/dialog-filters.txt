@@ -1,0 +1,5 @@
+dialog-filters
+actions
+    kt-add-filters
+    funnel
+    dialog-filters

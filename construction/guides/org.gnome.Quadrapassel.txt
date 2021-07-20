@@ -1,0 +1,4 @@
+org.gnome.Quadrapassel
+apps
+    org.gnome.Quadrapassel
+    org.gnome.quadrapassel

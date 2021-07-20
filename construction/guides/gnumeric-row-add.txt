@@ -1,0 +1,3 @@
+gnumeric-row-add
+actions
+    gnumeric-row-add

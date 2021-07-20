@@ -1,0 +1,3 @@
+gnumeric-comment-delete
+actions
+    gnumeric-comment-delete

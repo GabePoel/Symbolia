@@ -1,0 +1,4 @@
+battery-level-30-charging
+status
+    battery-level-40-charging
+    battery-level-30-charging

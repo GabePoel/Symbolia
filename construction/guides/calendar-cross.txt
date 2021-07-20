@@ -1,0 +1,4 @@
+calendar-cross
+actions
+    view-time-schedule-baselined-remove
+    no-event

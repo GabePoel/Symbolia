@@ -1,0 +1,4 @@
+edit-paste
+actions
+    special_paste
+    edit-paste

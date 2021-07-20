@@ -1,0 +1,6 @@
+installed-check
+actions
+    installed-check
+    preflight-verifier
+status
+    software-installed

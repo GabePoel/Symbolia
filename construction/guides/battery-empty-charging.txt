@@ -1,0 +1,4 @@
+battery-empty-charging
+status
+    battery-level-0-charging
+    battery-empty-charging

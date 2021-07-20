@@ -1,0 +1,15 @@
+bookmark-add-folder
+actions
+    bookmarks-organize
+    ephy-bookmark-tag
+    mail-message-new-list
+    bookmark-toolbar
+    bookmark-edit
+    bookmarks
+    bookmark-new-list
+    bookmark-new
+    bookmark-add-folder
+    task-due
+    view-calendar-list
+apps
+    bookmarks-organize

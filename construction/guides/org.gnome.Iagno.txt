@@ -1,0 +1,4 @@
+org.gnome.Iagno
+apps
+    org.gnome.iagno
+    org.gnome.Iagno

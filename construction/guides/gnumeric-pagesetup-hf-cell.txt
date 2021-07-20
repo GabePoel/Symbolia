@@ -1,0 +1,4 @@
+gnumeric-pagesetup-hf-cell
+actions
+    gnumeric-pagesetup-hf-cell
+    insert-math-expression

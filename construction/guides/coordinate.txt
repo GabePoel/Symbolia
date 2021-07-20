@@ -1,0 +1,8 @@
+coordinate
+actions
+    tool-crop
+    crop
+    crop_icon
+    coordinate
+    transform-crop
+    image-crop

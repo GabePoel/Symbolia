@@ -1,0 +1,15 @@
+computer
+apps
+    im.bernard.Nostalgia
+    display-preferences
+    display-capplet
+    display-im6.q16
+    computer
+    cs-display
+    display-im6.Q16
+    display.im6
+devices
+    computer
+    display
+status
+    feed-local

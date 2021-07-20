@@ -1,0 +1,3 @@
+multimedia-player-apple-ipod-touch
+devices
+    multimedia-player-apple-ipod-touch

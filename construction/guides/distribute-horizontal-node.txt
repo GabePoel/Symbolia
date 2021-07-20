@@ -1,0 +1,6 @@
+distribute-horizontal-node
+actions
+    distribute-horizontal-node
+    full-line
+    node-distribute-horizontal
+    nemo-horizontal-layout-wide

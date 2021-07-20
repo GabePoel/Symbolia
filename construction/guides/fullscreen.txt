@@ -1,0 +1,6 @@
+fullscreen
+actions
+    window-maximize
+    timepp-fullscreen
+    view-fullscreen
+    fullscreen

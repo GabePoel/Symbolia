@@ -1,0 +1,28 @@
+arrow-small-sync
+actions
+    step_object_CircularMotor
+    mail-receive
+    default
+    pm-standingorder
+    gtk-convert
+    mail-send-receive
+    own-symbols-arrows
+apps
+    kfoldersync
+    ffmulticonverter
+    me.kozec.syncthingtk
+    nz.mega.MEGAsync
+    syncthingtray
+    syncthing-gtk
+    syncthing
+    org.onionshare.OnionShare
+    freefilesync
+    mail-send-receive
+    kipi-dngconverter
+    org.freefilesync.FreeFileSync
+    btsync-gui
+    com.syntevo.SmartSynchronize
+    grsync
+    smartsynchronize
+status
+    insync-syncing

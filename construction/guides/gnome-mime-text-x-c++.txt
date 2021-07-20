@@ -1,0 +1,6 @@
+gnome-mime-text-x-c++
+mimetypes
+    gnome-mime-text-x-c++
+    text-x-cpp
+    gnome-mime-text-x-c++src
+    text-x-cppsrc

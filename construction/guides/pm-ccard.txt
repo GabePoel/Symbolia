@@ -1,0 +1,7 @@
+pm-ccard
+actions
+    pm-ccard
+    view-financial-account-credit-card
+apps
+    org.tabos.banking
+    com.belmoussaoui.Obfuscate

@@ -1,0 +1,11 @@
+auto-scale-all
+actions
+    labplot-auto-scale-all
+    page-zoom
+    zoom-draw
+    zoom-fit-best
+    labplot-zoom-select
+    zoom-select
+    zoom-fit-selection
+    auto-scale-all
+    view_fit_to_page

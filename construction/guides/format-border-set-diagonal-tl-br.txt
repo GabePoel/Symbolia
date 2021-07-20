@@ -1,0 +1,4 @@
+format-border-set-diagonal-tl-br
+actions
+    gnumeric-format-border-rev-diag
+    format-border-set-diagonal-tl-br

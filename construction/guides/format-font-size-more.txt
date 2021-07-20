@@ -1,0 +1,4 @@
+format-font-size-more
+actions
+    format-text-larger
+    format-font-size-more

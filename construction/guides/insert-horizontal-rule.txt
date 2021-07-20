@@ -1,0 +1,4 @@
+insert-horizontal-rule
+actions
+    labplot-axis-horizontal
+    insert-horizontal-rule

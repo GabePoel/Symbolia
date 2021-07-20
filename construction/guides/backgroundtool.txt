@@ -1,0 +1,19 @@
+backgroundtool
+actions
+    backgroundtool
+    object-to-path
+    draw-trace-background
+    tab-new-background
+apps
+    cs-backgrounds
+    fondo
+    wallpapoz
+    preferences-desktop-wallpaper
+    gnome-settings-background
+    background
+    com.github.maoschanz.DynamicWallpaperEditor
+    livewallpaper
+    com.github.philip-scott.wallpaperize
+    preferences-wallpaper
+    livewallpaper-config
+    com.github.calo001.fondo

@@ -1,0 +1,15 @@
+system-shutdown
+actions
+    system-shutdown
+apps
+    system-shutdown-alt2
+    gnome-shutdown
+    system-shutdown-alt3
+    system-shutdown-alt1
+    shutdownscheduler
+    xfsm-shutdown
+    gshutdown
+    shutdown_highlight
+    system-shut-down
+    system-shutdown
+    com.github.bcedu.shutdownscheduler

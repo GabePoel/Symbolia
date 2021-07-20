@@ -1,0 +1,4 @@
+media-playlist-shuffle-rtl
+status
+    media-playlist-shuffle-symbolic-rtl
+    media-playlist-shuffle-rtl

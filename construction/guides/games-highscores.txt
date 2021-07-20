@@ -1,0 +1,4 @@
+games-highscores
+actions
+    games-highscores
+    trophy

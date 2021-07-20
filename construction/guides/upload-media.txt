@@ -1,0 +1,12 @@
+upload-media
+actions
+    upload-media
+apps
+    upload
+    mintupload
+    upload-pictures
+    software-update-available
+status
+    upload
+    extensions-sync-upload
+    software-update-available

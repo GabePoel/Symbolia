@@ -1,0 +1,21 @@
+clone-original
+actions
+    tab-duplicate
+    specific-setup
+    clone-original
+    tools-media-optical-copy
+    document-multiple
+    document-duplicate
+    msgid2msgstr
+    window-duplicate
+    edit-duplicate
+    edit-copy
+    password-copy
+    multiple
+apps
+    k9-copy
+    com.github.hluk.copyq
+    copy-agent
+    k9copy
+    copyq
+    copy

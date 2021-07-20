@@ -1,0 +1,4 @@
+line-diagonal-ordinary
+actions
+    dash-none
+    line-style-plain

@@ -1,0 +1,35 @@
+rss
+actions
+    rss
+    feed-subscribe
+    kt-add-feeds
+apps
+    feedly
+    rssnow
+    rssowl
+    org.gnome.FeedReader
+    feedreader
+    rss
+    RSS_feeds
+    internet-news-reader
+    Grr
+    rssguard
+    feedindicator
+    com.github.rssguard
+    org.gabmus.gfeeds
+    rssreader-app
+    internet-feed-reader
+    quiterss
+mimetypes
+    text-x-opml
+    rss-box
+    text-x-opml+xml
+    gnome-mime-text-x-opml+xml
+    application-rss
+    application-rss+xml
+    gnome-mime-application-rss+xml
+    application-x-extension-rss
+    internet-feed
+    gnome-mime-text-x-opml
+status
+    feed-rss

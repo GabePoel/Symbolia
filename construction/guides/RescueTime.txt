@@ -1,0 +1,42 @@
+RescueTime
+apps
+    hamster-time-tracker
+    kalarm
+    RescueTime
+    cairo-clock
+    mate-panel-clock
+    xfce4-clock
+    preferences-system-time
+    clockify
+    aclock
+    kteatime
+    gnome-clocks
+    ktimer
+    time-admin
+    com.github.jmoerman.go-for-it
+    clocks
+    gnome-break-timer
+    com.github.parnold-x.timer
+    rclock
+    hmtimer
+    kclock
+    awn-applet-digital-clock
+    org.gnome.Clocks
+    time
+    rescuetime
+    accessories-clock
+    preferences-desktop-multimedia
+    timetrack
+    com.github.timecraft.notifier
+    timeshift
+    alarm-clock
+    orage_globaltime
+    gnome-panel-clock
+    net.danigm.timetrack
+    stock_alarm
+    realtimesync
+    clock-app
+    org.gnome.clocks
+status
+    aptdaemon-wait
+    appointment-missed

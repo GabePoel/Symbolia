@@ -1,0 +1,3 @@
+tool_elliptical_selection
+actions
+    tool_elliptical_selection

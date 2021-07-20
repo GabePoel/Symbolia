@@ -1,0 +1,3 @@
+edit-select-text
+actions
+    edit-select-text

@@ -1,0 +1,3 @@
+euro-truck-simulator-2
+apps
+    euro-truck-simulator-2

@@ -1,0 +1,11 @@
+hb-budget
+actions
+    wallet-closed
+    hb-budget
+apps
+    com.github.matfantinel.moneta
+    money-manager-ex
+    moneydance
+    kmymoney
+    org.sugarlabs.Finance
+    moneydance_icon512

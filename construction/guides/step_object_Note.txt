@@ -1,0 +1,8 @@
+step_object_Note
+actions
+    step_object_Note
+    view-pim-notes
+apps
+    org.gnome.bijiben
+    org.gnome.Tomboy
+    org.gnome.Bijiben

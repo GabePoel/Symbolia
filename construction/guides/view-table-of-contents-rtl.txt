@@ -1,0 +1,5 @@
+view-table-of-contents-rtl
+actions
+    view-table-of-contents-rtl
+apps
+    outline

@@ -1,0 +1,4 @@
+galaxy-vertical
+apps
+    origin
+    9AD6_Origin

@@ -1,0 +1,8 @@
+help-donate-chf
+actions
+    taxes-finances
+    help-donate-uah
+    help-donate-pln
+    help-donate-sek
+    view-financial-account-cash
+    help-donate-chf

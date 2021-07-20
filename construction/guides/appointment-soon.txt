@@ -1,0 +1,6 @@
+appointment-soon
+status
+    appointment-soon
+    software-update-urgent
+    task-past-due
+    insync-alert

@@ -1,0 +1,10 @@
+draw-geometry-show-measuring-info
+actions
+    hig
+    draw-geometry-show-measuring-info
+apps
+    org.gnome.Glade
+    org.gnome.glade
+mimetypes
+    gnome-mime-application-x-glade
+    application-x-glade

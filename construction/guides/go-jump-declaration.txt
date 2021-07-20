@@ -1,0 +1,3 @@
+go-jump-declaration
+actions
+    go-jump-declaration

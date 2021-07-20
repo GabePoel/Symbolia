@@ -1,0 +1,21 @@
+play
+actions
+    umbrello_diagram_state
+    practice-start
+    kt-start
+    kt-start-all
+    preferences-media-playback-amarok
+    media-playback-start
+    timepp-start
+    play
+    debug-run
+    debug-continue
+apps
+    mpv
+    green-recorder
+    io.github.celluloid_player.Celluloid
+    mpv-icon-8bit-64x64
+    celluloid
+    io.github.GnomeMpv
+    xt7-player-mpv
+    gnome-mpv

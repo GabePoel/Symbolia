@@ -1,0 +1,3 @@
+image-picture-frame
+actions
+    gnumeric-object-frame

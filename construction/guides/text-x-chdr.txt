@@ -1,0 +1,4 @@
+text-x-chdr
+mimetypes
+    text-x-objchdr
+    text-x-chdr

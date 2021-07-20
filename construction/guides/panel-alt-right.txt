@@ -1,0 +1,5 @@
+panel-alt-right
+actions
+    view-right-new
+    tilix-add-horizontal
+    dock-right

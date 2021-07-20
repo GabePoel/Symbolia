@@ -1,0 +1,5 @@
+earthquake
+actions
+    earthquake
+status
+    rising

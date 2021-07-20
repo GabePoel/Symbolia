@@ -1,0 +1,6 @@
+arrow-forward-multi
+actions
+    mail-reply-all-rtl
+    mail-reply-all-symbolic-rtl
+apps
+    mail-reply-all-symbolic-rtl

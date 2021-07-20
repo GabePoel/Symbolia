@@ -1,0 +1,3 @@
+stroke-cap-square
+actions
+    stroke-cap-square

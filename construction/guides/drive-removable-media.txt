@@ -1,0 +1,7 @@
+drive-removable-media
+apps
+    drive-removable-media
+devices
+    drive-removable-media
+places
+    drive-removable-media

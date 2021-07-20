@@ -1,0 +1,3 @@
+ac-adapter
+devices
+    ac-adapter

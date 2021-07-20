@@ -1,0 +1,5 @@
+own-symbols-operators
+actions
+    own-symbols-operators
+apps
+    org.gnome.GHex

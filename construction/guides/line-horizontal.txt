@@ -1,0 +1,29 @@
+line-horizontal
+actions
+    remove-amarok
+    entry-delete
+    bqm-remove
+    project_remove
+    delete
+    menu_new_sep
+    xml-node-delete
+    edit-delete
+    no-marker
+    mail-deleted
+    media-track-remove-amarok
+    tag-delete
+    window-minimize
+    color-mode-hue-shift-negative
+    usermenu-delete
+    kt-remove
+    im-ban-user
+    brush-horizontal
+    knotes_delete
+    remove
+    flt-exclude
+    list-remove
+    horizontal-rule
+    group-delete
+    feed-remove
+    value-decrease
+    filename-dash-amarok

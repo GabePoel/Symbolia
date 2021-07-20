@@ -1,0 +1,9 @@
+AddressManager
+apps
+    kaddressbook
+    AddressManager
+    office-address-book
+    addressbook
+    addressviij
+    office-addressbook
+    address-book-app

@@ -1,0 +1,9 @@
+blend-tool
+actions
+    image-denoise
+    color-gradient
+    transform-affect-gradient
+    gradient
+    blend-tool
+categories
+    nightthemeswitcher-gtktheme

@@ -1,0 +1,5 @@
+format-text-superscript
+actions
+    format-text-superscript
+    text_superscript
+    gnumeric-superscript

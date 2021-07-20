@@ -1,0 +1,3 @@
+view-financial-account-reopen
+actions
+    view-financial-account-reopen

@@ -1,0 +1,5 @@
+kstars_satellites
+actions
+    kstars_satellites
+apps
+    com.getpostman.Postman

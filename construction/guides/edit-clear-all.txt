@@ -1,0 +1,3 @@
+edit-clear-all
+actions
+    edit-clear-all

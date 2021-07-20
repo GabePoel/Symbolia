@@ -1,0 +1,6 @@
+distribute-vertical-baseline
+actions
+    text-orientation-upright
+    distribute-vertical-baseline
+    text_line_spacing
+    frmt-text-direction-vertical-lr

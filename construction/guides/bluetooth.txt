@@ -1,0 +1,18 @@
+bluetooth
+apps
+    org.bluej.BlueJ
+    bluetooth-radio
+    bluedun
+    cs-bluetooth
+    bluetoothradio
+    blueman-device
+    blueman
+    bluetooth-48
+    preferences-bluetooth
+    bluetooth
+    blueradio-48
+    preferences-system-bluetooth
+devices
+    bluetooth
+status
+    bluetooth-active

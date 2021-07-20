@@ -1,0 +1,11 @@
+abrt-gui
+apps
+    script-error
+    uterror
+    abrt-gui
+    org.freedesktop.GnomeAbrt
+    urbanterror
+    gnome-abrt
+    abrt
+    error-app
+    system-error

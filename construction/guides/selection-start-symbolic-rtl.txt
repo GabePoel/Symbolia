@@ -1,0 +1,3 @@
+selection-start-symbolic-rtl
+actions
+    selection-start-symbolic-rtl

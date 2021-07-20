@@ -1,0 +1,6 @@
+ellipse-5pts
+actions
+    tool-ellipse
+    node-type-symmetric
+    show-path-outline
+    ellipse-5pts

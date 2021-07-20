@@ -1,0 +1,5 @@
+gcr-smart-card
+apps
+    gcr-smart-card
+    video-card
+    picard

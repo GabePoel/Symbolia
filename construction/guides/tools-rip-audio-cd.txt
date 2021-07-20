@@ -1,0 +1,19 @@
+tools-rip-audio-cd
+actions
+    tools-rip-audio-cd
+apps
+    musescore
+    soundkonverter
+    mscore
+    beatbox
+    accessories-media-converter
+    com.github.geigi.cozy
+    musique
+    com.github.bcedu.museic
+    soundnode
+    soundconverter
+    solfege
+    sonata
+    museic
+    Pithos
+    anoise

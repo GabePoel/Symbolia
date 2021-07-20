@@ -1,0 +1,7 @@
+build-log
+actions
+    build-log
+apps
+    org.gnome.Usage
+    org.gnome.Sysprof
+    org.gnome.Logs

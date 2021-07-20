@@ -1,0 +1,3 @@
+text-spacing-single
+actions
+    format-line-spacing-normal

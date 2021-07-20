@@ -1,0 +1,5 @@
+arrow-big-from-left
+actions
+    x-zoom-out
+    zoom-out-x
+    labplot-zoom-out-x

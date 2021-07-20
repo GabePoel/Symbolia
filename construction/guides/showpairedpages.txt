@@ -1,0 +1,10 @@
+showpairedpages
+actions
+    showpairedpages
+    view-pages-facing
+    view-dual
+apps
+    applications-history
+    internet-archive
+    bibletime
+    info.bibletime.BibleTime

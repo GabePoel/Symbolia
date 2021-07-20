@@ -1,0 +1,3 @@
+transform-affect-stroke
+actions
+    transform-affect-stroke

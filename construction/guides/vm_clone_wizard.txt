@@ -1,0 +1,9 @@
+vm_clone_wizard
+actions
+    vm_clone_wizard
+apps
+    org.gabmus.hydrapaper
+devices
+    joined-displays
+status
+    video-joined-displays

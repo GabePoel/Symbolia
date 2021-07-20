@@ -1,0 +1,11 @@
+filename-discnumber-amarok
+actions
+    filename-discnumber-amarok
+    numbers
+apps
+    com.github.artemanufrij.hashit
+    gtkhash
+    artemanufrij.hashit
+    hashit
+    com.github.dawidd6.checksumo
+    org.gtkhash.gtkhash

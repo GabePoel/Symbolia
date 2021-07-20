@@ -1,0 +1,6 @@
+num-2-filled
+actions
+    zoom-double-size
+    labplot-2x-zoom
+apps
+    zoom-double-size

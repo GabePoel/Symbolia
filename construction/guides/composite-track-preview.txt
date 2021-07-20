@@ -1,0 +1,9 @@
+composite-track-preview
+actions
+    pack-less
+    gnumeric-cells-merge
+    composite-track-preview
+apps
+    org.gnome.lightsOff
+    org.gnome.SwellFoop
+    org.gnome.LightsOff

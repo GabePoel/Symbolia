@@ -1,0 +1,8 @@
+format-break-node
+actions
+    node-break
+    format-disconnect-node
+    keyframe-record
+    format-break-node
+apps
+    com.obsproject.Studio

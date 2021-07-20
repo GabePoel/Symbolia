@@ -1,0 +1,3 @@
+gnumeric-object-rectangle
+actions
+    gnumeric-object-rectangle

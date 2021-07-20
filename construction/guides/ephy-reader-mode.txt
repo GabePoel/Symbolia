@@ -1,0 +1,4 @@
+ephy-reader-mode
+actions
+    view-readermode-active
+    ephy-reader-mode

@@ -1,0 +1,6 @@
+appimagekit-brackets-electron
+apps
+    brackets
+    io.brackets.Brackets
+    brackets-electron
+    appimagekit-brackets-electron

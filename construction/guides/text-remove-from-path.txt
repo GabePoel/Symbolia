@@ -1,0 +1,3 @@
+text-remove-from-path
+actions
+    text-remove-from-path

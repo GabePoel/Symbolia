@@ -1,0 +1,3 @@
+libpeas-plugin
+actions
+    libpeas-plugin

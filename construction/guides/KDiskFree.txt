@@ -1,0 +1,14 @@
+KDiskFree
+apps
+    mate-disk-usage-analyzer
+    kwikdisk
+    yast-disk
+    gtk_diskfree
+    org.gnome.Disks
+    org.gnome.DiskUtility
+    disk-burner
+    gnome-disks
+    KDiskFree
+    gtkdiskfree
+    yandex-disk
+    kdiskfree

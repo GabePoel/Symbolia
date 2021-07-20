@@ -1,0 +1,17 @@
+star-filled
+actions
+    non-starred
+apps
+    non-starred
+    mail-mark-important
+    xapp-favorites
+    xapp-favorites-app
+    star
+places
+    folder-bookmark-alt
+    folder-bookmarks-alt
+    xapp-user-favorites-alt
+status
+    feed-starred
+    non-starred
+    feed-marked

@@ -1,0 +1,4 @@
+attach-path
+actions
+    path-clip-edit
+    attach-path

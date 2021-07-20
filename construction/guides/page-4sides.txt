@@ -1,0 +1,3 @@
+page-4sides
+actions
+    page-4sides

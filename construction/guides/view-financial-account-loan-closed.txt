@@ -1,0 +1,3 @@
+view-financial-account-loan-closed
+actions
+    view-financial-account-loan-closed

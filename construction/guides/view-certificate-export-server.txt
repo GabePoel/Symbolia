@@ -1,0 +1,3 @@
+view-certificate-export-server
+actions
+    view-certificate-export-server

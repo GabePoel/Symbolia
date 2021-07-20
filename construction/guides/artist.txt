@@ -1,0 +1,5 @@
+artist
+actions
+    artist
+    music-artist
+    x-clementine-artist

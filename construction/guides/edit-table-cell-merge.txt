@@ -1,0 +1,8 @@
+edit-table-cell-merge
+actions
+    edit-table-cell-merge
+    join
+    events-merge
+    list-merge
+status
+    bluetooth-paired

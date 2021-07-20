@@ -1,0 +1,9 @@
+application-x-wine-extension-its
+apps
+    application-x-wine-extension-its
+mimetypes
+    application-x-wine-extension-its
+    application-x-wine-extension-vbs
+    application-x-wine-extension-msp
+    application-x-wine-extension-cpl
+    application-x-wine-extension-inf

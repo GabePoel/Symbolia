@@ -1,0 +1,3 @@
+notification-battery-caution
+status
+    notification-battery-caution

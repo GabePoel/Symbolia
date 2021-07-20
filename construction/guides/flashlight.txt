@@ -1,0 +1,5 @@
+flashlight
+actions
+    flashlight-on
+apps
+    flashlight

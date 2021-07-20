@@ -1,0 +1,19 @@
+gnome-package
+apps
+    package
+    gnome-package
+mimetypes
+    application-x-accountwizard-package
+    x-content-unix-software
+    x-content-software
+    package-x-generic
+    package_editors
+    x-content-win32-software
+    gnome-mime-application-x-gnome-theme-package
+    application-software
+    package
+    application-x-gramps-package
+    application-oebps-package+xml
+    x-package-repository
+    application-x-rpm-opensuse
+    gnome-package

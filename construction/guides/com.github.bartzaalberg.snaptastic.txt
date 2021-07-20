@@ -1,0 +1,12 @@
+com.github.bartzaalberg.snaptastic
+apps
+    pac
+    pkgbrowser
+    kpackage
+    pk-package-sources
+    snappea
+    com.github.bartzaalberg.snaptastic
+    packet-tracer
+    package_system
+    pacman
+    package-manager-icon

@@ -1,0 +1,9 @@
+artist-album
+actions
+    org.gnome.Lollypop-artists-list
+    library-artists
+    artist-album
+    username-copy
+    system-switch-user
+apps
+    system-switch-user

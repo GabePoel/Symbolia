@@ -1,0 +1,4 @@
+text-indent-left-out
+actions
+    format-indent-less
+    format-precision-less

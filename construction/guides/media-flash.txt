@@ -1,0 +1,3 @@
+media-flash
+devices
+    media-flash

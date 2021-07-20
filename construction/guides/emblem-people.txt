@@ -1,0 +1,3 @@
+emblem-people
+emblems
+    emblem-people

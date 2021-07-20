@@ -1,0 +1,10 @@
+phone
+apps
+    phone
+devices
+    phone-htc-g1-white
+    phone-google-nexus-one
+    phone
+    smartphone
+    phone-palm-pre
+    phone-samsung-galaxy-s

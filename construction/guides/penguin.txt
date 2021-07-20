@@ -1,0 +1,24 @@
+penguin
+actions
+    penguin
+apps
+    tuxguitar
+    tuxracer
+    tuxboot
+    net.supertuxkart.SuperTuxKart
+    tux
+    com.tux4kids.tuxtype
+    net.sourceforge.TuxFootball
+    freetuxtv
+    org.supertux.SuperTux-Milestone1
+    tuxpuck
+    org.debian.TuxPuck
+    supertuxkart_48
+    net.sourceforge.ExtremeTuxRacer
+    org.supertuxproject.SuperTux
+    tuxtype
+    supertuxkart
+    supertuxkart_128
+    org.tuxfamily.XMoto
+    org.tuxfamily.StuntRally
+    org.debian.Tux

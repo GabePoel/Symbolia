@@ -1,0 +1,3 @@
+view-object-histogram-logarithmic
+actions
+    view-object-histogram-logarithmic

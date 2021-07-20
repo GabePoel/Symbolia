@@ -1,0 +1,5 @@
+battery-empty
+status
+    battery-empty
+    battery-level-0
+    battery-level-10

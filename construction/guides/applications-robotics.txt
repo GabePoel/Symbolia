@@ -1,0 +1,7 @@
+applications-robotics
+apps
+    org.gnome.robots
+    applications-robotics
+    org.gnome.Robots
+mimetypes
+    text-x-arduino

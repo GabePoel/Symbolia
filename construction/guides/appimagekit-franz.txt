@@ -1,0 +1,28 @@
+appimagekit-franz
+apps
+    kscreensaver
+    smuxi-frontend-gnome
+    xscreensaver
+    sopcast-player
+    appimagekit-franz
+    com.github.artemanufrij.screencast
+    screenruler-icon
+    com.github.mohelm97.screenrecorder
+    screensaver
+    deepin-remote-assistance
+    system-lock-screen-alt3
+    system-lock-screen-alt1
+    cs-screensaver
+    screengrab
+    smuxi
+    screenruler-icon-32x32
+    kscreengenie
+    vokoscreen
+    org.kiwix.desktop
+    artemanufrij.screencast
+    tvtime
+    system-lock-screen-alt2
+    screenruler
+    tvmaxe
+devices
+    video-single-display

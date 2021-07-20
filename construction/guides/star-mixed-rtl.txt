@@ -1,0 +1,3 @@
+star-mixed-rtl
+status
+    semi-starred-symbolic-rtl

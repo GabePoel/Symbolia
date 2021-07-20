@@ -1,0 +1,6 @@
+text-wrap
+actions
+    text-wrap
+    xapp-search-wrap
+status
+    view-wrapped

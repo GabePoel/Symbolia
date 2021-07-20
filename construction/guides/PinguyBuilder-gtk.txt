@@ -1,0 +1,40 @@
+PinguyBuilder-gtk
+apps
+    disk-manager
+    disk-utility
+    org.gnome.Disks-app
+    disk-utility-app
+    gparted
+    diskmonitor
+    org.gnome.disks-app
+    filelight
+    com.github.alecaddd.sequeler
+    PinguyBuilder-gtk
+    disk-usage-analyzer
+    harddisk
+    disk-check
+devices
+    harddisk
+places
+    folder-green-yandex-disk
+    folder-grey-yandex-disk
+    folder-manjaro-yandex-disk
+    folder-vermillion-yandex-disk
+    folder-darkblue-yandex-disk
+    folder-adwaita-yandex-disk
+    folder-canonical-yandex-disk
+    folder-purple-yandex-disk
+    folder-yandex-disk
+    folder-blue-yandex-disk
+    folder-pink-yandex-disk
+    folder-orange-yandex-disk
+    folder-bordeaux-yandex-disk
+    folder-black-yandex-disk
+    folder-brown-yandex-disk
+    folder-aubergine-yandex-disk
+    folder-yaru-yandex-disk
+    folder-yellow-yandex-disk
+    folder-mint-yandex-disk
+    folder-cyan-yandex-disk
+    folder-red-yandex-disk
+    folder-synthwave-yandex-disk

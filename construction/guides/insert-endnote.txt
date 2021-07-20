@@ -1,0 +1,3 @@
+insert-endnote
+actions
+    insert-endnote

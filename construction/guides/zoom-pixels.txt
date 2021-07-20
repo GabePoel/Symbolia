@@ -1,0 +1,3 @@
+zoom-pixels
+actions
+    zoom-pixels

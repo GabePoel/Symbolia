@@ -1,0 +1,9 @@
+draw-highlight
+actions
+    format-text-highlight
+    tool-highlight
+    tool_highlighter
+    timepp-mark
+    xapp-format-text-highlight
+    draw-highlight
+    highlight

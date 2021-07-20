@@ -1,0 +1,4 @@
+text_horz_kern
+actions
+    text_remove_kerns
+    text_horz_kern

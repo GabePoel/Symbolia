@@ -1,0 +1,13 @@
+arrow-reply
+actions
+    mail-forward-symbolic-rtl
+    mail-forward-rtl
+    mail-replied
+    mail-reply-sender
+    mail-reply
+apps
+    mail-forward-symbolic-rtl
+    mail-reply
+    mail-reply-sender
+status
+    mail-replied

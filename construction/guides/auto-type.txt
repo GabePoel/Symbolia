@@ -1,0 +1,3 @@
+auto-type
+actions
+    auto-type

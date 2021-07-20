@@ -1,0 +1,5 @@
+gnc-transfer
+actions
+    gnc-transfer
+    object-tweak-shrink
+    kr_comparedirs

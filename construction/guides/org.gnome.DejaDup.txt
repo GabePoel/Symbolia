@@ -1,0 +1,3 @@
+org.gnome.DejaDup
+apps
+    org.gnome.DejaDup

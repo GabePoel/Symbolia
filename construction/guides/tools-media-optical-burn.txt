@@ -1,0 +1,34 @@
+tools-media-optical-burn
+actions
+    tools-media-optical-burn
+apps
+    multisystem
+    usb-creator-kde
+    multisystem-icon
+    media-removable
+    com.system76.Popsicle
+    gimagereader
+    usb-creator
+    cutecom
+    woeusbgui-icon
+    multibootusb
+    imageburner
+    etcher
+    com.nitrokey.nitrokey-app
+    rosa-imagewriter
+    imagewriter
+    usb-creator-gtk
+    usb
+    deepin-boot-maker
+    boot
+    com.github.artemanufrij.imageburner
+    mintstick
+    mediawriter
+    iso-image-burn
+    multisystem-liveusb
+devices
+    drive-harddisk-usb
+    device_usb
+    media-removable
+places
+    drive-harddisk-usb

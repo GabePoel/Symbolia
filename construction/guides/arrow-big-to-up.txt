@@ -1,0 +1,5 @@
+arrow-big-to-up
+actions
+    zoom-in-y
+    y-zoom-in
+    labplot-zoom-in-y

@@ -1,0 +1,4 @@
+text-align-right
+actions
+    format-justify-right
+    text-justify-right

@@ -1,0 +1,22 @@
+GoogleDRive
+apps
+    odrive
+    com.github.bcedu.vgrive
+    drive
+    grive
+    insync_help
+    googledrive
+    appimagekit-odrive
+    insync-help
+    kdepim-googledrive
+    GoogleDRive
+    GoogleDrive
+    google-drive
+    insync
+places
+    folder-gdrive
+    folder-google-drive
+    insync-folder
+    insync-help
+status
+    insync-normal

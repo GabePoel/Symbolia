@@ -1,0 +1,5 @@
+star-mixed
+apps
+    semi-starred
+status
+    semi-starred

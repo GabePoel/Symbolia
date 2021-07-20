@@ -1,0 +1,3 @@
+preferences-desktop-locale
+apps
+    preferences-desktop-locale

@@ -1,0 +1,4 @@
+text-format-arrow-left
+actions
+    frmt-text-direction-r2l
+    text-direction-rtl

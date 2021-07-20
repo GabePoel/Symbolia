@@ -1,0 +1,3 @@
+org.gnome.Tour
+apps
+    org.gnome.Tour

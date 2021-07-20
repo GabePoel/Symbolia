@@ -1,0 +1,11 @@
+gnomines
+apps
+    org.gnome.Mines
+    minetest
+    minetest-icon
+    net.minetest.Minetest
+    gnomines
+    org.gnome.mines
+    sgt-mines
+    mine
+    kmines

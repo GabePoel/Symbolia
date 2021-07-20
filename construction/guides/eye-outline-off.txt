@@ -1,0 +1,3 @@
+eye-outline-off
+actions
+    eye-closed-negative

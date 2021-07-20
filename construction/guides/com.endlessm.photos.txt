@@ -1,0 +1,14 @@
+com.endlessm.photos
+apps
+    photowall
+    galeon
+    gallery-app
+    photo_album
+    photocollage
+    kphotoalbum
+    com.endlessm.photos
+    org.photoqt.PhotoQt
+    gallery
+    photoqt
+    pix
+    photofilmstrip

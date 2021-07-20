@@ -1,0 +1,3 @@
+kstars_fitsviewer
+actions
+    kstars_fitsviewer

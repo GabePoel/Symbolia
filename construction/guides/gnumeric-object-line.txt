@@ -1,0 +1,3 @@
+gnumeric-object-line
+actions
+    gnumeric-object-line

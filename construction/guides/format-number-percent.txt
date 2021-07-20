@@ -1,0 +1,7 @@
+format-number-percent
+actions
+    format-number-percent
+    gnumeric-format-percentage
+    unit-percents
+    office-chart-line-percentage
+    percent

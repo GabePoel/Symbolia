@@ -1,0 +1,3 @@
+weather-snow-rain
+status
+    weather-snow-rain

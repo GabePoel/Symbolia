@@ -1,0 +1,16 @@
+question
+actions
+    question
+    paint-unknown
+    timepp-question
+    dontknow
+mimetypes
+    gnome-unknown
+    unknown
+    inode-vnd.kde.service.unknown
+    text-x-readme
+    inode-vnd.kde.service.upnp.Unknown
+    stock_unknown
+    gnome-mime-text-x-readme
+status
+    dialog-question

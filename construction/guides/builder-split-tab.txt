@@ -1,0 +1,5 @@
+builder-split-tab
+actions
+    resizerow
+    builder-split-tab
+    size-vertically

@@ -1,0 +1,5 @@
+gnumeric-object-list
+actions
+    gnumeric-object-list
+    mail-reply-list
+    hb-view-list

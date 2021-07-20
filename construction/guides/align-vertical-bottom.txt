@@ -1,0 +1,9 @@
+align-vertical-bottom
+actions
+    align-vertical-bottom
+    kdenlive-align-bottom
+    kdenlive-zindex-bottom
+    format-align-vertical-bottom
+    object-align-vertical-bottom-calligra
+apps
+    align-vertical-bottom

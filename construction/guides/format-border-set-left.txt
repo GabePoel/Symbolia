@@ -1,0 +1,4 @@
+format-border-set-left
+actions
+    format-border-set-left
+    gnumeric-format-border-left

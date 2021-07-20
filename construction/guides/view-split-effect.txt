@@ -1,0 +1,3 @@
+view-split-effect
+actions
+    view-split-effect

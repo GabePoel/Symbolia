@@ -1,0 +1,9 @@
+aceofspades
+apps
+    openspades
+    eu.planete_kraus.Tarot
+    com.tonikelope.MegaBasterd
+    jp.yvt.OpenSpades
+    aceofspades
+    org.kde.kpat
+    applications-cardgames

@@ -1,0 +1,8 @@
+view-reader
+actions
+    view-reader
+apps
+    org.gnome.News
+    bbc
+    allen-b1.news
+    com.github.allen-b1.news

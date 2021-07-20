@@ -1,0 +1,7 @@
+archlinux
+apps
+    distributor-logo-archlinux
+    org.libretro.RetroArch
+    retroarch
+    start-here-archlinux
+    archlinux

@@ -1,0 +1,6 @@
+battery-full-charged
+status
+    battery-level-100-charging
+    battery-full-charging
+    battery-full-charged
+    battery-level-100-charged

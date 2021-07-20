@@ -1,0 +1,4 @@
+battery-level-50
+status
+    battery-medium
+    battery-level-50

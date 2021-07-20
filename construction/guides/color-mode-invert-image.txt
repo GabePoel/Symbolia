@@ -1,0 +1,4 @@
+color-mode-invert-image
+actions
+    color-mode-invert-image
+    object-tweak-jitter-color

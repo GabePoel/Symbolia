@@ -1,0 +1,7 @@
+alert-octogon-filled-off
+actions
+    filter-flagged-disabled
+    mail-mark-notjunk
+    umbr-message-found
+apps
+    mail-mark-notjunk

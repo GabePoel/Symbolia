@@ -1,0 +1,7 @@
+align-horizontal-baseline
+actions
+    distribute-horizontal
+    kdenlive-spacer-tool
+    ui-packing
+    align-horizontal-baseline
+    distribute-vertical-page

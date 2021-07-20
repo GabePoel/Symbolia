@@ -1,0 +1,3 @@
+size-horizontally
+actions
+    size-horizontally

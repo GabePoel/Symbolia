@@ -1,0 +1,30 @@
+lock-unlocked-outline
+actions
+    map-edit-unlocked
+    object-unlocked
+places
+    golder-unlocked
+    folder-yaru-unlocked
+    folder-aubergine-unlocked
+    folder-synthwave-unlocked
+    folder-cyan-unlocked
+    folder-green-unlocked
+    folder-unlocked
+    folder-orange-unlocked
+    folder-brown-unlocked
+    folder-vermillion-unlocked
+    folder-darkblue-unlocked
+    folder-yellow-unlocked
+    folder-black-unlocked
+    folder-canonical-unlocked
+    folder-manjaro-unlocked
+    folder-blue-unlocked
+    folder-purple-unlocked
+    folder-red-unlocked
+    folder-mint-unlocked
+    folder-grey-unlocked
+    folder-pink-unlocked
+    folder-bordeaux-unlocked
+    folder-adwaita-unlocked
+status
+    changes-allow

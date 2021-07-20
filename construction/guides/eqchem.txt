@@ -1,0 +1,29 @@
+eqchem
+actions
+    step_object_CoulombForce
+    eqchem
+apps
+    etcher-electron
+    io.atom.Atom
+    appimagekit-leonflix
+    leonflix
+    applications-electronics
+    atomix-icon
+    atomic
+    atomic_menu
+    muondiscover
+    katomic
+    atomix
+    application-x-chemtool
+    io.atom.electron.BaseApp
+    electron
+    atom-beta
+    AtomicGameEngine
+    org.kde.katomic
+    atom-rpg
+    applications-physics
+    atom
+    muon
+mimetypes
+    application-atom+xml
+    gnome-mime-application-atom+xml

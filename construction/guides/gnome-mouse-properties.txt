@@ -1,0 +1,8 @@
+gnome-mouse-properties
+apps
+    input-mouse
+    gnome-settings-mouse
+    gnome-mouse-properties
+    preferences-desktop-mouse
+devices
+    input-mouse

@@ -1,0 +1,11 @@
+layer-bottom
+actions
+    spray-mode-clone
+    layer-lower
+    object-order-lower
+    path-cut
+    layer-next
+    layer-bottom
+    selection-break
+    paint-order-msf
+    paint-order-mfs

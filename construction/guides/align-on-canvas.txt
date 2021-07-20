@@ -1,0 +1,9 @@
+align-on-canvas
+actions
+    edit-select-same-stroke-color
+    object-ungroup-pop-selection
+    align-on-canvas
+    kdenlive-select-all
+    region
+    edit-select-all
+    select_all

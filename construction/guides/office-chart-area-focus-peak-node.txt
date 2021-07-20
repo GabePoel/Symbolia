@@ -1,0 +1,3 @@
+office-chart-area-focus-peak-node
+actions
+    office-chart-area-focus-peak-node

@@ -1,0 +1,18 @@
+camera-grid
+actions
+    camera-grid
+    pack-more
+    isotopemap
+    feColorMatrix-icon
+    show-grid
+apps
+    2048-qt
+    org.gnome.hitori
+    hitori
+    org.gnome.Klotski
+    2048
+    gnome-2048
+    org.gnome.Taquin
+    org.gnome.klotski
+    org.gnome.TwentyFortyEight
+    org.gnome.Hitori

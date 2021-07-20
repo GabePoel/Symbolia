@@ -1,0 +1,7 @@
+im-skype
+actions
+    im-skype
+apps
+    com.skype.Client
+    skype
+    skypeforlinux

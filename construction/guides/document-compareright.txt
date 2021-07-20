@@ -1,0 +1,3 @@
+document-compareright
+actions
+    document-compareright

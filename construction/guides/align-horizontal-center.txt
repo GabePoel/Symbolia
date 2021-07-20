@@ -1,0 +1,9 @@
+align-horizontal-center
+actions
+    object-align-horizontal-center-calligra
+    centerPage
+    gnumeric-center-across-selection
+    kdenlive-align-hor
+    align-horizontal-center
+apps
+    align-horizontal-center

@@ -1,0 +1,4 @@
+gnumeric-object-radiobutton
+actions
+    gnumeric-object-radiobutton
+    transform-affect-rounded-corners

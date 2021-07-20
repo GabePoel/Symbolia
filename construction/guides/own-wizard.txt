@@ -1,0 +1,4 @@
+own-wizard
+actions
+    own-wizard
+    tools-wizard

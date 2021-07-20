@@ -1,0 +1,3 @@
+preferences-desktop-screensaver
+apps
+    preferences-desktop-screensaver

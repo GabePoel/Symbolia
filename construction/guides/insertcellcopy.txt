@@ -1,0 +1,3 @@
+insertcellcopy
+actions
+    insertcellcopy

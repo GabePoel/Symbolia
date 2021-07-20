@@ -1,0 +1,22 @@
+energies
+actions
+    energies
+    timepp-fire
+apps
+    xfburn
+    fretsonfire
+    stock_xfburn-burn-cd
+    firestorm_icon
+    firestorm
+    firestorm_48
+    stock_xfburn-new-data-composition
+    stock_xfburn-audio-cd
+    stock_xfburn-import-session
+    firewatch
+    tinder
+    io.itch.azagaya.Laigter
+    stock_xfburn-audio-copy
+    stock_xfburn
+    stock_xfburn-blank-cdrw
+status
+    hot

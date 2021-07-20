@@ -1,0 +1,6 @@
+num-4-outline
+apps
+    4137_winhlp32.0
+    4PaneIcon48
+    4Pane
+    44F2_SynthesiaConfig.0

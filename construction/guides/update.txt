@@ -1,0 +1,13 @@
+update
+actions
+    update
+apps
+    aptana
+    aptik
+    aptdaemon-upgrade
+    aptik-gtk
+    aptana-studio
+status
+    image-loading
+    content-loading
+    aptdaemon-upgrade

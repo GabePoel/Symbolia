@@ -1,0 +1,5 @@
+feMerge-icon
+actions
+    feMerge-icon
+    object-merge
+    merge

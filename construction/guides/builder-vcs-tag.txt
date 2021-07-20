@@ -1,0 +1,9 @@
+builder-vcs-tag
+actions
+    builder-vcs-tag
+    feed-tag
+    one-tag
+apps
+    org.gnome.EasyTAG
+    easytag
+    EasyTAG_icon

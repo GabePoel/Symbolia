@@ -1,0 +1,3 @@
+gnome-mime-text-x-c
+mimetypes
+    gnome-mime-text-x-c

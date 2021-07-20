@@ -1,0 +1,3 @@
+closed-captioning
+actions
+    closed-captioning

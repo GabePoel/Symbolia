@@ -1,0 +1,15 @@
+postscript-viewer
+apps
+    postscript-viewer
+mimetypes
+    text-x-script
+    application-script-blank
+    gnome-mime-application-x-gzpostscript
+    application-x-gzpostscript
+    application-x-bzpostscript
+    stock_script
+    gnome-mime-application-postscript
+    application-x-gambasscript
+    application-vnd.insync.link.drive.script
+    application-x-ptoptimizer-script
+    gdscript

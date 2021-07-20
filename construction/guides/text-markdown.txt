@@ -1,0 +1,4 @@
+text-markdown
+mimetypes
+    text-x-markdown
+    text-markdown

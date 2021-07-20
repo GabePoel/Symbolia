@@ -1,0 +1,7 @@
+format-text-bold
+actions
+    format-text-bold
+    strong
+    timepp-bold
+    gtk-bold
+    text-bold

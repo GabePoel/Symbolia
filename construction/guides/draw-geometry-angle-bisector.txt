@@ -1,0 +1,4 @@
+draw-geometry-angle-bisector
+actions
+    draw-geometry-angle-bisector
+    snap-angle

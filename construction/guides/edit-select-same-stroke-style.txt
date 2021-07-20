@@ -1,0 +1,4 @@
+edit-select-same-stroke-style
+actions
+    object-stroke-style
+    edit-select-same-stroke-style

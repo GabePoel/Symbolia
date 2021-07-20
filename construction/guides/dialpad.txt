@@ -1,0 +1,4 @@
+dialpad
+devices
+    input-dialpad
+    dialpad

@@ -1,0 +1,4 @@
+labplot-xy-curve-segments
+actions
+    path-mode-bspline
+    labplot-xy-curve-segments

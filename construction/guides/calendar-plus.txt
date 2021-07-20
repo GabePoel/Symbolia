@@ -1,0 +1,5 @@
+calendar-plus
+actions
+    view-time-schedule-baselined-add
+    event-new
+    resource-calendar-insert

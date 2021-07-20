@@ -1,0 +1,3 @@
+battery-good
+status
+    battery-good

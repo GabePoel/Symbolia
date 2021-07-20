@@ -1,0 +1,3 @@
+stroke-cap-butt
+actions
+    stroke-cap-butt

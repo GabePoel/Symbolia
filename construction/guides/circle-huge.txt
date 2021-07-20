@@ -1,0 +1,3 @@
+circle-huge
+actions
+    size-8

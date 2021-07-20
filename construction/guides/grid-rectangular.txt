@@ -1,0 +1,13 @@
+grid-rectangular
+actions
+    grid-rectangular
+    unit-pixels
+apps
+    four-in-a-row
+    preferences-desktop-apps
+    org.gnome.Four-in-a-row
+    org.gnome.five-or-more
+    foursquare
+    app-launcher
+categories
+    preferences-desktop-apps

@@ -1,0 +1,5 @@
+format-border-set-internal
+actions
+    format-border-set-internal
+    gnumeric-format-border-inside
+    snap-bounding-box-midpoints

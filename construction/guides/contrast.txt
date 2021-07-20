@@ -1,0 +1,5 @@
+contrast
+actions
+    contrast
+apps
+    org.kde.kontrast

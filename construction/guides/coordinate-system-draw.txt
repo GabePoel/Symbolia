@@ -1,0 +1,12 @@
+coordinate-system-draw
+actions
+    transform-crop-and-resize
+    resize-mode
+    tool-resize
+    copy-coordinates
+    transform-scale
+    tool-scale
+    resize_icon
+    dialog-transform
+    coordinate-system-draw
+    scale

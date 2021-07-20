@@ -1,0 +1,26 @@
+cs-themes
+apps
+    xfce-theme-manager
+    cs-themes
+    emerald-theme-manager-icon
+    gtk-theme-config
+mimetypes
+    application-vnd.nokia.xml.qt.resource
+    text-x-theme
+    application-x-theme-startrek2
+    application-x-e-theme
+    mimetype-theme
+    mimetype-theme-alt3
+    texture-box
+    application-x-theme
+    application-x-theme-starwars2
+    application-x-theme-starwars1
+    application-x-gnome-theme-package
+    mimetype-theme-alt1
+    application-x-emerald-theme
+    application-x-theme-startrek1
+    gnome-mime-application-x-theme
+    mimetype-theme-alt4
+    mimetype-theme-alt5
+    mimetype-theme-alt2
+    application-vnd.nokia.qt.qmakeprofile

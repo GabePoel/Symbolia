@@ -1,0 +1,6 @@
+ca.desrt.dconf-editor.big-rows
+actions
+    distribute-vertical-center
+    distribute-vertical-gaps
+    distribute-vertical-margin
+    ca.desrt.dconf-editor.big-rows

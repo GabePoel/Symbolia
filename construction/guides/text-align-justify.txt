@@ -1,0 +1,6 @@
+text-align-justify
+actions
+    text-justify-fill
+    format-justify-fill
+    gnumeric-format-halign-fill
+    gnumeric-format-valign-justify

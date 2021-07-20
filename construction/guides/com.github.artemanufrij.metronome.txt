@@ -1,0 +1,4 @@
+com.github.artemanufrij.metronome
+apps
+    metronome
+    com.github.artemanufrij.metronome

@@ -1,0 +1,3 @@
+audio-subwoofer
+devices
+    audio-subwoofer

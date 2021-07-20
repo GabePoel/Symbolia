@@ -1,0 +1,6 @@
+characters-emoji-animals
+apps
+    emoji-nature
+    characters-emoji-animals
+categories
+    emoji-nature

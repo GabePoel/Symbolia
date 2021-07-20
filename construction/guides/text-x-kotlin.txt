@@ -1,0 +1,3 @@
+text-x-kotlin
+mimetypes
+    text-x-kotlin

@@ -1,0 +1,4 @@
+goa-account-google
+apps
+    google
+    goa-account-google

@@ -1,0 +1,5 @@
+gps-marker-highlighted
+actions
+    gps-marker-selected
+    gps-marker-highlighted
+    gps-marker

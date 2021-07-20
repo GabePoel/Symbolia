@@ -1,0 +1,3 @@
+emblem-photos
+emblems
+    emblem-photos

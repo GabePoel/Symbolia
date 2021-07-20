@@ -1,0 +1,6 @@
+sun
+actions
+    sun
+status
+    weather-clear
+    weather-clear-small

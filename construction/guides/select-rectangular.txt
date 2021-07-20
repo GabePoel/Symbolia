@@ -1,0 +1,4 @@
+select-rectangular
+actions
+    select-rectangular
+    show-bounding-box

@@ -1,0 +1,12 @@
+gnumeric-pagesetup-hf-sheet
+actions
+    gnumeric-pagesetup-hf-sheet
+apps
+    lighttable
+    gnumeric
+    calligrasheets
+    gnome-gnumeric
+    kingsoft-spreadsheets
+    org.darktable.Darktable
+    darktable
+    sheets

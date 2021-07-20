@@ -1,0 +1,27 @@
+autocad
+apps
+    com.github.alecaddd.akira
+    kicad
+    org.freecadweb.FreeCAD
+    freecad
+    org.kicad_pcb.KiCad
+    org.openscad.OpenSCAD
+    freecad-daily
+    openscad
+    com.github.akiraux.akira
+    autocad
+mimetypes
+    application-vnd.gvdesign
+    application-vnd.afdesigner
+    application-afdesigner
+    application-x-designer
+    application-x-autocad
+    gnome-mime-application-x-designer
+    application-acad
+    application-x-acad
+    application-x-dgn
+    application-clariscad
+    application-gvdesign
+    application-autocad_dwg
+    application-x-kudesigner
+    application-vnd.affinity-designer

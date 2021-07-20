@@ -1,0 +1,3 @@
+applications-haskell
+apps
+    applications-haskell

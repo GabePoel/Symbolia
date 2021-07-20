@@ -1,0 +1,5 @@
+speedometer2
+apps
+    speedometer2
+status
+    power-profile-power-saver

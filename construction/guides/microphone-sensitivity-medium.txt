@@ -1,0 +1,3 @@
+microphone-sensitivity-medium
+status
+    microphone-sensitivity-medium

@@ -1,0 +1,6 @@
+composition
+actions
+    distribute-vertical-node
+    node-distribute-vertical
+    composition
+    nemo-vertical-layout-wide

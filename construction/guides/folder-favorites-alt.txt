@@ -1,0 +1,5 @@
+folder-favorites-alt
+places
+    starred-alt
+    folder-favorites-alt
+    folder-starred

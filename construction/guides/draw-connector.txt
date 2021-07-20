@@ -1,0 +1,8 @@
+draw-connector
+actions
+    step_object_Stick
+    x-shape-connection
+    standard-connector
+    straight-connector
+    draw-connector
+    lines-connector

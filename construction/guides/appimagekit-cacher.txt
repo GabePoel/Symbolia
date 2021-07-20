@@ -1,0 +1,7 @@
+appimagekit-cacher
+apps
+    appimagekit-cacher
+mimetypes
+    application-x-codeblocks-workspace
+    application-x-codeblocks
+    code

@@ -1,0 +1,3 @@
+feComponentTransfer-icon
+actions
+    feComponentTransfer-icon

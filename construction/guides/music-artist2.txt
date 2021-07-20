@@ -1,0 +1,3 @@
+music-artist2
+actions
+    music-artist2

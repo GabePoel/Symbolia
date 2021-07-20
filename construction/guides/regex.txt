@@ -1,0 +1,9 @@
+regex
+actions
+    regex
+    xapp-use-regex
+    text-regularexpression
+apps
+    regextester
+    kregexpeditor
+    com.github.artemanufrij.regextester

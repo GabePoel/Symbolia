@@ -1,0 +1,3 @@
+gnumeric-format-precision-increase
+actions
+    gnumeric-format-precision-increase

@@ -1,0 +1,4 @@
+labplot-xy-plot-two-axes-centered-origin
+actions
+    labplot-xy-plot-two-axes-centered-origin
+    snap-nodes-center

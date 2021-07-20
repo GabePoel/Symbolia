@@ -1,0 +1,6 @@
+gnumeric-protection-no
+actions
+    kdenlive-unlock
+    gnumeric-protection-no
+devices
+    padlock-open

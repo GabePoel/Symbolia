@@ -1,0 +1,5 @@
+application-x-executable
+apps
+    application-x-executable
+mimetypes
+    application-vnd.appimage

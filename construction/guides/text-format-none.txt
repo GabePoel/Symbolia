@@ -1,0 +1,5 @@
+text-format-none
+actions
+    format-text-none
+    format-text-remove-formatting
+    format-text-remove

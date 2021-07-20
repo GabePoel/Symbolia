@@ -1,0 +1,7 @@
+cage
+actions
+    draw-polygon
+    tool_polygon
+    cage
+    pentagon-shape
+    tool-polygon

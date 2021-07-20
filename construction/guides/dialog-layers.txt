@@ -1,0 +1,8 @@
+dialog-layers
+actions
+    edit-select-all-layers
+    layer-visible-on
+    dialog-layers
+    layer
+apps
+    layers-button

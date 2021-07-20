@@ -1,0 +1,16 @@
+bitcoin-qt
+apps
+    com.github.lainsce.coin
+    fr.fgrabenstaetter.DigitalAssets
+    litecoin-qt
+    org.electrum.electrum
+    bitcoin-qt
+    bitcoin
+    org.groestlcoin.electrum-grs
+    org.dash.electrum.electrum_dash
+    coin
+    cointop
+    org.bitcoincore.bitcoin-qt
+    org.groestlcoin.groestlcoin-qt
+    com.github.miguelmota.Cointop
+    bitcoin128

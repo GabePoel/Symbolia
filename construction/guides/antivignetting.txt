@@ -1,0 +1,6 @@
+antivignetting
+actions
+    blurfx
+    antivignetting
+    paint-gradient-conical
+    object-tweak-blur

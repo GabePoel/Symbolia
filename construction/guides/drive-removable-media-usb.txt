@@ -1,0 +1,3 @@
+drive-removable-media-usb
+devices
+    drive-removable-media-usb

@@ -1,0 +1,3 @@
+view-institution-delete
+actions
+    view-institution-delete

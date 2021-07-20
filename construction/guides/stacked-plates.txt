@@ -1,0 +1,9 @@
+stacked-plates
+actions
+    stacked-plates
+apps
+    scratch
+    codeblocks
+    smartcode-stremio
+    stack
+    org.codeblocks.codeblocks

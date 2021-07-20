@@ -1,0 +1,6 @@
+calendar-month
+actions
+    view-calendar-month
+    category2parent
+    view-tasks-all
+    calendar-month

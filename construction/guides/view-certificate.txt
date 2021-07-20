@@ -1,0 +1,3 @@
+view-certificate
+actions
+    view-certificate

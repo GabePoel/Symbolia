@@ -1,0 +1,3 @@
+view-financial-account-cash-closed
+actions
+    view-financial-account-cash-closed

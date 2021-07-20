@@ -1,0 +1,6 @@
+battery-caution-charging
+status
+    battery-caution-charging
+    battery-level-10-charging
+    battery-level-20-charging
+    battery-low-charging

@@ -1,0 +1,6 @@
+com.github.eudaldgr.elements
+apps
+    com.github.eudaldgr.elements
+    element4l
+    elements
+    gchemtable

@@ -1,0 +1,6 @@
+code-function
+actions
+    quickopen-function
+    lang-function
+    code-function
+    gnumeric-formulaguru

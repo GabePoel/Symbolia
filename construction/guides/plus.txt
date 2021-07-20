@@ -1,0 +1,23 @@
+plus
+actions
+    media-track-add-amarok
+    gnc-account-new
+    tab-new
+    im-irc
+    flt-include
+    irc-join-channel
+    value-increase
+    list-add
+    feed-add
+    add-note
+    project_add
+    color-mode-hue-shift-positive
+    vm_new
+    bqm-addqueue
+    bqm-add
+    gtk-tab-new
+    gtk-add
+    timepp-plus
+    lighttableadd
+status
+    aptdaemon-add

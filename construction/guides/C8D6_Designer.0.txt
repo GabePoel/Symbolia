@@ -1,0 +1,20 @@
+C8D6_Designer.0
+apps
+    designer
+    io.designer.GravitDesigner
+    qtdesigner
+    qt-designer
+    substance-designer
+    designer-qt4
+    designer-qt5
+    C8D6_Designer.0
+    gravit-designer
+    designer5
+    allegorithmic-Substance_Designer
+    QtProject-designer
+    ascii-design
+    designer-qt
+    appimagekit-gravit-designer
+    qt4-designer
+    qt5-designer
+    affinity-designer

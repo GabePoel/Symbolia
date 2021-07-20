@@ -1,0 +1,4 @@
+dice-d20
+apps
+    codes.nora.gDiceRoller
+    org.rolisteam.rolisteam

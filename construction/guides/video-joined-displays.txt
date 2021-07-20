@@ -1,0 +1,3 @@
+video-joined-displays
+devices
+    video-joined-displays

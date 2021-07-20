@@ -1,0 +1,21 @@
+alarm
+actions
+    timer-on
+    timepp-alarms
+    alarm
+    chronometer
+apps
+    io.github.lainsce.Khronos
+    org.gnome.BreakTimer
+    org.gnome.Solanum
+    gnome-pomodoro
+categories
+    nightthemeswitcher-schedule
+mimetypes
+    application-x-vnd.kde.alarm
+    application-x-vnd.kde.alarm.archived
+    application-x-vnd.kde.alarm.template
+    application-x-vnd.kde.alarm.active
+status
+    alarm-centered
+    alarm

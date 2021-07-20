@@ -1,0 +1,32 @@
+calculator
+actions
+    calculate
+apps
+    io.github.Qalculate
+    ecalc
+    org.kde.kcalc
+    e-juice-calc
+    kcalc
+    com.kavilgroup.gestimator
+    Calculator.app
+    calculator-app
+    gnome-calculator_gnome-calculator
+    deepin-calculator
+    pcbcalculator
+    calculator
+    com.szibele.e-juice-calc
+    gnome-calculator
+    org.gnome.Genius
+    gcbalculator
+    calc
+    org.gnome.Calculator
+    keurocalc
+    com.endlessnetwork.missilemath
+    qalculate
+    appimagekit_a6cf0f8bfa75c31451932761a60ce89e_elcalc
+    accessories-calculator
+    com.github.carlos157oliveira.Calculus
+    elcalc
+    io.liri.Calculator
+    galculator
+    Calculator

@@ -1,0 +1,3 @@
+audio-speaker-left-testing
+devices
+    audio-speaker-left-testing

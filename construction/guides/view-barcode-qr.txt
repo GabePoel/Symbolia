@@ -1,0 +1,6 @@
+view-barcode-qr
+actions
+    view-barcode-qr
+apps
+    com.belmoussaoui.Decoder
+    qrcode

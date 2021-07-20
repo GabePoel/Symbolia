@@ -1,0 +1,7 @@
+pixelart-trace
+actions
+    pixelart-trace
+apps
+    com.github.libresprite.LibreSprite
+    libresprite
+    org.gnome.frogr

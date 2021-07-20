@@ -1,0 +1,9 @@
+kr_diskusage
+actions
+    view-financial-budget
+    kr_diskusage
+apps
+    akonadiconsole
+    akonadi
+    disk-usage-app
+    akonaditray

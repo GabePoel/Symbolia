@@ -1,0 +1,6 @@
+interpolate
+actions
+    interpolate
+    sound-wave-alt
+    labplot-xy-fourier-transform-curve
+    pathshape

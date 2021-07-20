@@ -1,0 +1,5 @@
+arrow-small-sync-alt
+apps
+    aptdaemon-working
+status
+    aptdaemon-working

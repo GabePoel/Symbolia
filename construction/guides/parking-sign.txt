@@ -1,0 +1,9 @@
+parking-sign
+actions
+    parking-sign
+apps
+    applications-perl
+mimetypes
+    image-vnd.adobe.photoshop
+    application-photoshop
+    application-vnd.kde.kphotoalbum-import

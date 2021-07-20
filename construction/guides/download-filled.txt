@@ -1,0 +1,65 @@
+download-filled
+actions
+    edit-download
+    download
+    run-build-install
+    torrents
+    downloaded
+    ephy-download
+apps
+    subdownloader
+    ktorrent
+    software-update
+    de.haeckerfelix.Fragments
+    mintsources-additional
+    torrential
+    easylife
+    org.freedesktop.Tuhi
+    gnome-apt
+    system-installer
+    deepin-installer
+    download
+    webtorrent-desktop
+    utorrent
+    com.github.davidmhewitt.torrential
+    system-software-install
+    deepin-installer-oem
+    mintinstall
+    debian-installer-launcher
+    jdownloader
+    bittorrent-sync
+    qbittorrent
+    gnome-app-install
+    torrent
+    dse
+    org.deluge_torrent.deluge
+    rapid-photo-downloader
+    bitorrent
+    deepin-download
+    system-software-installer
+    org.jdownloader.JDownloader
+    system-os-installer
+    bittorrent
+    io.webtorrent.WebTorrent
+    downloader-arrow
+    4kvideodownloader
+    org.qbittorrent.qBittorrent
+    org.kde.ktorrent
+    calamares
+mimetypes
+    application-x-bittorrent
+    text-x-install
+    torrent
+    application-x-nzb
+    gnome-mime-x-install
+    application-x-xpinstall
+    gnome-mime-application-x-bittorrent
+    gnome-mime-text-x-install
+    application-torrent
+    application-install
+    application-x-partial-download
+places
+    folder-download-alt
+    folder-downloads-alt
+status
+    extensions-sync-download

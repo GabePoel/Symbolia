@@ -1,0 +1,3 @@
+pan-up
+actions
+    escape-direction-up

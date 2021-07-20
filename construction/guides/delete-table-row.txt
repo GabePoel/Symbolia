@@ -1,0 +1,5 @@
+delete-table-row
+actions
+    gnumeric-row-delete
+    delete-table-row
+    edit-table-delete-row

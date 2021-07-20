@@ -1,0 +1,5 @@
+network-wired-acquiring
+status
+    network-wired-connected
+    network-wired-acquiring
+    network-wired-secure

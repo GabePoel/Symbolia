@@ -1,0 +1,5 @@
+draw-geometry-mirror
+actions
+    tool-mirror
+    mirror-symmetry
+    draw-geometry-mirror

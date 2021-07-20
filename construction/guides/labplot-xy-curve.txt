@@ -1,0 +1,3 @@
+labplot-xy-curve
+actions
+    labplot-xy-curve

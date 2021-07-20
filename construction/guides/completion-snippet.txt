@@ -1,0 +1,40 @@
+completion-snippet
+actions
+    format-text-code
+    timepp-code
+    completion-snippet
+apps
+    com.parallax.PropellerIDE
+    idea-ultimate
+    com.st.STM32CubeIDE
+    org.cvfosammmm.Porto
+    com.xamarin.MonoDevelop
+    idea
+    org.geany.Geany
+    com.inform7.IDE
+    avocode
+    br.com.jeanhertel.adriconf
+    org.robocode.Robocode
+    appcode
+    code
+mimetypes
+    application-dart
+    application-xml
+    application-slf+xml
+    application-rdf+xml
+    application-vnd.google-earh.kml+xml
+    text-rdf+xml
+    application-metalink4+xml
+    application-x-osm+xml
+    application-tcx+xml
+    text-xml
+    gnome-mime-application-xml
+    application-x-gpx+xml
+    application-xslt+xml
+    application-xspf+xml
+    application-owl+xml
+    application-loc+xml
+    application-xml-dtd
+    application-metalink+xml
+    application-gml+xml
+    application-smil+xml

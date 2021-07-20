@@ -1,0 +1,13 @@
+currency
+actions
+    format-currency
+    help-donate-usd
+    currency
+apps
+    characters-currency
+    com.github.bartzaalberg.lottery
+    acorn
+    money
+    adventure-capitalist
+status
+    feed-nonfree

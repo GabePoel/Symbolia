@@ -1,0 +1,5 @@
+xapp-prefs-plugins
+categories
+    xapp-prefs-plugins
+devices
+    device_serial

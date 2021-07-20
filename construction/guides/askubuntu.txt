@@ -1,0 +1,39 @@
+askubuntu
+apps
+    ubuntu-software
+    qtcreatorubuntu
+    distributor-logo-ubuntustudio
+    ubuntudash
+    distributor-logo-kubuntu
+    start-here-lubuntu
+    distributor-logo-ubuntubudgie
+    distributor-logo-xubuntu
+    ubuntu
+    ubuntu-store
+    ubuntu-cleaner
+    ubuntustore
+    ubuntuone
+    distributor-logo-ubuntu-studio
+    distributor-logo-ubuntu-mate
+    ubuntu-tweak
+    distributor-logo-ubuntu
+    ubuntu-mate
+    distributor-logo-ubuntumate
+    askubuntu
+    distributor-logo-lubuntu
+    lubuntu-software-center
+    ubuntu-qtcreator
+    lubuntu
+    ubuntu-kylin-software-center
+    goa-account-ubuntusso
+    checkbox-touch
+    ubuntuone-client
+    ubuntu-tweak-tool
+    ubuntu-welcome-app
+    com.github.mirkobrombin.ppaextender
+    distributor-logo-ubuntu-budgie
+    ubuntuone-installer
+    ubuntusoftware
+mimetypes
+    application-x-deb-ubuntu
+    application-x-desktop-unity

@@ -1,0 +1,40 @@
+check
+actions
+    stock_yes
+    object-select
+    gtk-yes
+    timepp-todo
+    dialog-yes
+    stock_mail-filters-apply
+    feed-mark-read
+    stock_mark
+    dialog-ok-apply
+    gtk-ok
+    stock_calc-accept
+    dialog-apply
+    dialog-ok
+apps
+    com.github.zren.todolist
+    wunderlist
+    gnome-todo
+    anydo
+    to-do-app
+    any_do
+    net.rpdev.OpenTodoList
+    gnome-do
+    com.todoist.Todoist
+    goa-account-todoist
+    todoist
+    org.gnome.Todo
+    com.github.alainm23.planner
+    todour
+    korg-todo
+    planner
+    com.krillbite.ThePlan
+    com.github.lainsce.yishu
+    org.gnome.GTG
+    org.gnome.todo
+mimetypes
+    application-vnd.insync.link.drive.form
+status
+    feed-status-ok

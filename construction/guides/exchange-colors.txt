@@ -1,0 +1,4 @@
+exchange-colors
+actions
+    swap-panels
+    exchange-colors

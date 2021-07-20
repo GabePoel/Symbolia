@@ -1,0 +1,8 @@
+fcitx-fullwidth-inactive
+actions
+    fcitx-fullwidth-inactive
+    moon
+status
+    weather-clear-night-small
+    weather-clear-night
+    nightthemeswitcher-ondemand-off

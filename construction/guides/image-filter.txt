@@ -1,0 +1,4 @@
+image-filter
+actions
+    tool-filters
+    image-filter

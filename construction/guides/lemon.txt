@@ -1,0 +1,12 @@
+lemon
+actions
+    orange
+    lime
+    lemon
+apps
+    org.clementine_player.Clementine
+    org.citra_emu.citra
+    application-x-clementine
+    clementine
+mimetypes
+    application-x-clementine

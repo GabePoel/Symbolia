@@ -1,0 +1,12 @@
+backup
+actions
+    prf-backup
+    backup
+apps
+    luckyBackup
+    org.gnome.World.PikaBackup
+    backups-app
+    systemback
+    org.gnome.Backups
+    backup
+    mintbackup

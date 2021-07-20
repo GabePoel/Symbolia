@@ -1,0 +1,7 @@
+mail-outbox
+actions
+    mail-outbox
+apps
+    mail-outbox
+places
+    mail-outbox

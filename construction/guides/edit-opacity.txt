@@ -1,0 +1,3 @@
+edit-opacity
+actions
+    edit-opacity

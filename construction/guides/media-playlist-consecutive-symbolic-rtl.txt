@@ -1,0 +1,4 @@
+media-playlist-consecutive-symbolic-rtl
+status
+    media-playlist-no-repeat-symbolic-rtl
+    media-playlist-consecutive-symbolic-rtl

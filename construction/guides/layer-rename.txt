@@ -1,0 +1,5 @@
+layer-rename
+actions
+    selection-exclude
+    layer-rename
+    path-exclusion

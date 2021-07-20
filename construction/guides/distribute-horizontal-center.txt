@@ -1,0 +1,4 @@
+distribute-horizontal-center
+actions
+    kdenlive-snap
+    distribute-horizontal-center

@@ -1,0 +1,5 @@
+gnome-mime-text-css
+mimetypes
+    text-x-scss
+    gnome-mime-text-css
+    text-x-css

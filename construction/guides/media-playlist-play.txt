@@ -1,0 +1,3 @@
+media-playlist-play
+actions
+    media-playlist-play

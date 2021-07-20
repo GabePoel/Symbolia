@@ -1,0 +1,3 @@
+ssh
+apps
+    com.github.muriloventuroso.easyssh

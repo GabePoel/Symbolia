@@ -1,0 +1,3 @@
+view-object-histogram-linear
+actions
+    view-object-histogram-linear

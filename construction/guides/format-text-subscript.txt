@@ -1,0 +1,5 @@
+format-text-subscript
+actions
+    text_subscript
+    format-text-subscript
+    gnumeric-subscript

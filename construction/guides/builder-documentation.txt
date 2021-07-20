@@ -1,0 +1,16 @@
+builder-documentation
+actions
+    builder-documentation
+apps
+    com.github.fushinari.Wordbook
+    FBReader
+    net.lugsole.bible_gui
+    com.github.johnfactotum.QuickLookup
+    org.homelinuxserver.vance.biblereader
+    gnome-books
+    org.gnome.Books
+    com.calibre_ebook.calibre.ebook-viewer
+    book
+    org.goldendict.GoldenDict
+    bookworm
+    com.calibre_ebook.calibre.ebook-edit

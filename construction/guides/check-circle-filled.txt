@@ -1,0 +1,18 @@
+check-circle-filled
+actions
+    on
+    success
+    hb-file-valid
+    selection-remove
+    games-solve
+emblems
+    emblem-dropbox-mixedstate
+    emblem-dropbox-uptodate
+    emblem-insync-synced-callbacks
+    emblem-insync-synced
+    emblem-insync-synced-shared
+    emblem-default
+    emblem-insync-synced-callbacks-active
+    emblem-ok
+status
+    process-completed

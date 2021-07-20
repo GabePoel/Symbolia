@@ -1,0 +1,26 @@
+microsoft-excel
+apps
+    microsoft-excel
+    ms-excel
+mimetypes
+    application-msexcel
+    wps-office-xlt
+    application-vnd.ms-excel.sheet.binary.macroenabled.12
+    wps-office-xlsx
+    application-x-excel
+    application-excel
+    application-vnd.ms-excel.sheet.macroEnabled.12
+    wps-office-ett
+    wps-office-xls
+    application-wps-office.xltx
+    gnome-mime-application-vnd.ms-excel
+    application-vnd.ms-excel.addin.macroenabled.12
+    application-wps-office.xlsx
+    application-wps-office.xls
+    application-wps-office.et
+    application-vnd.ms-excel
+    application-x-msexcel
+    application-vnd.ms-excel.sheet.macroenabled.12
+    application-vnd.ms-excel.template.macroenabled.12
+    wps-office-et
+    application-wps-office.xlt

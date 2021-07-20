@@ -1,0 +1,4 @@
+draw-arrow
+actions
+    draw-arrow
+    gnumeric-object-arrow

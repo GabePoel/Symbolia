@@ -1,0 +1,3 @@
+applications-architecture
+apps
+    applications-architecture

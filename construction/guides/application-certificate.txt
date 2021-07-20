@@ -1,0 +1,9 @@
+application-certificate
+mimetypes
+    preferences-certificate
+    application-x-x509-ca-cert
+    stock_certificate
+    application-x-x509-user-cert
+    application-x-pkcs7-certificates
+    application-pkix-cert
+    application-certificate

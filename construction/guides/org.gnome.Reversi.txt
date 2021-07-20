@@ -1,0 +1,4 @@
+org.gnome.Reversi
+apps
+    org.gnome.Reversi
+    yin-yang

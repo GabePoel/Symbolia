@@ -1,0 +1,16 @@
+document-open-remote
+actions
+    document-open-remote
+apps
+    preferences-desktop-remote-desktop
+    folder-remote
+    preferences-desktop-sharing
+mimetypes
+    inode-vnd.kde.service.upnp.RemoteUIServerDevice1
+    inode-vnd.kde.service.upnp.RemoteUIClientDevice1
+    application-x-remote-connection
+    gnome-mime-application-x-remote-connection
+places
+    folder-wifi
+    folder-remote
+    folder-remote-ssh

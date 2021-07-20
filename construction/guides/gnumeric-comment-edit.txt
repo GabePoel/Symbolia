@@ -1,0 +1,3 @@
+gnumeric-comment-edit
+actions
+    gnumeric-comment-edit

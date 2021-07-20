@@ -1,0 +1,12 @@
+choice-round
+actions
+    tool-circle
+    radio
+    circle-draw
+    ui-item
+    choice-round
+apps
+    radio
+status
+    state_shutoff
+    radiobutton

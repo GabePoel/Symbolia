@@ -1,0 +1,4 @@
+panel-down
+actions
+    view-bottom-pane
+    builder-view-bottom-pane

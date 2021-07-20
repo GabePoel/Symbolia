@@ -1,0 +1,14 @@
+application-illustrator
+mimetypes
+    x-extension-fcstd
+    gnome-mime-application-x-killustrator
+    application-illustrator
+    x-dia-diagram
+    application-x-sketch
+    text-rdf
+    application-x-smb-workgroup
+    image-vnd.adobe.illustrator
+    application-x-uml
+    gnome-mime-application-x-illustrator
+    text-x-hex
+    office-illustration

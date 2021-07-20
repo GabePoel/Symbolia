@@ -1,0 +1,17 @@
+box
+actions
+    step_object_Box
+    draw-rectangle
+    rectangle-shape
+    box
+    object_node
+    tool-rectangle
+    node
+    tool_rectangle
+apps
+    org.gnome.Boxes
+    virtualbox
+    box
+    org.gnome-Boxes
+    virtualbox-ose
+    VBox

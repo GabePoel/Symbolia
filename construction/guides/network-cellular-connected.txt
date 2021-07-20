@@ -1,0 +1,4 @@
+network-cellular-connected
+status
+    network-cellular-signal-excellent
+    network-cellular-connected

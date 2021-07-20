@@ -1,0 +1,7 @@
+minecraft
+apps
+    mc
+    com.mojang.Minecraft
+    minecraft-launcher
+    minecraft
+    io.mrarm.mcpelauncher

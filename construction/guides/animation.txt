@@ -1,0 +1,12 @@
+animation
+actions
+    entrance_animations
+    motion_path_animations
+    tool-animator
+apps
+    com.lettier.gifcurry
+    com.github.bharatkalluri.gifup
+    appimagekit_0b58b82040223d044316bfbdc0a154c5_com.lettier.gifcurry
+    appimagekit-synfigstudio
+mimetypes
+    application-x-navi-animation

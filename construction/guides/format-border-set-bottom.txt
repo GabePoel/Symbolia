@@ -1,0 +1,4 @@
+format-border-set-bottom
+actions
+    format-border-set-bottom
+    gnumeric-format-border-bottom

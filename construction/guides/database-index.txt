@@ -1,0 +1,18 @@
+database-index
+actions
+    format-list-unordered
+    view-tasks-unscheduled
+    sidebar-index
+    ui-menu
+    format-unordered-list
+    database-index
+    gtk-index
+    hb-legend
+    view-list-bullet
+    kdenlive-show-all-effects
+    sidebar_index
+    show-all-effects
+mimetypes
+    text-x-changelog
+    gnome-mime-text-x-changelog
+    text-x-log

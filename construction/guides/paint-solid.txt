@@ -1,0 +1,3 @@
+paint-solid
+actions
+    paint-solid

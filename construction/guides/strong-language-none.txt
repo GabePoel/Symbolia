@@ -1,0 +1,3 @@
+strong-language-none
+actions
+    strong-language-none

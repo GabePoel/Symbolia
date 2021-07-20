@@ -1,0 +1,10 @@
+paint-swatch
+actions
+    paint-swatch
+    swatches
+apps
+    com.github.cassidyjames.palette
+    org.gnome.design.Palette
+    com.github.danrabbit.harvey
+    swatches
+    com.github.keyilan.swatches

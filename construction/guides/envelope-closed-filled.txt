@@ -1,0 +1,10 @@
+envelope-closed-filled
+actions
+    gnumeric-link-email
+    view-pim-mail
+    postalcode
+    mail-mark-unread
+    mail-message
+    mail-unread
+status
+    mailspring-tray-full

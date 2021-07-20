@@ -1,0 +1,8 @@
+camorama
+apps
+    camorama
+    webcamoid
+    webcam
+    gtkam-camera
+    gtk-recordmydesktop
+    ocaml

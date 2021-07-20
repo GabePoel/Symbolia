@@ -1,0 +1,8 @@
+media-playlist-repeat
+actions
+    media-repeat-album-amarok
+    media-repeat-playlist-amarok
+    media-playlist-repeat
+    repeat
+status
+    media-playlist-repeat

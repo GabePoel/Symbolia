@@ -1,0 +1,12 @@
+org.gnome.Lollypop-spotify
+actions
+    org.gnome.Lollypop-spotify
+apps
+    nuvolaplayer3_spotify
+    spotify
+    spotify-client
+    Spotify
+    com.spotify.Client
+    dev.alextren.Spot
+    spotify-linux-512x512
+    spotify-linux-48x48

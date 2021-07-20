@@ -1,0 +1,6 @@
+characters-emoji-activities
+apps
+    emoji-activities
+    characters-emoji-activities
+categories
+    emoji-activities

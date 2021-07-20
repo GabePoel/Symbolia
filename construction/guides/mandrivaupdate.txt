@@ -1,0 +1,11 @@
+mandrivaupdate
+apps
+    mandrivaupdate
+    mintupdate-release-upgrade
+    update
+    software-updater
+    mintupdate
+    system-software-update
+    update-manager
+    yast-online_update
+    pamac-updater

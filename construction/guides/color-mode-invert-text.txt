@@ -1,0 +1,10 @@
+color-mode-invert-text
+actions
+    color-mode-invert-text
+    text_outer_style
+mimetypes
+    text-rtf
+    application-rtf
+    text-enriched
+    text-richtext
+    gnome-mime-application-rtf

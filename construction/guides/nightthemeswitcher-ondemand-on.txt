@@ -1,0 +1,3 @@
+nightthemeswitcher-ondemand-on
+status
+    nightthemeswitcher-ondemand-on

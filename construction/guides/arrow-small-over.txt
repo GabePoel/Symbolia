@@ -1,0 +1,8 @@
+arrow-small-over
+actions
+    gtk-undelete-rtl
+    debug-step-over
+    edit-undo-symbolic-rtl
+    step-over
+    edit-redo
+    edit-undo-rtl

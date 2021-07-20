@@ -1,0 +1,4 @@
+list-remove-all
+actions
+    list-remove-all
+    preview-remove-all

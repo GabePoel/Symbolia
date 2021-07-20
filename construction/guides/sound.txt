@@ -1,0 +1,15 @@
+sound
+actions
+    sound
+    system-sounds
+    speaker
+apps
+    org.gnome.Rhythymbox3
+    rambox
+    rhythmbox
+    org.gnome.Rhythmbox3
+    org.gnome.Rhythmbox
+devices
+    audio-speaker-mono-testing
+    audio-speakers
+    speakers

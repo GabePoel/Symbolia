@@ -1,0 +1,3 @@
+gnumeric-format-border-top-n-bottom
+actions
+    gnumeric-format-border-top-n-bottom

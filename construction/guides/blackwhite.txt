@@ -1,0 +1,4 @@
+blackwhite
+actions
+    color-mode-black-white
+    blackwhite

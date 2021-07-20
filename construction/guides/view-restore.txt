@@ -1,0 +1,7 @@
+view-restore
+actions
+    view-restore
+    window-restore
+    zoom-original
+apps
+    zoom-original

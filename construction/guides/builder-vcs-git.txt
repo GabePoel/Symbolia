@@ -1,0 +1,28 @@
+builder-vcs-git
+actions
+    builder-vcs-git
+apps
+    git-cola_git-cola
+    Gitter
+    gitahead
+    gitkraken-symbolicgitkraken
+    im.gitter.Gitter
+    org.gnome.gitg
+    gitkraken
+    gitg
+    org.gnome.gitgDevel
+    gitter
+    syntevo-smartgit
+    GitKraken
+    git-cola
+    git-dag
+    com.github.arshubham.gitignore
+    smartgithg
+    smartgit
+    applications-versioncontrol
+    com.syntevo.SmartGit
+    git-gui
+    com.axosoft.GitKraken
+    git
+places
+    folder-git

@@ -1,0 +1,4 @@
+snap-nodes-rotation-center
+actions
+    tool-rotate
+    snap-nodes-rotation-center

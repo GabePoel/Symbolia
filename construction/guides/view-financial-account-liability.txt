@@ -1,0 +1,3 @@
+view-financial-account-liability
+actions
+    view-financial-account-liability

@@ -1,0 +1,12 @@
+bqm-rmqueue
+actions
+    bqm-rmqueue
+    network-error
+    hb-file-invalid
+    kdenlive-deleffect
+emblems
+    emblem-dropbox-selsync
+status
+    network-error
+    dialog-error
+    process-error

@@ -1,0 +1,4 @@
+network-wireless-disabled
+status
+    network-wireless-offline
+    network-wireless-disabled

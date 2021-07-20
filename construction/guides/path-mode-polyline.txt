@@ -1,0 +1,5 @@
+path-mode-polyline
+actions
+    path-mode-polyline
+apps
+    org.enjoyingfoss.FOSStriangulator

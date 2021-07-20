@@ -1,0 +1,10 @@
+arrow-small-right
+actions
+    own-searchandreplacearrow
+    arrow1-right
+    builder-move-right
+    media-playlist-normal
+status
+    media-playlist-no-shuffle
+    media-playlist-no-repeat
+    media-playlist-consecutive

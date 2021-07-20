@@ -1,0 +1,3 @@
+calibre-ebook-edit
+apps
+    calibre-ebook-edit

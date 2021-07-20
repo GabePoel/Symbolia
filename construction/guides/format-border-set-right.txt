@@ -1,0 +1,5 @@
+format-border-set-right
+actions
+    snap-bounding-box-edges
+    gnumeric-format-border-right
+    format-border-set-right

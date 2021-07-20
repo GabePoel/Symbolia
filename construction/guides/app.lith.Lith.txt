@@ -1,0 +1,5 @@
+app.lith.Lith
+apps
+    weechat
+    wechat
+    app.lith.Lith

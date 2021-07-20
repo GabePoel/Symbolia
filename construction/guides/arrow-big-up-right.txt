@@ -1,0 +1,4 @@
+arrow-big-up-right
+actions
+    window-pop-out
+    skrooge_more

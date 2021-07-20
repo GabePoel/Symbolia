@@ -1,0 +1,8 @@
+audio-volume-muted
+actions
+    ephy-audio-playing
+    audio-volume-muted
+    kdenlive-hide-audio
+status
+    audio-volume-muted
+    audio-volume-muted-blocking

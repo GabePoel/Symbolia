@@ -1,0 +1,4 @@
+network-cellular-disabled
+status
+    network-cellular-disabled
+    network-cellular-hardware-disabled

@@ -1,0 +1,7 @@
+document-export-table
+actions
+    document-export-table
+    send-to
+apps
+    preferences-system-sharing
+    applications-filesharing

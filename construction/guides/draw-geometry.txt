@@ -1,0 +1,8 @@
+draw-geometry
+actions
+    draw-geometry
+apps
+    archittetura
+    org.gnome.design.AppIconPreview
+    org.gnome.design.IconLibrary
+    org.gnome.design.SymbolicPreview

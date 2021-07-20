@@ -1,0 +1,15 @@
+gdmap_icon
+apps
+    sgt-map
+    harbour-pure-maps
+    org.kde.kgeography
+    org.openstreetmap.josm
+    maps-app
+    io.github.rinigus.PureMaps
+    mappa
+    gnome-maps
+    maps
+    org.gnome.Maps
+    kgeography
+    gdmap_icon
+    org.gnome.maps

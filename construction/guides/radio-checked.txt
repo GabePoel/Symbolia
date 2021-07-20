@@ -1,0 +1,9 @@
+radio-checked
+actions
+    radio-checked
+    system-suspend-hibernate
+    system-hibernate
+apps
+    system-hibernate
+status
+    radiobutton-checked

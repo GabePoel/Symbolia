@@ -1,0 +1,26 @@
+kdenlive-show-gpu-effects
+actions
+    show-gpu-effects
+    kdenlive-show-gpu-effects
+apps
+    amd-ati
+    nvidia-x-server-setting
+    nvidia-current-settings
+    nvvp
+    io.github.hmlendea.geforcenow-electron
+    nvidia
+    radeon-profile
+    nvidia-settings
+    amd
+    nvidia-310-settings
+    nvidia-current-updates-settings
+    Nvidiux
+    nvidia-x-server-settings
+    com.basemark.BasemarkGPU
+    deepin-graphics-driver-manager
+    nvim
+    nvim-gtk
+    nvim-qt
+    system76-driver
+devices
+    device_pci

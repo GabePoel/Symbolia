@@ -1,0 +1,9 @@
+network-idle
+actions
+    network-idle
+apps
+    network-idle
+    route-reverse
+status
+    network-acquiring
+    network-idle

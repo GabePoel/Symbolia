@@ -1,0 +1,3 @@
+gnumeric-link-add
+actions
+    gnumeric-link-add

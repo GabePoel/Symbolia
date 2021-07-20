@@ -1,0 +1,4 @@
+preview-layout-half-height
+actions
+    view-split-top-bottom
+    preview-layout-half-height

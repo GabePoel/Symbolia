@@ -1,0 +1,4 @@
+application-vnd.oasis.opendocument.chart-template
+mimetypes
+    application-vnd.oasis.opendocument.chart
+    application-vnd.oasis.opendocument.chart-template

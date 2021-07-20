@@ -1,0 +1,24 @@
+arrow-chevron-left
+actions
+    prevfuzzy
+    errorprev
+    arrow-left
+    go-next-rtl
+    zoom-previous
+    xapp-go-history-next-rtl
+    carousel-arrow-previous
+    xapp-go-history-previous
+    go-back
+    menu-sort-left
+    chevron-left
+    go-previous-view
+    draw-arrow-back
+    go-previous
+    warnprev
+    go-forward-rtl
+    go-previous-view-page
+    menu-sort-left-free
+    go-next-symbolic-rtl
+apps
+    com.github.ztefn.haguichi
+    zoom-previous

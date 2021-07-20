@@ -1,0 +1,4 @@
+stroke-cap-miter
+actions
+    stroke-cap-miter
+    stroke-join-miter

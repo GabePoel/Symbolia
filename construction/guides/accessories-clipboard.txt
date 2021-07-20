@@ -1,0 +1,7 @@
+accessories-clipboard
+apps
+    clipboard
+    com.github.davidmhewitt.clipped
+    clipped
+    clipgrab
+    accessories-clipboard

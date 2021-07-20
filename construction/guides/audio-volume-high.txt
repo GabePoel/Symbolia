@@ -1,0 +1,48 @@
+audio-volume-high
+actions
+    audio-volume-high
+    player-volume
+apps
+    kcmsound
+    alsamixergui
+    lastfm-valut
+    indicator-sound-switcher
+    pavucontrol
+    sound
+    org.parlatype.Parlatype
+    gnome-volume-control
+    cs-sound
+    audacious-32
+    lastfm-www.last.fm
+    epulse
+    pulseeffects
+    icaconncenter
+    sound-box
+    icamanager
+    org.pulseaudio.pavucontrol
+    sound-juicer
+    icaselfservice
+    lastfm
+    audacious-16
+    gnome-audio
+    asounder
+    multimedia-audio-player
+    xfce4-pulseaudio-plugin
+    icaconfigmgr
+    last-fm
+    volume-knob
+    audacious
+    kcnmsound
+    soundwire
+    applications-sound
+    pulseaudio
+    vkaudiosaver
+    audio-player
+    com.github.wwmm.pulseeffects
+    org.atheme.audacious
+    volume
+    audio
+    lastfm-audioscrobbler
+    ocenaudio
+mimetypes
+    sound

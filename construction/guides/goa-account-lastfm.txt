@@ -1,0 +1,3 @@
+goa-account-lastfm
+apps
+    goa-account-lastfm

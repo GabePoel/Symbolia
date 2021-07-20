@@ -1,0 +1,3 @@
+view-financial-account-checking-closed
+actions
+    view-financial-account-checking-closed

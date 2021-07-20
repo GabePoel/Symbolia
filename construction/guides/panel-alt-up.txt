@@ -1,0 +1,13 @@
+panel-alt-up
+actions
+    dock-top
+    ui-template
+    prf-interface
+apps
+    gnome-do-panel
+    panel
+    mate-panel-separator
+    wingpanel
+    preferences-ubuntu-panel
+    mate-panel
+    cs-panel

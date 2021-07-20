@@ -1,0 +1,3 @@
+suitcase-outline
+actions
+    foreign_red

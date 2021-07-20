@@ -1,0 +1,6 @@
+GPU_Viewer
+apps
+    GnomeBaker
+    GPU_Viewer
+status
+    freon-gpu-temperature

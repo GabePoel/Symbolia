@@ -1,0 +1,3 @@
+kstars_deepsky
+actions
+    kstars_deepsky

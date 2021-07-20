@@ -1,0 +1,4 @@
+format-border-set-top
+actions
+    gnumeric-format-border-top
+    format-border-set-top

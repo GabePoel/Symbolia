@@ -1,0 +1,54 @@
+black_sum
+actions
+    tool_math_tex
+    gnumeric-autosum
+    own-math-menu
+    black_sum
+    labplot-TeX-logo
+apps
+    org.texstudio.TeXstudio
+    scid
+    geogebra-classic
+    numptyphysics
+    net.xm1math.Texmaker
+    kalgebrabackend
+    gnome-latex
+    latexila
+    tuxmath
+    com.tux4kids.tuxmath
+    org.tug.texworks
+    texmacs
+    geogebra
+    latex
+    texworks
+    kalgebra
+    setzer
+    Sci48M
+    scite
+    texstudio
+    org.cvfosammmm.Setzer
+    fyi.zoey.TeX-Match
+    cantor
+    texmaker
+    applications-maths
+    org.geogebra.GeoGebra
+    io.thp.numptyphysics
+    mathomatic
+    TeXstudio
+    com.github.parnold-x.nasc
+    applications-mathematics
+    EdenMath
+    texdoctk
+    org.gnome.Tau
+    characters-math
+    TeXmacs
+    TeXworks
+    allegorithmic-Substance_B2M
+    scilab
+    applications-education-mathematics
+mimetypes
+    application-x-tex-pk
+    text-x-texinfo
+    text-x-tex
+    application-x-tex-gf
+    text-x-bibtex

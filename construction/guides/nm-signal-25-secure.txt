@@ -1,0 +1,5 @@
+nm-signal-25-secure
+actions
+    nm-signal-25-secure
+status
+    network-wireless-signal-weak-secure

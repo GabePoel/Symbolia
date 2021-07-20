@@ -1,0 +1,3 @@
+org.nomacs.ImageLounge
+apps
+    org.nomacs.ImageLounge

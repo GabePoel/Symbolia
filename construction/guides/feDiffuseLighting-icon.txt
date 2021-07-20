@@ -1,0 +1,3 @@
+feDiffuseLighting-icon
+actions
+    feDiffuseLighting-icon

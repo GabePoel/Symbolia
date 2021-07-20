@@ -1,0 +1,3 @@
+office-chart-line-stacked
+actions
+    office-chart-line-stacked

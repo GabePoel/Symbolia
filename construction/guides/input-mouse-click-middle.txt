@@ -1,0 +1,3 @@
+input-mouse-click-middle
+actions
+    input-mouse-click-middle

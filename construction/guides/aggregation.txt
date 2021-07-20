@@ -1,0 +1,7 @@
+aggregation
+actions
+    aggregation
+    labplot-xy-interpolation-curve
+apps
+    argouml2
+    argouml

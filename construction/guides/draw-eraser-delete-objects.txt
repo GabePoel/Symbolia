@@ -1,0 +1,3 @@
+draw-eraser-delete-objects
+actions
+    draw-eraser-delete-objects

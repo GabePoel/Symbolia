@@ -1,0 +1,4 @@
+application-vnd.google-apps.form
+mimetypes
+    gdform
+    application-vnd.google-apps.form

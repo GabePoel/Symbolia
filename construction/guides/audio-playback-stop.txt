@@ -1,0 +1,9 @@
+audio-playback-stop
+actions
+    process-stop
+    audio-playback-stop
+    practice-stop
+    kt-stop
+    media-playback-stop
+    irc-close-channel
+    kt-stop-all

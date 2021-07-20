@@ -1,0 +1,3 @@
+pan-upwards
+actions
+    labplot-shift-down-y

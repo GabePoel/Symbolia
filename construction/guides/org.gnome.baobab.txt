@@ -1,0 +1,3 @@
+org.gnome.baobab
+apps
+    org.gnome.baobab

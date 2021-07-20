@@ -1,0 +1,17 @@
+albumfolder-user-trash
+actions
+    albumfolder-user-trash
+    trash-empty
+places
+    emptytrash
+    gnome-fs-trash-empty
+    gnome-stock-trash-empty
+    stock_trash_empty
+    gnome-stock-trash
+    xfce-trash_empty
+    trashcan_empty
+    gnome-dev-trash-empty
+    stock_trash_empty_symbolic
+    user-trash
+status
+    user-trash

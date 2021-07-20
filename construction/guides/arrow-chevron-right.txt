@@ -1,0 +1,23 @@
+arrow-chevron-right
+actions
+    feOffset-icon
+    draw-arrow-forward
+    zoom-next
+    go-previous-symbolic-rtl
+    xapp-go-history-next
+    go-next
+    chevron-right
+    go-back-forward
+    errornext
+    carousel-arrow-next
+    menu-sort-right
+    arrow-right
+    feed-sidebar-arrow-side
+    go-previous-rtl
+    xapp-go-history-previous-rtl
+    nextfuzzy
+    warnnext
+    go-next-view
+    menu-sort-right-free
+    go-next-view-page
+    go-back-rtl

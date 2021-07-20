@@ -1,0 +1,3 @@
+preview-layout-windowed
+actions
+    preview-layout-windowed

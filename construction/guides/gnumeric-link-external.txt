@@ -1,0 +1,3 @@
+gnumeric-link-external
+actions
+    gnumeric-link-external

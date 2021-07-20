@@ -1,0 +1,4 @@
+battery-good-charging
+status
+    battery-good-charging
+    battery-level-90-charging

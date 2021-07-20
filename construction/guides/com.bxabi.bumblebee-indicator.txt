@@ -1,0 +1,7 @@
+com.bxabi.bumblebee-indicator
+apps
+    com.bxabi.bumblebee-indicator
+mimetypes
+    message
+status
+    notification-new

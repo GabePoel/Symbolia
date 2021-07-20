@@ -1,0 +1,3 @@
+view-readermode
+actions
+    view-readermode

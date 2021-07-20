@@ -1,0 +1,4 @@
+view-continuous
+actions
+    view-continuous
+    view-pages-continuous

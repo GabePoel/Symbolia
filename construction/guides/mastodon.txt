@@ -1,0 +1,3 @@
+mastodon
+apps
+    mastodon

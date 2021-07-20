@@ -1,0 +1,12 @@
+amarok_playlist_refresh
+actions
+    feed-refresh
+    refactor
+    collection-rescan-amarok
+    edit-reset
+    view-refresh
+    chronometer-reset
+    kt-change-tracker
+    amarok_playlist_refresh
+    refreshstructure
+    hb-view-refresh

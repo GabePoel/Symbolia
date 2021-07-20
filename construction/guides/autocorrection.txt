@@ -1,0 +1,14 @@
+autocorrection
+actions
+    dialog-path-effects
+    image-auto-adjust
+    magic-wand
+    hb-assign-run
+    kdenlive-custom-effect
+    autocorrection
+    tool-magic
+    kdenlive-track_has_effect
+    view-unsplit-effect
+apps
+    actiona
+    actionaz

@@ -1,0 +1,25 @@
+flash
+actions
+    flash
+apps
+    AdobePhotoshop
+    AdobeUpdate
+    AdobeAudition
+    AdobeLightroom
+    adobe-air
+    adobe-flashplayer
+    AdobeBridge
+    AdobeDreamweaver
+    adobe
+    AdobeEncore
+    AdobeAfterEffect
+    AdobeFirework
+    AdobeAIR
+    adobeflashplugin
+    AdobeIndesign
+    AdobePrelude
+    AdobeSpeedgrade
+    AdobeIllustrator
+    AdobeFlashBuilder
+    AdobeMediaEncore
+    AdobePremierePro

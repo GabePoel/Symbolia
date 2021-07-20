@@ -1,0 +1,4 @@
+forbidden
+actions
+    tool-censor
+    forbidden

@@ -1,0 +1,22 @@
+document-page-setup
+actions
+    document-page-setup
+    run-build-file
+    filename-group-length
+    quickopen-file
+apps
+    gnome-documents
+    document-viewer
+    document-viwer
+    googledocs
+    org.gnome.Documents
+    devdocs
+    quickdocs
+    google-docs
+    documents-app
+    org.gnome.documents
+    accessories-document-viewer
+    com.github.mdh34.quickdocs
+    zevdocs
+categories
+    document-page-setup

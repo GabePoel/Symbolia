@@ -1,0 +1,3 @@
+view-financial-category-add
+actions
+    view-financial-category-add

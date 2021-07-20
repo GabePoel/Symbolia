@@ -1,0 +1,3 @@
+audio-speaker-left
+devices
+    audio-speaker-left

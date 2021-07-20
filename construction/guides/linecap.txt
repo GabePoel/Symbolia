@@ -1,0 +1,4 @@
+linecap
+actions
+    linecap
+    stroke-cap-round

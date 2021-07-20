@@ -1,0 +1,8 @@
+circle-outline-thick
+actions
+    tool_ellipse
+    circle-outline-thin
+    ellipse-shape
+    circle-outline-thick
+    usecase
+    draw-ellipse

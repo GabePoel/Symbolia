@@ -1,0 +1,25 @@
+hb-help
+actions
+    help-feedback
+    help-contents
+    hb-help
+    help-page
+    help-about
+    help-latex
+    help-hint
+    help-contextual
+apps
+    gnome-help
+    help-app
+    org.gnome.Yelp
+    aiuto
+    help-browser
+    help
+    help-info
+    khelpcenter
+    susehelpcenter
+    stock_help
+    help-faq
+    devhelp
+    help-about
+    org.gnome.Devhelp

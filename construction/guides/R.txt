@@ -1,0 +1,11 @@
+R
+apps
+    rbackend
+    R
+    rtt-rstudio
+    rstudio
+mimetypes
+    text-x-r
+    text-x-R
+    text-x-rsrc
+    text-x-r-source

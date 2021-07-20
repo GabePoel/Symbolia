@@ -1,0 +1,7 @@
+gnumeric-object-combo
+actions
+    object-layout
+    widget-packing
+    gnumeric-object-combo
+    view-compact
+    view-multiple-objects

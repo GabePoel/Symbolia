@@ -1,0 +1,36 @@
+accept_signal
+actions
+    accept_signal
+    nm-device-wwan
+apps
+    yast-network_services
+    network-preference
+    AirPortUtility
+    wifi-radar
+    appimagekit-hw-probe
+    gnome-network-properties
+    org.wireshark.Wireshark
+    network-defaultroute
+    kali-wireshark
+    aircrack
+    com.wire.WireDesktop
+    frostwire
+    gnome-networktool
+    network-preferences
+    wire
+    fern-wifi-cracker
+    networkmanager
+    mate-network-properties
+    wireshark
+    appimagekit-hotspot
+    wifi
+    wire-desktop
+    limewire
+    aircrack-ng
+    com.github.ronnydo.wammer
+    cs-network
+    nm-device-wireless
+    preferences-system-network-sharing
+status
+    notification-network-wireless
+    network-wireless-acquiring

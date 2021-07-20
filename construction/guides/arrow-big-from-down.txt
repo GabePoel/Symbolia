@@ -1,0 +1,5 @@
+arrow-big-from-down
+actions
+    y-zoom-out
+    zoom-out-y
+    labplot-zoom-out-y

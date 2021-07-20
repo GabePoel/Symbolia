@@ -1,0 +1,9 @@
+edit-select-none
+actions
+    object-ungroup
+    edit-select-none
+    gnumeric-ungroup
+    object-ungroup-calligra
+    kdenlive-unselect-all
+    unselect_all
+    kdenlive-align-none

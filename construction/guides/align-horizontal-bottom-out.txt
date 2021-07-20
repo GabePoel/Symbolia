@@ -1,0 +1,5 @@
+align-horizontal-bottom-out
+actions
+    align-horizontal-bottom-out
+    object-align-vertical-bottom-top-calligra
+    align-vertical-bottom-out

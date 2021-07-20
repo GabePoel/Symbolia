@@ -1,0 +1,13 @@
+gnome-sticky-notes-applet
+apps
+    org.gnome.Gnote
+    gnote
+    gnome-sticky-notes-applet
+    org.gnome.Notes
+    indicator-stickynotes
+    mate-sticky-notes-applet
+    knotes
+mimetypes
+    application-msonenote
+    application-x-vnd.kde.notes
+    application-x-vnd.akonadi.note

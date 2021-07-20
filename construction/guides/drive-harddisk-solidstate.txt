@@ -1,0 +1,7 @@
+drive-harddisk-solidstate
+devices
+    insert_drive_file
+    drive-harddisk-solidstate
+    ups
+places
+    drive-harddisk-solidstate

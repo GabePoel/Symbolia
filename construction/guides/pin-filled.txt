@@ -1,0 +1,14 @@
+pin-filled
+actions
+    window-pin
+    pointer-mode-pin
+    view-pin
+    edit-mark
+    xapp-pin
+    hb-ope-forced
+    pin
+apps
+    com.github.artemanufrij.webpin
+    com.github.PintaProject.Pinta
+    artemanufrij.webpin
+    org.gnome.Pinpoint

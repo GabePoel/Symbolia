@@ -1,0 +1,18 @@
+calendar-end
+actions
+    filename-year-amarok
+    view-calendar-upcoming-days
+    view-calendar-timeline
+    gnc-sx-new
+mimetypes
+    gnome-mime-text-x-vcalendar
+    vcalendar
+    x-office-calendar
+    text-vcalendar
+    application-x-vnd.akonadi.calendar.todo
+    application-x-vnd.akonadi.calendar.event
+    application-x-vnd.akonadi.calendar.freebusy
+    text-calendar
+    stock_calendar
+status
+    x-office-calendar

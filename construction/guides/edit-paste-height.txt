@@ -1,0 +1,4 @@
+edit-paste-height
+actions
+    kdenlive-object-height
+    edit-paste-height

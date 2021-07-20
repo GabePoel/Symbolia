@@ -1,0 +1,5 @@
+alpha-m-filled
+apps
+    mendeleydesktop
+    com.elsevier.MendeleyDesktop
+    mendeley-desktop

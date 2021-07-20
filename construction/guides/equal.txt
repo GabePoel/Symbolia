@@ -1,0 +1,3 @@
+equal
+actions
+    gnumeric-equal

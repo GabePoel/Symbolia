@@ -1,0 +1,3 @@
+numlock-disabled
+status
+    numlock-disabled

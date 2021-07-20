@@ -1,0 +1,5 @@
+dialog-rows-and-columns
+actions
+    practice-setup
+    dialog-rows-and-columns
+    kstars_advanced

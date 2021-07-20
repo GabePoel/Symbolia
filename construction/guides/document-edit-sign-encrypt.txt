@@ -1,0 +1,4 @@
+document-edit-sign-encrypt
+actions
+    gnc-invoice-edit
+    document-edit-sign-encrypt

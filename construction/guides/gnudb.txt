@@ -1,0 +1,9 @@
+gnudb
+actions
+    gnudb
+apps
+    pure-data
+    puredata
+    net.purrdata.PurrData
+    pure_data
+    datagrip

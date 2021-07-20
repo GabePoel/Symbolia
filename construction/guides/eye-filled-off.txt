@@ -1,0 +1,13 @@
+eye-filled-off
+actions
+    gnumeric-detail-hide
+    eye-closed
+    image-red-eye
+    low-vision
+    timepp-eye-closed
+    eye-not-looking
+    view-conceal
+apps
+    layer-not-visible
+status
+    eye-not-looking

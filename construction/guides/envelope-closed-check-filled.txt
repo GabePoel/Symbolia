@@ -1,0 +1,6 @@
+envelope-closed-check-filled
+status
+    mail-read
+actions
+    mail-mark-read
+    mail-read

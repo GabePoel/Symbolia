@@ -1,0 +1,4 @@
+org.gnome.Lollypop-tag-list
+actions
+    org.gnome.Lollypop-tag-list
+    tag-edit

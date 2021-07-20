@@ -1,0 +1,4 @@
+text-paragraph-right
+actions
+    format-text-direction-ltr
+    format-text-direction

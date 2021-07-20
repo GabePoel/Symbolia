@@ -1,0 +1,6 @@
+cursor
+actions
+    pointer-mode-select
+    pointer
+    select-mode
+    tool-pointer

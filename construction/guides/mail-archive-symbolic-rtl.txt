@@ -1,0 +1,7 @@
+mail-archive-symbolic-rtl
+actions
+    mail-archive-symbolic-rtl
+    mail-archive
+apps
+    mail-archive-symbolic-rtl
+    mail-archive

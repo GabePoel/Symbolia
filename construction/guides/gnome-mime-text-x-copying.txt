@@ -1,0 +1,6 @@
+gnome-mime-text-x-copying
+mimetypes
+    gnome-mime-text-x-copying
+    text-x-copying
+status
+    feed-copyright

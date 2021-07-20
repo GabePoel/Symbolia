@@ -1,0 +1,4 @@
+auto-transition
+actions
+    auto-transition
+    text-orientation-auto

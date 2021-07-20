@@ -1,0 +1,8 @@
+colors-luma
+actions
+    colors-luma
+    kstars_clines
+devices
+    display-projector
+status
+    keyboard-brightness

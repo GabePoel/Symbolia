@@ -1,0 +1,4 @@
+text-format-arrow-down
+actions
+    frmt-text-direction-vertical
+    format-text-direction-vertical

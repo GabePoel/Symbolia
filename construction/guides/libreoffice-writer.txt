@@ -1,0 +1,17 @@
+libreoffice-writer
+apps
+    openoffice4-writer
+    org.libreoffice.LibreOffice-writer
+    libreoffice6.0-writer
+    libreoffice34-writer
+    libreofficedev6.0-writer
+    libreoffice4.2-writer
+    libreoffice5.0-writer
+    libreofficedev6.1-writer
+    libreoffice5.1-writer
+    libreoffice-writer
+    libreoffice5.3-writer
+    libreoffice5.4-writer
+    libreoffice3-writer
+    openoffice4-draw
+    libreoffice5.2-writer

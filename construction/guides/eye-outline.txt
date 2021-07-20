@@ -1,0 +1,4 @@
+eye-outline
+actions
+    eye-open-negative
+    redeyes

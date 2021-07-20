@@ -1,0 +1,3 @@
+thickness_medium
+actions
+    thickness_medium

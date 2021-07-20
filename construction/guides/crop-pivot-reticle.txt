@@ -1,0 +1,3 @@
+crop-pivot-reticle
+actions
+    crop-pivot-reticle

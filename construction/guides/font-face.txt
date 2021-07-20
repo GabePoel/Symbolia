@@ -1,0 +1,7 @@
+font-face
+actions
+    font
+    font-face
+    gnumeric-font
+    text-convert-to-regular
+    gtk-select-font

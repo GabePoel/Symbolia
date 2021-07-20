@@ -1,0 +1,16 @@
+nm-vpn-connecting01
+actions
+    nm-vpn-connecting03
+    nm-vpn-connecting07
+    nm-vpn-connecting02
+    nm-vpn-connecting13
+    nm-vpn-connecting11
+    nm-vpn-connecting04
+    nm-vpn-connecting12
+    nm-vpn-connecting06
+    nm-vpn-connecting08
+    nm-vpn-connecting10
+    nm-vpn-connecting09
+    nm-vpn-connecting05
+    nm-vpn-connecting14
+    nm-vpn-connecting01

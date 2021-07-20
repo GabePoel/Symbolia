@@ -1,0 +1,5 @@
+camera-shutter
+actions
+    camera-shutter
+apps
+    com.github.santileortiz.iconoscope

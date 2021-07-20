@@ -1,0 +1,4 @@
+com.github.bartzaalberg.bookmark-manager
+apps
+    com.github.bartzaalberg.bookmark-manager
+    epiphany-bookmarks

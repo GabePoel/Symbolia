@@ -1,0 +1,3 @@
+distribute-horizontal-right
+actions
+    distribute-horizontal-right

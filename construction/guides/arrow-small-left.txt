@@ -1,0 +1,4 @@
+arrow-small-left
+actions
+    builder-move-left
+    arrow1-left

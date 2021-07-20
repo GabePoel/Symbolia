@@ -1,0 +1,3 @@
+bookmark-remove
+actions
+    bookmark-remove

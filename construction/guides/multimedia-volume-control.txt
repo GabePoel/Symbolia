@@ -1,0 +1,6 @@
+multimedia-volume-control
+apps
+    preferences-desktop-sound
+    preferences-sound
+    preferences-system-sound
+    multimedia-volume-control

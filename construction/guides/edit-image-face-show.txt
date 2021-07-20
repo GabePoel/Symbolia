@@ -1,0 +1,3 @@
+edit-image-face-show
+actions
+    edit-image-face-show

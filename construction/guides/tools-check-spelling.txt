@@ -1,0 +1,3 @@
+tools-check-spelling
+actions
+    tools-check-spelling

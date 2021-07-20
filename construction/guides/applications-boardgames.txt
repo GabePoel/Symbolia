@@ -1,0 +1,5 @@
+applications-boardgames
+apps
+    org.gnome.tali
+    org.gnome.Tali
+    applications-boardgames

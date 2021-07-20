@@ -1,0 +1,10 @@
+draw-text
+actions
+    format-text-smaller
+    snap-text-baseline
+    draw-text
+    text-squiggly
+    format-font-size-less
+    format-text-underline-squiggle
+apps
+    characters-latin

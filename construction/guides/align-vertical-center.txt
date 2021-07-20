@@ -1,0 +1,8 @@
+align-vertical-center
+actions
+    align-vertical-center
+    kdenlive-align-vert
+    format-align-vertical-center
+    object-align-vertical-center-calligra
+apps
+    align-vertical-center

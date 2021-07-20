@@ -1,0 +1,4 @@
+format-border-set-diagonal-bl-tr
+actions
+    gnumeric-format-border-diag
+    format-border-set-diagonal-bl-tr

@@ -1,0 +1,47 @@
+com.github.rafostar.Clapper
+apps
+    no.mifi.losslesscut
+    com.github.rafostar.Clapper
+    video
+mimetypes
+    video-x-flic
+    audio-vnd.rn-realvideo
+    video-wavelet
+    video-vnd.rn-realvideo
+    gnome-mime-video-x-ms-asf
+    video-webm
+    gnome-mime-video-x-ms-wmv
+    video-x-ms-wmv
+    video-x-rmvb
+    video-x-javafx
+    media-video
+    application-video
+    x-content-video-vcd
+    video-x-matroska
+    video-x-mov
+    video-x-nsv
+    video-x-ms-wmp
+    video-x-msvideo
+    video-x-anim
+    video-x-mng
+    x-content-video-bluray
+    x-content-video-hddvd
+    application-x-kdenlive
+    video-mlt-playlist
+    video-x-wmv
+    application-x-kdenlivetitle
+    video-x-flv
+    video-vivo
+    video-x-ms-asf
+    gnome-mime-video
+    video-x-sgi-movie
+    video-x-generic
+    video-x-mp4
+    video-mp2t
+    x-content-video-svcd
+    video
+    x-content-video-dvd
+    video-x-ogm+ogg
+    video-mp4
+    video-x-theora+ogg
+    video-x-mkv

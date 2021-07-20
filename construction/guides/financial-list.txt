@@ -1,0 +1,7 @@
+financial-list
+actions
+    format-ordered-list-symbolic-rtl
+    view-list-ordered
+    format-ordered-list
+    format-list-ordered
+    financial-list

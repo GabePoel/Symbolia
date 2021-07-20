@@ -1,0 +1,4 @@
+pan-horizontal
+actions
+    adjustcol
+    escape-direction-horizontal

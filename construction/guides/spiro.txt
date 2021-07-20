@@ -1,0 +1,5 @@
+spiro
+actions
+    spiro
+apps
+    com.github.labyrinth_team.labyrinth

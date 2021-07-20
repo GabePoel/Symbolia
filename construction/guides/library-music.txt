@@ -1,0 +1,3 @@
+library-music
+actions
+    library-music

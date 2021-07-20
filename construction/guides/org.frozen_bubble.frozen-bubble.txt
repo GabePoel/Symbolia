@@ -1,0 +1,3 @@
+org.frozen_bubble.frozen-bubble
+apps
+    org.frozen_bubble.frozen-bubble

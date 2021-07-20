@@ -1,0 +1,12 @@
+com.github.aleksandar-stefanovic.urmsimulator
+apps
+    firmware-manager
+    cpu-freq
+    com.github.optyfr.JRomManager
+    xfce4-cpugraph-plugin
+    com.github.aleksandar-stefanovic.urmsimulator
+    cpu
+    mate-cpu-frequency-applet
+    xfce4-cpufreq-plugin
+    indicator-cpufreq
+    org.librepcb.LibrePCB

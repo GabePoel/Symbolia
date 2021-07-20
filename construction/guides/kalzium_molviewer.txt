@@ -1,0 +1,3 @@
+kalzium_molviewer
+actions
+    kalzium_molviewer

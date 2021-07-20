@@ -1,0 +1,15 @@
+tools-report-bug
+actions
+    tools-report-bug
+apps
+    apport-gtk
+    bugzilla2
+    bugzilla3
+    bugzilla
+    bug
+    applications-debugging
+    abort
+    mintreport
+    apport
+    bug-buddy
+    apport-gtk2

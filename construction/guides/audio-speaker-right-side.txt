@@ -1,0 +1,3 @@
+audio-speaker-right-side
+devices
+    audio-speaker-right-side

@@ -1,0 +1,3 @@
+kdenlive-zindex-up
+actions
+    kdenlive-zindex-up

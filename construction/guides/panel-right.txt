@@ -1,0 +1,8 @@
+panel-right
+actions
+    pane-hide
+    view-left-pane-rtl
+    builder-view-right-pane
+    focus-legacy-systray
+    sidebar-hide
+    view-right-pane

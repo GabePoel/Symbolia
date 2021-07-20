@@ -1,0 +1,20 @@
+accessories-ebook-reader
+apps
+    appimagekit-raven-reader
+    calibre
+    calibre-viewer
+    calibre-gui
+    fbreader
+    yacreader
+    raven-reader
+    chocolate-doom
+    ebook
+    ebook-reader-app
+    accessories-ebook-reader
+    calibra-gui
+    com.github.babluboy.bookworm
+    com.github.danrabbit.lookbook
+    kindle
+    yacreader-library
+    easy-ebook-viewer
+    com.calibre_ebook.calibre

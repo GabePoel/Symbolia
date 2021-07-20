@@ -1,0 +1,5 @@
+battery-caution
+status
+    battery-level-20
+    battery-caution
+    battery-low

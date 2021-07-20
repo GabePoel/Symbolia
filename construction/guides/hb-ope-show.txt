@@ -1,0 +1,10 @@
+hb-ope-show
+actions
+    hb-ope-show
+apps
+    com.belmoussaoui.ReadItLaterDevel
+    com.github.johnfactotum.Foliate
+    foliate
+    com.belmoussaoui.ReadItLater
+    com.github.lainsce.aesop
+    aesop

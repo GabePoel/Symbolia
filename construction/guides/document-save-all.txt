@@ -1,0 +1,3 @@
+document-save-all
+actions
+    document-save-all

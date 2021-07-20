@@ -1,0 +1,4 @@
+applications-libraries
+apps
+    library
+    applications-libraries

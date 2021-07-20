@@ -1,0 +1,10 @@
+closed_folder
+actions
+    prf-folder
+    closed_folder
+apps
+    MidnightCommander
+    midnightcommander
+places
+    folder-alt
+    inode-directory-alt

@@ -1,0 +1,5 @@
+all_uppercase
+actions
+    all_uppercase
+    format-text-capitalize
+    format-text-uppercase

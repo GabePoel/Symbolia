@@ -1,0 +1,38 @@
+lock-locked-outline
+status
+    network-vpn-acquiring
+    changes-prevent
+    channel-secure
+actions
+    object-locked
+    map-edit-locked
+apps
+    com.github.bilelmoussaoui.Authenticator
+    authy
+    gcr-gnupg
+    com.github.arshubham.cipher
+places
+    folder-blue-locked
+    folder-red-locked
+    folder-vermillion-locked
+    folder-cyan-locked
+    folder-canonical-locked
+    system-lock-screen
+    folder-manjaro-locked
+    folder-mint-locked
+    folder-purple-locked
+    folder-bordeaux-locked
+    folder-adwaita-locked
+    folder-yellow-locked
+    folder-pink-locked
+    folder-black-locked
+    folder-synthwave-locked
+    folder-green-locked
+    folder-yaru-locked
+    folder-locked
+    folder-darkblue-locked
+    folder-aubergine-locked
+    folder-orange-locked
+    folder-brown-locked
+    gnome-fs-blockdev
+    folder-grey-locked

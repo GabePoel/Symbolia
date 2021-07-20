@@ -1,0 +1,3 @@
+view-certificate-server-configure
+actions
+    view-certificate-server-configure

@@ -1,0 +1,5 @@
+media-seek-backward
+actions
+    media-seek-forward-rtl
+    media-seek-forward-symbolic-rtl
+    media-seek-backward

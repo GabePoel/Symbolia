@@ -1,0 +1,7 @@
+file-zoom-in
+actions
+    zoom-in-large
+    file-zoom-in
+    zoom-in
+apps
+    zoom-in

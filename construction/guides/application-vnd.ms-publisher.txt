@@ -1,0 +1,4 @@
+application-vnd.ms-publisher
+mimetypes
+    application-vnd.ms-publisher
+    vnd.ms-publisher

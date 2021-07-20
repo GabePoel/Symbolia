@@ -1,0 +1,3 @@
+kdenlive-zone-start
+actions
+    kdenlive-zone-start

@@ -1,0 +1,7 @@
+application-ascii
+mimetypes
+    application-ascii
+    mime-ascii
+    ascii
+    mime_ascii
+    scii

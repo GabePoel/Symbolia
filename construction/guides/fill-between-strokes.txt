@@ -1,0 +1,5 @@
+fill-between-strokes
+actions
+    fill-between-strokes
+    stroke
+    snap-bounding-box

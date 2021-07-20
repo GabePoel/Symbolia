@@ -1,0 +1,5 @@
+snap-page
+actions
+    snap-page
+    view-pages-single
+    tool_pagelayout

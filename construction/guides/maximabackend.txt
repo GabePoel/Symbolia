@@ -1,0 +1,4 @@
+maximabackend
+apps
+    maximabackend
+    org.d3cod3.Mosaic

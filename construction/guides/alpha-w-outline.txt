@@ -1,0 +1,3 @@
+alpha-w-outline
+apps
+    es.estoes.wallpaperDownloader

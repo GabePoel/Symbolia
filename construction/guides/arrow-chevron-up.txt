@@ -1,0 +1,20 @@
+arrow-chevron-up
+actions
+    draw-arrow-up
+    hb-go-up
+    usermenu-up
+    kdenlive-up
+    system-upgrade
+    chevron-up
+    timepp-column-collapse
+    timepp-pan-up
+    bqm-commit
+    go-up
+    menu-sort-up
+    svn-commit
+    collapse
+    upindicator
+    arrow-up
+    go-up-search
+    menu-sort-up-free
+    media-track-queue-amarok

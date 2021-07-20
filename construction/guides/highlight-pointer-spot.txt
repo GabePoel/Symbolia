@@ -1,0 +1,10 @@
+highlight-pointer-spot
+actions
+    mask
+    highlight-pointer-spot
+    private-mode
+    timepp-hidden
+    path-mask-edit
+apps
+    grindr
+    privacy

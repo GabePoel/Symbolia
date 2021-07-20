@@ -1,0 +1,5 @@
+bordertool
+actions
+    bordertool
+    gnumeric-format-border-thick-outside
+    embosstool

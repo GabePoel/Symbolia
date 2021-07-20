@@ -1,0 +1,6 @@
+align-vertical-bottom-to-anchor
+actions
+    go-bottom
+    selection-bottom
+    align-vertical-bottom-to-anchor
+    gnumeric-format-valign-bottom

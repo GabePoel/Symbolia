@@ -1,0 +1,8 @@
+align-sel-as-group
+actions
+    object-group
+    invert_selection
+    gnumeric-group
+    object-group-calligra
+    object
+    align-sel-as-group

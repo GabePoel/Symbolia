@@ -1,0 +1,30 @@
+nextuntranslated
+actions
+    timepp-translate
+    nextuntranslated
+    prevuntranslated
+apps
+    applications-languages
+    cs-language
+    qt-linguist
+    indicator-keylock
+    config-language
+    yast-language
+    Charmap
+    org.aliflang.lang
+    applications-linguistics
+    linguist-qt4
+    LanguageTool
+    charmap
+    gnome-characters
+    tegaki-recognize
+    linguist5
+    applications-education-language
+    accessories-character-map
+    qtlinguist
+    lingot
+    QtProject-linguist
+    gnome-character-map
+    linguist-qt5
+    org.nongnu.lingot
+    linguist

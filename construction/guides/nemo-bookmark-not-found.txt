@@ -1,0 +1,3 @@
+nemo-bookmark-not-found
+status
+    nemo-bookmark-not-found

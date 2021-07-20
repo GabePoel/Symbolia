@@ -1,0 +1,7 @@
+hand
+actions
+    hand
+    transform-browse
+    path-simplify
+categories
+    nightthemeswitcher-cursortheme

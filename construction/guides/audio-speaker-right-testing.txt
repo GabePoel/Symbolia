@@ -1,0 +1,3 @@
+audio-speaker-right-testing
+devices
+    audio-speaker-right-testing

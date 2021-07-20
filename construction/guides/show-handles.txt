@@ -1,0 +1,19 @@
+show-handles
+actions
+    show-handles
+    tools
+apps
+    tool
+    spflashtool
+    CycligentGitTool
+    hp-toolbox
+    jetbrains-toolbox
+    applications-apps
+    tools-wizard
+    cmyktool
+    tools-report-bug
+    fma-config-tool
+    net.mediaarea.QCTools
+    org.bunkus.mkvtoolnix-gui
+    mkvtoolnix-gui
+    deepin-repair-tools

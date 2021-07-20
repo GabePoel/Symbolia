@@ -1,0 +1,18 @@
+amarok_change_language
+actions
+    amarok_change_language
+apps
+    com.github.artemanufrij.translit
+    com.github.rapidfingers.translator
+    gtranslator
+    gnome-translate
+    org.gnome.GtranslatorDevel
+    com.github.gi_lom.dialect
+    translator
+    translit
+    deepin-translator
+    lpi-translate
+    org.gnome.Gtranslator
+    applications-development-translation
+    org.gnome.gtranslator
+    crow-translate

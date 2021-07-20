@@ -1,0 +1,8 @@
+debug-step-instruction
+actions
+    debug-step-instruction
+    debug-step-into-instruction
+mimetypes
+    application-json
+    text-x-json
+    text-json

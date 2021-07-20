@@ -1,0 +1,3 @@
+applications-ide
+apps
+    applications-ide

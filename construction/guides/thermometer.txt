@@ -1,0 +1,4 @@
+thermometer
+apps
+    meteo
+    com.gitlab.bitseater.meteo

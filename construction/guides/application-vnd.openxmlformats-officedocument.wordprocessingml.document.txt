@@ -1,0 +1,22 @@
+application-vnd.openxmlformats-officedocument.wordprocessingml.document
+mimetypes
+    gnome-mime-application-x-abiword
+    application-x-applix-word
+    wordprocessing
+    gnome-mime-application-vnd.openxmlformats-officedocument.wordprocessingml.document
+    package_wordprocessing
+    application-x-mswrite
+    application-vnd.sun.xml.writer-template
+    application-x-kwordquiz
+    application-x-kword
+    gnome-mime-application-wordperfect
+    application-vnd.sun.xml.writer-global
+    gnome-mime-application-vnd.sun.xml.writer
+    gnome-mime-application-x-kword
+    application-vnd.wordperfect
+    application-x-openteachingwords
+    application-x-abiword
+    application-vnd.sun.xml.writer.global
+    gnome-mime-application-x-applix-word
+    application-vnd.sun.xml.writer
+    application-vnd.openxmlformats-officedocument.wordprocessingml.document

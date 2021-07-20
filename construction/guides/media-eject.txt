@@ -1,0 +1,4 @@
+media-eject
+actions
+    media-eject
+    nemo-eject.svg

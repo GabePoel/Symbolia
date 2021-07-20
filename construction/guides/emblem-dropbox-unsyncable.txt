@@ -1,0 +1,6 @@
+emblem-dropbox-unsyncable
+emblems
+    emblem-unreadable
+    emblem-insync-error-shared
+    emblem-insync-error
+    emblem-dropbox-unsyncable

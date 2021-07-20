@@ -1,0 +1,5 @@
+applications-utilities
+apps
+    applications-utilities
+categories
+    applications-utilities

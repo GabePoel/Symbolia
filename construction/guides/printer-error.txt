@@ -1,0 +1,3 @@
+printer-error
+status
+    printer-error

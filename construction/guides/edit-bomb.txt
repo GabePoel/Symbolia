@@ -1,0 +1,7 @@
+edit-bomb
+actions
+    experimental
+    violence2
+    edit-bomb
+apps
+    org.gna.Warmux

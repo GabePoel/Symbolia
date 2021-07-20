@@ -1,0 +1,3 @@
+preview-remove-zone
+actions
+    preview-remove-zone

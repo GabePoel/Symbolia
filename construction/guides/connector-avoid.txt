@@ -1,0 +1,6 @@
+connector-avoid
+actions
+    transform-2pts
+    snap-extension
+    snap-nodes-midpoint
+    connector-avoid

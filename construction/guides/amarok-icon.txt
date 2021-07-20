@@ -1,0 +1,5 @@
+amarok-icon
+apps
+    amarok-icon
+    amarok2
+    amarok

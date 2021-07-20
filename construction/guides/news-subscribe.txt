@@ -1,0 +1,3 @@
+news-subscribe
+actions
+    news-subscribe

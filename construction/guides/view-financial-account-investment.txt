@@ -1,0 +1,3 @@
+view-financial-account-investment
+actions
+    view-financial-account-investment

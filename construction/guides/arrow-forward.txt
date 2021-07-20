@@ -1,0 +1,23 @@
+arrow-forward
+actions
+    mail-reply-symbolic-rtl
+    mail-forwarded
+    mail-reply-sender-rtl
+    mail-forward-custom
+    mail-reply-sender-symbolic-rtl
+    mail-reply-rtl
+    feed-share
+    mail-forward
+apps
+    onionshare
+    mail-reply-symbolic-rtl
+    sparkleshare
+    qrshare
+    vsliveshare
+    com.github.mubitosh.qrshare
+    mail-forward
+    share
+    org.sparkleshare.SparkleShare
+    mail-reply-sender-symbolic-rtl
+    nitroshare
+    cc.retroshare.retroshare-gui

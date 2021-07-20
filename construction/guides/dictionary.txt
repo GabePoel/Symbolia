@@ -1,0 +1,41 @@
+dictionary
+actions
+    glossary
+    dictionary
+apps
+    dictionary
+    aarddict
+    org.gnome.Dictionary
+    dict
+    org.gnome.books
+    comix
+    goldendict
+    accessories-thesaurus
+    gnome-dictionary
+    mcomix
+    xfce4-dict
+    DictionaryReader
+    xfce-dict
+    com.georgefb.quickaccess
+    com.github.lainsce.palaura
+    alc
+    artha
+    com.georgefb.mangareader
+    Dictionary
+    Dictionary.app
+    io.github.martinrotter.textosaurus
+mimetypes
+    application-vnd.comicbook+zip
+    comics-book-alt4
+    application-x-mobi8-ebook
+    comics-book-alt1
+    image-vnd.djvu
+    application-x-fictionbook+xml
+    application-x-fictionbook
+    application-x-mobipocket-ebook
+    comics-book-alt3
+    image-x-djvu
+    x-content-ebook-reader
+    djvu
+    comics-book
+    comics-book-alt2

@@ -1,0 +1,5 @@
+edit-select-invert
+actions
+    tag-reset
+    edit-select-invert
+    invertimage

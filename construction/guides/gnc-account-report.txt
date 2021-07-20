@@ -1,0 +1,4 @@
+gnc-account-report
+actions
+    prf-report
+    gnc-account-report

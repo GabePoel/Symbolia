@@ -1,0 +1,8 @@
+draw-polyline
+actions
+    node-type-cusp
+    tool-polyline
+    path-mode-polyline-paraxial
+    draw-polyline
+    format-node-corner
+    node-cusp

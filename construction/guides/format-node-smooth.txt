@@ -1,0 +1,5 @@
+format-node-smooth
+actions
+    node-delete
+    format-remove-node
+    format-node-smooth

@@ -1,0 +1,4 @@
+hb-view-column
+actions
+    view-statistics
+    hb-view-column

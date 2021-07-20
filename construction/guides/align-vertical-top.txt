@@ -1,0 +1,9 @@
+align-vertical-top
+actions
+    kdenlive-align-top
+    align-vertical-top
+    object-align-vertical-top-calligra
+    kdenlive-zindex-top
+    format-align-vertical-top
+apps
+    align-vertical-top

@@ -1,0 +1,6 @@
+filename-initial-amarok
+actions
+    text-field-framed
+    filename-initial-amarok
+    tool-text
+    text-field

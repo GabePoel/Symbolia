@@ -1,0 +1,3 @@
+emoji-body
+categories
+    emoji-body

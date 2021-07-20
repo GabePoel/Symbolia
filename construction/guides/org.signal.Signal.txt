@@ -1,0 +1,5 @@
+org.signal.Signal
+apps
+    signal-desktop-beta
+    org.signal.Signal
+    signal-desktop

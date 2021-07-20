@@ -1,0 +1,7 @@
+alpha-f-filled
+actions
+    foreignkey_constraint
+apps
+    filezilla
+    appimagekit-Freeter
+    org.filezillaproject.Filezilla

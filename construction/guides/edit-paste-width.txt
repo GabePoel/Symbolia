@@ -1,0 +1,4 @@
+edit-paste-width
+actions
+    edit-paste-width
+    kdenlive-object-width

@@ -1,0 +1,5 @@
+com.github.rkoesters.xkcd-gtk
+apps
+    xkcd-gtk
+    com.github.rkoesters.xkcd-gtk
+    info.febvre.Komikku

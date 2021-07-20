@@ -1,0 +1,13 @@
+adjustcurves
+actions
+    format-segment-curve
+    node-segment-curve
+    path-tool
+    adjustcurves
+    bend-path
+    show-node-handles
+    format-node-curve
+    path-effect-parameter-next
+    tool_curve
+apps
+    librecad

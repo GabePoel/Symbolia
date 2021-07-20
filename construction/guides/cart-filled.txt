@@ -1,0 +1,10 @@
+cart-filled
+actions
+    amarok_cart_view
+    shopping-cart
+apps
+    software-properties-mint
+    softwarecenter-ubuntu
+    softwarecenter-debian
+    mintsources
+    appgrid

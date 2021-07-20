@@ -1,0 +1,3 @@
+strong-language
+actions
+    strong-language

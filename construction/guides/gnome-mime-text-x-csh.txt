@@ -1,0 +1,6 @@
+gnome-mime-text-x-csh
+mimetypes
+    gnome-mime-text-x-csharp
+    gnome-mime-text-x-csh
+    text-csharp
+    text-x-csharp

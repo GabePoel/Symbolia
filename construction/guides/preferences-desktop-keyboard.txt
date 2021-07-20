@@ -1,0 +1,3 @@
+preferences-desktop-keyboard
+apps
+    preferences-desktop-keyboard

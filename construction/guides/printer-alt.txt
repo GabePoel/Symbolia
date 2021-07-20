@@ -1,0 +1,7 @@
+printer-alt
+apps
+    printer-alt
+categories
+    preferences-desktop-printer
+devices
+    printer

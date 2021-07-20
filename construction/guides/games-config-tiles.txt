@@ -1,0 +1,11 @@
+games-config-tiles
+actions
+    view-group
+    games-config-tiles
+apps
+    tiling-alt2
+    io.gitlab.windstille.Windstille-0_2
+    tilda
+    tiling-alt1
+    tiled
+    tiling

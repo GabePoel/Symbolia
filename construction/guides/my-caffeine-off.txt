@@ -1,0 +1,3 @@
+my-caffeine-off
+status
+    my-caffeine-off

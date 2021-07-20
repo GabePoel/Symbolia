@@ -1,0 +1,28 @@
+freedb
+actions
+    labplot-workbook
+    freedb
+    umbrello_diagram_deployment
+apps
+    base
+    sqliteman
+    io.liri.BaseApp
+    sqldeveloper
+    database
+    navicat-postgresql
+    sqlitebrowser
+    mysql-workbench
+    oracle-sqldeveloper
+mimetypes
+    application-vnd.sun.xml.base
+    openoffice4-oasis-database
+    office-database
+    application-vnd.oasis.opendocument.database-template
+    openoffice4-database
+    openofficeorg3-database
+    libreoffice-oasis-database
+    application-vnd.oasis.opendocument.database
+    libreoffice-database
+    application-database
+    openofficeorg3-oasis-database
+    application-x-spkac+base64

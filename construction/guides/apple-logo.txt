@@ -1,0 +1,10 @@
+apple-logo
+apps
+    distributor-logo-macos
+    distributor-logo-mac
+    apple
+mimetypes
+    application-x-macbinary
+    application-x-apple-diskimage
+    application-vnd.apple.mpegurl
+    multipart-appledouble

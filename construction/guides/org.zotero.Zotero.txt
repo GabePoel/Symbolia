@@ -1,0 +1,12 @@
+org.zotero.Zotero
+apps
+    zuluCrypt
+    zegrapher
+    zynaddsubfx
+    zanshin
+    zulip
+    zuluMount
+    zotero
+    zandronum
+    zsnes
+    org.zotero.Zotero

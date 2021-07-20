@@ -1,0 +1,6 @@
+insert-text
+actions
+    kdenlive-add-text-clip
+    kdenlive-add-color-clip
+    kdenlive-add-clip
+    insert-text

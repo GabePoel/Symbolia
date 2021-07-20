@@ -1,0 +1,15 @@
+map-marker
+actions
+    mark-location
+    map-marker
+apps
+    mark-location
+    maps-point-start-alt
+mimetypes
+    application-gpx+xml
+    application-vnd.geo+json
+    application-gpx
+    application-geo+json
+    application-geo+xml
+status
+    location-services-active

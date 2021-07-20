@@ -1,0 +1,5 @@
+applications-system
+apps
+    applications-system
+categories
+    applications-system

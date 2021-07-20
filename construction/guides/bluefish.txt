@@ -1,0 +1,7 @@
+bluefish
+apps
+    gnome-panel-fish
+    bluefish
+    mate-panel-fish
+    nl.openoffice.bluefish
+    fillets

@@ -1,0 +1,15 @@
+colorfx
+actions
+    sun-alt
+    fcitx-fullwidth-active
+    im-gadugadu
+    colorfx
+apps
+    redeclipse
+    org.eclipse.Java
+    net.redeclipse.RedEclipse
+    eclipse
+    eclipse-cdt
+    org.eclipse.Javascript
+    org.eclipse.iot.fourdiac.Ide
+    eclipse-jee

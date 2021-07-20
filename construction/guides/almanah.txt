@@ -1,0 +1,59 @@
+almanah
+apps
+    almanah
+    preferences-desktop-user-password
+    qtpass-icon
+    com.gitlab.guillermop.MasterKey
+    keybase
+    com.bixense.PasswordCalculator
+    org.gnome.Passwords
+    password-manager
+    quadrapassel
+    gnome-quadrapassel
+    truecrypt
+    plasmavault
+    seahorse
+    ssh-askpass-gnome
+    password
+    easypass
+    seafile-client
+    enpass
+    org.keepassxc.KeePassXC
+    keepassx2
+    seafile-client-qt5
+    cs-privacy
+    keep
+    gpa
+    preferences-desktop-cryptography
+    keepass
+    seafile
+    cryptomator
+    keymon
+    gcr-key
+    tron
+    dialog-password
+    keyring-manager
+    keeweb
+    gnome-twofactorauth
+    stock_keyring
+    passwords
+    passwords-app
+    keepass2
+    appimagekit-org.keepassxc.KeePassXC
+    keepassxc
+    com.github.bharatkalluri.easypass
+    mintsources-keys
+    keepassx
+    empass
+    seahorse-preferences
+devices
+    key
+mimetypes
+    application-x-keepass2
+    encrypted-key
+    application-x-keepassxc
+    application-x-keepass
+    preferences-desktop-cryptography
+    application-x-keepassx
+status
+    dialog-password

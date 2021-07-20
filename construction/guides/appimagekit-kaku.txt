@@ -1,0 +1,3 @@
+appimagekit-kaku
+apps
+    appimagekit-kaku

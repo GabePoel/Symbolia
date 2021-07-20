@@ -1,0 +1,9 @@
+speedometer
+actions
+    speedometer
+apps
+    speedometer4
+devices
+    speedometer
+status
+    power-profile-performance

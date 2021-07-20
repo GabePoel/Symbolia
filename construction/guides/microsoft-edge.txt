@@ -1,0 +1,6 @@
+microsoft-edge
+apps
+    ms-edge
+    edge
+    microsoft-edge
+    com.microsoft.Edge

@@ -1,0 +1,3 @@
+dialog-input-devices
+actions
+    dialog-input-devices

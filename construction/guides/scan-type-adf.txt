@@ -1,0 +1,3 @@
+scan-type-adf
+actions
+    scan-type-adf

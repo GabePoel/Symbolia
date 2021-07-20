@@ -1,0 +1,7 @@
+x-office-address-book
+apps
+    x-office-address-book
+mimetypes
+    stock_addressbook
+    x-office-address-book
+    x-office-address-book1

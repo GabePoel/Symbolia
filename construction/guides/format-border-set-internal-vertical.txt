@@ -1,0 +1,4 @@
+format-border-set-internal-vertical
+actions
+    format-border-set-internal-vertical
+    gnumeric-format-border-inside-vert

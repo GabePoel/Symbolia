@@ -1,0 +1,7 @@
+alsa-tools
+apps
+    com.github.liferooter.textpieces
+    com.vesc_project.VescTool
+    io.trustable.stpadocumentationtool
+    alsa-tools
+    org.lamport.tla.toolbox

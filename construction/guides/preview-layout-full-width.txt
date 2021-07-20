@@ -1,0 +1,3 @@
+preview-layout-full-width
+actions
+    preview-layout-full-width

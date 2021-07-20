@@ -1,0 +1,4 @@
+gnumeric-autofilter-delete
+actions
+    kt-remove-filters
+    gnumeric-autofilter-delete

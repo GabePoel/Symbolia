@@ -1,0 +1,23 @@
+pop-out
+actions
+    document-open-folder
+    detach
+    document-open-data
+    external-link
+    tab-detach
+    external-viewer
+    document-open
+    scriptopen
+    project-open
+status
+    open-media
+apps
+    evelauncher
+    preferences-desktop-launch-feedback
+    mate-panel-launcher
+    deepin-launcher
+    sgt-launcher
+    ulauncher
+    fs-uae-launcher
+    atlauncher
+    vsls-launcher

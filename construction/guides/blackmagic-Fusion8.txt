@@ -1,0 +1,8 @@
+blackmagic-Fusion8
+apps
+    blackmagic-Fusion9
+    plasmagik
+    blackmagic-Fusion8
+    org.kde.accountwizard
+    void-wizard
+    kontact-import-wizard

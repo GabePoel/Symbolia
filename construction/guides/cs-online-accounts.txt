@@ -1,0 +1,7 @@
+cs-online-accounts
+apps
+    cs-online-accounts
+    goa-panel
+    preferences-desktop-online-accounts
+categories
+    goa-panel

@@ -1,0 +1,20 @@
+arrow-chevron-down
+actions
+    draw-arrow-down
+    kdenlive-down
+    go-down
+    expand
+    usermenu-down
+    chevron-down
+    bqm-update
+    arrow-down
+    feed-sidebar-arrow-down
+    timepp-column-uncollapse
+    go-down-search
+    menu-sort-down
+    keyboard-hide
+    timepp-pan-down
+    hb-go-down
+    menu-sort-down-free
+    svn-update
+    adw-expander-arrow

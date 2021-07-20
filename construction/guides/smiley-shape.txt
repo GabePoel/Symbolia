@@ -1,0 +1,9 @@
+smiley-shape
+actions
+    smiley-shape
+    smiley
+apps
+    characters-emoji-smileys
+    preferences-desktop-emoticons
+categories
+    emoji-people

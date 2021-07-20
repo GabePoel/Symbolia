@@ -1,0 +1,8 @@
+mathematica
+apps
+    mathematica
+    wolfram-mathematica
+mimetypes
+    application-mathematica
+    gnome-mime-application-vnd.wolfram.nb
+    application-vnd.wolfram.nb

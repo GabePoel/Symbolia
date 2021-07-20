@@ -1,0 +1,9 @@
+answer-correct
+actions
+    gnumeric-object-checkbox
+    games-endturn
+    view-task
+    checkbox-checked
+    answer
+    selection-checked
+    answer-correct

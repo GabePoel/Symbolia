@@ -1,0 +1,11 @@
+edit-clone-link
+actions
+    text-frame-link
+    insert-link
+    link
+    edit-clone
+    tag-assigned
+    edit-link
+    edit-clone-link
+    entry-clone
+    umbrello_diagram_entityrelationship

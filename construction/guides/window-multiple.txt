@@ -1,0 +1,19 @@
+window-multiple
+apps
+    gnome-windows
+    gnome-panel-window-menu
+    mate-panel-window-list
+    mate-panel-window-menu
+    mutter
+    preferences-system-windows-move
+    kwin
+    window-duplicate
+    awn-window-fallback
+    windows
+    cs-windows
+    avant-window-navigator
+    gnome-window-manager
+    preferences-system-windows-actions
+    preferences-system-windows
+    applications-viewers
+    gnome-panel-window-list

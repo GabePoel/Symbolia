@@ -1,0 +1,40 @@
+sketch
+actions
+    sketch
+apps
+    com.github.maoschanz.drawing
+    net.drawpile.drawpile
+mimetypes
+    x-office-drawing-template
+    gnome-mime-application-x-scribus
+    application-vnd.sun.xml.draw
+    application-drawing
+    libreoffice-drawing-template
+    openofficeorg3-drawing
+    application-vnd.oasis.opendocument.drawing.template
+    application-vnd.oasis.opendocument.draw.template
+    openoffice4-drawing
+    application-drawing-template
+    application-x-scribus
+    application-vnd.scribus
+    application-vnd.stardivision.draw
+    vnd.oasis.opendocument.drawing
+    gddraw
+    application-vnd.google-apps.drawing
+    application-vnd.oasis.opendocument.drawing
+    openoffice4-drawing-template
+    stock_new-drawing
+    libreoffice-drawing
+    application-dwg
+    application-vnd.sun.xml.draw.template
+    application-vnd.insync.link.drive.draw
+    application-vnd.corel-draw
+    libreoffice-oasis-drawing
+    openoffice4-oasis-drawing-template
+    gnome-mime-application-vnd.sun.xml.draw.template
+    libreoffice-oasis-drawing-template
+    openoffice4-oasis-drawing
+    drawing-dwg
+    x-office-drawing
+    application-vnd.oasis.opendocument.drawing-template
+    gnome-mime-application-vnd.sun.xml.draw

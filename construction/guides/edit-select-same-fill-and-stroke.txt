@@ -1,0 +1,5 @@
+edit-select-same-fill-and-stroke
+actions
+    selection-opaque
+    edit-select-same-fill-and-stroke
+    kdenlive-select-rects

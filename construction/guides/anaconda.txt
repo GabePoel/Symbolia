@@ -1,0 +1,10 @@
+anaconda
+apps
+    fedorasettings
+    distributor-logo-fedora
+    fedora-release-notes
+    dnfdragora
+    fedora
+    org.fedoraproject.AnacondaInstaller
+    anaconda
+    org.fedoraproject.MediaWriter

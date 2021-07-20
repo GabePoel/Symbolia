@@ -1,0 +1,13 @@
+align-vertical-node
+actions
+    misc
+    interpolate-points
+    format-segment-line
+    align-vertical-node
+    format-node-line
+    nemo-horizontal-layout
+apps
+    preferences-system-directory
+    recoll
+categories
+    xapp-prefs-toolbar

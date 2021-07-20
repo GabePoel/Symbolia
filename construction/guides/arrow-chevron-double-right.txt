@@ -1,0 +1,4 @@
+arrow-chevron-double-right
+actions
+    go-next-skip
+    nextfuzzyuntrans

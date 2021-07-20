@@ -1,0 +1,4 @@
+edit-node
+actions
+    edit-node
+    tool-node-editor

@@ -1,0 +1,6 @@
+bwtonal
+actions
+    colorneg
+    bwtonal
+devices
+    colorimeter-colorhug

@@ -1,0 +1,6 @@
+jockey-kde
+apps
+    preferences-desktop-peripherals-directory
+    jockey
+    jockey-kde
+    mintdrivers

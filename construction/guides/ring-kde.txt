@@ -1,0 +1,4 @@
+ring-kde
+apps
+    ring
+    ring-kde

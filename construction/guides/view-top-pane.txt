@@ -1,0 +1,3 @@
+view-top-pane
+actions
+    view-top-pane

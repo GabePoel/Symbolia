@@ -1,0 +1,3 @@
+chronometer-pause
+actions
+    chronometer-pause

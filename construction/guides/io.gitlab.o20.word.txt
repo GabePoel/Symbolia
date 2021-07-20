@@ -1,0 +1,23 @@
+io.gitlab.o20.word
+apps
+    io.gitlab.o20.word
+    ms-word
+    microsoft-word
+mimetypes
+    gnome-mime-application-msword
+    wps-office-dot
+    wps-office-doc
+    application-vnd.ms-word.document.macroEnabled.12
+    application-word
+    application-vnd.ms-word.document.macroenabled.12
+    application-wps-office.doc
+    application-vnd.ms-word
+    application-vnd.ms-word.template.macroenabled.12
+    wps-office-wps
+    application-wps-office.docx
+    application-msword-template
+    application-wps-office.dot
+    application-wps-office.wps
+    application-wps-office.dotx
+    application-msword
+    wps-office-wpt

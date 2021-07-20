@@ -1,0 +1,5 @@
+mail-queue
+actions
+    music-queue
+    playlist-similar
+    mail-queue

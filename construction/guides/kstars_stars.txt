@@ -1,0 +1,11 @@
+kstars_stars
+actions
+    kstars_stars
+apps
+    redshift-gtk
+    moonlight
+    com.moonlight_stream.Moonlight
+    gtk-redshift
+    redshift-icon-256
+    redshift
+    redshiftgui

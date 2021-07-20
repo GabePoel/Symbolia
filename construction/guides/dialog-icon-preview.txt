@@ -1,0 +1,13 @@
+dialog-icon-preview
+actions
+    sidebar-page-preview
+    own-no-preview
+    view-layout
+    view-preview
+    dialog-icon-preview
+apps
+    iconpreview
+    com.endlessm.HatchPreviewer
+    icon-preview
+    IconPreview
+    org.gnome.IconPreview

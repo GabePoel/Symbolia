@@ -1,0 +1,5 @@
+text-format-strikethrough
+actions
+    format-text-strikethrough
+    timepp-strike
+    text-strikethrough

@@ -1,0 +1,3 @@
+panel-left-collapse
+actions
+    sidebar-collapse-left

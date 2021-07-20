@@ -1,0 +1,6 @@
+high-brightness
+actions
+    high-brightness
+status
+    display-brightness
+    display-brightness-high

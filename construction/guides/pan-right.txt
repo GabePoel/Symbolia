@@ -1,0 +1,3 @@
+pan-right
+actions
+    escape-direction-right

@@ -1,0 +1,3 @@
+page-3sides
+actions
+    page-3sides

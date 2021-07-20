@@ -1,0 +1,13 @@
+mouse-filled
+apps
+    gnome-mouse
+    kmousetool
+    mousepad
+    xfce-mouse
+    cs-mouse
+    piper
+    io.github.davejarvis.kmcaster
+    mouse
+    org.freedesktop.Piper
+devices
+    mouse

@@ -1,0 +1,4 @@
+gnumeric-autofilter
+actions
+    hb-filter
+    gnumeric-autofilter

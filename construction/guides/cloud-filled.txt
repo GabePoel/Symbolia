@@ -1,0 +1,26 @@
+cloud-filled
+actions
+    cloud-filled
+apps
+    nextcloud
+    irccloud-desktop
+    goa-account-owncloud
+    mixcloud
+    owncloud
+    synology-cloud-station-drive
+    pcloud
+    nuvolaplayer3_mixcloud
+    com.github.z.Cumulonimbus
+    cumulus
+    com.synology.CloudStationBackup
+    screencloud
+    netease-cloud-music
+    com.irccloud.desktop
+    nuvolaplayer3_soundcloud
+    scudcloud
+    org.cloudcompare.CloudCompare
+    cumulonimbus
+    org.nextcloud.Nextcloud
+    Nextcloud
+    appimagekit-pcloud
+    com.nextcloud.desktopclient.nextcloud

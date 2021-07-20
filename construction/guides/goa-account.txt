@@ -1,0 +1,3 @@
+goa-account
+apps
+    goa-account

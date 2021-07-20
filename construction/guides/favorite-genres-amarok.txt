@@ -1,0 +1,3 @@
+favorite-genres-amarok
+actions
+    favorite-genres-amarok

@@ -1,0 +1,9 @@
+albumfolder-importimages
+actions
+    prf-import
+    gnumeric-component-insert
+    vm_import_wizard
+    debug-step-in
+    media-import-audio-cd
+    albumfolder-importimages
+    hb-file-import

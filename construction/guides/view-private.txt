@@ -1,0 +1,10 @@
+view-private
+actions
+    view-private
+apps
+    charles-proxy
+    yast-proxy
+    search
+    preferences-system-network-proxy
+status
+    view-private

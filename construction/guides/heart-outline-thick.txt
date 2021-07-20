@@ -1,0 +1,4 @@
+heart-outline-thick
+actions
+    heart-outline-thick
+    heart-outline-thin

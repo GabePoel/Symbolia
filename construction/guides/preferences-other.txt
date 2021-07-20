@@ -1,0 +1,5 @@
+preferences-other
+apps
+    preferences-other
+categories
+    preferences-other

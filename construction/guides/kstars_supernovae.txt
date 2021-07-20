@@ -1,0 +1,5 @@
+kstars_supernovae
+actions
+    kstars_supernovae
+apps
+    twinkle

@@ -1,0 +1,13 @@
+text-generic
+actions
+    text-generic
+apps
+    gnome-unknown
+    stock_unknown
+mimetypes
+    application-vnd.ms-project
+    application-image-exr
+places
+    folder-text-alt
+    folder-documents-alt
+    folder-txt-alt

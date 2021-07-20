@@ -1,0 +1,6 @@
+gnumeric-object-slider
+actions
+    gnumeric-object-slider
+    switch-on
+apps
+    org.equeim.Tremotesf

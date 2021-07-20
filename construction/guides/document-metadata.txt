@@ -1,0 +1,4 @@
+document-metadata
+actions
+    document-metadata
+    gnumeric-pagesetup-hf-pages

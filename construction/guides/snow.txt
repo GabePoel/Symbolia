@@ -1,0 +1,6 @@
+snow
+actions
+    snow
+status
+    weather-snow
+    weather-snow-small

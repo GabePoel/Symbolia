@@ -1,0 +1,5 @@
+calendar-blank
+actions
+    view-calendar-agenda
+    view-pim-calendar
+    view-calendar

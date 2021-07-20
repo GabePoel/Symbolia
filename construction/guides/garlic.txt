@@ -1,0 +1,25 @@
+garlic
+actions
+    garlic
+apps
+    org.sugarlabs.Dimensions
+    org.sugarlabs.SwiftFeet
+    org.sugarlabs.Chess
+    org.srb2.SRB2Kart
+    org.sugarlabs.AbacusActivity
+    org.sugarlabs.SolarSystem
+    org.sugarlabs.Speak
+    org.sugarlabs.Sliderule
+    org.sugarlabs.Words
+    org.sugarlabs.StoryActivity
+    org.sugarlabs.Paint
+    org.sugarlabs.TurtlePondActivity
+    org.sugarlabs.Pippy
+    org.sugarlabs.Memorize
+    org.sugarlabs.ReadETexts
+    org.sugarlabs.ImplodeActivity
+    org.sugarlabs.Maze
+    org.sugarlabs.Physics
+    org.sugarlabs.FractionBounce
+    org.sugarlabs.Pukllanapac
+    org.sugarlabs.FotoToon

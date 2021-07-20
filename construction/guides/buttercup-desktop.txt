@@ -1,0 +1,12 @@
+buttercup-desktop
+apps
+    superproductivity
+    superproductivity-alt2
+    buttercup-desktop
+    superproductivity-alt1
+    kaffeine
+    caffeine
+mimetypes
+    application-vnd.coffeescript
+status
+    my-caffeine-on

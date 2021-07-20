@@ -1,0 +1,4 @@
+audio-volume-overamplified
+status
+    audio-volume-overamplified
+    volume-warning

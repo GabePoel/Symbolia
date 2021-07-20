@@ -1,0 +1,3 @@
+application-vnd.google-apps.script
+mimetypes
+    application-vnd.google-apps.script

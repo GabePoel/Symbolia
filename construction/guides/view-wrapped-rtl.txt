@@ -1,0 +1,4 @@
+view-wrapped-rtl
+status
+    view-wrapped-rtl
+    view-wrapped-symbolic-rtl

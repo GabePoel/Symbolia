@@ -1,0 +1,4 @@
+kdenlive-select-texts
+actions
+    transform-scale-textbox-points
+    kdenlive-select-texts

@@ -1,0 +1,3 @@
+view-currency-list
+actions
+    view-currency-list

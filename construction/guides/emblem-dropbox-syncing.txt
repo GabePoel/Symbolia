@@ -1,0 +1,6 @@
+emblem-dropbox-syncing
+emblems
+    emblem-insync-syncing-shared
+    emblem-synchronizing
+    emblem-insync-syncing
+    emblem-dropbox-syncing

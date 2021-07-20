@@ -1,0 +1,3 @@
+view-financial-account-loan
+actions
+    view-financial-account-loan

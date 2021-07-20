@@ -1,0 +1,3 @@
+edit-select-lasso
+actions
+    edit-select-lasso

@@ -1,0 +1,5 @@
+low-brightness
+actions
+    low-brightness
+status
+    display-brightness-off

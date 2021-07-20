@@ -1,0 +1,3 @@
+document-close
+actions
+    document-close

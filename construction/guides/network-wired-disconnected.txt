@@ -1,0 +1,6 @@
+network-wired-disconnected
+status
+    network-wired-no-route
+    network-wired-disconnected
+    network-wired-offline
+    network-wired-error

@@ -1,0 +1,10 @@
+keyboard-caps-lock-filled
+actions
+    keyboard-caps-lock-wide-filled
+    keyboard-caps-lock-wide
+    keyboard-caps-lock
+    keyboard-caps-lock-filled
+status
+    capslock-enabled
+    caps-lock
+    capslock-disabled

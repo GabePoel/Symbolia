@@ -1,0 +1,4 @@
+gnumeric-format-accounting
+actions
+    gnumeric-format-accounting
+    hb-currency

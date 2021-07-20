@@ -1,0 +1,3 @@
+gser-icon-stopped
+status
+    gser-icon-stopped

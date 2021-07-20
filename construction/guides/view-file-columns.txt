@@ -1,0 +1,5 @@
+view-file-columns
+actions
+    view-file-columns
+status
+    pop-shell-auto-on

@@ -1,0 +1,3 @@
+media-repeat-none
+actions
+    media-repeat-none

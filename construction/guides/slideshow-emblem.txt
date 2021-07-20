@@ -1,0 +1,3 @@
+slideshow-emblem
+emblems
+    slideshow-emblem

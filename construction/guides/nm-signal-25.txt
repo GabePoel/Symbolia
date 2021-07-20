@@ -1,0 +1,5 @@
+nm-signal-25
+actions
+    nm-signal-25
+status
+    network-wireless-signal-weak

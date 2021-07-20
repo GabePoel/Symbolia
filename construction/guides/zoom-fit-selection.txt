@@ -1,0 +1,3 @@
+zoom-fit-selection
+apps
+    zoom-fit-selection

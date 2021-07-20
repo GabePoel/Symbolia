@@ -1,0 +1,5 @@
+albumfolder-new
+actions
+    folder-new
+    albumfolder-new
+    group-new

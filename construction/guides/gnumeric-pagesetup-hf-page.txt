@@ -1,0 +1,4 @@
+gnumeric-pagesetup-hf-page
+actions
+    gnumeric-pagesetup-hf-page
+    hb-ope-convert

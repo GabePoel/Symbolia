@@ -1,0 +1,41 @@
+document-open-recent
+actions
+    system-reboot
+    edit-undo-history
+    system-restart
+    document-open-recent
+apps
+    xfsm-reboot
+    restart_highlight
+    system-reboot-alt1
+    system-restart
+    system-reboot-alt2
+    reload
+    document-open-recent
+    system-reboot
+    system-reboot-alt3
+places
+    folder-manjaro-recent
+    folder-aubergine-recent
+    folder-cyan-recent
+    folder-recent
+    folder-canonical-recent
+    folder-synthwave-recent
+    document-open-recent
+    folder-orange-recent
+    folder-adwaita-recent
+    folder-green-recent
+    folder-mint-recent
+    folder-black-recent
+    folder-brown-recent
+    folder-darkblue-recent
+    folder-vermillion-recent
+    folder-yellow-recent
+    folder-grey-recent
+    folder-red-recent
+    folder-blue-recent
+    folder-bordeaux-recent
+    folder-temp
+    folder-purple-recent
+    folder-yaru-recent
+    folder-pink-recent

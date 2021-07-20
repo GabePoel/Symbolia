@@ -1,0 +1,3 @@
+text-indent-right-in
+actions
+    format-indent-more-rtl

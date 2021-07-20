@@ -1,0 +1,7 @@
+media-playlist-shuffle
+actions
+    media-playlist-shuffle
+    media-random-tracks-amarok
+    media-random-albums-amarok
+status
+    media-playlist-shuffle

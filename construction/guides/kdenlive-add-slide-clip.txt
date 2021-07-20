@@ -1,0 +1,4 @@
+kdenlive-add-slide-clip
+actions
+    kdenlive-add-slide-clip
+    preview-add-zone

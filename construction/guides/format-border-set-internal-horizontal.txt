@@ -1,0 +1,4 @@
+format-border-set-internal-horizontal
+actions
+    format-border-set-internal-horizontal
+    gnumeric-format-border-inside-horiz

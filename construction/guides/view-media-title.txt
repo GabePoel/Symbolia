@@ -1,0 +1,3 @@
+view-media-title
+actions
+    view-media-title

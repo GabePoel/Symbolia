@@ -1,0 +1,3 @@
+application-epub+zip
+mimetypes
+    application-epub+zip

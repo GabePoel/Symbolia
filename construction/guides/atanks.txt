@@ -1,0 +1,8 @@
+atanks
+apps
+    in.p1x.TanksOfFreedom
+    com.worldoftanks.Client
+    net.sourceforge.btanks
+    net.sourceforge.atanks
+    world-of-tanks
+    atanks

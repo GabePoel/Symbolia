@@ -1,0 +1,12 @@
+callout-shape
+actions
+    preferences-indicator-amarok
+    dialog-messages
+    edit-comment
+    kmouth-phrasebook
+    filename-comment-amarok
+    kmouth-phrase
+    viewlog
+    tool_review
+    output_win
+    callout-shape

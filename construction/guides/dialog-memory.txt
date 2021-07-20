@@ -1,0 +1,16 @@
+dialog-memory
+actions
+    dialog-memory
+    ram_disk
+apps
+    org.gnome.Firmware
+devices
+    ssd
+    device_cpu
+    flash-memory
+mimetypes
+    application-x-firmware
+    application-x-qet-project
+    application-x-qet-element
+status
+    nvidia-ram

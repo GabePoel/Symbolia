@@ -1,0 +1,5 @@
+nm-signal-75
+actions
+    nm-signal-75
+status
+    network-wireless-signal-good

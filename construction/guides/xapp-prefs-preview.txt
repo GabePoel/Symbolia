@@ -1,0 +1,3 @@
+xapp-prefs-preview
+categories
+    xapp-prefs-preview

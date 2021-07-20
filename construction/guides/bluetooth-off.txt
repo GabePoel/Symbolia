@@ -1,0 +1,5 @@
+bluetooth-off
+status
+    bluetooth-hardware-disabled
+    bluetooth-disabled
+    bluetooth-disconnected

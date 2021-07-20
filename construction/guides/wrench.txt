@@ -1,0 +1,17 @@
+wrench
+actions
+    run-build
+    project-development
+    general-properties
+    timepp-wrench
+    dialog-object-properties
+    build
+places
+    folder-development
+apps
+    com.github.alcadica.develop
+    org.gnome.Builder
+    applications-development
+    org.gnome.builder
+    applications-programming
+    builder

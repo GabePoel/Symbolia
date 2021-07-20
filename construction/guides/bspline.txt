@@ -1,0 +1,9 @@
+bspline
+actions
+    segment-curve
+    bspline
+    draw-path
+    node-smooth
+    createpath
+    mpost
+    node-type-auto-smooth

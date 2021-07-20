@@ -1,0 +1,7 @@
+gnumeric-pagesetup-hf-time
+actions
+    gnumeric-pagesetup-hf-time
+    kt-queue-manager
+apps
+    activitywatch
+    activity-log-manager

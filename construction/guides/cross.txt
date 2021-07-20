@@ -1,0 +1,34 @@
+cross
+actions
+    stock_close
+    dialog-close
+    button-cancel
+    tab-close
+    view-left-close
+    gtk-close
+    remove-color
+    dialog-cancel
+    project-development-close
+    geany-close-all
+    gtk-quit
+    cancel
+    vm_delete_wizard
+    view-close
+    edit-clear-locationbar-ltr
+    kontes_close
+    dialog-no
+    window-close
+    timepp-close
+    edit-clear-locationbar-rtl
+    edit-delete-remove
+    tab-close-other
+    stock_calc-cancel
+    view-right-close
+    application-exit
+    gtk-no
+    none
+    paint-none
+    overview-remove-item
+status
+    aptdaemon-delete
+    network-disconnected

@@ -1,0 +1,4 @@
+netflix-desktop
+apps
+    netflix
+    netflix-desktop

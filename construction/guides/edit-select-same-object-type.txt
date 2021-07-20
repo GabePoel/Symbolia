@@ -1,0 +1,3 @@
+edit-select-same-object-type
+actions
+    edit-select-same-object-type

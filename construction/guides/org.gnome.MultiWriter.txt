@@ -1,0 +1,3 @@
+org.gnome.MultiWriter
+apps
+    org.gnome.MultiWriter

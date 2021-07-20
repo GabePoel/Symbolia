@@ -1,0 +1,4 @@
+video-camera-box
+actions
+    filter-videos
+    kdenlive-show-video-effects

@@ -1,0 +1,6 @@
+text-x-common-lisp
+mimetypes
+    text-x-scheme
+    text-x-common-lisp
+    text-x-emacs-lisp
+    text-x-mo

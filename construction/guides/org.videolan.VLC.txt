@@ -1,0 +1,5 @@
+org.videolan.VLC
+apps
+    vlc
+    org.videolan.VLC
+    vlc-kb

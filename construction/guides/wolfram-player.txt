@@ -1,0 +1,8 @@
+wolfram-player
+apps
+    wolfram-player
+mimetypes
+    gnome-mime-application-vnd.wolfram.cdf
+    gnome-mime-application-vnd.wolfram.player
+    application-vnd.wolfram.cdf
+    application-vnd.wolfram.player

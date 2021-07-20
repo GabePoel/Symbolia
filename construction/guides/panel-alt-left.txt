@@ -1,0 +1,4 @@
+panel-alt-left
+actions
+    dock-left
+    ui-section

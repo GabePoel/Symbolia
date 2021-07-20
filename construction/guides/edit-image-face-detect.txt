@@ -1,0 +1,15 @@
+edit-image-face-detect
+actions
+    edit-image-face-detect
+apps
+    credentials-preferences
+    preferences-desktop-personal-directory
+    vcard
+mimetypes
+    vcard
+    text-x-vcard
+    application-x-subrip
+    gnome-mime-text-x-vcard
+places
+    folder-image-peoplesymbolic
+    folder-image-people

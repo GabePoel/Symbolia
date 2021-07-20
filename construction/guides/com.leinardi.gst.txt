@@ -1,0 +1,4 @@
+com.leinardi.gst
+apps
+    com.leinardi.gst
+    org.kde.okteta

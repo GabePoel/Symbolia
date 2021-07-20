@@ -1,0 +1,24 @@
+application-vnd.flatpak
+apps
+    com.github.tchx84.Flatseal
+    org.flatpak.qtdemo
+    com.github.inercia.k3x
+    flatpak
+    application-vnd.flatpak
+    com.sweethome3d.Sweethome3d
+mimetypes
+    model-vnd.dwf
+    model-x3d+xml
+    model-x.stl-binary
+    model-vrml
+    model-x3d+binary
+    application-x-model
+    application-vnd.flatpak.repo
+    pgmodeler-dbm
+    application-vnd.flatpak.ref
+    text-x-modelica
+    application-vnd.flatpak
+    model-fcstd
+    model-x3d+vrml
+    model
+    model-x3d

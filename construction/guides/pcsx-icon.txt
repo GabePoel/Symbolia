@@ -1,0 +1,25 @@
+pcsx-icon
+apps
+    preferences-desktop-gaming
+    games-app
+    deepin-game-center
+    gameboy
+    pcsx-icon
+    supertux
+    PCSX2
+    antimicro
+    com.github.tkashkin.gamehub
+    mess
+    gamehub
+    fceux
+    applications-arcade
+    net.sourceforge.mars-game
+    mednafen
+    ark-game
+    fceu
+    mgba
+    game
+    com.scoutshonour.dtipbijays
+devices
+    input-gaming
+    gamepad

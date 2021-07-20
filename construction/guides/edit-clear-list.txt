@@ -1,0 +1,8 @@
+edit-clear-list
+actions
+    gtk-clear
+    tools-media-optical-erase
+    xml-attribute-delete
+    edit-clear-list
+    entry-clear
+    edit-clear

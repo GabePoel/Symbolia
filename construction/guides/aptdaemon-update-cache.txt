@@ -1,0 +1,5 @@
+aptdaemon-update-cache
+apps
+    aptdaemon-update-cache
+status
+    aptdaemon-update-cache

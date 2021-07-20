@@ -1,0 +1,5 @@
+accessories-dictionary
+apps
+    accessories-dictionary
+categories
+    accessories-dictionary

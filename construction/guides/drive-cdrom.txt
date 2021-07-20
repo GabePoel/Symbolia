@@ -1,0 +1,6 @@
+drive-cdrom
+devices
+    drive-cdrom
+    drive-optical
+places
+    drive-optical

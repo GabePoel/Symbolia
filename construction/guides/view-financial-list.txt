@@ -1,0 +1,3 @@
+view-financial-list
+actions
+    view-financial-list

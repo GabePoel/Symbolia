@@ -1,0 +1,5 @@
+text-align-left
+actions
+    text-justify-left
+    gnumeric-format-valign-distributed
+    format-justify-left

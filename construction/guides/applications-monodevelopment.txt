@@ -1,0 +1,6 @@
+applications-monodevelopment
+apps
+    lximage
+    applications-monodevelopment
+    lximage-qt
+    trimage

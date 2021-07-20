@@ -1,0 +1,3 @@
+edit-paste-size-separately
+actions
+    edit-paste-size-separately

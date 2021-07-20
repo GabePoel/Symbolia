@@ -1,0 +1,5 @@
+document-revert-rtl
+actions
+    kt-restore-defaults
+    document-revert
+    document-revert-rtl

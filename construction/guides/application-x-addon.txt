@@ -1,0 +1,34 @@
+application-x-addon
+actions
+    application-x-addon
+    plugins
+apps
+    AdobeWidgetBrowser
+    plugin-stars
+    yast-addon
+    67EF_addoninstaller.0
+    palapeli
+    applications-puzzles
+    gnome-shell-extension-prefs
+    extensions
+    org.gnome.Extensions
+    awn-plugins
+    preferences-plugin
+    plugin-notification
+    plugin
+    org.gnome.Shell.Extensions
+    cs-extensions
+mimetypes
+    application-x-addon
+    openoffice4-extension
+    openofficeorg3-extension
+    video-x-google-vlc-plugin
+    application-vnd.openofficeorg.extension
+    x-kde-nsplugin-generated
+    libpeas-plugin
+    preferences-plugin
+    opera-extension
+    libreoffice-extension
+    video-x-ms-asf-plugin
+    extension
+    gedit-plugin
