@@ -1,0 +1,27 @@
+box-cad-filled
+apps
+    org.freecadweb.FreeCAD
+    openscad
+    autocad
+    org.openscad.OpenSCAD
+    freecad
+    kicad
+    org.kicad_pcb.KiCad
+    freecad-daily
+    com.github.akiraux.akira
+    com.github.alecaddd.akira
+mimetypes
+    application-vnd.gvdesign
+    application-x-autocad
+    application-gvdesign
+    application-autocad_dwg
+    gnome-mime-application-x-designer
+    application-acad
+    application-x-dgn
+    application-x-acad
+    application-clariscad
+    application-afdesigner
+    application-vnd.affinity-designer
+    application-x-designer
+    application-vnd.afdesigner
+    application-x-kudesigner

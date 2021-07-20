@@ -1,0 +1,7 @@
+glass-plus
+actions
+    zoom-in
+    zoom-in-large
+    file-zoom-in
+apps
+    zoom-in

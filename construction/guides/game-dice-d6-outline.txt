@@ -1,0 +1,4 @@
+game-dice-d6-outline
+actions
+    object-tweak-randomize
+    randomize

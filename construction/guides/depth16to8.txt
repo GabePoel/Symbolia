@@ -1,3 +1,0 @@
-depth16to8
-actions
-    depth16to8

@@ -1,4 +1,0 @@
-bed
-actions
-    bed
-    view-financial-account-savings

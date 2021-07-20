@@ -1,6 +1,0 @@
-aggiornamento-di-applicazioni
-apps
-    com.beakerbrowser.Beaker
-    aggiornamento
-    aggiornamento-di-applicazioni
-    beaker

@@ -1,7 +1,0 @@
-characters-arrow
-actions
-    characters-arrow
-    ui-child
-apps
-    characters-arrow
-    org.cznic.Datovka

@@ -1,7 +1,0 @@
-action-albumfolder-importdir2
-actions
-    archive-insert-directory
-    action-albumfolder-importdir2
-    project_archive
-    add_folder
-    albumfolder-importdir

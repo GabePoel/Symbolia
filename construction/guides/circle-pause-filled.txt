@@ -1,0 +1,3 @@
+circle-pause-filled
+actions
+    pause-circle-active

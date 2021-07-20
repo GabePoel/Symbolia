@@ -1,0 +1,6 @@
+logo-discord
+apps
+    com.discordapp.Discord
+    discord
+    discord-canary
+    discord-ptb

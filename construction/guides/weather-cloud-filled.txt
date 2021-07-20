@@ -1,0 +1,29 @@
+weather-cloud-filled
+status
+    weather-overcast-small
+    weather-overcast
+actions
+    cloud-filled
+apps
+    screencloud
+    netease-cloud-music
+    org.cloudcompare.CloudCompare
+    scudcloud
+    appimagekit-pcloud
+    synology-cloud-station-drive
+    nuvolaplayer3_soundcloud
+    nuvolaplayer3_mixcloud
+    com.nextcloud.desktopclient.nextcloud
+    nextcloud
+    com.github.z.Cumulonimbus
+    owncloud
+    pcloud
+    Nextcloud
+    cumulus
+    goa-account-owncloud
+    com.irccloud.desktop
+    org.nextcloud.Nextcloud
+    com.synology.CloudStationBackup
+    cumulonimbus
+    irccloud-desktop
+    mixcloud

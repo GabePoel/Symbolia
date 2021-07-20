@@ -1,0 +1,9 @@
+box-person-avatar-filled
+apps
+    kaddressbook
+    addressviij
+    address-book-app
+    AddressManager
+    addressbook
+    office-addressbook
+    office-address-book

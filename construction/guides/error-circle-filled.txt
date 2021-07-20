@@ -1,8 +1,0 @@
-error-circle-filled
-actions
-    error
-    computer-fail
-status
-    messagebox_warning
-    important
-    computer-fail

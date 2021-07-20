@@ -1,0 +1,6 @@
+tool-flat-outline
+actions
+    flag-outline-thin
+    character-set
+    flag-outline-thick
+    keyboard-layout

@@ -1,3 +1,0 @@
-xml-node-duplicate
-actions
-    xml-node-duplicate

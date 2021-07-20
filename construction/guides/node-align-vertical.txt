@@ -1,3 +1,0 @@
-node-align-vertical
-actions
-    node-align-vertical

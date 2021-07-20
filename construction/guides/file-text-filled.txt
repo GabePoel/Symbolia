@@ -1,0 +1,35 @@
+file-text-filled
+categories
+    nightthemeswitcher-icontheme
+mimetypes
+    libreoffice-oasis-text
+    text
+    document
+    application-vnd.google-apps.document
+    application-vnd.oasis.opendocument.text-master
+    openoffice4-text
+    office-document
+    gnome-mime-application-vnd.oasis.opendocument.text
+    application-vnd.insync.link.drive.doc
+    x-office-document
+    openoffice4-master-document
+    libreoffice-oasis-master-document
+    application-vnd.oasis.opendocument.text
+    application-text
+    application-vnd.oasis.opendocument.master-document
+    application-document
+    application-vnd.oasis.opendocument.text-web
+    libreoffice-master-document
+    application-x-aportisdoc
+    text-document
+    openoffice4-oasis-master-document
+    libreoffice-text
+    openoffice4-oasis-text
+    stock_new-master-document
+    gddoc
+    gnome-mime-application-vnd.oasis.opendocument.text-web
+apps
+    indicator-privacy
+    applications-publishing
+    applications-office
+    chrome-aohghmighlieiainnegkcijnfilokake-Default

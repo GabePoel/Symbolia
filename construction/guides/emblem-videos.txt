@@ -1,3 +1,0 @@
-emblem-videos
-emblems
-    emblem-videos

@@ -1,0 +1,12 @@
+food-citrus-lemon
+actions
+    lime
+    orange
+    lemon
+apps
+    application-x-clementine
+    org.clementine_player.Clementine
+    clementine
+    org.citra_emu.citra
+mimetypes
+    application-x-clementine

@@ -1,4 +1,0 @@
-AVIMetaEdit
-apps
-    document
-    AVIMetaEdit

@@ -1,0 +1,8 @@
+mouse-outline
+apps
+    preferences-desktop-mouse
+    input-mouse
+    gnome-settings-mouse
+    gnome-mouse-properties
+devices
+    input-mouse

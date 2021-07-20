@@ -1,0 +1,3 @@
+file-outline-multi
+actions
+    gnc-invoice-duplicate

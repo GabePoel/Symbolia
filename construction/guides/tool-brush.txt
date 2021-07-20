@@ -1,0 +1,43 @@
+tool-brush
+actions
+    tool-brush
+    oilpaint
+    dialog-fill-and-stroke
+    gnumeric-brush
+    draw-brush
+    brush
+    paintbrush
+apps
+    gpaint
+    cs-screen
+    org.kde.krita
+    substance-painter
+    calligrakrita2
+    calligrakrita
+    gimp
+    arts
+    mtpaint
+    org.gimp.GIMP
+    org.tuxpaint.Tuxpaint
+    tuxpaint
+    applications-graphics
+    kolourpaint
+    mypaint
+    krita
+    org.kde.kolourpaint
+    gnome-paint
+    org.gimp.Gimp
+    applications-drawing
+    accessories-painting
+    org.glimpse_editor.Glimpse
+    allegorithmic-Substance_Painter
+    org.gimp.gimp
+    org.mypaint.MyPaint
+    azpainter
+categories
+    applications-graphics
+mimetypes
+    application-x-krita
+    application-x-ddf
+    application-x-krita-paintoppresent
+    application-x-krita-assistant

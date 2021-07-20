@@ -1,0 +1,3 @@
+device-floppy-multi
+actions
+    document-save-all

@@ -1,7 +1,0 @@
-anki
-apps
-    app.midterm.MidtermDesktop
-    org.gnome.mahjongg
-    org.gnome.Mahjongg
-    com.github.robertsanseries.ciano
-    anki

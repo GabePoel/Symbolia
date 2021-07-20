@@ -1,0 +1,3 @@
+eye-constricted-filled
+actions
+    object-visible

@@ -1,6 +1,0 @@
-preferences-desktop-notification-bell
-apps
-    preferences-system-notifications
-    preferences-desktop-notification-bell
-    preferences-desktop-notifications
-    preferences-desktop-notification

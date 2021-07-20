@@ -1,0 +1,3 @@
+clipboard-text-filled
+actions
+    edit-paste-size-separately

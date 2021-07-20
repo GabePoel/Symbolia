@@ -1,5 +1,0 @@
-messagebox_warning
-actions
-    messagebox_warning
-status
-    dialog-warning

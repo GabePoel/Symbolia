@@ -1,0 +1,11 @@
+game-chess
+apps
+    gnome-chess
+    chess
+    org.gnome.Chess
+    org.gnome.chess
+    dreamchess
+    chessx
+    net.sourceforge.Chessx
+    gnome-glchess
+    pychess

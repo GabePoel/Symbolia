@@ -1,3 +1,0 @@
-emblem-favorite
-emblems
-    emblem-favorite

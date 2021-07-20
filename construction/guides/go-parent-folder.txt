@@ -1,3 +1,0 @@
-go-parent-folder
-actions
-    go-parent-folder

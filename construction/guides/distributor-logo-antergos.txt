@@ -1,9 +1,0 @@
-distributor-logo-antergos
-apps
-    manjaro-architect
-    manjaro-welcome
-    distributor-logo-antergos
-    manjaro
-    manjaro-documentation
-    distributor-logo-manjaro
-    manjaro-settings-manager

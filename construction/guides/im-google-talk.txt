@@ -1,3 +1,0 @@
-im-google-talk
-actions
-    im-google-talk

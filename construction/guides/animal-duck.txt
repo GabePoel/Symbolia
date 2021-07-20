@@ -1,0 +1,4 @@
+animal-duck
+apps
+    anatine
+    Anatine

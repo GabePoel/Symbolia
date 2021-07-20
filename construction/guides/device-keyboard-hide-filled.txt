@@ -1,0 +1,4 @@
+device-keyboard-hide-filled
+actions
+    keyboard-retract
+    fcitx-vk-inactive

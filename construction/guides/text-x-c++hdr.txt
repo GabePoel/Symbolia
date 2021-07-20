@@ -1,3 +1,0 @@
-text-x-c++hdr
-mimetypes
-    text-x-c++hdr

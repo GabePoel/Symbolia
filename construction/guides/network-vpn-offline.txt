@@ -1,3 +1,0 @@
-network-vpn-offline
-status
-    network-vpn-offline

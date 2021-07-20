@@ -1,0 +1,4 @@
+logo-whatsapp
+apps
+    whatsapp
+    whatsapp-desktop

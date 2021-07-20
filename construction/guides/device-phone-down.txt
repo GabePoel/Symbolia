@@ -1,0 +1,4 @@
+device-phone-down
+actions
+    call-end
+    call-stop

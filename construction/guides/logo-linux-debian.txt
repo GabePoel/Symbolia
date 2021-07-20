@@ -1,0 +1,23 @@
+logo-linux-debian
+apps
+    debian-plymouth-manager
+    debian
+    application-x-deb
+    debian-swirl
+    deepin-deb-installer
+    gnome-mime-application-x-deb
+    distributor-logo-debian
+    com.github.donadigo.eddy
+    configure-debian
+    deb
+    gdebi
+    gdeb
+    debian-logo
+    gnome-debian
+    deb-swirl
+mimetypes
+    application-x-deb
+    gnome-mime-application-x-deb
+    application-vnd.debian.binary-package
+    deb
+    package-gdebi

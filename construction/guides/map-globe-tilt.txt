@@ -1,0 +1,3 @@
+map-globe-tilt
+actions
+    kstars_grid

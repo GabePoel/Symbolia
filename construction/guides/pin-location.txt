@@ -1,3 +1,0 @@
-pin-location
-actions
-    pin-location

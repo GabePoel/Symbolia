@@ -1,0 +1,6 @@
+language-rust
+apps
+    rust
+mimetypes
+    text-x-rust
+    text-rust

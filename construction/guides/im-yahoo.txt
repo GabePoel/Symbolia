@@ -1,3 +1,0 @@
-im-yahoo
-actions
-    im-yahoo

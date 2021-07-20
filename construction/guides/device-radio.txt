@@ -1,0 +1,3 @@
+device-radio
+status
+    gser-icon-playing

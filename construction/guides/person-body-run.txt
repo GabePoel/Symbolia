@@ -1,0 +1,5 @@
+person-body-run
+actions
+    person2
+apps
+    org.gnome.OfficeRunner

@@ -1,0 +1,6 @@
+chemistry-flask
+apps
+    gchemtable
+    element4l
+    com.github.eudaldgr.elements
+    elements

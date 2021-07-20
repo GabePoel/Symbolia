@@ -1,0 +1,3 @@
+food-wine-glass
+apps
+    org.nomacs.ImageLounge

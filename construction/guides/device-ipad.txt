@@ -1,0 +1,3 @@
+device-ipad
+devices
+    computer-apple-ipad

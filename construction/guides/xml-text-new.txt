@@ -1,6 +1,0 @@
-xml-text-new
-actions
-    xml-text-new
-apps
-    akira
-    autokey

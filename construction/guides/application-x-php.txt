@@ -1,6 +1,0 @@
-application-x-php
-mimetypes
-    gnome-mime-application-x-php.package-x-generic
-    application-x-php
-    text-x-php
-    gnome-mime-application-x-php

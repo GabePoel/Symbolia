@@ -1,0 +1,4 @@
+circle-gear-filled
+emblems
+    emblem-generic
+    emblem-system

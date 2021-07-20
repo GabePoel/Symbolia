@@ -1,0 +1,9 @@
+language-ruby
+apps
+    ruby
+    rubymine
+    applications-ruby
+mimetypes
+    application-x-ruby
+    gnome-mime-application-x-ruby
+    text-x-ruby

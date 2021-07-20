@@ -1,0 +1,50 @@
+device-wired-network
+actions
+    sidebar-tree
+    nm-device-wired
+    view-list-tree
+apps
+    network
+    network-wired
+    org.gaphor.Gaphor
+    gtk-network
+devices
+    network-wired
+mimetypes
+    application-x-iptrace
+    application-x-visualnetworks
+    application-x-nettl
+    application-gnunet-directory
+    application-x-netinstobserver
+places
+    folder-brown-network
+    folder-yaru-network
+    network_local
+    folder-remote-nfs
+    folder-remote-smb
+    folder-aubergine-network
+    folder-black-network
+    folder-mint-network
+    folder-orange-network
+    folder-purple-network
+    network-server
+    folder-virtual
+    folder-canonical-network
+    folder-blue-network
+    network
+    folder-darkblue-network
+    folder-remote-ftp
+    folder-bordeaux-network
+    folder-red-network
+    folder-pink-network
+    folder-network
+    folder-grey-network
+    folder-yellow-network
+    folder-adwaita-network
+    gnome-fs-network
+    folder-green-network
+    gtk-network
+    folder-vermillion-network
+    folder-synthwave-network
+    folder-cyan-network
+    folder-manjaro-network

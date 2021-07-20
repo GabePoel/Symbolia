@@ -1,0 +1,3 @@
+weather-cloud-check
+status
+    extensions-sync-synced

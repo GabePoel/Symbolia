@@ -1,3 +1,0 @@
-window-new
-actions
-    window-new

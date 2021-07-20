@@ -1,0 +1,3 @@
+device-smartphone-lock
+devices
+    phonelink-lock

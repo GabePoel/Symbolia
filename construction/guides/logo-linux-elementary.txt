@@ -1,0 +1,6 @@
+logo-linux-elementary
+apps
+    distributor-logo-elementary
+    elementary
+    elementary-os
+    distributor-logo-elementary-os

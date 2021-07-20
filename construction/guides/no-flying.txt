@@ -1,5 +1,0 @@
-no-flying
-actions
-    no-flying
-status
-    airplane-mode-disabled

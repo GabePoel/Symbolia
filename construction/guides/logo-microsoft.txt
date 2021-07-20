@@ -1,0 +1,8 @@
+logo-microsoft
+apps
+    goa-account-msn
+    distributor-logo-windows
+    microsoft
+    goa-account-microsoft
+actions
+    im-msn

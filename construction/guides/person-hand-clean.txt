@@ -1,0 +1,4 @@
+person-hand-clean
+actions
+    path-tweak-roughen
+    document-cleanup

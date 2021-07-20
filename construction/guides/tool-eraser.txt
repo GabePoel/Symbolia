@@ -1,0 +1,7 @@
+tool-eraser
+actions
+    tool-eraser
+    eraser
+    draw-eraser
+    tool_eraser
+    tool_color_eraser

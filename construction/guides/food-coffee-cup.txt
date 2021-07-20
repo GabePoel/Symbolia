@@ -1,0 +1,14 @@
+food-coffee-cup
+apps
+    caffeine
+    superproductivity
+    kaffeine
+    superproductivity-alt1
+    superproductivity-alt2
+    buttercup-desktop
+mimetypes
+    application-vnd.coffeescript
+status
+    my-caffeine-on
+places
+    folder-java

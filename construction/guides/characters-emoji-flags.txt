@@ -1,5 +1,0 @@
-characters-emoji-flags
-apps
-    characters-emoji-flags
-categories
-    emoji-flags

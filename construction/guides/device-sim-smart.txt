@@ -1,0 +1,3 @@
+device-sim-smart
+devices
+    auth-smartcard

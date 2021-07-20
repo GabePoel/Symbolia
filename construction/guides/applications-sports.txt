@@ -1,5 +1,0 @@
-applications-sports
-apps
-    applications-sports
-    football
-    com.github.mirkobrombin.football

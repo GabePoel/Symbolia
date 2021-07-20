@@ -1,0 +1,4 @@
+clipboard-text-outline
+actions
+    font-enable
+    edit-paste-size

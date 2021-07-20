@@ -1,3 +1,0 @@
-gtk-dialog-warning
-status
-    gtk-dialog-warning

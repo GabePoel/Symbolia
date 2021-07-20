@@ -1,4 +1,0 @@
-edit-paste-size
-actions
-    font-enable
-    edit-paste-size

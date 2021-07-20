@@ -1,3 +1,0 @@
-network-vpn-disconnected
-status
-    network-vpn-disconnected

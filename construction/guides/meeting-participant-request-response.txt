@@ -1,3 +1,0 @@
-meeting-participant-request-response
-actions
-    meeting-participant-request-response

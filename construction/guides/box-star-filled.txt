@@ -1,0 +1,4 @@
+box-star-filled
+actions
+    milestone
+    preferences-tweaks-anim

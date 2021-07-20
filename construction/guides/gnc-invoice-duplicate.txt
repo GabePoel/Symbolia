@@ -1,3 +1,0 @@
-gnc-invoice-duplicate
-actions
-    gnc-invoice-duplicate

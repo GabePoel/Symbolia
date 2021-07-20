@@ -1,8 +1,0 @@
-application-vnd.stardivision.calc
-mimetypes
-    gnome-mime-application-vnd.sun.xml.calc.template
-    application-vnd.stardivision.calc
-    gnome-mime-application-vnd.stardivision.calc
-    application-vnd.sun.xml.calc
-    application-vnd.sun.xml.calc.template
-    gnome-mime-application-vnd.sun.xml.calc

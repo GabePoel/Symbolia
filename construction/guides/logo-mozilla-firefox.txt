@@ -1,0 +1,30 @@
+logo-mozilla-firefox
+apps
+    firefox-4.0
+    org.mozilla.FirefoxDevEdition
+    firefox-nightly-icon
+    firefox-developer-edition
+    firefox-aurora
+    firefox-aurora-icon
+    firefox-nightly
+    firefox-default
+    firefox-mozilla
+    firefox-icon
+    firefox-beta
+    firefox
+    firefox3
+    firefox-developer-icon
+    org.mozilla.Firefox
+    firefox-trunk
+    org.mozilla.firefox
+    firefox-3.0
+    firefox-20
+    firefox-original
+    firefox-beta-bin
+    firefox-esr
+    mozilla-firefox
+    org.mozilla.FirefoxNightly
+    firefox-traditional
+    firefox-3.5
+    firefox-mozilla-build
+    firefox-gtk3

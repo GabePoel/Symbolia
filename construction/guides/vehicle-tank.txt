@@ -1,0 +1,8 @@
+vehicle-tank
+apps
+    in.p1x.TanksOfFreedom
+    net.sourceforge.btanks
+    com.worldoftanks.Client
+    atanks
+    net.sourceforge.atanks
+    world-of-tanks

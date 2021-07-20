@@ -1,0 +1,3 @@
+file-check-outline
+actions
+    gnc-invoice-pay

@@ -1,0 +1,5 @@
+language-typescript
+mimetypes
+    application-typescript
+    text-x-typescript
+    application-x-typescript

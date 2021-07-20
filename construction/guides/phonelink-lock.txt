@@ -1,3 +1,0 @@
-phonelink-lock
-devices
-    phonelink-lock

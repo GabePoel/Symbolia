@@ -1,6 +1,0 @@
-windy
-actions
-    windy
-status
-    weather-windy
-    weather-windy-small

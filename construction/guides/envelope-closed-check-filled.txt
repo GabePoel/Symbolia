@@ -2,5 +2,6 @@ envelope-closed-check-filled
 status
     mail-read
 actions
+    mail-signed-verified
     mail-mark-read
     mail-read

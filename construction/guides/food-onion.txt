@@ -1,0 +1,15 @@
+food-onion
+apps
+    tor-browser-en
+    tor-browser-es
+    tor-browser-pt
+    com.github.micahflee.torbrowser-launcher
+    torbrowser
+    tor-browser-ru
+    tor-browser-it
+    tor-browser-fr
+    garlic
+    tor-browser
+    tor
+mimetypes
+    application-x-perl

@@ -1,0 +1,4 @@
+envelope-closed-edit-outline
+actions
+    mail-signed-part
+    mail-signature-unknown

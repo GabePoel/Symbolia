@@ -1,3 +1,0 @@
-alevt
-apps
-    alevt

@@ -1,3 +1,0 @@
-mail-tagged
-actions
-    mail-tagged

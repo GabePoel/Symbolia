@@ -1,6 +1,0 @@
-characters-emoji-objects
-apps
-    characters-emoji-objects
-    emoji-objects
-categories
-    emoji-objects

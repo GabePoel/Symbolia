@@ -1,3 +1,0 @@
-blind
-actions
-    blind

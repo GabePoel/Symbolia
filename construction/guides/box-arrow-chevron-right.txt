@@ -1,0 +1,3 @@
+box-arrow-chevron-right
+actions
+    window-next

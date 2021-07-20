@@ -1,0 +1,3 @@
+circle-heart-filled
+emblems
+    emblem-xapp-favorite

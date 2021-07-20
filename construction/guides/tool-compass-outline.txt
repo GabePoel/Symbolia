@@ -1,0 +1,3 @@
+tool-compass-outline
+actions
+    compass-alt

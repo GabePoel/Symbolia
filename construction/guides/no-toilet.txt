@@ -1,3 +1,0 @@
-no-toilet
-actions
-    no-toilet

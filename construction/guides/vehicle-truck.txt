@@ -1,0 +1,3 @@
+vehicle-truck
+apps
+    euro-truck-simulator-2

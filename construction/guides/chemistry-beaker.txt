@@ -1,0 +1,6 @@
+chemistry-beaker
+apps
+    beaker
+    aggiornamento
+    aggiornamento-di-applicazioni
+    com.beakerbrowser.Beaker

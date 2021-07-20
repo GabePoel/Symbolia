@@ -1,0 +1,4 @@
+box-minus-filled
+actions
+    archive-remove
+    checkbox-mixed

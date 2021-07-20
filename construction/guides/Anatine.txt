@@ -1,4 +1,0 @@
-Anatine
-apps
-    Anatine
-    anatine

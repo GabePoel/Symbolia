@@ -1,0 +1,3 @@
+vehicle-cart-minus
+actions
+    amarok_cart_remove

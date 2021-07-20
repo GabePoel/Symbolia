@@ -1,4 +1,0 @@
-annotation-note
-actions
-    xapp-annotations-text
-    annotation-note

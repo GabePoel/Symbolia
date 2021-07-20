@@ -1,0 +1,4 @@
+logo-google-play-store
+apps
+    chrome-store
+    playstore

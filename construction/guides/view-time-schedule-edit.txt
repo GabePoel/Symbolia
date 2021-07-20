@@ -1,3 +1,0 @@
-view-time-schedule-edit
-actions
-    view-time-schedule-edit

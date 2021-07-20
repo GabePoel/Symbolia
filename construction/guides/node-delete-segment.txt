@@ -1,4 +1,0 @@
-node-delete-segment
-actions
-    radio-mixed
-    node-delete-segment

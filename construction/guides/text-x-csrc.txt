@@ -1,3 +1,0 @@
-text-x-csrc
-mimetypes
-    text-x-csrc

@@ -1,16 +1,32 @@
 star-filled
 actions
+    star-shape
     non-starred
+    star-solid
+    view-media-favorite
+    xapp-favorites
+    kstars_catalog
+    favorite-new
+    favorite
+    xapp-favorite
+    xapp-favorites-app
+    star-filled
+    sidebar_bookmarks
+    mail-mark-important
+    draw-star
 apps
     non-starred
-    mail-mark-important
     xapp-favorites
     xapp-favorites-app
     star
+    mail-mark-important
 places
-    folder-bookmark-alt
+    starred-alt
+    folder-favorites-alt
     folder-bookmarks-alt
     xapp-user-favorites-alt
+    folder-starred
+    folder-bookmark-alt
 status
     feed-starred
     non-starred

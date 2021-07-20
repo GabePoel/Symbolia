@@ -1,3 +1,0 @@
-irc-operator
-actions
-    irc-operator

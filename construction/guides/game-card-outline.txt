@@ -1,0 +1,9 @@
+game-card-outline
+apps
+    eu.planete_kraus.Tarot
+    jp.yvt.OpenSpades
+    aceofspades
+    applications-cardgames
+    com.tonikelope.MegaBasterd
+    org.kde.kpat
+    openspades

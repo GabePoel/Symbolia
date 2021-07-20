@@ -1,0 +1,19 @@
+device-monitor-multi
+actions
+    vm_clone_wizard
+apps
+    workspace
+    xfce4-workspaces
+    workspace-switcher-top-left
+    workspace-switcher-right-top
+    gnome-panel-workspace-switcher
+    mate-panel-workspace-switcher
+    workspace-switcher
+    org.gabmus.hydrapaper
+    workspace-switcher-right-bottom
+    cs-workspaces
+    workspace-switcher-left-bottom
+devices
+    joined-displays
+status
+    video-joined-displays

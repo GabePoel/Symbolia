@@ -1,0 +1,4 @@
+file-edit-outline
+actions
+    gnc-invoice-edit
+    document-edit-sign-encrypt

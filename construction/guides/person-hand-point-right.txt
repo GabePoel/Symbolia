@@ -1,0 +1,4 @@
+person-hand-point-right
+actions
+    path-outset
+    hand-point-horizontal

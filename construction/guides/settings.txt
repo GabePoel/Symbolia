@@ -1,0 +1,23 @@
+settings
+actions
+    configure-toolbars
+    timepp-settings
+    configure_project
+    configure_kile
+    system-run
+    settings
+    games-config-custom
+    games-config-options
+    configure
+    view-process-system
+    CVnamespace
+    system-settings-lineart
+    settings-configure
+    image-adjust
+    adjustlevels
+    run-build-configure
+    gtk-execute
+categories
+    xapp-prefs-behavior
+status
+    aptdaemon-setup

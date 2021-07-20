@@ -1,0 +1,4 @@
+office-yammer
+apps
+    ms-yammer
+    microsoft-yammer

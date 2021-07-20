@@ -1,0 +1,24 @@
+animal-penguin
+actions
+    penguin
+apps
+    org.debian.Tux
+    freetuxtv
+    org.debian.TuxPuck
+    net.sourceforge.ExtremeTuxRacer
+    net.supertuxkart.SuperTuxKart
+    org.tuxfamily.XMoto
+    supertuxkart_48
+    tuxtype
+    tuxboot
+    supertuxkart
+    tux
+    tuxguitar
+    tuxracer
+    org.supertux.SuperTux-Milestone1
+    supertuxkart_128
+    com.tux4kids.tuxtype
+    org.supertuxproject.SuperTux
+    tuxpuck
+    org.tuxfamily.StuntRally
+    net.sourceforge.TuxFootball

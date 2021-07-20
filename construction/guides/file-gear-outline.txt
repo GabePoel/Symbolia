@@ -1,0 +1,4 @@
+file-gear-outline
+actions
+    document-metadata
+    gnumeric-pagesetup-hf-pages

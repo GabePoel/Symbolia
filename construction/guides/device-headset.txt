@@ -1,0 +1,8 @@
+device-headset
+apps
+    info.mumble.Mumble
+    co.headsetapp.headset
+    com.teamspeak.TeamSpeak
+devices
+    audio-headset
+    headset

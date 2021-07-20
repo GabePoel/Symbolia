@@ -1,0 +1,3 @@
+tool-globe
+actions
+    kstars_fitsviewer

@@ -1,6 +1,0 @@
-feed-share-pocket
-actions
-    feed-share-pocket
-apps
-    goa-account-pocket
-    pocket

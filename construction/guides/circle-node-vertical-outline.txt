@@ -1,0 +1,3 @@
+circle-node-vertical-outline
+actions
+    node-align-vertical

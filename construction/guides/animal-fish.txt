@@ -1,0 +1,7 @@
+animal-fish
+apps
+    nl.openoffice.bluefish
+    gnome-panel-fish
+    bluefish
+    mate-panel-fish
+    fillets

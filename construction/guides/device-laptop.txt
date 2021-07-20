@@ -1,0 +1,5 @@
+device-laptop
+actions
+    pm-epayment
+apps
+    applications-system-orange

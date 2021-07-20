@@ -1,3 +1,0 @@
-keyframe-add
-actions
-    keyframe-add

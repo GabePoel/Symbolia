@@ -1,0 +1,6 @@
+tool-lightbulb-alt
+apps
+    characters-emoji-objects
+    emoji-objects
+categories
+    emoji-objects

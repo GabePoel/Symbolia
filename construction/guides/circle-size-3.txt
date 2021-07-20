@@ -1,0 +1,4 @@
+circle-size-3
+actions
+    thickness_medium
+    size-3

@@ -1,0 +1,48 @@
+person-avatar-filled
+actions
+    mail-reply-author
+    avatar-default
+    account
+    lastfm-personal
+    im-user
+    user-identity
+    system-users
+    person
+apps
+    user-alt4
+    config-users
+    cs-user-accounts
+    logisim-icon-128
+    system-config-users
+    user-alt3
+    preferences-desktop-user
+    userdrake
+    user_icon
+    yast-users
+    user
+    contact-editor
+    user-info
+    gnome-user-share
+    user-alt1
+    org.gnome.Contacts
+    cs-user
+    logisim-icon
+    gnome-contacts
+    user-alt2
+    users
+    org.gajim.Gajim
+    user-alt5
+    login-photo
+    userinfo
+mimetypes
+    application-x-vnd.kde.contactgroup
+    text-x-credits
+    text-x-authors
+    gnome-mime-text-x-credits
+    application-users
+    authors
+    x-office-contact
+    office-contact
+    gnome-mime-text-x-authors
+status
+    avatar-default

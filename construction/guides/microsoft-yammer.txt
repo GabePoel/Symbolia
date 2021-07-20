@@ -1,4 +1,0 @@
-microsoft-yammer
-apps
-    microsoft-yammer
-    ms-yammer

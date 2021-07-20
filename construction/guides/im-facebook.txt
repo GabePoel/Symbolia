@@ -1,4 +1,0 @@
-im-facebook
-actions
-    im-facebook
-    online-account-facebook

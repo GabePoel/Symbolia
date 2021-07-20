@@ -1,0 +1,6 @@
+logo-adobe-acrobat
+actions
+    pdflatex
+    dvipdf
+    acrobat
+    ps2pdf

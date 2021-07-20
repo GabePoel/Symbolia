@@ -1,0 +1,3 @@
+envelope-closed-open-mixed
+actions
+    mail-meeting-request-reply

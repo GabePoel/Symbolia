@@ -1,5 +1,0 @@
-labplot-worksheet
-actions
-    labplot-worksheet
-apps
-    preferences-desktop-filetype-association

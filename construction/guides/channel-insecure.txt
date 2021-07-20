@@ -1,6 +1,0 @@
-channel-insecure
-actions
-    channel-insecure
-status
-    arch-unknown
-    arch-error

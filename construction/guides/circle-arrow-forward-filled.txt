@@ -1,0 +1,3 @@
+circle-arrow-forward-filled
+emblems
+    emblem-shared

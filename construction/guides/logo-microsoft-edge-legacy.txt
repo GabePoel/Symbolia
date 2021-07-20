@@ -1,0 +1,4 @@
+logo-microsoft-edge-legacy
+apps
+    microsoft-edge-legacy
+    ms-edge-legacy

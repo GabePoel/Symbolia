@@ -1,5 +1,0 @@
-blender
-apps
-    Blender
-    blender
-    org.blender.Blender

@@ -1,0 +1,3 @@
+swimsuit-off
+actions
+    nudity-none

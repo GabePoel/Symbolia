@@ -1,4 +1,0 @@
-keyframe-next
-actions
-    node_insert_max_x
-    keyframe-next

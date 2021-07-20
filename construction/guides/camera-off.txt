@@ -1,6 +1,0 @@
-camera-off
-actions
-    filter-raw-disabled
-status
-    camera-hardware-disabled
-    camera-disabled

@@ -1,0 +1,7 @@
+device-printer-outline
+apps
+    printer-alt
+categories
+    preferences-desktop-printer
+devices
+    printer

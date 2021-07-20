@@ -1,0 +1,9 @@
+circle-check-outline
+actions
+    selection-add
+    builder-unit-tests-pass
+    test-pass
+    on-outline
+status
+    task-due
+    insync-synced

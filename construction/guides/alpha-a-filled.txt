@@ -1,0 +1,6 @@
+alpha-a-filled
+actions
+    xml-text-new
+apps
+    autokey
+    akira

@@ -1,0 +1,3 @@
+envelope-closed-lock-filled
+actions
+    mail-encrypted-full

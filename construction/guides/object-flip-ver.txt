@@ -1,4 +1,0 @@
-object-flip-ver
-actions
-    object-flip-ver
-    transform-scale-vertical

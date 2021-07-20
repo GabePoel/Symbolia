@@ -1,0 +1,47 @@
+lock-locked-filled
+actions
+    nm-vpn-standalone-lock
+    read_only
+    jockey-proprietary
+    gnome-lockscreen
+    system-lock-screen
+    lock-fill
+    gnumeric-protection-yes
+    nm-device-wired-secure
+    gnumeric-protection-yes-dialog
+apps
+    Encryptr
+    com.github.huluti.Curtail
+    com.yubico.yubioath
+    com.github.paolostivanin.OTPClient
+    com.nordpass.NordPass
+    cryptkeeper
+    gnome-lockscreen
+    org.emilien.Password
+    encryptpad
+    cryptfolder-indicator
+    system-lock-screen
+    com.belmoussaoui.Authenticator
+    de.finnik.PassVault
+    net.shrew.ike.qikea
+    org.eu.encom.matrique
+    com.github.jkotra.eovpn
+devices
+    padlock
+    lock-small
+mimetypes
+    encrypted
+    multipart-encrypted
+    application-pgp-keys
+    application-pgp-encrypted
+    application-pgp-signature
+    application-pgp
+places
+    folder-encrypted
+    certificate-server
+    folder-decrypted
+status
+    network-vpn
+    system-lock-screen
+    network-wireless-encrypted
+    channel-insecure

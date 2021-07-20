@@ -1,0 +1,3 @@
+circle-music-filled
+emblems
+    emblem-music

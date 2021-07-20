@@ -1,3 +1,0 @@
-keyframe-duplicate
-actions
-    keyframe-duplicate

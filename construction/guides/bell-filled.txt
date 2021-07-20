@@ -1,0 +1,19 @@
+bell-filled
+actions
+    polari-user-notify
+    hb-ope-remind
+    twitter-mentions
+    notifications
+apps
+    notification
+    update-notifier
+    notification-daemon
+    xfce4-notifyd
+    notifyconf
+    gnome-panel-notification-area
+    cs-notifications
+    mate-notification-properties
+    mate-panel-notification-area
+    knotify
+status
+    notification

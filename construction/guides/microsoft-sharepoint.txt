@@ -1,4 +1,0 @@
-microsoft-sharepoint
-apps
-    microsoft-sharepoint
-    ms-sharepoint

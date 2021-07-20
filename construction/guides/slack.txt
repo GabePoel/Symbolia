@@ -1,4 +1,0 @@
-slack
-apps
-    com.slack.Slack
-    slack

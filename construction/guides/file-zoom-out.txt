@@ -1,7 +1,0 @@
-file-zoom-out
-actions
-    zoom-out-large
-    zoom-out
-    file-zoom-out
-apps
-    zoom-out

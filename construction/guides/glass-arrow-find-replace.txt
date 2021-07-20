@@ -1,0 +1,5 @@
+glass-arrow-find-replace
+actions
+    edit-find-replace
+apps
+    find_replace-24px

@@ -1,4 +1,0 @@
-object-flip-vertical
-actions
-    up-and-down-arrows
-    object-flip-vertical

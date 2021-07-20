@@ -1,0 +1,4 @@
+eye-constricted-filled-off
+actions
+    object-hidden
+    view-hidden

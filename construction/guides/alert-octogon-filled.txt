@@ -1,8 +1,0 @@
-alert-octogon-filled
-actions
-    mail-spam
-    mail-mark-junk
-    umbr-message-lost
-    filter-flagged
-apps
-    mail-mark-junk

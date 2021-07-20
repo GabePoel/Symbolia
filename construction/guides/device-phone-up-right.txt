@@ -1,0 +1,9 @@
+device-phone-up-right
+actions
+    call-start
+apps
+    viber
+    internet-telephony
+    com.viber.Viber
+devices
+    phone-old

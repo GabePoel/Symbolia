@@ -1,0 +1,24 @@
+office-powerpoint
+apps
+    microsoft-powerpoint
+    ms-powerpoint
+mimetypes
+    application-vnd.ms-powerpoint
+    application-vnd.ms-powerpoint.slide.macroenabled.12
+    wps-office-dpt
+    wps-office-pptx
+    application-wps-office.dps
+    application-vnd.ms-powerpoint.template.macroenabled.12
+    wps-office-dps
+    application-vnd.ms-powerpoint.presentation.macroEnabled.12
+    application-mspowerpoint
+    gnome-mime-application-vnd.ms-powerpoint
+    application-vnd.ms-powerpoint.slideshow.macroenabled.12
+    wps-office-pot
+    application-wps-office.ppt
+    application-vnd.ms-powerpoint.addin.macroenabled.12
+    application-wps-office.pot
+    application-vnd.ms-powerpoint.presentation.macroenabled.12
+    application-wps-office.pptx
+    wps-office-ppt
+    application-wps-office.potx

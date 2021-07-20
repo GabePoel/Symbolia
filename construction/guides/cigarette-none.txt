@@ -1,3 +1,0 @@
-cigarette-none
-apps
-    cigarette-none

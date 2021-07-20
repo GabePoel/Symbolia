@@ -1,0 +1,9 @@
+person-fingerprint
+actions
+    fingerprint
+apps
+    fr.romainvigier.MetadataCleaner
+    org.gnome.gitlab.YaLTeR.Identity
+    fingerprint-gui
+devices
+    fingerprint2

@@ -1,0 +1,6 @@
+language-lua
+apps
+    luakit
+    luabackend
+mimetypes
+    text-x-lua

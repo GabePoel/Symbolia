@@ -1,0 +1,8 @@
+logo-facebook-messenger
+apps
+    FacebookMessenger-facebook.com
+    Caprine
+    appimagekit-caprine
+    caprine
+    messengerfordesktop
+    fbmessenger

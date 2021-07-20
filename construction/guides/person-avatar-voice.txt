@@ -1,0 +1,3 @@
+person-avatar-voice
+actions
+    irc-voice

@@ -1,3 +1,0 @@
-document-edit-decrypt
-actions
-    document-edit-decrypt

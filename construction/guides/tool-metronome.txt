@@ -1,0 +1,4 @@
+tool-metronome
+apps
+    metronome
+    com.github.artemanufrij.metronome

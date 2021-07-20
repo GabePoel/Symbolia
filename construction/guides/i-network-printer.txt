@@ -1,7 +1,0 @@
-i-network-printer
-apps
-    i-network-printer
-categories
-    i-network-printer
-devices
-    network-printer

@@ -1,0 +1,5 @@
+box-size-4
+apps
+    com.github.rkoesters.xkcd-gtk
+    info.febvre.Komikku
+    xkcd-gtk

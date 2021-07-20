@@ -1,3 +1,0 @@
-violence2-none
-actions
-    violence2-none

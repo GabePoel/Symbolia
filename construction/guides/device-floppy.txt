@@ -1,0 +1,10 @@
+device-floppy
+actions
+    modified
+    gtk-floppy
+    document-save
+    hb-document-save
+    system-save-session
+devices
+    floppy
+    media-floppy

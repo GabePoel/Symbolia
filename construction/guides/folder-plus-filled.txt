@@ -1,0 +1,7 @@
+folder-plus-filled
+actions
+    archive-insert-directory
+    add_folder
+    action-albumfolder-importdir2
+    project_archive
+    albumfolder-importdir

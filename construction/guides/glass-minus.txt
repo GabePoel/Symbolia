@@ -1,0 +1,7 @@
+glass-minus
+actions
+    zoom-out-large
+    file-zoom-out
+    zoom-out
+apps
+    zoom-out

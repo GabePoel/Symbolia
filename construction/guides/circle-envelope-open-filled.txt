@@ -1,0 +1,3 @@
+circle-envelope-open-filled
+emblems
+    emblem-mail

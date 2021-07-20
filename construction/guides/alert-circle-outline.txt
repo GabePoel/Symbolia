@@ -1,3 +1,0 @@
-alert-circle-outline
-apps
-    software-update-urgent

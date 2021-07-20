@@ -1,0 +1,3 @@
+logo-microsoft-azure
+apps
+    azuredatastudio

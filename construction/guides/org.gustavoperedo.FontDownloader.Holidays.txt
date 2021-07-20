@@ -1,3 +1,0 @@
-org.gustavoperedo.FontDownloader.Holidays
-apps
-    org.gustavoperedo.FontDownloader.Holidays

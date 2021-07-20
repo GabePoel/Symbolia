@@ -1,6 +1,0 @@
-pause-circle-idle
-actions
-    pause-circle-idle
-status
-    insync-paused
-    state_paused

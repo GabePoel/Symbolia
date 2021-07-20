@@ -1,0 +1,3 @@
+game-dice-d6-multi-filled
+actions
+    roll

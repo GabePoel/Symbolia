@@ -1,0 +1,3 @@
+vehicle-hot-air-baloon
+apps
+    org.gnome.Tour

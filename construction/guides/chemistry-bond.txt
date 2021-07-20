@@ -1,0 +1,6 @@
+chemistry-bond
+actions
+    kalzium_rs
+apps
+    kalzium
+    org.kde.kalzium

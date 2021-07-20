@@ -1,0 +1,12 @@
+logo-google-youtube
+actions
+    im-youtube
+apps
+    youtube-dl-qt-icon
+    nuvolaplayer3_youtube
+    youtube-dl
+    youtube-dl-gui
+    youtube
+    com.github.JannikHv.Gydl
+    youtube-dl-gui_48x48
+    youtube-dlg

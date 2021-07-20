@@ -1,0 +1,5 @@
+file-arrow-loop-filled
+actions
+    document-revert
+    kt-restore-defaults
+    document-revert-rtl

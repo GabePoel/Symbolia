@@ -1,3 +1,0 @@
-weight2
-apps
-    weight2

@@ -1,0 +1,23 @@
+tool-pencil-edit
+actions
+    edit
+    edittext
+    gnc-account-edit
+    document-sign
+    group-edit
+    tool_pencil
+    gtk-edit
+    view-certificate-sign
+    cell_edit
+    entry-edit
+    edit-map
+    editimage
+    timepp-edit
+    builder-editor
+    tool-none
+    document-edit
+    edit-entry
+    media-track-edit-amarok
+    edit-rename
+    open-for-editing
+    editor

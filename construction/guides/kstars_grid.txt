@@ -1,3 +1,0 @@
-kstars_grid
-actions
-    kstars_grid

@@ -1,0 +1,7 @@
+logo-android-alt
+mimetypes
+    vnd.android.package-archive
+    application-x-apkg
+    application-apk
+    android-package-archive
+    application-vnd.android.package-archive

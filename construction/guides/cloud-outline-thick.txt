@@ -1,4 +1,0 @@
-cloud-outline-thick
-actions
-    cloud-outline-thin
-    cloud-outline-thick

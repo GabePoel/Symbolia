@@ -1,3 +1,0 @@
-text-x-javascript
-mimetypes
-    text-x-javascript

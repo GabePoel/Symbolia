@@ -1,0 +1,4 @@
+device-microphone-medium
+status
+    audio-input-microphone-medium
+    microphone-sensitivity-medium

@@ -1,3 +1,0 @@
-annotation-insert
-actions
-    annotation-insert

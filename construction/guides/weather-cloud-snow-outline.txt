@@ -1,0 +1,3 @@
+weather-cloud-snow-outline
+status
+    weather-freezing-rain

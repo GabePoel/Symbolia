@@ -1,0 +1,6 @@
+shield-alert-filled
+actions
+    channel-insecure
+status
+    arch-unknown
+    arch-error

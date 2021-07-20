@@ -1,0 +1,3 @@
+circle-emoticon-face-outline
+actions
+    insert-emoticon

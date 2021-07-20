@@ -1,0 +1,13 @@
+shield-check-filled
+actions
+    security-high
+apps
+    com.bitwarden.desktop
+    bitwarden
+    security-high
+    blockout
+    net.blockout.BlockOutII
+    bleachbit
+status
+    security-high
+    arch-uptodate

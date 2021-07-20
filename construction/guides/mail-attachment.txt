@@ -1,5 +1,0 @@
-mail-attachment
-actions
-    mail-attachment
-status
-    mail-attachment

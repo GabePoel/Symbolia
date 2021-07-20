@@ -1,3 +1,0 @@
-circle-small
-actions
-    size-3

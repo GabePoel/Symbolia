@@ -1,3 +1,0 @@
-hand-fist
-apps
-    hand-fist

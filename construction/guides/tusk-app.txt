@@ -1,4 +1,0 @@
-tusk-app
-apps
-    tusk
-    tusk-app

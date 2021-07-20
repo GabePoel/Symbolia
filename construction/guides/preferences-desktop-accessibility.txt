@@ -1,5 +1,0 @@
-preferences-desktop-accessibility
-apps
-    preferences-desktop-accessibility
-categories
-    preferences-desktop-accessibility

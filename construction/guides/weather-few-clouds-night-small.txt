@@ -1,4 +1,0 @@
-weather-few-clouds-night-small
-status
-    weather-few-clouds-night-small
-    weather-few-clouds-night

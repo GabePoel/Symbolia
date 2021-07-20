@@ -1,3 +1,0 @@
-closed_folder_unreadable
-actions
-    closed_folder_unreadable

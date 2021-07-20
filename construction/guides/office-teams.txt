@@ -1,0 +1,6 @@
+office-teams
+apps
+    com.github.IsmaelMartinez.teams_for_linux
+    ms-teams
+    microsoft-teams
+    com.microsoft.Teams

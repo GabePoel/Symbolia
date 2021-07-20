@@ -1,5 +1,0 @@
-hb-assign
-actions
-    hb-assign
-devices
-    pda

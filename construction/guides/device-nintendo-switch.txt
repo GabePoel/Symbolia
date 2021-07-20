@@ -1,0 +1,3 @@
+device-nintendo-switch
+devices
+    nintendo-controller

@@ -1,3 +1,0 @@
-mintsources-foreign
-apps
-    mintsources-foreign

@@ -1,0 +1,4 @@
+tool-guitar
+apps
+    ariamaestosa
+    applications-music

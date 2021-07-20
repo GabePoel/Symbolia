@@ -1,0 +1,8 @@
+shield-mixed
+apps
+    wallch
+    security-medium
+    yast-security
+    slidewall
+status
+    security-medium

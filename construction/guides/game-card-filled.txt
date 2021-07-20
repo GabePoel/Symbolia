@@ -1,0 +1,7 @@
+game-card-filled
+apps
+    app.midterm.MidtermDesktop
+    com.github.robertsanseries.ciano
+    org.gnome.Mahjongg
+    anki
+    org.gnome.mahjongg

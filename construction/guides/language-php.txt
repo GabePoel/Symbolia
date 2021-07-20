@@ -1,0 +1,12 @@
+language-php
+apps
+    com.github.bartzaalberg.php-tester
+    phpstorm
+    php
+    applications-php
+    phpmyadmin
+mimetypes
+    gnome-mime-application-x-php.package-x-generic
+    gnome-mime-application-x-php
+    application-x-php
+    text-x-php

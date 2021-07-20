@@ -1,0 +1,16 @@
+office-math
+apps
+    libreoffice5.3-math
+    org.libreoffice.LibreOffice-math
+    libreoffice4.2-math
+    libreofficedev6.1-math
+    libreoffice-math
+    libreoffice5.4-math
+    libreoffice6.0-math
+    libreoffice5.1-math
+    libreofficedev6.0-math
+    openoffice4-math
+    libreoffice5.2-math
+    libreoffice5.0-math
+    libreoffice3-math
+    libreoffice34-math

@@ -1,6 +1,0 @@
-AlphaPlot
-apps
-    albert
-    io.github.narunlifescience.AlphaPlot
-    AlphaPlot
-    alphaplot

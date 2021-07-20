@@ -1,0 +1,4 @@
+clipboard-outline
+actions
+    special_paste
+    edit-paste

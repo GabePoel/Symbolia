@@ -1,0 +1,6 @@
+weather-cloud-outline-small
+status
+    weather-cloudy
+    feed-cloud
+actions
+    clouds

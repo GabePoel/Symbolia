@@ -1,0 +1,6 @@
+clipboard-down-arrow-outline
+actions
+    edit-paste-in-place
+    gps
+apps
+    gps

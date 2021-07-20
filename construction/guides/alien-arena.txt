@@ -1,6 +1,0 @@
-alien-arena
-apps
-    alienfx
-    alienfx-gtk
-    alien-arena
-    alienarena

@@ -1,0 +1,8 @@
+person-body-walk
+actions
+    discover
+    walking
+    im-aim
+apps
+    com.stepmania.StepMania
+    route-pedestrian

@@ -1,0 +1,6 @@
+animal-alien
+apps
+    alienfx-gtk
+    alien-arena
+    alienarena
+    alienfx

@@ -1,0 +1,8 @@
+logo-reddit
+actions
+    online-account-reddit
+apps
+    reddit-is-a-dead-bird
+    org.gabmus.giara
+    reddit
+    org.gabmus.giara.dev

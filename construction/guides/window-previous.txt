@@ -1,3 +1,0 @@
-window-previous
-actions
-    window-previous

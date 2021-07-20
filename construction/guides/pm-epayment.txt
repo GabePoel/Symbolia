@@ -1,5 +1,0 @@
-pm-epayment
-actions
-    pm-epayment
-apps
-    applications-system-orange

@@ -1,0 +1,21 @@
+device-headphones
+apps
+    org.audacityteam.Audacity
+    io.gitlab.Goodvibes
+    audacity
+    dz-client-linux-x128
+    goodvibesapp
+    com.polyphone_soundfonts.polyphone
+    deezer
+    goodvibes
+    dz-client-linux
+    audacity16
+    org.mpdevil.mpdevil
+    com.github.coralynnmay.goodvibesapp
+    com.github.nick92.tranqil
+    com.rafaelmardojai.Blanket
+    audacity32
+    com.github.gkarsay.parlatype
+devices
+    audio-headphones
+    headphones

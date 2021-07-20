@@ -1,4 +1,0 @@
-gtk-properties
-actions
-    overexposure
-    gtk-properties

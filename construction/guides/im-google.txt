@@ -1,3 +1,0 @@
-im-google
-actions
-    im-google

@@ -1,0 +1,15 @@
+logo-microsoft-visual-studio-code
+apps
+    com.visualstudio.code
+    com.visualstudio.code.insiders
+    ms-visual-studio-code
+    code-oss
+    code-exploration
+    microsoft-visual-studio-code
+    visual-studio-code
+    visual-studio-code-insiders
+    code_backup
+    vstudio
+    vscodium
+    com.visualstudio.code.oss
+    code-insiders

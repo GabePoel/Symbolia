@@ -1,0 +1,6 @@
+logo-amazon-twitch
+apps
+    twitch
+    com.vinszent.GnomeTwitch
+    gnome-twitch
+    streamlink-twitch-gui

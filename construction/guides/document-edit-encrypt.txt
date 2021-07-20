@@ -1,3 +1,0 @@
-document-edit-encrypt
-actions
-    document-edit-encrypt

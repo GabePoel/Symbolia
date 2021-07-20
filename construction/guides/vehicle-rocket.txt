@@ -1,0 +1,6 @@
+vehicle-rocket
+apps
+    org.gnome.HexGL
+    io.github.endless_sky.endless_sky
+status
+    best

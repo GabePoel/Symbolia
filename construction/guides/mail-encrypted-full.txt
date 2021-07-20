@@ -1,3 +1,0 @@
-mail-encrypted-full
-actions
-    mail-encrypted-full

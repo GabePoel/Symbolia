@@ -1,0 +1,7 @@
+device-microphone-off
+status
+    microphone-disabled
+    audio-input-microphone-muted
+    microphone-sensitivity-none
+    microphone-sensitivity-muted
+    microphone-hardware-disabled

@@ -1,0 +1,3 @@
+tool-bomb-off
+actions
+    violence2-none

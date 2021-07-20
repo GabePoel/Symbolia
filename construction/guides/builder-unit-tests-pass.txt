@@ -1,8 +1,0 @@
-builder-unit-tests-pass
-actions
-    selection-add
-    test-pass
-    on-outline
-    builder-unit-tests-pass
-status
-    task-due

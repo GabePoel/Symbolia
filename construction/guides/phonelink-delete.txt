@@ -1,3 +1,0 @@
-phonelink-delete
-devices
-    phonelink-delete

@@ -1,0 +1,4 @@
+weather-cloud-outline
+actions
+    cloud-outline-thick
+    cloud-outline-thin

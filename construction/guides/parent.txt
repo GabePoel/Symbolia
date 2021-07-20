@@ -1,6 +1,0 @@
-parent
-actions
-    parent
-apps
-    preferences-system-parental-controls
-    preferences-system-parental-control

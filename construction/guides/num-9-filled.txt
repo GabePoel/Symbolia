@@ -1,0 +1,11 @@
+num-9-filled
+apps
+    org.gnome.sudoku
+    com.github.parnold-x.sudoku
+    sudoku-app
+    gnome-sudoku
+    org.gnome.Sudoku
+    yast-sudo
+    ksudoku
+    org.kde.ksudoku
+    sudoku

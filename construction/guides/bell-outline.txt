@@ -1,0 +1,6 @@
+bell-outline
+apps
+    preferences-system-notifications
+    preferences-desktop-notifications
+    preferences-desktop-notification
+    preferences-desktop-notification-bell

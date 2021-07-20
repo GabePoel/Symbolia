@@ -1,4 +1,0 @@
-microsoft-access
-apps
-    microsoft-access
-    ms-access

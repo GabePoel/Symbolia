@@ -1,0 +1,3 @@
+device-wired-network-off
+actions
+    nm-no-connection

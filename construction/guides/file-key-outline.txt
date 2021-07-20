@@ -1,0 +1,3 @@
+file-key-outline
+actions
+    document-edit-decrypt

@@ -1,0 +1,5 @@
+person-hand-point-up
+actions
+    grab
+    hand-point
+    object-tweak-push

@@ -1,0 +1,4 @@
+office-onedrive
+apps
+    microsoft-onedrive
+    ms-onedrive

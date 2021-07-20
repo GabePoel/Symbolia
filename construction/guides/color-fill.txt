@@ -1,8 +1,0 @@
-color-fill
-actions
-    gnumeric-bucket
-    color-fill
-    fill
-    fill-tool
-    fill-color
-    tool-paint

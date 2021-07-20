@@ -1,0 +1,3 @@
+person-foot
+apps
+    org.gnome.dfeet

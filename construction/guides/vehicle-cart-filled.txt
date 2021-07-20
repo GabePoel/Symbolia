@@ -1,0 +1,35 @@
+vehicle-cart-filled
+actions
+    amarok_cart_view
+    shopping-cart
+apps
+    yast-software
+    Appstore
+    org.gnome.Software
+    software-properties
+    de.haeckerfelix.Souk
+    appgrid
+    software-properties-mint
+    de.haeckerfelix.Souk.Devel
+    org.gnome.software
+    software-manager
+    softwarecenter-ubuntu
+    softwarecenter
+    AppImageLauncher
+    softwarestore
+    software-store
+    system-software
+    mintsources
+    x-system-software-sources
+    nutstore
+    cs-software-properties
+    ocsstore
+    software-sources
+    softwarecenter-debian
+    gnome-software
+    deepin-appstore
+    software-center
+    aptanastore
+    software-boutique
+    software
+    software-properties-gtk

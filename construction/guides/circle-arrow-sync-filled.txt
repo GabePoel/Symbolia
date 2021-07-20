@@ -1,0 +1,6 @@
+circle-arrow-sync-filled
+emblems
+    emblem-dropbox-syncing
+    emblem-insync-syncing
+    emblem-synchronizing
+    emblem-insync-syncing-shared

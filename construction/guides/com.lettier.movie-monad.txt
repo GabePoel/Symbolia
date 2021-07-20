@@ -1,5 +1,0 @@
-com.lettier.movie-monad
-apps
-    film
-    com.lettier.movie-monad
-    com.ozmartians.VidCutter

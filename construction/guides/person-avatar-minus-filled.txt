@@ -1,0 +1,3 @@
+person-avatar-minus-filled
+actions
+    list-remove-user

@@ -1,0 +1,3 @@
+file-text-transition-mixed
+actions
+    diff

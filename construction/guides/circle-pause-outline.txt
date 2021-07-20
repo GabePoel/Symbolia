@@ -1,0 +1,6 @@
+circle-pause-outline
+actions
+    pause-circle-idle
+status
+    insync-paused
+    state_paused

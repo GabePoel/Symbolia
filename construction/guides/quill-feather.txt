@@ -1,0 +1,20 @@
+quill-feather
+apps
+    ascii-design
+    affinity-designer
+    designer-qt4
+    C8D6_Designer.0
+    qt4-designer
+    qt5-designer
+    substance-designer
+    designer-qt5
+    appimagekit-gravit-designer
+    qt-designer
+    gravit-designer
+    designer-qt
+    designer
+    QtProject-designer
+    qtdesigner
+    designer5
+    io.designer.GravitDesigner
+    allegorithmic-Substance_Designer

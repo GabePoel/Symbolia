@@ -1,3 +1,0 @@
-applications-management
-apps
-    applications-management

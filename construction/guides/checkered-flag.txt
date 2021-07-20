@@ -1,3 +1,0 @@
-checkered-flag
-actions
-    checkered-flag

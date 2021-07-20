@@ -1,3 +1,0 @@
-xml-declaration
-actions
-    xml-declaration

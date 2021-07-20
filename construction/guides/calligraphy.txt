@@ -1,4 +1,0 @@
-calligraphy
-actions
-    draw-calligraphic
-    calligraphy

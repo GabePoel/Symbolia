@@ -1,0 +1,11 @@
+language-javascript
+mimetypes
+    gnome-mime-text-x-javascript
+    javascript
+    gnome-mime-application-x-javascript
+    gnome-mime-text-javascript
+    text-x-javascript
+    text-javascript
+    application-javascript
+    gnome-mime-application-javascript
+    application-x-javascript

@@ -1,0 +1,3 @@
+calendar-check-outline
+actions
+    view-pim-tasks-pending

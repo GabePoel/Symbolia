@@ -1,0 +1,6 @@
+logo-google-keep
+apps
+    google-keep
+mimetypes
+    gdnote
+    application-vnd.insync.link.drive.note

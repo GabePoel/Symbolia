@@ -1,0 +1,3 @@
+device-camera-arrow-switch
+devices
+    camera-toggle

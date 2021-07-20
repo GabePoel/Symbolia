@@ -1,9 +1,0 @@
-org.pwmt.zathura
-apps
-    org.zealdocs.Zeal
-    zen-icon
-    org.zim_wiki.Zim
-    zenkit
-    zathura
-    zim
-    org.pwmt.zathura

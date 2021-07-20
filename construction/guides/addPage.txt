@@ -1,5 +1,0 @@
-addPage
-actions
-    document-new
-    addPage
-    document-single

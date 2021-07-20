@@ -1,0 +1,8 @@
+arrow-big-sharp-down-right
+actions
+    characters-arrow
+    document-compareleft
+    ui-child
+apps
+    org.cznic.Datovka
+    characters-arrow

@@ -1,0 +1,4 @@
+language-c-plus-plus
+mimetypes
+    text-x-c++src
+    text-x-c++

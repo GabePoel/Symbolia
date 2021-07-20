@@ -1,0 +1,17 @@
+weather-moon-filled
+actions
+    bedtime-mode
+apps
+    sleep
+    gnome-panel-suspend
+    system-suspend
+    system-suspend-alt3
+    system-suspend-hibernate-alt3
+    gnome-session-suspend
+    system-suspend-hibernate-alt2
+    system-suspend-hibernate-alt1
+    xfpm-suspend
+    xfsm-suspend
+    system-suspend-alt2
+    system-suspend-hibernate
+    system-suspend-alt1

@@ -1,3 +1,0 @@
-user-group-properties
-actions
-    user-group-properties

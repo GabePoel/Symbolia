@@ -1,3 +1,0 @@
-nintendo-controller
-devices
-    nintendo-controller

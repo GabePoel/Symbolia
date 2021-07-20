@@ -1,6 +1,0 @@
-characters-emoji-food
-apps
-    emoji-food
-    characters-emoji-food
-categories
-    emoji-food

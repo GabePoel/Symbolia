@@ -1,0 +1,4 @@
+clipboard-vertical-arrows-outline
+actions
+    edit-paste-height
+    kdenlive-object-height

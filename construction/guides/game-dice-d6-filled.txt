@@ -1,0 +1,5 @@
+game-dice-d6-filled
+apps
+    applications-boardgames
+    org.gnome.Tali
+    org.gnome.tali

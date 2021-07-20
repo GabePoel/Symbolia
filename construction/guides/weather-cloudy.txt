@@ -1,3 +1,0 @@
-weather-cloudy
-status
-    weather-cloudy

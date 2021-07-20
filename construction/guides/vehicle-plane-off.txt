@@ -1,0 +1,5 @@
+vehicle-plane-off
+actions
+    no-flying
+status
+    airplane-mode-disabled

@@ -1,0 +1,41 @@
+map-globe
+actions
+    map-globe
+    kstars_hgrid
+apps
+    org.gnome.Web
+    epiphany-gecko
+    org.gnome.Epiphany
+    epiphany
+    com.github.cassidyjames.ephemeral
+    planetkde
+    gnome-web-browser
+    org.gabmus.whatip
+    com.mattermost.Desktop
+    gnome-web
+    com.github.jmlich.geotagging
+    epiphany-game
+    planetary-annihilation-titans
+    org.gnome.epiphany
+    epiphany-browser
+    epiphany-webkit
+    artikulate
+    atlas
+    epiphany-icon
+mimetypes
+    viewhtml
+    stock_new-html
+    text-xhtml+xml
+    html
+    gnome-mime-application-xhtml+xml
+    text-html_alt
+    www
+    gnome-mime-text-html
+    text-html
+    application-vnd.ms-htmlhelp
+    text-htmlh
+    application-x-khtml-adaptor
+    application-xhtml+xml
+    application-x-extension-html
+status
+    gfeeds-open-externally

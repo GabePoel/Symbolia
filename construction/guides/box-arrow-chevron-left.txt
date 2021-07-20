@@ -1,0 +1,3 @@
+box-arrow-chevron-left
+actions
+    window-previous

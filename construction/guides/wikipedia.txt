@@ -1,4 +1,0 @@
-wikipedia
-apps
-    wikipedia
-    com.github.hugolabe.Wike

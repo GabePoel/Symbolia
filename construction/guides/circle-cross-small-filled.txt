@@ -1,0 +1,3 @@
+circle-cross-small-filled
+actions
+    off

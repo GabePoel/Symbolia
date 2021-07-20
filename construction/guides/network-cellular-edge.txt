@@ -1,3 +1,0 @@
-network-cellular-edge
-status
-    network-cellular-edge

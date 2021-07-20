@@ -1,5 +1,0 @@
-applications-multimedia
-apps
-    applications-multimedia
-categories
-    applications-multimedia

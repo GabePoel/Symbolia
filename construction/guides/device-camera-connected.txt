@@ -1,0 +1,4 @@
+device-camera-connected
+devices
+    camera-web
+    cameras

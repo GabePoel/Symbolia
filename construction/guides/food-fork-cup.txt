@@ -1,0 +1,4 @@
+food-fork-cup
+apps
+    org.gnome.Recipes
+    org.gnome.recipes

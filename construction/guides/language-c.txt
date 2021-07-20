@@ -1,0 +1,4 @@
+language-c
+mimetypes
+    text-x-c
+    text-x-csrc

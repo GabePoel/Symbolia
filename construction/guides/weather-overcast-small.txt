@@ -1,4 +1,0 @@
-weather-overcast-small
-status
-    weather-overcast-small
-    weather-overcast

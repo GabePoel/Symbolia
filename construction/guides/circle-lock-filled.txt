@@ -1,0 +1,3 @@
+circle-lock-filled
+emblems
+    emblem-readonly

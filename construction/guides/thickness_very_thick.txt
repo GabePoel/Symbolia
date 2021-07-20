@@ -1,3 +1,0 @@
-thickness_very_thick
-actions
-    thickness_very_thick

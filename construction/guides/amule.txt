@@ -1,4 +1,0 @@
-amule
-apps
-    amule
-    amulegui

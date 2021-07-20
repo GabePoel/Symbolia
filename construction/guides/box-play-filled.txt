@@ -1,0 +1,43 @@
+box-play-filled
+actions
+    tools-rip-video-cd
+    kdenlive-show-videothumb
+apps
+    video-player
+    com.github.artemanufrij.playmyvideos
+    exmplayer
+    baka-mplayer
+    vmware-player
+    com.makemkv.MakeMKV
+    com.github.coslyk.MoonPlayer
+    plex
+    paromplayer
+    appimagekit-plexamp
+    playitslowly
+    plex-media-player
+    org.tordini.flavio.Minitube
+    ch.x29a.playitslowly
+    application-x-miamplayer
+    kubeplayer
+    vidcutter
+    lplayer
+    vmplayer
+    artemanufrij.playmyvideos
+    audoban.applet.playbar
+    media-player-banshee
+    org.phoenicis.playonlinux
+    kmplayer
+    plexhometheater
+    plexmediamanager
+    minitube
+    genymotion-player
+    mellowplayer
+    media-player-48
+    smplayer
+    playmyvideos
+    xplayer
+    org.gnome.Totem
+    mplayer
+    umplayer
+    plexamp
+    org.gnome.totem

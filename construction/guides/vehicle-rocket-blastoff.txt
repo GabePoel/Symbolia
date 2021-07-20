@@ -1,0 +1,9 @@
+vehicle-rocket-blastoff
+apps
+    kerbal-space-program
+    applications-aerospace
+    net.pioneerspacesim.Pioneer
+    start-here-korora
+    cs-startup-programs
+    kspaceduel
+    space.fips.Fips

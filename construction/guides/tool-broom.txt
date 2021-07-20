@@ -1,0 +1,10 @@
+tool-broom
+actions
+    timepp-clear
+    edit-clear-history
+apps
+    svgcleaner
+    accessories-system-cleaner
+    broom
+    computerjanitor
+    gcleaner

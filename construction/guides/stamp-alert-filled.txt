@@ -1,0 +1,13 @@
+stamp-alert-filled
+status
+    new
+apps
+    error-app
+    system-error
+    abrt-gui
+    urbanterror
+    script-error
+    uterror
+    abrt
+    gnome-abrt
+    org.freedesktop.GnomeAbrt

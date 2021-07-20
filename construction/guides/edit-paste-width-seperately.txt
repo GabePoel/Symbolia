@@ -1,3 +1,0 @@
-edit-paste-width-seperately
-actions
-    edit-paste-width-seperately

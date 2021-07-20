@@ -1,0 +1,3 @@
+person-body-walk-cane
+actions
+    blind

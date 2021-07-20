@@ -1,0 +1,5 @@
+tool-flat-lowered-outline
+apps
+    characters-emoji-flags
+categories
+    emoji-flags

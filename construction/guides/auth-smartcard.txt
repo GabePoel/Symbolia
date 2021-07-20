@@ -1,3 +1,0 @@
-auth-smartcard
-devices
-    auth-smartcard

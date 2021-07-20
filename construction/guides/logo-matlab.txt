@@ -1,0 +1,6 @@
+logo-matlab
+apps
+    matlab
+    matlab-desktop
+mimetypes
+    text-x-matlab

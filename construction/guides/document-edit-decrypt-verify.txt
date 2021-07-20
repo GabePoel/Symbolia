@@ -1,3 +1,0 @@
-document-edit-decrypt-verify
-actions
-    document-edit-decrypt-verify

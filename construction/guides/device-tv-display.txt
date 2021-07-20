@@ -1,0 +1,7 @@
+device-tv-display
+apps
+    drive-removable-media
+devices
+    drive-removable-media
+places
+    drive-removable-media

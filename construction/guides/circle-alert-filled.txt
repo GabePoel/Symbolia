@@ -1,0 +1,11 @@
+circle-alert-filled
+status
+    important
+    computer-fail
+    messagebox_warning
+    network-no-route
+emblems
+    emblem-danger
+actions
+    error
+    computer-fail

@@ -1,5 +1,0 @@
-drive-multidisk
-devices
-    drive-multidisk
-places
-    drive-multidisk

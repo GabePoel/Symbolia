@@ -1,3 +1,0 @@
-hulu
-apps
-    hulu

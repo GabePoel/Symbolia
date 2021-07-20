@@ -1,0 +1,3 @@
+weather-cloud-moon-filled
+status
+    weather-clouds-night

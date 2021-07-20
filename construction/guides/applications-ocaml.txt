@@ -1,7 +1,0 @@
-applications-ocaml
-apps
-    octave
-    qtoctave
-    applications-ocaml
-    org.octave.Octave
-    octavebackend

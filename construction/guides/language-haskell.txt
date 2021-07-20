@@ -1,0 +1,5 @@
+language-haskell
+apps
+    applications-haskell
+mimetypes
+    text-x-haskell

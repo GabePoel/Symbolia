@@ -1,3 +1,0 @@
-hb-account
-actions
-    hb-account

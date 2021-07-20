@@ -1,0 +1,4 @@
+weather-cloud-water-drop-outline
+status
+    weather-showers-scattered-small
+    weather-showers-scattered

@@ -1,3 +1,0 @@
-emblem-xapp-favorite
-emblems
-    emblem-xapp-favorite

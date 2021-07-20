@@ -1,3 +1,0 @@
-keyframe-remove
-actions
-    keyframe-remove

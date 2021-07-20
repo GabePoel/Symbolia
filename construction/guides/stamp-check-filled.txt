@@ -1,0 +1,6 @@
+stamp-check-filled
+actions
+    preflight-verifier
+    installed-check
+status
+    software-installed

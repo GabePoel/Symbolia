@@ -1,0 +1,5 @@
+food-candy-cane
+apps
+    org.gnome.lollypop
+    org.gnome.Lollypop
+    lollypop

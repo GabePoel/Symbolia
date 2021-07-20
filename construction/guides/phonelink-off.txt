@@ -1,3 +1,0 @@
-phonelink-off
-devices
-    phonelink-off

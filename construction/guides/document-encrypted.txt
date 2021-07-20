@@ -1,3 +1,0 @@
-document-encrypted
-actions
-    document-encrypted

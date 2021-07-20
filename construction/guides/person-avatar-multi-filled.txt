@@ -1,0 +1,5 @@
+person-avatar-multi-filled
+actions
+    meeting-attending-tentative
+    hb-payee
+    similarartists-amarok

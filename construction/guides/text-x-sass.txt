@@ -1,3 +1,0 @@
-text-x-sass
-mimetypes
-    text-x-sass

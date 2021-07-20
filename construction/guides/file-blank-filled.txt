@@ -1,3 +1,12 @@
 file-blank-filled
 apps
+    preferences-desktop-filetype-association
     filebot
+devices
+    drive-harddisk-solidstate
+    insert_drive_file
+    ups
+places
+    drive-harddisk-solidstate
+actions
+    labplot-worksheet

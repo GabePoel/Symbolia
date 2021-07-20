@@ -1,0 +1,4 @@
+language-hdr
+mimetypes
+    text-x-chdr
+    text-x-objchdr

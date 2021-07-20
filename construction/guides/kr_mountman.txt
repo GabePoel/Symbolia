@@ -1,7 +1,0 @@
-kr_mountman
-actions
-    kr_mountman
-apps
-    com.gitlab.adnan338.Nixwriter
-devices
-    usb-stick

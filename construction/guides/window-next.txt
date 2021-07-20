@@ -1,3 +1,0 @@
-window-next
-actions
-    window-next

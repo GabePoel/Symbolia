@@ -1,0 +1,3 @@
+person-avatar-minus-multi-filled
+actions
+    user-group-delete

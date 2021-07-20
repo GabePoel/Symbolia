@@ -1,0 +1,3 @@
+weather-cloud-snow-water-drop-outline
+status
+    weather-snow-rain

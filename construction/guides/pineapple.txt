@@ -1,5 +1,0 @@
-pineapple
-actions
-    pineapple
-apps
-    fr.handbrake.ghb

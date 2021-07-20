@@ -1,3 +1,0 @@
-preferences-system-devices
-apps
-    preferences-system-devices

@@ -1,3 +1,0 @@
-user-group-delete
-actions
-    user-group-delete

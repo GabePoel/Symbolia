@@ -1,3 +1,0 @@
-compass-outline
-actions
-    compass-alt

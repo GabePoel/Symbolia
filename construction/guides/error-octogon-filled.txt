@@ -1,3 +1,0 @@
-error-octogon-filled
-apps
-    com.github.plugarut.pwned-checker

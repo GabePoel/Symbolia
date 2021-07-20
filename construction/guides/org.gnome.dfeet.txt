@@ -1,3 +1,0 @@
-org.gnome.dfeet
-apps
-    org.gnome.dfeet

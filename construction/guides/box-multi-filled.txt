@@ -1,0 +1,3 @@
+box-multi-filled
+actions
+    xml-node-duplicate

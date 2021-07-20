@@ -1,3 +1,0 @@
-weather-clouds-night
-status
-    weather-clouds-night

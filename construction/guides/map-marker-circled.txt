@@ -1,0 +1,15 @@
+map-marker-circled
+apps
+    gdmap_icon
+    kgeography
+    sgt-map
+    io.github.rinigus.PureMaps
+    maps
+    org.openstreetmap.josm
+    org.gnome.maps
+    org.kde.kgeography
+    maps-app
+    mappa
+    org.gnome.Maps
+    harbour-pure-maps
+    gnome-maps

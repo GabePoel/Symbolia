@@ -1,4 +1,0 @@
-microsoft-office
-apps
-    microsoft-office
-    ms-office

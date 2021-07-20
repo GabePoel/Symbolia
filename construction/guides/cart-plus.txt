@@ -1,3 +1,0 @@
-cart-plus
-actions
-    amarok_cart_add

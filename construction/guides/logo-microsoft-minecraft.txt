@@ -1,0 +1,7 @@
+logo-microsoft-minecraft
+apps
+    com.mojang.Minecraft
+    minecraft-launcher
+    minecraft
+    mc
+    io.mrarm.mcpelauncher

@@ -1,0 +1,3 @@
+clipboard-outline-off
+actions
+    font-disable

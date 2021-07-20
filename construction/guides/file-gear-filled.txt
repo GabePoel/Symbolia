@@ -1,0 +1,4 @@
+file-gear-filled
+actions
+    hb-ope-convert
+    gnumeric-pagesetup-hf-page

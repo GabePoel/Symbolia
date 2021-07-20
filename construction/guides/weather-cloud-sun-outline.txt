@@ -1,0 +1,7 @@
+weather-cloud-sun-outline
+status
+    weather-few-clouds-small
+    weather-few-clouds
+actions
+    few-clouds
+    scattered-clouds

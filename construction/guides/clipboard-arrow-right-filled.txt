@@ -1,0 +1,3 @@
+clipboard-arrow-right-filled
+actions
+    edit-paste-width-seperately

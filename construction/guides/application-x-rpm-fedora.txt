@@ -1,3 +1,0 @@
-application-x-rpm-fedora
-mimetypes
-    application-x-rpm-fedora

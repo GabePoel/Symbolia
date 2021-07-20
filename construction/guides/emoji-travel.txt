@@ -1,5 +1,0 @@
-emoji-travel
-apps
-    emoji-travel
-categories
-    emoji-travel

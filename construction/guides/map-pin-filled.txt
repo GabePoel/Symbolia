@@ -1,0 +1,3 @@
+map-pin-filled
+actions
+    pin-location

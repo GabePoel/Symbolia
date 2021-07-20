@@ -1,0 +1,15 @@
+star-outline
+actions
+    draw-star-outline
+    star-outline-thick
+    star-regular
+    star-outline
+    starred
+    xapp-unfavorite
+    star-outline-thin
+apps
+    starred
+status
+    feed-non-starred
+    feed-unmarked
+    starred

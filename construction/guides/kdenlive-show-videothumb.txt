@@ -1,5 +1,0 @@
-kdenlive-show-videothumb
-actions
-    kdenlive-show-videothumb
-apps
-    org.gnome.totem

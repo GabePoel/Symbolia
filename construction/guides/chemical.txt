@@ -1,4 +1,0 @@
-chemical
-actions
-    test
-    chemical

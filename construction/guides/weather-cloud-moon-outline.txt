@@ -1,0 +1,6 @@
+weather-cloud-moon-outline
+status
+    weather-few-clouds-night-small
+    weather-few-clouds-night
+actions
+    few-clouds-night

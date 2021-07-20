@@ -1,8 +1,0 @@
-checkbox
-actions
-    checkbox-unchecked
-    object-play
-    color-picker-white
-    checkbox
-apps
-    checkbox

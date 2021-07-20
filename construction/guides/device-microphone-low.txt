@@ -1,0 +1,4 @@
+device-microphone-low
+status
+    audio-input-microphone-low
+    microphone-sensitivity-low

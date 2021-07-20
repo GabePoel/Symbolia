@@ -1,0 +1,5 @@
+logo-google-hangouts
+apps
+    google-hangouts
+actions
+    im-google-talk

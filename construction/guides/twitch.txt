@@ -1,6 +1,0 @@
-twitch
-apps
-    streamlink-twitch-gui
-    com.vinszent.GnomeTwitch
-    gnome-twitch
-    twitch

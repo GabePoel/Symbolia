@@ -1,0 +1,4 @@
+page-scan-horizontal-outline
+actions
+    slice
+    insert-page-break

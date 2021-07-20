@@ -1,0 +1,5 @@
+animal-unicorn
+apps
+    anjuta_icon
+    anjuta
+    anjuta6

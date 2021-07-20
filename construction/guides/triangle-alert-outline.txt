@@ -1,0 +1,5 @@
+triangle-alert-outline
+actions
+    messagebox_warning
+status
+    dialog-warning

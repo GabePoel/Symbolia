@@ -1,0 +1,3 @@
+circle-person-avatar-multi-filled
+emblems
+    emblem-people

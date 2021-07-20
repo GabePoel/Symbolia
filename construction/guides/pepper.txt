@@ -1,3 +1,0 @@
-pepper
-actions
-    pepper

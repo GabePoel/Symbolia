@@ -1,0 +1,9 @@
+tool-telescope
+actions
+    kstars_ekos
+apps
+    applications-astronomy
+    stellarium
+    org.kde.kstars
+    kstars
+    org.stellarium.Stellarium

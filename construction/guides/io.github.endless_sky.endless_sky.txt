@@ -1,6 +1,0 @@
-io.github.endless_sky.endless_sky
-apps
-    io.github.endless_sky.endless_sky
-    org.gnome.HexGL
-status
-    best

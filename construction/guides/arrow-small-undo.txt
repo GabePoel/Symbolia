@@ -1,0 +1,7 @@
+arrow-small-undo
+actions
+    edit-undo
+    edit-redo-symbolic-rtl
+    edit-redo-rtl
+    gtk-undelete-ltr
+    step-back

@@ -1,4 +1,0 @@
-akregator
-apps
-    liferea
-    akregator

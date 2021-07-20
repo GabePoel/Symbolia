@@ -1,4 +1,0 @@
-application-x-yaml
-mimetypes
-    text-x-ocaml
-    application-x-yaml

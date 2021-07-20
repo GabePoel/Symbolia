@@ -1,7 +1,0 @@
-applications-php
-apps
-    applications-php
-    phpstorm
-    php
-    com.github.bartzaalberg.php-tester
-    phpmyadmin

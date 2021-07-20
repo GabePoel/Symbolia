@@ -1,4 +1,0 @@
-bottle
-apps
-    com.github.mirkobrombin.bottles
-    com.usebottles.bottles

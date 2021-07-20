@@ -1,6 +1,0 @@
-distributor-logo-elementary-os
-apps
-    elementary
-    distributor-logo-elementary-os
-    distributor-logo-elementary
-    elementary-os

@@ -1,4 +1,0 @@
-mail-signature-unknown
-actions
-    mail-signature-unknown
-    mail-signed-part

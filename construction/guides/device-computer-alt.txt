@@ -1,0 +1,5 @@
+device-computer-alt
+places
+    drive-harddisk-system
+    drive-harddisk
+    dns

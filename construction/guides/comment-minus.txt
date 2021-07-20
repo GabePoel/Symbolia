@@ -1,0 +1,3 @@
+comment-minus
+actions
+    gnumeric-comment-delete

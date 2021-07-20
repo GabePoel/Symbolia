@@ -1,3 +1,0 @@
-text-x-c++src
-mimetypes
-    text-x-c++src

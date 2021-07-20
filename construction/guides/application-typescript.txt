@@ -1,5 +1,0 @@
-application-typescript
-mimetypes
-    text-x-typescript
-    application-x-typescript
-    application-typescript

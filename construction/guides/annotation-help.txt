@@ -1,3 +1,0 @@
-annotation-help
-actions
-    annotation-help

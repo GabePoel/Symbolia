@@ -1,0 +1,3 @@
+clipboard-vertical-arrows-filled
+actions
+    edit-paste-height-separately

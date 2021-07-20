@@ -1,0 +1,5 @@
+comment-plus
+actions
+    annotation-insert
+    message-new
+    gnumeric-comment-add

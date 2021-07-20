@@ -1,0 +1,3 @@
+weather-cloud-sun-filled
+status
+    weather-clouds

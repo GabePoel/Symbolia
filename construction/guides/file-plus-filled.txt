@@ -1,0 +1,7 @@
+file-plus-filled
+actions
+    hb-ope-add
+    labplot-worksheet-new
+    addPage
+    document-single
+    document-new

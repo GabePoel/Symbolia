@@ -1,6 +1,0 @@
-kalzium_rs
-actions
-    kalzium_rs
-apps
-    kalzium
-    org.kde.kalzium

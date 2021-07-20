@@ -1,5 +1,0 @@
-router
-actions
-    router
-devices
-    modem

@@ -1,0 +1,38 @@
+office-writer
+apps
+    libreofficedev6.0-writer
+    openoffice4-draw
+    ms-word
+    libreofficedev6.1-writer
+    libreoffice-writer
+    libreoffice34-writer
+    libreoffice3-writer
+    libreoffice5.0-writer
+    org.libreoffice.LibreOffice-writer
+    libreoffice4.2-writer
+    libreoffice5.1-writer
+    microsoft-word
+    libreoffice5.2-writer
+    io.gitlab.o20.word
+    libreoffice5.3-writer
+    libreoffice6.0-writer
+    libreoffice5.4-writer
+    openoffice4-writer
+mimetypes
+    application-wps-office.dot
+    gnome-mime-application-msword
+    application-vnd.ms-word.document.macroenabled.12
+    application-wps-office.dotx
+    application-msword-template
+    wps-office-doc
+    application-vnd.ms-word.document.macroEnabled.12
+    application-word
+    wps-office-dot
+    application-wps-office.docx
+    application-msword
+    application-wps-office.wps
+    application-vnd.ms-word.template.macroenabled.12
+    application-wps-office.doc
+    application-vnd.ms-word
+    wps-office-wps
+    wps-office-wpt

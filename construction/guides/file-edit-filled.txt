@@ -1,0 +1,4 @@
+file-edit-filled
+actions
+    hb-ope-edit
+    document-edit-sign

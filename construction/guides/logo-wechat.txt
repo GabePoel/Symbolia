@@ -1,0 +1,5 @@
+logo-wechat
+apps
+    app.lith.Lith
+    weechat
+    wechat

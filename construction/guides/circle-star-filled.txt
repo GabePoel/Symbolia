@@ -1,0 +1,3 @@
+circle-star-filled
+emblems
+    emblem-favorite

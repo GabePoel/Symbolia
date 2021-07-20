@@ -1,3 +1,0 @@
-application-x-backpack
-mimetypes
-    application-x-backpack

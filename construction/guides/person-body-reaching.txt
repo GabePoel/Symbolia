@@ -1,0 +1,9 @@
+person-body-reaching
+apps
+    ax-applet
+    accessibility_section
+    mate-ax-applet
+    accessibility-directory
+    accessibility
+    access
+    gnome-settings-accessibility-keyboard

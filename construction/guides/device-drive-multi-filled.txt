@@ -1,0 +1,16 @@
+device-drive-multi-filled
+apps
+    com.borgbase.Vorta
+    org.gabmus.unifydmin
+devices
+    drive-harddisk-ieee1394
+    dns
+    drive-harddisk
+    raid
+    drive-harddisk-system
+places
+    drive-harddisk-system-alt
+    drive-harddisk-alt
+    dns-alt
+status
+    feed-server

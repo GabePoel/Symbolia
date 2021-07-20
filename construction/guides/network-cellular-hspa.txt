@@ -1,3 +1,0 @@
-network-cellular-hspa
-status
-    network-cellular-hspa

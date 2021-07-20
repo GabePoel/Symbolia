@@ -1,0 +1,3 @@
+logo-yahoo
+actions
+    im-yahoo

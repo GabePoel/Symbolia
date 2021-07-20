@@ -1,4 +1,0 @@
-object-tweak-duplicate
-actions
-    out-of-gamut-icon
-    object-tweak-duplicate

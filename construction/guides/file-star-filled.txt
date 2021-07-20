@@ -1,0 +1,6 @@
+file-star-filled
+actions
+    hb-document-new
+    document-new-from-template
+    hb-ope-new
+    project-development-new-template

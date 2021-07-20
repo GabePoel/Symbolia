@@ -1,3 +1,0 @@
-electric-car
-devices
-    electric-car

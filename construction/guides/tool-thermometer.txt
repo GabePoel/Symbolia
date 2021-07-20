@@ -1,0 +1,11 @@
+tool-thermometer
+apps
+    xfce-sensors
+    psensor
+    mate-sensors-applet
+    indicator-sensors
+status
+    nvidia-temp
+    sensors-temperature
+    freon-temperature
+    temperature

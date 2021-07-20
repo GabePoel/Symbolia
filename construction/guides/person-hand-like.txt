@@ -1,0 +1,3 @@
+person-hand-like
+categories
+    emoji-body

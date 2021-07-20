@@ -1,3 +1,4 @@
 file-multi-filled
 actions
     file-multiple
+    edit-group

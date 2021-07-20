@@ -1,0 +1,11 @@
+logo-linux-mint
+apps
+    mintwelcome
+    mint-dev-settings
+    mintsources-mint
+    distributor-logo-mint
+    distributor-logo-linux-mint
+    linux-mint
+mimetypes
+    application-x-desktop-linuxmint
+    application-x-deb-linuxmint

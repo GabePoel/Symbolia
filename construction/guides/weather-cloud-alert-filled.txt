@@ -1,0 +1,6 @@
+weather-cloud-alert-filled
+actions
+    weather-alert
+status
+    weather-severe-alert-small
+    weather-severe-alert

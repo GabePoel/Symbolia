@@ -1,0 +1,7 @@
+logo-microsoft-skype
+actions
+    im-skype
+apps
+    skypeforlinux
+    com.skype.Client
+    skype

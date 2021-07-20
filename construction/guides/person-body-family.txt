@@ -1,0 +1,6 @@
+person-body-family
+actions
+    parent
+apps
+    preferences-system-parental-control
+    preferences-system-parental-controls

@@ -1,0 +1,16 @@
+logo-amazon
+apps
+    Amazon-www.amazon.it
+    Amazon-www.amazon.co.uk
+    Amazon-www.amazon.com
+    amazon
+    amazonmp3
+    amazonclouddrive
+    Amazon-www.amazon.es
+    Amazon-www.amazon.cn
+    audible
+    Amazon-www.amazon.fr
+    amazon-store
+    Amazon-www.amazon.ca
+    amazon-mp3-store-source
+    Amazon-www.amazon.de

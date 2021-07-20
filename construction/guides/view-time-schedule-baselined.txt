@@ -1,3 +1,0 @@
-view-time-schedule-baselined
-actions
-    view-time-schedule-baselined

@@ -1,3 +1,0 @@
-network-cellular-umts
-status
-    network-cellular-umts

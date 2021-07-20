@@ -1,7 +1,0 @@
-facebook
-apps
-    facebook-facebook.com
-    facebook
-    goa-account-facebook
-    unity-webapps-facebook
-    facebookresource

@@ -1,6 +1,0 @@
-acrobat
-actions
-    acrobat
-    dvipdf
-    pdflatex
-    ps2pdf

@@ -1,0 +1,9 @@
+alpha-z-outline
+apps
+    org.zealdocs.Zeal
+    org.pwmt.zathura
+    zathura
+    zim
+    zen-icon
+    org.zim_wiki.Zim
+    zenkit

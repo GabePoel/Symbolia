@@ -1,3 +1,0 @@
-keyboard-show-filled
-actions
-    keyboard-extend

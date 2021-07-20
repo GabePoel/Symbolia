@@ -1,3 +1,0 @@
-xbox-controller
-devices
-    xbox-controller

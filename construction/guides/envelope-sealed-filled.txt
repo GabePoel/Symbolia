@@ -1,0 +1,3 @@
+envelope-sealed-filled
+apps
+    mail

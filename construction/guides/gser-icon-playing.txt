@@ -1,3 +1,0 @@
-gser-icon-playing
-status
-    gser-icon-playing

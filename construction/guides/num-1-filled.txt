@@ -1,5 +1,8 @@
 num-1-filled
 actions
     labplot-1x-zoom
+    zoom-half-size
+apps
+    zoom-half-size
 status
     numlock-enabled

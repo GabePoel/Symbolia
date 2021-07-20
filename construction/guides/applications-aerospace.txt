@@ -1,9 +1,0 @@
-applications-aerospace
-apps
-    kspaceduel
-    kerbal-space-program
-    net.pioneerspacesim.Pioneer
-    applications-aerospace
-    cs-startup-programs
-    space.fips.Fips
-    start-here-korora

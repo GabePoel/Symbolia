@@ -1,6 +1,9 @@
 vehicle-bus
 apps
-    route-transit-bus
     route-transit
+    characters-emoji-travel
+    route-transit-bus
 status
+    bus
+actions
     bus

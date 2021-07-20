@@ -1,3 +1,0 @@
-gnc-invoice-post
-actions
-    gnc-invoice-post

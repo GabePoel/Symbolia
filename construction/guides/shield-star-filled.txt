@@ -1,0 +1,3 @@
+shield-star-filled
+status
+    arch-updates

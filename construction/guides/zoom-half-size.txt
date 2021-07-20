@@ -1,5 +1,0 @@
-zoom-half-size
-actions
-    zoom-half-size
-apps
-    zoom-half-size

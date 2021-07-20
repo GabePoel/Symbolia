@@ -1,7 +1,0 @@
-edit-redo-rtl
-actions
-    edit-redo-rtl
-    edit-redo-symbolic-rtl
-    edit-undo
-    step-back
-    gtk-undelete-ltr

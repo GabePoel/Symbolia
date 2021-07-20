@@ -1,8 +1,0 @@
-application-vnd.wolfram.mathematica.package
-mimetypes
-    application-vnd.wolfram.mathematica.package
-    gnome-mime-application-vnd.wolfram.wl
-    gnome-mime-application-vnd.wolfram.wls
-    application-vnd.wolfram.wl
-    gnome-mime-application-vnd.wolfram.mathematica.package
-    application-vnd.wolfram.wls

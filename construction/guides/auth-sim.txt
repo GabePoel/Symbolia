@@ -1,4 +1,0 @@
-auth-sim
-devices
-    auth-sim
-    sim

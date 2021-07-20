@@ -1,0 +1,6 @@
+food-tea-cup
+apps
+    characters-emoji-food
+    emoji-food
+categories
+    emoji-food

@@ -1,4 +1,0 @@
-document-swap
-actions
-    document-swap
-    hb-ope-similar

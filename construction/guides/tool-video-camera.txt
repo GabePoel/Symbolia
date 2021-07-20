@@ -1,0 +1,18 @@
+tool-video-camera
+apps
+    recordmydesktop
+    Zoom
+    record-desktop
+    jblue
+    simplescreenrecorder
+    bluej
+    deepin-screen-recorder
+    bluejeans
+    com.bluejeans.BlueJeans
+    io.github.seadve.Kooha
+    zoom-icon
+    alexandra
+    us.zoom.Zoom
+    zoom-desktop
+devices
+    video-camera

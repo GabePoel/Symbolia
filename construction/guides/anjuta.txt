@@ -1,5 +1,0 @@
-anjuta
-apps
-    anjuta_icon
-    anjuta6
-    anjuta

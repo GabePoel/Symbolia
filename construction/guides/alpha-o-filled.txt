@@ -1,0 +1,7 @@
+alpha-o-filled
+apps
+    qtoctave
+    org.octave.Octave
+    octave
+    applications-ocaml
+    octavebackend

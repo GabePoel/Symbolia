@@ -1,0 +1,4 @@
+tool-piano
+apps
+    com.gitlab.azymohliad.Qwertone
+    org.kde.minuet

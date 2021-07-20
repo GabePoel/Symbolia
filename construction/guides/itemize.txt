@@ -1,3 +1,0 @@
-itemize
-actions
-    itemize

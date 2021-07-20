@@ -1,0 +1,3 @@
+device-ac-plug
+devices
+    ac-adapter

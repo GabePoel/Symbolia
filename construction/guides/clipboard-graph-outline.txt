@@ -1,0 +1,3 @@
+clipboard-graph-outline
+actions
+    edit-paste-style

@@ -1,3 +1,0 @@
-wheelchair-limited
-actions
-    wheelchair-limited

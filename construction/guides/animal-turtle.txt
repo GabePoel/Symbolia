@@ -1,0 +1,11 @@
+animal-turtle
+actions
+    turtle-grey
+    turtle
+    blue-turtle
+    turtle-blue
+apps
+    kturtle
+    org.laptop.TurtleArtActivity
+    io.github.wereturtle.ghostwriter
+    turtleart

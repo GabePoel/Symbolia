@@ -1,0 +1,3 @@
+circle-check-multi-outline
+actions
+    irc-channel-active

@@ -1,3 +1,0 @@
-gnc-invoice-pay
-actions
-    gnc-invoice-pay

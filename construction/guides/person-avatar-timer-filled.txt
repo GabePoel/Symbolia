@@ -1,0 +1,3 @@
+person-avatar-timer-filled
+actions
+    meeting-participant-no-response

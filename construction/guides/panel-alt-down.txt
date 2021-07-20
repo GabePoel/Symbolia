@@ -1,0 +1,13 @@
+panel-alt-down
+actions
+    tilix-add-vertical
+    dock-bottom
+    dashboard-show
+apps
+    latte-dock
+    dockstation
+    dockbarx
+    docky
+    plank
+    cairo-dock
+    appimagekit-dockstation

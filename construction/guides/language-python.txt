@@ -1,0 +1,41 @@
+language-python
+apps
+    pycharm-professional
+    pyzologo
+    com.inventwithpython.flippy
+    ipython
+    pycad
+    python3.0
+    pycharmedu
+    pymol
+    bpython
+    com.jetbrains.PyCharm-Professional
+    python
+    pyrenamer
+    pycharm
+    com.jetbrains.PyCharm-Community
+    python3.2
+    python2.7
+    pythonbackend
+    python3.4
+    com.jetbrains.PyCharm
+    python3
+    pynvim
+    applications-python
+    python3.3
+    pycharm-community
+    python3.6
+    ipython3
+    python3.5
+    pyRenamer
+    pycharm-education
+    python2.6
+    python3.1
+mimetypes
+    application-x-ipynb+json
+    application-x-python-bytecode
+    gnome-mime-text-x-python
+    text-x-python3
+    gnome-mime-application-x-python-bytecode
+    text-x-python
+    text-x-ipynb

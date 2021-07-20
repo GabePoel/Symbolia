@@ -1,0 +1,3 @@
+file-lock-outline
+actions
+    document-edit-encrypt

@@ -1,4 +1,0 @@
-irc-channel-inactive
-actions
-    irc-remove-operator
-    irc-channel-inactive

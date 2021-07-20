@@ -1,3 +1,0 @@
-emblem-dropbox-infinite
-emblems
-    emblem-dropbox-infinite

@@ -1,0 +1,32 @@
+logo-microsoft-alt
+apps
+    applet_lockkeys
+    bottles_wine
+    key_bindings
+    wine-uninstaller
+    winemine
+    bottles_wine-winecfg
+    q4wine
+    winefile
+    winepak
+    wine-help
+    bottles_wine-uninstaller
+    bottles_winetricks
+    cs-keyboard
+    wine-winecfg
+    yast-keyboard
+    wine-file.0
+    winecfg
+    key-mon
+    wine
+    winetricks
+    7765_winebrowser.0
+    winhelp
+mimetypes
+    application-x-msi
+    application-x-mswinurl
+    application-x-ms-dos-executable
+    application-x-ms-shortcut
+    application-x-msdos-program
+    application-x-ms-wim
+    application-x-msdownload

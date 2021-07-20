@@ -1,3 +1,61 @@
 key
 places
     folder-private
+apps
+    keeweb
+    dialog-password
+    empass
+    cryptomator
+    mintsources-keys
+    keepass
+    truecrypt
+    com.github.bharatkalluri.easypass
+    seafile-client
+    passwords
+    almanah
+    easypass
+    gpa
+    stock_keyring
+    ssh-askpass-gnome
+    seafile-client-qt5
+    seafile
+    keymon
+    gcr-key
+    appimagekit-org.keepassxc.KeePassXC
+    keep
+    gnome-quadrapassel
+    password
+    keepassx
+    org.keepassxc.KeePassXC
+    org.gnome.Passwords
+    preferences-desktop-cryptography
+    password-manager
+    gnome-twofactorauth
+    com.bixense.PasswordCalculator
+    passwords-app
+    keepass2
+    keepassx2
+    keybase
+    seahorse-preferences
+    keyring-manager
+    enpass
+    keepassxc
+    plasmavault
+    cs-privacy
+    com.gitlab.guillermop.MasterKey
+    preferences-desktop-user-password
+    seahorse
+    qtpass-icon
+    tron
+    quadrapassel
+devices
+    key
+mimetypes
+    encrypted-key
+    application-x-keepassxc
+    application-x-keepass2
+    preferences-desktop-cryptography
+    application-x-keepass
+    application-x-keepassx
+status
+    dialog-password

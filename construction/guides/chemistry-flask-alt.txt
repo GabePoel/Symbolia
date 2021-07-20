@@ -1,0 +1,12 @@
+chemistry-flask-alt
+apps
+    applications-chemistry
+    substance-alchemist
+    applications-sciences
+    allegorithmic-Substance_Alchemist
+    alchemy
+    org.guerinoni.qTsConverter
+    fluid
+    applications-science
+categories
+    applications-science

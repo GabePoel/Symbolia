@@ -1,3 +1,0 @@
-view-pim-tasks-pending
-actions
-    view-pim-tasks-pending

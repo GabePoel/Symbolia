@@ -1,3 +1,0 @@
-kstars_constellationart
-actions
-    kstars_constellationart

@@ -1,0 +1,9 @@
+logo-linux-manjaro
+apps
+    manjaro-architect
+    manjaro-welcome
+    distributor-logo-manjaro
+    manjaro-settings-manager
+    manjaro-documentation
+    manjaro
+    distributor-logo-antergos

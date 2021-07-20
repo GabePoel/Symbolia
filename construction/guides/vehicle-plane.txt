@@ -1,14 +1,16 @@
 vehicle-plane
 apps
-    betaflight-configurator
-    de.akaflieg_freiburg.enroute
-    flightgear
-    betaflight
-    io.github.betaflight.BetaflightConfigurator
-    bomber
-    freeplane
     org.flightgear.FlightGear
-    route-transit-airplane
+    betaflight-configurator
+    flightgear
     org.kosmospredanie.Yakblt
+    bomber
+    de.akaflieg_freiburg.enroute
+    io.github.betaflight.BetaflightConfigurator
+    freeplane
+    route-transit-airplane
+    betaflight
 actions
     flying
+status
+    airplane-mode

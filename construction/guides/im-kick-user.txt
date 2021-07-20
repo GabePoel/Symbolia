@@ -1,3 +1,0 @@
-im-kick-user
-actions
-    im-kick-user

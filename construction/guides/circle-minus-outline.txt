@@ -1,0 +1,5 @@
+circle-minus-outline
+actions
+    radio-mixed
+    keyframe-remove
+    node-delete-segment

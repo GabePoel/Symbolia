@@ -1,3 +1,0 @@
-phone-up-right-arrow-out
-status
-    call-outgoing

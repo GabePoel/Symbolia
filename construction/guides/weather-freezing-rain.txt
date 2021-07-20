@@ -1,3 +1,0 @@
-weather-freezing-rain
-status
-    weather-freezing-rain

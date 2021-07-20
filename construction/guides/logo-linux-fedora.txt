@@ -1,0 +1,12 @@
+logo-linux-fedora
+mimetypes
+    application-x-rpm-fedora
+apps
+    anaconda
+    dnfdragora
+    fedora-release-notes
+    fedorasettings
+    org.fedoraproject.AnacondaInstaller
+    distributor-logo-fedora
+    org.fedoraproject.MediaWriter
+    fedora

@@ -1,0 +1,3 @@
+circle-node-join-outline
+actions
+    node-join-segment

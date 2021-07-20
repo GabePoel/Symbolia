@@ -1,4 +1,0 @@
-weather-showers-scattered-small
-status
-    weather-showers-scattered
-    weather-showers-scattered-small

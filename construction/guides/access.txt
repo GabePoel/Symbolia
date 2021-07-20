@@ -1,9 +1,0 @@
-access
-apps
-    mate-ax-applet
-    accessibility_section
-    access
-    ax-applet
-    accessibility-directory
-    gnome-settings-accessibility-keyboard
-    accessibility

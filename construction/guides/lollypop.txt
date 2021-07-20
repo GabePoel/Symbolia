@@ -1,5 +1,0 @@
-lollypop
-apps
-    lollypop
-    org.gnome.Lollypop
-    org.gnome.lollypop

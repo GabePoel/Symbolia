@@ -1,0 +1,3 @@
+file-minus-filled
+actions
+    delPage

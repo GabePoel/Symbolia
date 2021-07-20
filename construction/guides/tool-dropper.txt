@@ -1,0 +1,25 @@
+tool-dropper
+actions
+    colorize
+    paper-color
+    format-text-color
+    color
+    pipette
+    color-select
+apps
+    mate-color-manager
+    kcolorchooser
+    colorpicker
+    cs-color
+    colorhug
+    gcolor2
+    deepin-picker
+    colour
+    nl.hjdskes.gcolor3
+    colorgrab
+    gcolor
+    appimagekit-colorpicker
+    gcolor3
+    pick-colour-picker
+    colorhug-refresh
+    com.github.ronnydo.colorpicker

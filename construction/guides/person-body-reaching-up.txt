@@ -1,0 +1,5 @@
+person-body-reaching-up
+apps
+    preferences-desktop-accessibility
+categories
+    preferences-desktop-accessibility

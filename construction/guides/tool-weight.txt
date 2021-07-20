@@ -1,0 +1,6 @@
+tool-weight
+apps
+    emoji-activities
+    characters-emoji-activities
+categories
+    emoji-activities

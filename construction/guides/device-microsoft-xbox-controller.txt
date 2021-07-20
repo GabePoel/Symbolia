@@ -1,0 +1,3 @@
+device-microsoft-xbox-controller
+devices
+    xbox-controller

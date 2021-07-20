@@ -1,0 +1,4 @@
+tool-blender
+actions
+    feComposite-icon
+    feBlend-icon

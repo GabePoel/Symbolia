@@ -1,0 +1,4 @@
+logo-microsoft-visual-studio
+apps
+    microsoft-visual-studio
+    ms-visual-studio

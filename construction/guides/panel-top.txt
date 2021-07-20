@@ -1,0 +1,3 @@
+panel-top
+actions
+    view-top-pane

@@ -1,0 +1,8 @@
+device-tv
+apps
+    alevt
+    arteFetcher
+    television
+    application-vidiot
+devices
+    tv

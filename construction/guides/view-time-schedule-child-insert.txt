@@ -1,3 +1,0 @@
-view-time-schedule-child-insert
-actions
-    view-time-schedule-child-insert

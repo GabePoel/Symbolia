@@ -1,0 +1,3 @@
+file-plus-outline
+actions
+    gnc-invoice-new

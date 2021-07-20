@@ -1,0 +1,6 @@
+animal-bee-flower
+apps
+    emoji-nature
+    characters-emoji-animals
+categories
+    emoji-nature

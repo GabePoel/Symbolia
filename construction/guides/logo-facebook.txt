@@ -1,0 +1,10 @@
+logo-facebook
+actions
+    online-account-facebook
+    im-facebook
+apps
+    facebook
+    facebook-facebook.com
+    facebookresource
+    goa-account-facebook
+    unity-webapps-facebook

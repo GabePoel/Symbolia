@@ -1,3 +1,0 @@
-document-compareleft
-actions
-    document-compareleft

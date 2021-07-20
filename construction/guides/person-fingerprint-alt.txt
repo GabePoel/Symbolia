@@ -1,0 +1,19 @@
+person-fingerprint-alt
+actions
+    fingerprint-authentication
+apps
+    preferences-desktop-keyboard-shortcuts
+    libinput-gestures
+    com.github.harisvsulaiman.pushy
+    com.github.unrud.RemoteTouchpad
+    input-touchpad
+    ktouch
+    com.github.joseexposito.touche
+    touchpad-indicator
+devices
+    fingerprint
+    input-touchpad
+    auth-fingerprint
+status
+    touchpad-enabled
+    notification-input-touchpad

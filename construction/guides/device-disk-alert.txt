@@ -1,0 +1,6 @@
+device-disk-alert
+devices
+    drive-cdrom
+    drive-optical
+places
+    drive-optical

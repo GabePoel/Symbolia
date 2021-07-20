@@ -1,4 +1,0 @@
-org.gnome.Recipes
-apps
-    org.gnome.recipes
-    org.gnome.Recipes

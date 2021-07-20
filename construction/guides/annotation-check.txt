@@ -1,3 +1,0 @@
-annotation-check
-actions
-    annotation-check

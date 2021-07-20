@@ -1,3 +1,0 @@
-text-x-go
-mimetypes
-    text-x-go

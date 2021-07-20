@@ -1,3 +1,0 @@
-input-mouse-click-right
-actions
-    input-mouse-click-right

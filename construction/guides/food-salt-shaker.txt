@@ -1,0 +1,4 @@
+food-salt-shaker
+apps
+    com.github.philip_scott.spice-up
+    com.github.philip-scott.spice-up

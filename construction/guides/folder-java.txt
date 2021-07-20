@@ -1,3 +1,0 @@
-folder-java
-places
-    folder-java

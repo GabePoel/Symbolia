@@ -1,0 +1,4 @@
+comment-text
+actions
+    annotation-note
+    xapp-annotations-text

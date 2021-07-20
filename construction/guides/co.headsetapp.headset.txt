@@ -1,8 +1,0 @@
-co.headsetapp.headset
-apps
-    info.mumble.Mumble
-    com.teamspeak.TeamSpeak
-    co.headsetapp.headset
-devices
-    headset
-    audio-headset

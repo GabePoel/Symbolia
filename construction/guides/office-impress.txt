@@ -1,0 +1,16 @@
+office-impress
+apps
+    libreoffice6.0-impress
+    libreoffice5.4-impress
+    libreoffice5.1-impress
+    libreoffice3-impress
+    libreoffice5.0-impress
+    libreofficedev6.0-impress
+    libreoffice34-impress
+    libreoffice4.2-impress
+    libreoffice-impress
+    org.libreoffice.LibreOffice-impress
+    libreoffice5.3-impress
+    openoffice4-impress
+    libreoffice5.2-impress
+    libreofficedev6.1-impress

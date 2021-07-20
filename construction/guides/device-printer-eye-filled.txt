@@ -1,0 +1,6 @@
+device-printer-eye-filled
+actions
+    print-preview
+    document-print-preview
+apps
+    document-print-preview

@@ -1,0 +1,3 @@
+mouse-click-left-filled
+actions
+    input-mouse-click-left

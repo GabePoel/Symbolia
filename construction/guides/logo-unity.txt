@@ -1,0 +1,18 @@
+logo-unity
+apps
+    unity-mail
+    unity-sound-panel
+    unityhub
+    arkclient
+    unity-datetime-panel
+    unity
+    unity-online-accounts
+    desktop-environment-unity
+    unity-tweak-tool
+    unity-color-panel
+    unity-editor-icon
+    appimagekit-unityhub
+    unity-display-panel
+    unity-lens-photos
+    unity-scope-gdrive
+    com.unity.UnityHub

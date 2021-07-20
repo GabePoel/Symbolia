@@ -1,3 +1,0 @@
-node_insert_min_y
-actions
-    node_insert_min_y

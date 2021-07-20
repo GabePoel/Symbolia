@@ -1,0 +1,11 @@
+device-hand-held
+apps
+    org.gnome.games
+    org.gnome.Games
+    com.valvesoftware.SteamLink
+    io.github.antimicrox.antimicrox
+    fuse-emulator
+    net.sf.fuse_emulator
+    emule
+    gnome-video-arcade
+    org.games.Games

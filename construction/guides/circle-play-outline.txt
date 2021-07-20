@@ -1,0 +1,8 @@
+circle-play-outline
+actions
+    preview-render-on
+    play-circle-idle
+    builder-unit-tests-running
+    playback
+status
+    state_running

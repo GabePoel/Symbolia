@@ -1,5 +1,0 @@
-audio-card
-apps
-    audio-card
-devices
-    audio-card

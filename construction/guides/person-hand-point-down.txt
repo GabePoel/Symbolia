@@ -1,0 +1,3 @@
+person-hand-point-down
+actions
+    path-tweak-shrink

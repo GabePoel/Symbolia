@@ -1,3 +1,0 @@
-document-preview-archive
-actions
-    document-preview-archive

@@ -1,3 +1,0 @@
-document-save-as-template
-actions
-    document-save-as-template

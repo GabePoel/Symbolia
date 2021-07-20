@@ -1,3 +1,0 @@
-extensions-sync-syncing
-status
-    extensions-sync-syncing

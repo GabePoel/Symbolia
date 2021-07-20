@@ -1,0 +1,22 @@
+device-microphone
+actions
+    microphone
+apps
+    microphone
+    songkick
+    songwrite_64x64
+    deepin-voice-recorder
+    audio-recorder
+    subsonic
+    gnome-sound-recorder
+    org.gnome.SoundRecorder
+    com.deepin.VoiceRecorder
+    songwrite3
+    songwrite
+    sound-recorder
+devices
+    audio-input-microphone
+    microphone
+status
+    audio-input-microphone-high
+    microphone-sensitivity-high

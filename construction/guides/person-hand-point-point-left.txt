@@ -1,0 +1,4 @@
+person-hand-point-point-left
+actions
+    reverse
+    path-reverse

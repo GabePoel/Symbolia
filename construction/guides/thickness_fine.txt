@@ -1,3 +1,0 @@
-thickness_fine
-actions
-    thickness_fine

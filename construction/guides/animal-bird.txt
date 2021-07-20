@@ -1,0 +1,13 @@
+animal-bird
+apps
+    corebird
+    org.baedert.corebird
+    distributor-logo-parrot
+    instantbird
+    frozen-bubble-symbolicdeepin-screen-recorder
+    distributor-logo-parrot-security
+    birdie
+    distributor-logo-parrot-security-os
+    distributor-logo-parrot-os
+    frozen-bubble
+    angry-birds

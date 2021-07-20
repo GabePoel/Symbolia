@@ -1,0 +1,5 @@
+device-ipod
+devices
+    ipod
+mimetypes
+    application-x-ipod-firmware

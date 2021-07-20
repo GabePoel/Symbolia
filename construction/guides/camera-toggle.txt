@@ -1,3 +1,0 @@
-camera-toggle
-devices
-    camera-toggle

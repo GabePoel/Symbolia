@@ -1,0 +1,3 @@
+vehicle-deathstar
+actions
+    kstars_deepsky

@@ -1,0 +1,36 @@
+device-keyboard-filled
+actions
+    fcitx-kbd
+    help-keyboard-shortcuts
+    fcitx-vk-active
+apps
+    gnome-settings-keybindings
+    ibus-engine
+    ibus-keyboard
+    fcitx
+    fcitx_ubuntukylin
+    input_device_settings
+    org.kde.ktouch
+    ibus-anthy
+    keyboard
+    ibus
+    fcitx-sogoupinyin
+    keyboard-alt1
+    im-chooser
+    ibus-pinyin
+    keyboard-alt2
+    gnome-settings-keybinding
+    ibus_ibus-setup
+    florence
+    mintlocale-im
+    ibus-kkc
+    eekboard
+    ibus-setup-hangul
+    ibus-bopomofo
+    system-config-keyboard
+    cs-input-method
+    ibus-setup-chewing
+    ibus-mozc
+    ibus-setup
+devices
+    keyboard

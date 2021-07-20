@@ -1,4 +1,0 @@
-annotation-paragraph
-actions
-    note2
-    annotation-paragraph

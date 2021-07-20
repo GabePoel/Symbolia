@@ -1,4 +1,0 @@
-object-hidden
-actions
-    view-hidden
-    object-hidden

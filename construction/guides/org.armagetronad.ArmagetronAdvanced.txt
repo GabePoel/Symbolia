@@ -1,4 +1,0 @@
-org.armagetronad.ArmagetronAdvanced
-apps
-    route-car
-    org.armagetronad.ArmagetronAdvanced

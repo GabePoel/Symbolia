@@ -1,8 +1,0 @@
-compass-wind
-actions
-    compass-wind
-apps
-    com.leinardi.gkraken
-status
-    sensors-fan
-    freon-fan

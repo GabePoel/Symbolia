@@ -1,3 +1,0 @@
-drive-harddisk-system
-places
-    drive-harddisk-system

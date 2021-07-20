@@ -1,0 +1,11 @@
+logo-android
+apps
+    android-studio
+    com.google.AndroidStudio
+    androidstudio
+    android
+    anbox
+    android-file-transfer
+    android-arc
+    android-sdk
+    android-studio-beta

@@ -1,0 +1,8 @@
+logo-opera
+apps
+    opera-developer
+    opera
+    opera-beta
+mimetypes
+    opera-widget
+    opera-unite-application

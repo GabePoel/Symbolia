@@ -1,0 +1,3 @@
+game-dice-d6-multi-outline
+actions
+    distribute-randomize

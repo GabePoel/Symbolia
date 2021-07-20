@@ -1,0 +1,4 @@
+circle-info-outline
+actions
+    gtk-properties
+    overexposure

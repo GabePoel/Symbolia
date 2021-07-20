@@ -1,0 +1,3 @@
+person-avatar-filled-off
+actions
+    im-user-offline

@@ -1,4 +1,0 @@
-feBlend-icon
-actions
-    feComposite-icon
-    feBlend-icon

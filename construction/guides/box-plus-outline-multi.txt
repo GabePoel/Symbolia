@@ -1,0 +1,3 @@
+box-plus-outline-multi
+actions
+    window-new

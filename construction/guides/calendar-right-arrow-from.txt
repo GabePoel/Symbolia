@@ -1,0 +1,4 @@
+calendar-right-arrow-from
+actions
+    view-calendar-whatsnext
+    view-time-schedule-insert

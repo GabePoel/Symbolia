@@ -1,3 +1,0 @@
-insync-synced
-status
-    insync-synced

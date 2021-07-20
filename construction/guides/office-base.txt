@@ -1,0 +1,16 @@
+office-base
+apps
+    libreoffice5.0-base
+    libreoffice5.1-base
+    libreoffice34-base
+    libreoffice5.4-base
+    libreoffice-base
+    openoffice4-base
+    libreoffice5.2-base
+    org.libreoffice.LibreOffice-base
+    libreofficedev6.1-base
+    libreoffice6.0-base
+    libreoffice5.3-base
+    libreoffice4.2-base
+    libreoffice3-base
+    libreofficedev6.0-base

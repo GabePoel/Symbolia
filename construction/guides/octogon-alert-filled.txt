@@ -1,0 +1,9 @@
+octogon-alert-filled
+actions
+    mail-mark-junk
+    mail-spam
+    umbr-message-lost
+    filter-flagged
+apps
+    mail-mark-junk
+    com.github.plugarut.pwned-checker

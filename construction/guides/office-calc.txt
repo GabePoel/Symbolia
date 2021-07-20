@@ -1,0 +1,18 @@
+office-calc
+apps
+    libreoffice4.2-calc
+    libreoffice5.0-calc
+    libreoffice5.3-calc
+    org.libreoffice.LibreOffice-calc
+    org.libreoffice.LibreOffice-chart
+    openoffice4-calc
+    libreoffice-calc
+    libreofficedev6.1-calc
+    libreoffice34-calc
+    libreoffice3-calc
+    libreoffice5.1-calc
+    libreoffice5.2-calc
+    libreofficedev6.0-calc
+    libreoffice5.4-calc
+    libreoffice6.0-calc
+    libreoffice-chart

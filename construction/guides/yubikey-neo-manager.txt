@@ -1,5 +1,0 @@
-yubikey-neo-manager
-apps
-    yubikey-piv-manager
-    yubikey-neo-manager
-    yubikey-personalization-gui

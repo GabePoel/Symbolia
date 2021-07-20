@@ -1,0 +1,69 @@
+device-printer-filled
+actions
+    dvips
+    document-print-frame
+    document-print
+    wizard_pstools
+    pdftex
+    hb-document-print
+    document-print-direct
+    viewps
+apps
+    system-config-printer
+    org.gtk.PrintEditor2
+    org.gtk.PrintEditor4
+    openoffice4-printeradmin
+    printer
+    printer3
+    preferences-desktop-printer
+    printer-driver-deepin-cloud-print
+    cs-printer
+    printer2
+    org.gtk.PrintEditor3
+    deepin-cloud-print-configurator
+    com.flashforge.FlashPrint
+    deepin-cloudprint-config-helper
+    cups
+    yast-printer
+    cupsprinter
+categories
+    system-config-printer
+    openoffice4-printeradmin
+    printer-driver-deepin-cloud-print
+    cs-printer
+    deepin-cloud-print-configurator
+    deepin-cloudprint-helper
+    yast-printer
+    cupsprinter
+devices
+    printer-alt
+    printer-network
+mimetypes
+    application-postscript
+places
+    folder-purple-print
+    folder-black-print
+    folder-mint-print
+    folder-vermillion-print
+    folder-brown-print
+    folder-darkblue-print
+    folder-print
+    folder-grey-print
+    folder-yellow-print
+    folder-aubergine-print
+    folder-synthwave-print
+    folder-red-print
+    folder-canonical-print
+    folder-orange-print
+    folder-green-print
+    folder-cyan-print
+    folder-blue-print
+    folder-manjaro-print
+    folder-pink-print
+    folder-bordeaux-print
+    folder-adwaita-print
+    folder-yaru-print
+status
+    printer-printing
+    printer-warning
+    notification-printer

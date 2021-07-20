@@ -1,0 +1,9 @@
+language-julia
+apps
+    julia
+    juliabackend
+mimetypes
+    text-julia
+    text-x-julia
+    text-x-jl
+    text-jl

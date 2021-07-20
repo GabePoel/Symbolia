@@ -1,4 +1,0 @@
-object-tweak-randomize
-actions
-    object-tweak-randomize
-    randomize

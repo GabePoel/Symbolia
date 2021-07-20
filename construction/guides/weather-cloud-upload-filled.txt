@@ -1,0 +1,12 @@
+weather-cloud-upload-filled
+actions
+    backup
+    prf-backup
+apps
+    backup
+    org.gnome.World.PikaBackup
+    systemback
+    backups-app
+    mintbackup
+    org.gnome.Backups
+    luckyBackup

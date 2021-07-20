@@ -1,0 +1,4 @@
+circle-multi-outline
+actions
+    irc-remove-operator
+    irc-channel-inactive

@@ -1,0 +1,4 @@
+circle-layers-outline
+actions
+    object-tweak-duplicate
+    out-of-gamut-icon

@@ -1,3 +1,0 @@
-draw-halfcircle4
-actions
-    draw-halfcircle4

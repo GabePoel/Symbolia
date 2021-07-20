@@ -1,3 +1,0 @@
-emblem-dialog-question
-emblems
-    emblem-dialog-question

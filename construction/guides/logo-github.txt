@@ -1,0 +1,7 @@
+logo-github
+apps
+    github
+    github-desktop
+    appimagekit-github-desktop
+places
+    folder-github

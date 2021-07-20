@@ -1,0 +1,3 @@
+device-radio-off
+status
+    gser-icon-stopped

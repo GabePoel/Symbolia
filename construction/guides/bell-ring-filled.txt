@@ -1,0 +1,7 @@
+bell-ring-filled
+apps
+    com.bxabi.bumblebee-indicator
+mimetypes
+    message
+status
+    notification-new

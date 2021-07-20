@@ -1,0 +1,3 @@
+weather-snow-flake
+apps
+    org.gustavoperedo.FontDownloader.Holidays

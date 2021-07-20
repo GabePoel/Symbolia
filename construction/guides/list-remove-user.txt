@@ -1,3 +1,0 @@
-list-remove-user
-actions
-    list-remove-user

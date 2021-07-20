@@ -1,4 +1,0 @@
-appimagekit-auryo
-apps
-    appimagekit-auryo
-    soundcloud

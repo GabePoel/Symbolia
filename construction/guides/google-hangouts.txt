@@ -1,3 +1,0 @@
-google-hangouts
-apps
-    google-hangouts

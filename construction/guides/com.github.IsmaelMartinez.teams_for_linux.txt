@@ -1,6 +1,0 @@
-com.github.IsmaelMartinez.teams_for_linux
-apps
-    com.microsoft.Teams
-    com.github.IsmaelMartinez.teams_for_linux
-    microsoft-teams
-    ms-teams

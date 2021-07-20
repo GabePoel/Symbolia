@@ -1,0 +1,4 @@
+animal-horse-mule
+apps
+    amule
+    amulegui

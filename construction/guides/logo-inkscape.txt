@@ -1,0 +1,8 @@
+logo-inkscape
+actions
+    inkscape-logo
+apps
+    org.inkscape.Inkscape
+    org.inkscape.inkscape
+    inkscape
+    inkscape-logo

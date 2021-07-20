@@ -1,0 +1,3 @@
+file-block-filled
+actions
+    hb-ope-delete

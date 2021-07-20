@@ -1,15 +1,19 @@
 map-marker
 actions
+    gps-marker
+    gps-marker-highlighted
+    gps-marker-selected
     mark-location
+    kdenlive-show-markers
     map-marker
 apps
     mark-location
     maps-point-start-alt
 mimetypes
-    application-gpx+xml
-    application-vnd.geo+json
     application-gpx
+    application-vnd.geo+json
     application-geo+json
+    application-gpx+xml
     application-geo+xml
 status
     location-services-active

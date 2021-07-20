@@ -1,0 +1,5 @@
+vehicle-trolly
+apps
+    emoji-travel
+categories
+    emoji-travel

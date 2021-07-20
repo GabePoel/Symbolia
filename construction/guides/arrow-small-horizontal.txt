@@ -1,0 +1,3 @@
+arrow-small-horizontal
+actions
+    object-flip-hor

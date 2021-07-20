@@ -1,0 +1,5 @@
+alpha-y-outline
+apps
+    yubioath
+    yumex-dnf
+    yumex

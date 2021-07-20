@@ -1,0 +1,3 @@
+arrow-big-sharp-up-left
+actions
+    document-compareright

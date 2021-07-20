@@ -1,9 +1,0 @@
-phone-up-right
-actions
-    call-start
-apps
-    com.viber.Viber
-    internet-telephony
-    viber
-devices
-    phone-old

@@ -1,0 +1,5 @@
+comment-dots
+actions
+    pdf-annotations
+    imagecomment
+    annotation-comment

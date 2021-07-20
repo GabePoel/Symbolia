@@ -1,3 +1,0 @@
-gnc-invoice-unpost
-actions
-    gnc-invoice-unpost

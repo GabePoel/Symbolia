@@ -1,0 +1,3 @@
+alpha-c-filled
+status
+    network-cellular-cdma-1x

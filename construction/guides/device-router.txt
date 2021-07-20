@@ -1,0 +1,5 @@
+device-router
+actions
+    router
+devices
+    modem

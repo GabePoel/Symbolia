@@ -1,3 +1,0 @@
-gnc-invoice-new
-actions
-    gnc-invoice-new

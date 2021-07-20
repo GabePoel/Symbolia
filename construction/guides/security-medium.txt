@@ -1,8 +1,0 @@
-security-medium
-apps
-    wallch
-    security-medium
-    slidewall
-    yast-security
-status
-    security-medium

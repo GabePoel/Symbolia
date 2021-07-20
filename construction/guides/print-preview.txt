@@ -1,6 +1,0 @@
-print-preview
-actions
-    print-preview
-    document-print-preview
-apps
-    document-print-preview

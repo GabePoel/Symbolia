@@ -1,5 +1,0 @@
-cow
-actions
-    cow
-apps
-    org.gnome.gitlab.Cowsay

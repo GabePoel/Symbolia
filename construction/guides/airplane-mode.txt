@@ -1,3 +1,0 @@
-airplane-mode
-status
-    airplane-mode

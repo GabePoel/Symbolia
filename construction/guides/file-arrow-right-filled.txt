@@ -1,0 +1,3 @@
+file-arrow-right-filled
+actions
+    document-share

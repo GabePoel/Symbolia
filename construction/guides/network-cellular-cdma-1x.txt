@@ -1,3 +1,0 @@
-network-cellular-cdma-1x
-status
-    network-cellular-cdma-1x
