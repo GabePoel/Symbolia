@@ -1,5 +1,0 @@
-uninterruptible-power-supply
-devices
-    uninterruptible-power-supply
-status
-    thunderbolt-acquiring

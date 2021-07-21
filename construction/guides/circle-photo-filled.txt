@@ -1,3 +1,0 @@
-circle-photo-filled
-emblems
-    emblem-photos

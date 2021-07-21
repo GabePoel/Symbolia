@@ -1,3 +1,0 @@
-gnc-jumpto
-actions
-    gnc-jumpto

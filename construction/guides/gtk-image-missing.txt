@@ -1,4 +1,0 @@
-gtk-image-missing
-status
-    gtk-image-missing
-    image-missing

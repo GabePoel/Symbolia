@@ -1,0 +1,9 @@
+spiral
+actions
+    draw-spiral
+    spiral-shape
+    distortionfx
+apps
+    org.gnome.meld
+    org.gnome.Meld
+    meld

@@ -1,7 +1,0 @@
-image-missing
-actions
-    rough-hatches
-    roughen
-    image-missing
-status
-    adw-tap-icon-missing

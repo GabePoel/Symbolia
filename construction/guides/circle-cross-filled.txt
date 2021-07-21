@@ -1,6 +1,1 @@
 circle-cross-filled
-emblems
-    emblem-insync-error-shared
-    emblem-dropbox-unsyncable
-    emblem-unreadable
-    emblem-insync-error

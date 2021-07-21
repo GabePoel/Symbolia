@@ -1,5 +1,0 @@
-go-jump-locationbar
-actions
-    go-jump-locationbar
-    kr_jumpback
-    go-jump

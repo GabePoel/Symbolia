@@ -1,5 +1,0 @@
-object-columns
-actions
-    view-column
-    object-columns
-    prf-columns

@@ -1,4 +1,0 @@
-timepp-graph-intervals
-actions
-    timepp-graph-intervals
-    view-time-schedule-calculus

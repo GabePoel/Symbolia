@@ -1,0 +1,3 @@
+box-link-filled
+actions
+    gnumeric-link-external

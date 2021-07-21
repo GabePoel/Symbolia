@@ -1,19 +1,21 @@
 bell-filled
 actions
+    notifications
+    twitter-mentions
     polari-user-notify
     hb-ope-remind
-    twitter-mentions
-    notifications
 apps
-    notification
-    update-notifier
-    notification-daemon
+    mate-notification-properties
     xfce4-notifyd
-    notifyconf
     gnome-panel-notification-area
     cs-notifications
-    mate-notification-properties
-    mate-panel-notification-area
+    notification-daemon
     knotify
+    mate-panel-notification-area
+    notifyconf
+    notification
+    update-notifier
 status
     notification
+emblems
+    emblem-important

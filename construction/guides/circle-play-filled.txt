@@ -1,5 +1,3 @@
 circle-play-filled
-emblems
-    emblem-videos
 actions
     play-circle-active

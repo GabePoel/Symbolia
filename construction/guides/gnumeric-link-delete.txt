@@ -1,4 +1,0 @@
-gnumeric-link-delete
-actions
-    gnumeric-link-delete
-    remove-link

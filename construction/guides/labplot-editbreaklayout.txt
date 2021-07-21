@@ -1,3 +1,0 @@
-labplot-editbreaklayout
-actions
-    labplot-editbreaklayout

@@ -1,0 +1,4 @@
+link-horizontal-off
+actions
+    text-frame-unlink
+    edit-clone-unlink

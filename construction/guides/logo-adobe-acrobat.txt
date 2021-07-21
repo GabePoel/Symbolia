@@ -1,6 +1,82 @@
 logo-adobe-acrobat
 actions
+    gnc-gnome-pdf
     pdflatex
     dvipdf
     acrobat
     ps2pdf
+apps
+    okularApplication_plucker
+    foxitpdf
+    master-pdf-editor
+    FoxitReader
+    pdfsam-basic
+    PDF
+    masterpdfeditor4
+    com.itextpdf.RUPS
+    adobe-reader
+    net.codeindustry.MasterPDFEditor
+    pdfarranger
+    okularApplication_ooo
+    evince
+    eu.scarpetta.PDFMixTool
+    okularApplication_chm
+    com.github.unrud.djpdf
+    AdobeReader11
+    okularApplication_comicbook
+    org.gnome.Evince
+    okularApplication_dvi
+    masterpdfeditor3
+    okularApplication_epub
+    pdfeditor
+    foxitreader
+    org.verapdf.veraPDF
+    gnome-pdf
+    com.github.muriloventuroso.pdftricks
+    okularApplication_pdf
+    org.gnome.evince
+    okularApplication_fax
+    okularApplication_md
+    com.github.mgropp.PdfJumbler
+    masterpdfeditor
+    masterpdfeditor5
+    AdobeReader8
+    pdfsam
+    gpdftext
+    AdobeReader9
+    acroread
+    okularApplication_djvu
+    pdfshuffler
+    net.sourceforge.jpdftweak.jPdfTweak
+    okularApplication_ghostview
+    okularApplication_tiff
+    AdobeReader10
+    okularApplication_mobi
+    okularApplication_txt
+    okularApplication_fb
+    com.github.junrrein.PDFSlicer
+    org.kde.okular
+    qpdfview
+    xpdf
+    foxit-reader
+    okularApplication_xps
+    pdfchain
+    AdobeReader
+    epdfview
+    okularApplication_kimgio
+    mupdf
+    AdobeReader12
+    com.github.jeromerobert.pdfarranger
+    okular
+    net.sourceforge.Pdfedit
+    x-pdf
+    pdfmod
+    gnome-mime-application-pdf
+mimetypes
+    application-x-gzpdf
+    application-x-pdf
+    application-x-xzpdf
+    application-pdf
+    application-x-bzpdf
+    application-x-lzpdf
+    gnome-mime-application-pdf

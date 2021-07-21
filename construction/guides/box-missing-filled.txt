@@ -1,0 +1,9 @@
+box-missing-filled
+status
+    gtk-image-missing
+    image-missing
+    adw-tap-icon-missing
+actions
+    image-missing
+    roughen
+    rough-hatches

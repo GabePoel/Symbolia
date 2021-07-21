@@ -11,3 +11,5 @@ mimetypes
     application-msonenote
     application-x-vnd.kde.notes
     application-x-vnd.akonadi.note
+emblems
+    emblem-note

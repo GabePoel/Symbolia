@@ -1,0 +1,4 @@
+arrow-plus-big-filled
+actions
+    cursor-cross
+    draw-cross

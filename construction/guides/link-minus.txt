@@ -1,0 +1,4 @@
+link-minus
+actions
+    gnumeric-link-delete
+    remove-link

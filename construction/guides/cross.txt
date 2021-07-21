@@ -1,34 +1,39 @@
 cross
 actions
-    stock_close
-    dialog-close
-    button-cancel
-    tab-close
-    view-left-close
-    gtk-close
-    remove-color
-    dialog-cancel
-    project-development-close
-    geany-close-all
-    gtk-quit
-    cancel
-    vm_delete_wizard
-    view-close
     edit-clear-locationbar-ltr
-    kontes_close
-    dialog-no
-    window-close
-    timepp-close
-    edit-clear-locationbar-rtl
-    edit-delete-remove
-    tab-close-other
+    dialog-close
+    view-close
+    tab-close
+    gtk-close
     stock_calc-cancel
-    view-right-close
-    application-exit
     gtk-no
-    none
-    paint-none
+    remove-color
+    view-right-close
     overview-remove-item
+    gtk-quit
+    project-development-close
+    dialog-no
+    edit-delete-remove
+    geany-close-all
+    cancel
+    window-close
+    dialog-cancel
+    application-exit
+    vm_delete_wizard
+    tab-close-other
+    kontes_close
+    button-cancel
+    paint-none
+    timepp-close
+    view-left-close
+    none
+    edit-clear-locationbar-rtl
+    stock_close
 status
-    aptdaemon-delete
     network-disconnected
+    aptdaemon-delete
+emblems
+    emblem-unreadable
+    emblem-dropbox-unsyncable
+    emblem-insync-error-shared
+    emblem-insync-error

@@ -1,3 +1,0 @@
-transform-move-horizontal
-actions
-    transform-move-horizontal

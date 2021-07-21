@@ -1,4 +1,0 @@
-edit-table-delete-column
-actions
-    gnumeric-column-delete
-    edit-table-delete-column

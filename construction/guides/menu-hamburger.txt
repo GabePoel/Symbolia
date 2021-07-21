@@ -1,0 +1,11 @@
+menu-hamburger
+actions
+    open-menu
+    show-menu
+    menu_new
+    kdenlive-menu
+    preferences-other
+    hamburger-menu
+    application-menu
+apps
+    application-menu

@@ -1,3 +1,0 @@
-zoom-fit-page
-apps
-    zoom-fit-page

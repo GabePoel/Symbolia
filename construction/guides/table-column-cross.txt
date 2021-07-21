@@ -1,0 +1,4 @@
+table-column-cross
+actions
+    gnumeric-column-delete
+    edit-table-delete-column

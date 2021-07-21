@@ -1,7 +1,0 @@
-go-first-rtl
-actions
-    go-last
-    go-first-symbolic-rtl
-    go-first-rtl
-    go-last-view
-    go-last-view-page

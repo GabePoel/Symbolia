@@ -2,49 +2,51 @@ file-text-outline
 actions
     timepp-file
 places
-    folder-red-documents-open
-    folder-brown-documents-open
-    folder-yaru-documents-open
-    folder-grey-documents
-    folder-blue-documents
-    folder-txt
-    folder-aubergine-documents
-    folder-text
-    folder-adwaita-documents-open
-    folder-green-documents
-    folder-cyan-documents-open
-    folder-orange-documents
-    folder-vermillion-documents-open
-    folder-mint-documents
-    folder-manjaro-documents-open
-    folder-grey-documents-open
-    folder-canonical-documents
-    folder-synthwave-documents-open
-    folder-bordeaux-documents
-    folder-yaru-documents
-    folder-darkblue-documents-open
-    folder-manjaro-documents
-    folder-yellow-documents-open
-    folder-brown-documents
+    folder-documents
     folder-documents-open
-    folder-black-documents-open
-    folder-orange-documents-open
-    folder-blue-documents-open
-    folder-vermillion-documents
-    folder-aubergine-documents-open
-    folder-mint-documents-open
-    folder-black-documents
-    folder-purple-documents-open
-    folder-synthwave-documents
-    folder-red-documents
-    folder-bordeaux-documents-open
     folder-yellow-documents
     folder-pink-documents-open
-    folder-canonical-documents-open
-    folder-documents
+    folder-cyan-documents-open
+    folder-red-documents-open
     folder-purple-documents
-    folder-darkblue-documents
+    folder-canonical-documents-open
+    folder-aubergine-documents-open
+    folder-blue-documents
+    folder-black-documents-open
+    folder-orange-documents-open
     folder-pink-documents
+    folder-bordeaux-documents
+    folder-grey-documents-open
     folder-green-documents-open
+    folder-vermillion-documents-open
+    folder-darkblue-documents
+    folder-aubergine-documents
+    folder-red-documents
+    folder-mint-documents-open
+    folder-yaru-documents-open
+    folder-vermillion-documents
+    folder-green-documents
+    folder-text
+    folder-brown-documents
+    folder-blue-documents-open
+    folder-grey-documents
+    folder-mint-documents
+    folder-yaru-documents
+    folder-yellow-documents-open
+    folder-manjaro-documents
+    folder-manjaro-documents-open
+    folder-darkblue-documents-open
+    folder-black-documents
+    folder-bordeaux-documents-open
+    folder-txt
+    folder-brown-documents-open
+    folder-synthwave-documents
     folder-cyan-documents
+    folder-orange-documents
+    folder-canonical-documents
+    folder-purple-documents-open
     folder-adwaita-documents
+    folder-adwaita-documents-open
+    folder-synthwave-documents-open
+emblems
+    emblem-documents

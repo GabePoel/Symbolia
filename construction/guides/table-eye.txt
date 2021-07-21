@@ -1,0 +1,4 @@
+table-eye
+actions
+    gnumeric-column-unhide
+    gnumeric-row-unhide

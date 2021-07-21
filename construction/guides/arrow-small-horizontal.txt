@@ -1,3 +1,4 @@
 arrow-small-horizontal
 actions
+    transform-scale-horizontal
     object-flip-hor

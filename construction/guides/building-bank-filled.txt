@@ -1,0 +1,9 @@
+building-bank-filled
+actions
+    pm-fifee
+    view-financial-transfer-unreconciled
+    gnc-account
+    view-institution
+    institution
+apps
+    athena

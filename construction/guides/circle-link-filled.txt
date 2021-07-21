@@ -1,4 +1,1 @@
 circle-link-filled
-emblems
-    emblem-symbolic-link
-    emblem-link

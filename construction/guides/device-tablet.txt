@@ -1,0 +1,11 @@
+device-tablet
+apps
+    wacom
+    gnome-tablet
+    tablet
+    input-tablet
+    gnome-wacom
+    cs-tablet
+devices
+    tablet
+    input-tablet

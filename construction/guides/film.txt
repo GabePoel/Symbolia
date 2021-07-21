@@ -1,0 +1,39 @@
+film
+actions
+    filmgrain
+    kdenlive-show-video
+apps
+    avidemux_icon
+    kdenlive
+    smtube
+    deepin-movie
+    org.gnome.gitlab.YaLTeR.VideoTrimmer
+    dragonplayer
+    gxine
+    org.kde.kdenlive
+    applications-video
+    multimedia-video-player
+    org.bitbucket.mystery_keeper.VapourSynthEditor
+    cinelerra-cv
+    audience
+    arista
+    calligrastage
+    imagination
+    cinelerra-hv
+    cinelerra-gg
+    com.github.unrud.VideoDownloader
+    org.olivevideoeditor.Olive
+    acestreamplayer
+    org.avidemux.Avidemux
+    cin
+    pitivi
+    deepin-media-player
+    plasma-media-center
+    org.pitivi.Pitivi
+    avidemux
+    cinelerra
+    QMPlay2
+places
+    folder-videocamera-alt
+    folder-video-alt
+    folder-videos-alt

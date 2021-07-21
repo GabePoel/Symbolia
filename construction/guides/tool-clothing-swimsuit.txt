@@ -1,0 +1,3 @@
+tool-clothing-swimsuit
+actions
+    nudity

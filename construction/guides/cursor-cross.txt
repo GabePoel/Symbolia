@@ -1,4 +1,0 @@
-cursor-cross
-actions
-    draw-cross
-    cursor-cross

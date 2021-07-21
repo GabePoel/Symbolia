@@ -1,0 +1,3 @@
+view-column-center
+actions
+    nemo-auto-arrange

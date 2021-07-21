@@ -1,9 +1,0 @@
-gnc-account
-actions
-    view-institution
-    gnc-account
-    institution
-    pm-fifee
-    view-financial-transfer-unreconciled
-apps
-    athena

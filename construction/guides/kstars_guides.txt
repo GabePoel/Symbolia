@@ -1,5 +1,0 @@
-kstars_guides
-actions
-    view-list-icons
-    kstars_guides
-    view-grid

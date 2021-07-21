@@ -1,3 +1,0 @@
-arrow-small-to-up
-actions
-    selection-top

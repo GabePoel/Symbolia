@@ -1,0 +1,17 @@
+trash-filled
+actions
+    gnc-account-delete
+mimetypes
+    text-x-bak
+    application-x-trash
+places
+    edittrash
+    gnome-dev-trash-full
+    gnome-stock-trash-full
+    trashcan_full
+    gnome-fs-trash-empty-accept
+    stock_trash_full
+    gnome-fs-trash-full
+    xfce-trash_full
+status
+    user-trash-full

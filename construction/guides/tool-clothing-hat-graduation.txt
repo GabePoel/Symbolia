@@ -1,0 +1,6 @@
+tool-clothing-hat-graduation
+actions
+    school
+apps
+    applications-education
+    appimagekit_a8e143359b6912b67b65aed61612e2ff_edex-ui

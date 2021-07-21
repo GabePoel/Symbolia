@@ -1,0 +1,10 @@
+view-front
+actions
+    view-pages-facing-first-centered
+    view-paged
+    multitasking
+    widget-layout
+    view-coverflow
+    kdenlive-insert-edit
+status
+    pop-shell-auto-off

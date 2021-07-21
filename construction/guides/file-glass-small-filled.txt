@@ -1,0 +1,3 @@
+file-glass-small-filled
+apps
+    zoom-fit-selection

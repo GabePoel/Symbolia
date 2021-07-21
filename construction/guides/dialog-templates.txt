@@ -1,3 +1,0 @@
-dialog-templates
-actions
-    dialog-templates

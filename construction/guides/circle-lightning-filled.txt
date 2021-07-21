@@ -1,0 +1,5 @@
+circle-lightning-filled
+devices
+    uninterruptible-power-supply
+status
+    thunderbolt-acquiring

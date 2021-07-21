@@ -1,0 +1,3 @@
+table-column
+actions
+    labplot-editvlayout

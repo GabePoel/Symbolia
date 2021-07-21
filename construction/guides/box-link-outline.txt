@@ -1,0 +1,4 @@
+box-link-outline
+actions
+    gnumeric-link-internal
+    edit-clone-link-lpe

@@ -1,3 +1,0 @@
-labplot-editvlayout
-actions
-    labplot-editvlayout

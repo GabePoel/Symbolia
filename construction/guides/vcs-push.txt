@@ -1,3 +1,0 @@
-vcs-push
-actions
-    vcs-push

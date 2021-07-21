@@ -1,0 +1,4 @@
+box-image-filled-off
+actions
+    filter-photos-disabled
+    filter-photo-disabled

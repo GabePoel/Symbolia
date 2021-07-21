@@ -1,0 +1,9 @@
+plot-pie-filled
+actions
+    kr_diskusage
+    view-financial-budget
+apps
+    akonadiconsole
+    akonaditray
+    disk-usage-app
+    akonadi

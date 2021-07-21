@@ -1,15 +1,17 @@
 star-outline
 actions
-    draw-star-outline
-    star-outline-thick
-    star-regular
-    star-outline
-    starred
     xapp-unfavorite
     star-outline-thin
+    star-outline-thick
+    starred
+    star-outline
+    draw-star-outline
+    star-regular
 apps
     starred
 status
     feed-non-starred
     feed-unmarked
     starred
+emblems
+    emblem-favorite

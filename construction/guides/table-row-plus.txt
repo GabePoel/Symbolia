@@ -1,0 +1,4 @@
+table-row-plus
+actions
+    gnumeric-row-add
+    edit-table-insert-row-under

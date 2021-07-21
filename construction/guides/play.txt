@@ -19,3 +19,5 @@ apps
     io.github.GnomeMpv
     xt7-player-mpv
     gnome-mpv
+emblems
+    emblem-videos

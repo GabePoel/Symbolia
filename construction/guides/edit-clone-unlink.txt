@@ -1,4 +1,0 @@
-edit-clone-unlink
-actions
-    text-frame-unlink
-    edit-clone-unlink

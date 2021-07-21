@@ -1,3 +1,0 @@
-view-financial-transfer-reconciled
-actions
-    view-financial-transfer-reconciled

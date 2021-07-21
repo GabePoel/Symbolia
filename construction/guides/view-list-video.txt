@@ -1,5 +1,0 @@
-view-list-video
-actions
-    view-list-video
-devices
-    camera-video

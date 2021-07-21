@@ -1,0 +1,3 @@
+box-image-edit-filled
+actions
+    tool_imageeffects

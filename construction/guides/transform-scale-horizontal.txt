@@ -1,3 +1,0 @@
-transform-scale-horizontal
-actions
-    transform-scale-horizontal

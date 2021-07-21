@@ -1,4 +1,1 @@
 circle-plus-filled
-emblems
-    emblem-new
-    emblem-list-add

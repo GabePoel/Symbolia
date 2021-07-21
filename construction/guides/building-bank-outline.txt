@@ -1,0 +1,3 @@
+building-bank-outline
+actions
+    view-institution-edit

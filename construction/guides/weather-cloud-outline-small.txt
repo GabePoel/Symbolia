@@ -1,6 +1,8 @@
 weather-cloud-outline-small
 status
-    weather-cloudy
     feed-cloud
+    weather-cloudy
 actions
     clouds
+emblems
+    emblem-dropbox-infinite

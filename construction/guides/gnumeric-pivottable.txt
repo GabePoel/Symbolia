@@ -1,3 +1,0 @@
-gnumeric-pivottable
-actions
-    gnumeric-pivottable

@@ -1,0 +1,3 @@
+table-edit
+actions
+    labplot-editbreaklayout

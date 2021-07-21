@@ -1,0 +1,17 @@
+link
+actions
+    timepp-link
+    gnumeric-link-edit
+    snap
+    join-type
+apps
+    links_32x32.xpm
+    links
+    com.github.bartzaalberg.alias
+mimetypes
+    application-vnd.insync.link.drive.link
+    inode-symlink
+    gdlink
+emblems
+    emblem-symbolic-link
+    emblem-link

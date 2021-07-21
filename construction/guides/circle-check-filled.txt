@@ -5,14 +5,5 @@ actions
     games-solve
     success
     on
-emblems
-    emblem-insync-synced
-    emblem-dropbox-mixedstate
-    emblem-ok
-    emblem-insync-synced-shared
-    emblem-insync-synced-callbacks-active
-    emblem-dropbox-uptodate
-    emblem-default
-    emblem-insync-synced-callbacks
 status
     process-completed

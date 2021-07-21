@@ -1,3 +1,0 @@
-edit-line-width
-actions
-    edit-line-width

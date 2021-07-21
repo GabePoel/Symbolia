@@ -1,0 +1,4 @@
+table-column-left-plus
+actions
+    edit-table-insert-column-right
+    gnumeric-column-add

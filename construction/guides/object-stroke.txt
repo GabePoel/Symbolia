@@ -1,3 +1,4 @@
 object-stroke
 actions
     object-stroke
+    edit-line-width

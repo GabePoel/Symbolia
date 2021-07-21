@@ -1,0 +1,3 @@
+file-glass-medium-outline
+actions
+    document-edit-decrypt-verify

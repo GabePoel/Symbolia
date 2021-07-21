@@ -1,0 +1,3 @@
+building-bank-check-filled
+actions
+    view-financial-transfer-reconciled

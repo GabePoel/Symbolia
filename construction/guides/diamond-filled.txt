@@ -2,7 +2,6 @@ diamond-filled
 actions
     diamond-filled
 apps
-    kdiamond.svg
     mintsources-ppa
     kdiamond
     org.kde.kdiamond

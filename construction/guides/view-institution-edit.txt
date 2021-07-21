@@ -1,3 +1,0 @@
-view-institution-edit
-actions
-    view-institution-edit

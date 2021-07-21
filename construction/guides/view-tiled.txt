@@ -1,0 +1,7 @@
+view-tiled
+actions
+    object-layout
+    view-compact
+    view-multiple-objects
+    widget-packing
+    gnumeric-object-combo

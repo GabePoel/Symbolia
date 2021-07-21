@@ -1,8 +1,17 @@
 weather-moon-stars-outline
 actions
+    kstars_stars
     fcitx-fullwidth-inactive
     moon
 status
-    nightthemeswitcher-ondemand-off
-    weather-clear-night
     weather-clear-night-small
+    weather-clear-night
+    nightthemeswitcher-ondemand-off
+apps
+    com.moonlight_stream.Moonlight
+    redshift
+    gtk-redshift
+    moonlight
+    redshiftgui
+    redshift-icon-256
+    redshift-gtk

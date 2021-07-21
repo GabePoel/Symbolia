@@ -1,0 +1,3 @@
+table-column-right-plus
+actions
+    edit-table-insert-column-left

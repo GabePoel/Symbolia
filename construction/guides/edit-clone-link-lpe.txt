@@ -1,4 +1,0 @@
-edit-clone-link-lpe
-actions
-    edit-clone-link-lpe
-    gnumeric-link-internal

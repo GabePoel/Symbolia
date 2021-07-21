@@ -1,0 +1,12 @@
+heart-filled
+actions
+    love-amarok
+    hb-donate
+    heart-filled
+apps
+    cdcat
+    dev.Cogitri.Health
+    applications-community
+    application-community
+emblems
+    emblem-xapp-favorite

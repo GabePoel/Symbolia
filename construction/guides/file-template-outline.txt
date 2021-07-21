@@ -1,0 +1,3 @@
+file-template-outline
+actions
+    dialog-templates

@@ -1,0 +1,7 @@
+arrow-chevron-to-left
+actions
+    go-first-view-page
+    go-last-symbolic-rtl
+    go-first
+    go-last-rtl
+    go-first-view

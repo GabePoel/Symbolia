@@ -1,0 +1,5 @@
+file-glass-big-outline
+apps
+    zoom-fit-page
+actions
+    document-preview-archive

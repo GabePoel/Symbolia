@@ -1,3 +1,0 @@
-nemo-auto-arrange
-actions
-    nemo-auto-arrange

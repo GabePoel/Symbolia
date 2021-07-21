@@ -1,0 +1,3 @@
+buiding-bank-minus-filled
+actions
+    view-institution-delete

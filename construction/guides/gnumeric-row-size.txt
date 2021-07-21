@@ -1,4 +1,0 @@
-gnumeric-row-size
-actions
-    gnumeric-row-size
-    labplot-editgrid

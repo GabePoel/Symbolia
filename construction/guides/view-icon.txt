@@ -1,0 +1,5 @@
+view-icon
+actions
+    view-grid
+    view-list-icons
+    kstars_guides

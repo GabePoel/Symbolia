@@ -1,4 +1,0 @@
-gnumeric-column-unhide
-actions
-    gnumeric-column-unhide
-    gnumeric-row-unhide

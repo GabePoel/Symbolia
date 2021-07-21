@@ -1,3 +1,0 @@
-file-glass-alt-filled
-actions
-    document-preview-archive

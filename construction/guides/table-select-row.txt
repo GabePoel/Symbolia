@@ -1,0 +1,4 @@
+table-select-row
+actions
+    gnumeric-row-size
+    labplot-editgrid

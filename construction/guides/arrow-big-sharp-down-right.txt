@@ -1,8 +1,11 @@
 arrow-big-sharp-down-right
 actions
-    characters-arrow
+    gnc-jumpto
     document-compareleft
-    ui-child
-apps
-    org.cznic.Datovka
     characters-arrow
+    transform-move-horizontal
+    ui-child
+    nemo-recursive-search
+apps
+    characters-arrow
+    org.cznic.Datovka

@@ -1,12 +1,71 @@
 eye-filled
 actions
-    view-visible
-    stock-eye
-    timepp-eye
-    eye-open
     gnumeric-visible
-    eye-open-negative-filled
-    view-reveal
+    view-visible
+    eye-open
+    stock-eye
     gnumeric-detail-show
+    timepp-eye
+    view-reveal
+    eye-open-negative-filled
 categories
     xapp-prefs-display
+apps
+    org.kde.blinken
+    org.nmap.Zenmap
+    spaceview
+    ldview
+    vmware-view
+    viewnior
+    gfsview
+    nfoview
+    view
+    layer-visible
+    org.kde.gwenview
+    eid-viewer
+    guvcview
+    com.xnview.XnViewMP
+    gpicview
+    geomview
+    com.xnview.XnConvert
+    gerbview
+    io.github.arunsivaramanneo.GPUViewer
+    cs-overview
+    cs-overview-alt2
+    gpxviewer
+    xnview
+    xviewer
+    deepin-multitasking-view
+    io.otsaloma.nfoview
+    zenmap
+    cs-overview-alt1
+    de.rwth_aachen.ient.YUView
+    eye
+    safeeyes
+    log-viewer
+    lrfviewer
+    org.gnode.NixView
+    vncviewer48x48
+    com.viewizard.AstroMenace
+    kgraphviewer
+    TeighaViewer
+    vncviewer
+    logviewer
+    logview
+    mate-eyes-applet
+    gst-debug-viewer
+    realvnc-vncviewer
+    nmap
+    onvifviewer
+    gpx-viewer
+    net.meijn.onvifviewer
+    kuiviewer
+    multimedia-photo-viewer
+    gwenview
+    virt-viewer
+    multitasking-view
+    paraview
+    org.freedesktop.GstDebugViewer
+    kali-nmap
+    kchmviewer
+    stock_view-details

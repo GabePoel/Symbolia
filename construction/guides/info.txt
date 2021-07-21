@@ -1,0 +1,40 @@
+info
+actions
+    tooltip
+    tag-properties
+    kt-info-widget
+    help-info
+    info
+    underexposure
+    icon_details
+    document-properties
+    exifinfo
+    help-whatsthis
+    ui-property
+    info-outline
+    kdocumentinfo
+    albumfolder-properties
+    documentinfo
+apps
+    hwinfo
+    mkvinfo
+    gnome-about-logo
+    info
+    system-help
+    org.freedesktop.GlxInfo
+    xfce4-about
+    deepin-manual
+    net.mediaarea.MediaInfo
+    hardinfo
+    mediainfo
+    preferences-system-details
+    glxinfo
+categories
+    system-help
+mimetypes
+    gnome-mime-application-x-gnome-app-info
+    application-info
+    application-vnd.ms-infopath
+status
+    dialog-information
+    feed-backend-info

@@ -1,0 +1,5 @@
+arrow-big-sharp-up-right-corner
+actions
+    go-jump-locationbar
+    kr_jumpback
+    go-jump

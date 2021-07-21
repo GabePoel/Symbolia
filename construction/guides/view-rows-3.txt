@@ -1,0 +1,3 @@
+view-rows-3
+actions
+    object-rows

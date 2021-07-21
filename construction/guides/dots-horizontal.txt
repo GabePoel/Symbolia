@@ -1,0 +1,5 @@
+dots-horizontal
+actions
+    view-more-horizontal
+apps
+    applications-other

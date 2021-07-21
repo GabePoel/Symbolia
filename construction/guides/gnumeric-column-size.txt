@@ -1,3 +1,0 @@
-gnumeric-column-size
-actions
-    gnumeric-column-size

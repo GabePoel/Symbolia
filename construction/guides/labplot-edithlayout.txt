@@ -1,3 +1,0 @@
-labplot-edithlayout
-actions
-    labplot-edithlayout

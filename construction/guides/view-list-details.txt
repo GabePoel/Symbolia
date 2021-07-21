@@ -1,3 +1,0 @@
-view-list-details
-actions
-    view-list-details

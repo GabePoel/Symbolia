@@ -1,3 +1,0 @@
-edit-table-insert-row-above
-actions
-    edit-table-insert-row-above
