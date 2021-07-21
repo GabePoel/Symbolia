@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg4"
+   sodipodi:docname="application-x-perl-symbolic.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="948"
+     inkscape:window-height="1000"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="33.208333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path fill="#909090"
+     d="m12.5 14c-1 0-3 1-3 2 0 2 3 2 3 2v-1a1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1v-1m0 5s-4-.5-4-2.5c0-3 3-3.75 4-3.75v-1.25c-1 0-5 1.5-5 4.5 0 4 5 4 5 4v-1m-1.93-11.97 1.19.53c.43-2.44 1.58-4.06 1.58-4.06-.43 1.03-.71 1.88-.89 2.55 1.21-2.5 3.66-4.05 3.66-4.05-1.18 1.18-2.05 2.46-2.64 3.53 1.58-1.68 3.77-2.78 3.77-2.78-2.69 1.72-3.9 4.45-4.2 5.21l.55.08c0 .52 0 1 .25 1.38.76 1.89 4.66 2.05 4.66 6.58s-4.03 6-6.17 6-6.83-.97-6.83-6 4.95-5.07 5.83-7.08c.12-.38-.76-1.89-.76-1.89z"
+     
+     id="path2"
+     style="fill:#909090;fill-opacity:1" />
+</svg>

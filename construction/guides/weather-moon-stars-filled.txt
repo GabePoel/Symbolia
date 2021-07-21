@@ -1,1 +1,3 @@
 weather-moon-stars-filled
+status
+    nightthemeswitcher-ondemand-on

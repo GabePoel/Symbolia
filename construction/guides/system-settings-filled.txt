@@ -1,3 +1,0 @@
-system-settings-filled
-actions
-    system-settings-filled

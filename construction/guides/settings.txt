@@ -1,23 +1,67 @@
 settings
 actions
-    configure-toolbars
     timepp-settings
-    configure_project
     configure_kile
-    system-run
-    settings
-    games-config-custom
-    games-config-options
-    configure
-    view-process-system
-    CVnamespace
-    system-settings-lineart
     settings-configure
+    view-process-system
+    system-settings-lineart
+    configure
     image-adjust
-    adjustlevels
+    system-run
+    configure_project
+    settings
     run-build-configure
     gtk-execute
+    adjustlevels
+    games-config-custom
+    CVnamespace
+    games-config-options
+    configure-toolbars
 categories
     xapp-prefs-behavior
+    gnome-control-center
 status
     aptdaemon-setup
+    extensions-sync-preferences
+apps
+    preferences-tweaks-anim
+    systemsettings
+    awn-settings
+    kmix
+    preferences-gtk-config
+    lightdm-settings
+    gnome-tweak
+    org.gnome.Tweak
+    org.gnome.tweaks.desktop
+    gnome-tweak-tool
+    org.gnome.tweaks
+    mate-brightness-applet
+    preferences-tweaks-cerbere
+    settings-alt3
+    system-run
+    settings
+    mixxx
+    org.gnome.Settings
+    org.gnome.tweak
+    settings-alt1
+    gnome-control-center
+    settings-app
+    preferences-tweaks-shadows
+    gnome-tweaks
+    gnome-system
+    display-brightness
+    mixxx-icon
+    preferences-system-brightness-lock
+    tweaks-app
+    org.gnome.settings
+    settings-alt2
+    org.gnome.TweakTool
+    streamtuner2
+    beryl-settings
+    system-settings
+    utilities-tweak-tool
+    brightnesssettings
+    streamtuner
+    breeze-settings
+    preferences-desktop-tweaks
+    wmtweaks
